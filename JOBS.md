@@ -1,8 +1,10 @@
-# Job Radar — 3 entry-level + 47 other SWE roles
+# Job Radar — 50 roles you can apply to
 
-_Auto-pulled from Greenhouse / Lever / Ashby public APIs across 13 sponsor-friendly companies. Newest first; roles older than 60 days dropped. Edit `companies.txt` to change targets._
+_Auto-pulled from Greenhouse / Lever / Ashby public APIs across 13 sponsor-friendly companies. Non-senior US software-engineering roles, newest first; older than 60 days dropped. Edit `companies.txt` to add companies._
 
-## 🎓 Entry-Level & New Grad
+## 🎓 Explicitly Entry-Level / New Grad (3)
+
+_Titles that literally say New Grad / Entry / Junior / Engineer I. These are seasonal (peak Aug–Oct), so this list is often short._
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -10,7 +12,9 @@ _Auto-pulled from Greenhouse / Lever / Ashby public APIs across 13 sponsor-frien
 | Notion | Software Engineer, Early Career (AI) | San Francisco, California | 27d ago | [apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) |
 | Notion | Software Engineer, Early Career | San Francisco, California | 27d ago | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
 
-<details><summary>💻 Other software-engineering roles (47) — non-senior, no explicit entry tag</summary>
+## 💻 Software Engineer — apply to these too (47)
+
+_Non-senior SWE roles with no level in the title. A new grad applies to these — this is your main pile._
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -61,5 +65,3 @@ _Auto-pulled from Greenhouse / Lever / Ashby public APIs across 13 sponsor-frien
 | Notion | Software Engineer, Product Analytics Platform | San Francisco, California | 37d ago | [apply](https://jobs.ashbyhq.com/notion/53fb4637-d1d6-4411-8a87-52865db5a11c) |
 | Notion | Software Engineer, AI Security | San Francisco, California | 54d ago | [apply](https://jobs.ashbyhq.com/notion/def3f337-5593-491c-b34d-e0b53f2a5cac) |
 | Ramp | Software Engineer, Onboarding | New York, NY (HQ) | 55d ago | [apply](https://jobs.ashbyhq.com/ramp/f1b3ca8d-d55f-4159-9a3b-f69ad0d981bc) |
-
-</details>

@@ -197,17 +197,21 @@ def main():
     entry_rows.sort(key=by_age)
     other_rows.sort(key=by_age)
 
+    total = len(entry_rows) + len(other_rows)
     lines = [
-        f"# Job Radar — {len(entry_rows)} entry-level + {len(other_rows)} other SWE roles",
+        f"# Job Radar — {total} roles you can apply to",
         f"\n_Auto-pulled from Greenhouse / Lever / Ashby public APIs across {ok} "
-        f"sponsor-friendly companies. Newest first; roles older than "
-        f"{MAX_AGE_DAYS} days dropped. Edit `companies.txt` to change targets._\n",
-        "## 🎓 Entry-Level & New Grad\n",
-        table(entry_rows) if entry_rows else "_None right now — check the section below._",
-        "\n<details><summary>💻 Other software-engineering roles "
-        f"({len(other_rows)}) — non-senior, no explicit entry tag</summary>\n",
+        f"sponsor-friendly companies. Non-senior US software-engineering roles, "
+        f"newest first; older than {MAX_AGE_DAYS} days dropped. "
+        f"Edit `companies.txt` to add companies._\n",
+        f"## 🎓 Explicitly Entry-Level / New Grad ({len(entry_rows)})\n",
+        "_Titles that literally say New Grad / Entry / Junior / Engineer I. "
+        "These are seasonal (peak Aug–Oct), so this list is often short._\n",
+        table(entry_rows) if entry_rows else "_None titled that way right now._",
+        f"\n## 💻 Software Engineer — apply to these too ({len(other_rows)})\n",
+        "_Non-senior SWE roles with no level in the title. A new grad applies "
+        "to these — this is your main pile._\n",
         table(other_rows) if other_rows else "_None._",
-        "\n</details>",
     ]
     if failed:
         lines += ["\n<details><summary>Boards that failed (fix the slug in "
