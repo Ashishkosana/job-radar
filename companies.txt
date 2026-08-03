@@ -1,21 +1,56 @@
 # My target companies. One per line:  <ats>  <slug>  <Display Name>
-# ats = greenhouse | lever | ashby
-# slug = the token in their careers URL (e.g. boards.greenhouse.io/<slug>)
-# Lines starting with # are ignored. Edit freely — this is YOUR list.
-#
-# Seeded with well-known sponsor-friendly companies. Some slugs may be wrong —
-# radar.py reports which ones 404 so you can fix them.
+# ats = greenhouse | lever | ashby ; slug = token in the careers URL.
+# All slugs below verified live against the ATS API. Add more freely —
+# radar.py reports any slug that 404s so you can fix it.
 
-greenhouse  stripe        Stripe
-greenhouse  databricks    Databricks
-greenhouse  coinbase      Coinbase
-greenhouse  dropbox       Dropbox
-greenhouse  robinhood     Robinhood
-greenhouse  instacart     Instacart
-greenhouse  pinterest     Pinterest
-greenhouse  reddit        Reddit
-greenhouse  discord       Discord
-greenhouse  gitlab        GitLab
-greenhouse  affirm        Affirm
-ashby       ramp          Ramp
-ashby       notion        Notion
+ashby       baseten          Baseten
+ashby       cohere           Cohere
+ashby       linear           Linear
+ashby       modal            Modal
+ashby       notion           Notion
+ashby       openai           OpenAI
+ashby       posthog          PostHog
+ashby       ramp             Ramp
+ashby       replit           Replit
+ashby       runway           Runway
+ashby       vanta            Vanta
+ashby       watershed        Watershed
+greenhouse  affirm           Affirm
+greenhouse  airbnb           Airbnb
+greenhouse  anthropic        Anthropic
+greenhouse  asana            Asana
+greenhouse  betterment       Betterment
+greenhouse  block            Block
+greenhouse  brex             Brex
+greenhouse  chime            Chime
+greenhouse  cloudflare       Cloudflare
+greenhouse  coinbase         Coinbase
+greenhouse  databricks       Databricks
+greenhouse  datadog          Datadog
+greenhouse  discord          Discord
+greenhouse  dropbox          Dropbox
+greenhouse  faire            Faire
+greenhouse  figma            Figma
+greenhouse  flexport         Flexport
+greenhouse  gemini           Gemini
+greenhouse  gitlab           GitLab
+greenhouse  gusto            Gusto
+greenhouse  instacart        Instacart
+greenhouse  life360          Life360
+greenhouse  lyft             Lyft
+greenhouse  mongodb          MongoDB
+greenhouse  nextdoor         Nextdoor
+greenhouse  nuro             Nuro
+greenhouse  pinterest        Pinterest
+greenhouse  reddit           Reddit
+greenhouse  robinhood        Robinhood
+greenhouse  roblox           Roblox
+greenhouse  samsara          Samsara
+greenhouse  scaleai          Scale AI
+greenhouse  sofi             SoFi
+greenhouse  stripe           Stripe
+greenhouse  twilio           Twilio
+greenhouse  vercel           Vercel
+greenhouse  webflow          Webflow
+lever       palantir         Palantir
+lever       spotify          Spotify
