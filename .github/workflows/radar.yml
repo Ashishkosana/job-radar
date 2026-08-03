@@ -1,0 +1,37 @@
+name: Job Radar
+
+# Pulls fresh openings from my target companies' ATS boards every morning and
+# commits the updated JOBS.md. Runs daily, on demand, or when I edit the target
+# list. No secrets needed — the ATS APIs are public.
+on:
+  schedule:
+    - cron: "0 13 * * 1-5"   # 6am America/Phoenix, weekdays
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["companies.txt", "radar.py"]
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pull fresh roles
+        run: python radar.py
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain JOBS.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add JOBS.md
+            git commit -m "chore: refresh job radar"
+            git push
+          else
+            echo "No new roles."
+          fi

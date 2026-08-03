@@ -1,0 +1,21 @@
+# My target companies. One per line:  <ats>  <slug>  <Display Name>
+# ats = greenhouse | lever | ashby
+# slug = the token in their careers URL (e.g. boards.greenhouse.io/<slug>)
+# Lines starting with # are ignored. Edit freely — this is YOUR list.
+#
+# Seeded with well-known sponsor-friendly companies. Some slugs may be wrong —
+# radar.py reports which ones 404 so you can fix them.
+
+greenhouse  stripe        Stripe
+greenhouse  databricks    Databricks
+greenhouse  coinbase      Coinbase
+greenhouse  dropbox       Dropbox
+greenhouse  robinhood     Robinhood
+greenhouse  instacart     Instacart
+greenhouse  pinterest     Pinterest
+greenhouse  reddit        Reddit
+greenhouse  discord       Discord
+greenhouse  gitlab        GitLab
+greenhouse  affirm        Affirm
+ashby       ramp          Ramp
+ashby       notion        Notion
