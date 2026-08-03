@@ -52,9 +52,11 @@ JUNIOR = re.compile(
 
 # ---- location: US / US-remote only ----
 NON_US = re.compile(
-    r"\b(canada|poland|spain|india|brazil|germany|uk|ireland|mexico|"
+    r"(\b(canada|poland|spain|india|brazil|germany|uk|ireland|mexico|"
     r"portugal|netherlands|france|australia|singapore|japan|israel|"
-    r"emea|apac|latam|europe)\b", re.I)
+    r"toronto|ontario|vancouver|montreal|quebec|alberta|british\s+columbia|"
+    r"emea|apac|latam|europe)\b|,\s*(ON|BC|QC|AB)\s*,?\s*CA\b|,\s*CA\b(?=nada))",
+    re.I)
 US_OK = re.compile(r"\b(united states|usa|u\.s\.|remote|us[\s-]|, [A-Z]{2}\b|"
                    r"new york|san francisco|seattle|austin|boston|chicago|"
                    r"tempe|phoenix|arizona|texas|california|washington)\b", re.I)
