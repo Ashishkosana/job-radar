@@ -24,29 +24,29 @@ _Non-senior SWE roles with no level in the title. A new grad applies to these â€
 | Discord | Software Engineer, Distributed Systems | San Francisco Bay Area | 2d ago | [apply](https://job-boards.greenhouse.io/discord/jobs/8545663002) |
 | Discord | Software Engineer, Notifications | San Francisco Bay Area | 2d ago | [apply](https://job-boards.greenhouse.io/discord/jobs/8642220002) |
 | Coinbase | Software Engineer, Developer Infrastructure | Remote - USA | 3d ago | [apply](https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068) |
-| Ramp | Software Engineer, GTM Platform | San Francisco, CA | 4d ago | [apply](https://jobs.ashbyhq.com/ramp/dbc6e470-3ec3-4605-b511-8ae166fea7b9) |
 | Robinhood | Software Engineer, Backend | Menlo Park, CA; New York, NY | 5d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) |
 | Pinterest | Software Engineer, iOS | Toronto, ON, CA | 5d ago | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=6922682) |
-| Stripe | Backend Engineer, Core Technology | US-Remote, Chicago, Seattle, San Francisco | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=6042172) |
-| Stripe | Backend Engineer, Credit Decisions | Chicago, IL  | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=8084195) |
-| Stripe | Full Stack Engineer, Link | New York, New York | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=8062305) |
-| Stripe | Fullstack Engineer, Privy | NYC-Privy, US-Remote  | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=7091959) |
-| Stripe | Infrastructure Engineer, Privy | New York | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=7462961) |
-| Stripe | Software Engineer | Seattle, WA | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=7922832) |
-| Stripe | Software Engineer | Seattle  | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=7991636) |
-| Stripe | Software Engineer | New York, NY | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=8009143) |
-| Stripe | Software Engineer, Bridge | San Francisco, NY, Seattle | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=7277110) |
-| Stripe | Software Engineer - Full Stack | South San Francisco, California | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=8084193) |
-| Stripe | Software Engineer, Optimized Checkout & Link | US Remote | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=8075469) |
-| Stripe | Software Engineer, Product Security Data Platforms | Seattle | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=8039800) |
-| Stripe | Software Engineer, Product Security Data Platforms | Seattle | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=7761694) |
-| Stripe | Software Engineer - Smart Contract, Bridge | San Francisco or New York | 6d ago | [apply](https://stripe.com/jobs/search?gh_jid=7507904) |
+| Ramp | Software Engineer, GTM Platform | San Francisco, CA | 5d ago | [apply](https://jobs.ashbyhq.com/ramp/dbc6e470-3ec3-4605-b511-8ae166fea7b9) |
+| Stripe | Backend Engineer, Core Technology | US-Remote, Chicago, Seattle, San Francisco | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=6042172) |
+| Stripe | Backend Engineer, Credit Decisions | Chicago, IL  | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8084195) |
+| Stripe | Full Stack Engineer, Link | New York, New York | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8062305) |
+| Stripe | Fullstack Engineer, Privy | NYC-Privy, US-Remote  | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7091959) |
+| Stripe | Infrastructure Engineer, Privy | New York | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7462961) |
+| Stripe | Software Engineer | Seattle  | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7991636) |
+| Stripe | Software Engineer | Seattle, WA | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7922832) |
+| Stripe | Software Engineer | New York, NY | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8009143) |
+| Stripe | Software Engineer, Bridge | San Francisco, NY, Seattle | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7277110) |
+| Stripe | Software Engineer - Full Stack | South San Francisco, California | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8084193) |
+| Stripe | Software Engineer, Optimized Checkout & Link | US Remote | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8075469) |
+| Stripe | Software Engineer, Product Security Data Platforms | Seattle | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8039800) |
+| Stripe | Software Engineer, Product Security Data Platforms | Seattle | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7761694) |
+| Stripe | Software Engineer - Smart Contract, Bridge | San Francisco or New York | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7507904) |
 | Databricks | Software Engineer - GenAI inference | San Francisco, California | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002) |
 | Databricks | Software Engineer, Web Products | Mountain View, California | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002) |
 | Databricks | Software Engineer, Web Products | Mountain View, California | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002) |
-| Databricks | Systems PhD - Software Engineer | Mountain View, California; San Francisco, California | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002) |
 | Databricks | Systems PhD - Software Engineer | Bellevue, Washington; Seattle, Washington | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002) |
-| Notion | Software Engineer, AI Platform | San Francisco, California | 19d ago | [apply](https://jobs.ashbyhq.com/notion/a9d4a192-d31c-48d2-8156-e2a75d98eec1) |
+| Databricks | Systems PhD - Software Engineer | Mountain View, California; San Francisco, California | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002) |
+| Notion | Software Engineer, AI Platform | San Francisco, California | 20d ago | [apply](https://jobs.ashbyhq.com/notion/a9d4a192-d31c-48d2-8156-e2a75d98eec1) |
 | Reddit | Backend Engineer, Moderation Enforcement | Remote - United States | 23d ago | [apply](https://job-boards.greenhouse.io/reddit/jobs/7922994) |
 | Robinhood | Full Stack Software Engineer, Credit Cards & Banking | Bellevue, WA; Menlo Park, CA; New York, NY | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723) |
 | Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550) |
@@ -58,7 +58,7 @@ _Non-senior SWE roles with no level in the title. A new grad applies to these â€
 | Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507) |
 | Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975549?t=gh_src=&gh_jid=7975549) |
 | Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557) |
-| Reddit | Software Engineer - Data Movement Platform | Remote - United States | 33d ago | [apply](https://job-boards.greenhouse.io/reddit/jobs/7997866) |
+| Reddit | Software Engineer - Data Movement Platform | Remote - United States | 34d ago | [apply](https://job-boards.greenhouse.io/reddit/jobs/7997866) |
 | Ramp | Software Engineer, Developer API | New York, NY (HQ) | 34d ago | [apply](https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138) |
 | Coinbase | Software Engineer | Charlotte, NC | 37d ago | [apply](https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605) |
 | Coinbase | Software Engineer - Salesforce Platform (EAA) | Remote - USA | 37d ago | [apply](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
