@@ -9,8 +9,8 @@ _Auto-pulled from Greenhouse / Lever / Ashby public APIs. Edit `companies.txt` t
 | Coinbase | Software Engineer - Salesforce Platform (EAA) | Remote - USA | [apply](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
 | Coinbase | Software Engineer, Developer Infrastructure | Remote - USA | [apply](https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068) |
 | Databricks | Software Engineer - GenAI inference  | San Francisco, California | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002) |
-| Databricks | Software Engineer, Web Products | Mountain View, California | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002) |
 | Databricks | Software Engineer, Web Products | Mountain View, California | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002) |
+| Databricks | Software Engineer, Web Products | Mountain View, California | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002) |
 | Databricks | Systems PhD - Software Engineer  | Mountain View, California; San Francisco, California | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002) |
 | Databricks | Systems PhD - Software Engineer  | Bellevue, Washington; Seattle, Washington | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002) |
 | Discord | Associate Product Counsel, Safety | San Francisco Bay Area | [apply](https://job-boards.greenhouse.io/discord/jobs/8625545002) |
@@ -81,13 +81,13 @@ _Auto-pulled from Greenhouse / Lever / Ashby public APIs. Edit `companies.txt` t
 | Robinhood | Salesforce Applications Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/8044173?t=gh_src=&gh_jid=8044173) |
 | Robinhood | Software Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550) |
 | Robinhood | Software Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7975558?t=gh_src=&gh_jid=7975558) |
+| Robinhood | Software Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557) |
+| Robinhood | Software Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7975549?t=gh_src=&gh_jid=7975549) |
 | Robinhood | Software Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7975531?t=gh_src=&gh_jid=7975531) |
 | Robinhood | Software Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530) |
 | Robinhood | Software Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7975529?t=gh_src=&gh_jid=7975529) |
 | Robinhood | Software Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7975526?t=gh_src=&gh_jid=7975526) |
 | Robinhood | Software Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507) |
-| Robinhood | Software Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7975549?t=gh_src=&gh_jid=7975549) |
-| Robinhood | Software Engineer | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557) |
 | Robinhood | Software Engineer, Backend | Menlo Park, CA; New York, NY | [apply](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) |
 | Robinhood | iOS Engineer, Government Products | New York, NY | [apply](https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980) |
 | Robinhood | iOS Engineer, Money Experience | Menlo Park, CA | [apply](https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027) |
@@ -103,9 +103,9 @@ _Auto-pulled from Greenhouse / Lever / Ashby public APIs. Edit `companies.txt` t
 | Stripe | Infrastructure Engineer, Privy | New York | [apply](https://stripe.com/jobs/search?gh_jid=7462961) |
 | Stripe | Integration Engineer (Chicago)  | Chicago | [apply](https://stripe.com/jobs/search?gh_jid=7819426) |
 | Stripe | Risk Strategist, Platform Risk Strategy | Chicago, US-Remote, Toronto  | [apply](https://stripe.com/jobs/search?gh_jid=7811937) |
-| Stripe | Software Engineer | Seattle, WA | [apply](https://stripe.com/jobs/search?gh_jid=7922832) |
-| Stripe | Software Engineer | Seattle  | [apply](https://stripe.com/jobs/search?gh_jid=7991636) |
 | Stripe | Software Engineer | New York, NY | [apply](https://stripe.com/jobs/search?gh_jid=8009143) |
+| Stripe | Software Engineer | Seattle  | [apply](https://stripe.com/jobs/search?gh_jid=7991636) |
+| Stripe | Software Engineer | Seattle, WA | [apply](https://stripe.com/jobs/search?gh_jid=7922832) |
 | Stripe | Software Engineer - Full Stack | South San Francisco, California | [apply](https://stripe.com/jobs/search?gh_jid=8084193) |
 | Stripe | Software Engineer - Infrastructure | Seattle, WA | [apply](https://stripe.com/jobs/search?gh_jid=8099239) |
 | Stripe | Software Engineer - Smart Contract, Bridge | San Francisco or New York | [apply](https://stripe.com/jobs/search?gh_jid=7507904) |
