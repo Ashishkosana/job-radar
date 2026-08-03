@@ -1,10 +1,15 @@
-"""Job radar — pull fresh openings from company ATS boards into one Markdown file.
+"""Job radar — pull fresh SWE openings from company ATS boards into one shortlist.
 
 There is no universal "all jobs" firehose: LinkedIn/Indeed block scraping. But
 Greenhouse, Lever, and Ashby each expose a FREE public JSON board API. So the
-model here is: a curated company list (companies.txt) x its ATS API. For each
-target company we fetch live postings, keep the ones that look like roles I'd
-apply to, and write a dated shortlist to JOBS.md.
+model is: a curated company list (companies.txt) x its ATS API. For each target
+company we fetch live postings, keep genuine software-engineering roles, tag the
+entry-level ones, attach a posted date, and write a dated shortlist to JOBS.md.
+
+Layout mirrors the top new-grad repos (SimplifyJobs style):
+  - Entry-level / new-grad roles surfaced FIRST (that's what to apply to).
+  - Every row shows Company | Role | Location | Posted (age) | Link.
+  - Sorted newest-first; stale roles (> MAX_AGE_DAYS) dropped.
 
 Runs locally (`python radar.py`) or in a GitHub Action on a daily cron.
 No auth, no keys, no scraping — just three documented public endpoints.
@@ -16,25 +21,36 @@ import re
 import sys
 import urllib.error
 import urllib.request
+from datetime import datetime, timezone
 
 COMPANIES = "companies.txt"
 OUT = "JOBS.md"
+MAX_AGE_DAYS = 60          # drop anything older than this (stale)
+NOW = datetime.now(timezone.utc)
 
-# A role is "relevant" if its title matches these — tuned for new-grad backend/
-# full-stack SWE. Widen or narrow to taste.
-KEEP = re.compile(
-    r"\b(software|backend|back-end|full[\s-]?stack|platform|infrastructure|"
-    r"distributed|api|new\s?grad|graduate|early\s?career|associate|"
-    r"junior|entry|swe|developer|engineer)\b", re.I)
-# Drop senior/managerial/non-eng noise even if "engineer" appears.
+# ---- what counts as a software-engineering role (precise, not "any engineer") ----
+ROLE = re.compile(
+    r"\b(software\s+engineer|software\s+developer|"
+    r"software\s+development\s+engineer|back[\s-]?end\s+engineer|"
+    r"front[\s-]?end\s+engineer|full[\s-]?stack\s+(engineer|developer)|"
+    r"web\s+developer|application\s+developer|platform\s+engineer|"
+    r"infrastructure\s+engineer|programmer|swe|sde)\b", re.I)
+# Drop senior/managerial/specialist noise even if it looks like a SWE role.
 DROP = re.compile(
     r"(\b(senior|staff|principal|lead|manager|director|head\s+of|vp|"
-    r"machine\s?learning|ml|data\s?scien|security|sales|marketing|"
-    r"business\s+development|solutions\s+(engineer|architect)|partner\s+engineer|"
-    r"forward\s+deployed|service\s+desk|analytics|recruit|designer|"
-    r"II|III|IV|L[4-9])\b|\bsr\b)", re.I)
-# Keep US / US-remote only. First reject anything naming a foreign location
-# (so "Remote Poland" / "Remote - India" get dropped), then require a US signal.
+    r"solutions\s+(engineer|architect)|forward\s+deployed|sales|marketing|"
+    r"recruit|II|III|IV|L[4-9])\b|\bsr\b)", re.I)
+
+# ---- entry-level tiers (be specific, like the user asked) ----
+NEWGRAD = re.compile(
+    r"\b(new\s?grad|graduate|university\s?grad|campus|early\s?career|"
+    r"entry[\s-]?level|university)\b", re.I)
+JUNIOR = re.compile(
+    r"\b(junior|jr\.?|associate\s+(software|engineer)|"
+    r"software\s+engineer\s+i\b|engineer\s+i\b|sde\s?(1|i)\b|"
+    r"level\s?1|entry)\b", re.I)
+
+# ---- location: US / US-remote only ----
 NON_US = re.compile(
     r"\b(canada|poland|spain|india|brazil|germany|uk|ireland|mexico|"
     r"portugal|netherlands|france|australia|singapore|japan|israel|"
@@ -50,32 +66,63 @@ def get(url: str):
         return json.loads(r.read())
 
 
-def relevant(title: str, loc: str) -> bool:
-    if not KEEP.search(title) or DROP.search(title):
-        return False
+def parse_dt(v):
+    """ATS dates come as ISO strings (Greenhouse/Ashby) or epoch ms (Lever)."""
+    if v is None:
+        return None
+    if isinstance(v, (int, float)):
+        return datetime.fromtimestamp(v / 1000, tz=timezone.utc)
+    s = str(v).strip()
+    if not s:
+        return None
+    try:
+        dt = datetime.fromisoformat(s.replace("Z", "+00:00"))
+        return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+    except ValueError:
+        return None
+
+
+def tier(title: str) -> str | None:
+    """'newgrad' / 'entry' for junior roles, None for general (non-senior) SWE."""
+    if NEWGRAD.search(title):
+        return "newgrad"
+    if JUNIOR.search(title):
+        return "entry"
+    return None
+
+
+def is_swe(title: str) -> bool:
+    return bool(ROLE.search(title)) and not DROP.search(title)
+
+
+def in_us(loc: str) -> bool:
     if NON_US.search(loc or ""):
         return False
     return US_OK.search(loc or "") is not None or loc == ""
 
 
-# ---- one fetcher per ATS: each returns a list of {title, loc, url} ----
+# ---- one fetcher per ATS: each returns [{title, loc, url, posted}] ----
 def greenhouse(slug: str):
     d = get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=false")
     return [{"title": j["title"], "loc": (j.get("location") or {}).get("name", ""),
-             "url": j["absolute_url"]} for j in d.get("jobs", [])]
+             "url": j["absolute_url"], "posted": parse_dt(j.get("updated_at"))}
+            for j in d.get("jobs", [])]
 
 
 def lever(slug: str):
     d = get(f"https://api.lever.co/v0/postings/{slug}?mode=json")
     return [{"title": j["text"],
              "loc": (j.get("categories") or {}).get("location", ""),
-             "url": j["hostedUrl"]} for j in d]
+             "url": j["hostedUrl"], "posted": parse_dt(j.get("createdAt"))}
+            for j in d]
 
 
 def ashby(slug: str):
     d = get(f"https://api.ashbyhq.com/posting-api/job-board/{slug}")
     return [{"title": j["title"], "loc": j.get("location", ""),
-             "url": j["jobUrl"]} for j in d.get("jobs", [])]
+             "url": j["jobUrl"],
+             "posted": parse_dt(j.get("publishedAt") or j.get("updatedAt"))}
+            for j in d.get("jobs", [])]
 
 
 FETCH = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby}
@@ -91,16 +138,34 @@ def load_companies():
             parts = line.split(None, 2)
             if len(parts) < 2:
                 continue
-            ats, slug = parts[0], parts[1]
-            name = parts[2] if len(parts) > 2 else slug
-            out.append((ats, slug, name))
+            out.append((parts[0], parts[1], parts[2] if len(parts) > 2 else parts[1]))
     return out
 
 
+def age_days(posted):
+    return None if posted is None else (NOW - posted).days
+
+
+def age_str(days):
+    if days is None:
+        return "—"
+    if days <= 0:
+        return "today"
+    return f"{days}d ago"
+
+
+def table(rows):
+    """rows: [(company, title, loc, days, url)] already sorted."""
+    out = ["| Company | Role | Location | Posted | Link |", "|---|---|---|---|---|"]
+    for co, title, loc, days, url in rows:
+        loc = (loc or "").replace("|", "/")
+        out.append(f"| {co} | {title} | {loc} | {age_str(days)} | [apply]({url}) |")
+    return "\n".join(out)
+
+
 def main():
-    companies = load_companies()
-    rows, ok, failed = [], 0, []
-    for ats, slug, name in companies:
+    entry_rows, other_rows, failed, ok = [], [], [], 0
+    for ats, slug, name in load_companies():
         fetch = FETCH.get(ats)
         if not fetch:
             failed.append(f"{name} (unknown ats '{ats}')")
@@ -114,31 +179,47 @@ def main():
             failed.append(f"{name} ({type(e).__name__})")
             continue
         ok += 1
-        hits = [j for j in jobs if relevant(j["title"], j["loc"])]
-        for j in hits:
-            rows.append((name, j["title"], j["loc"], j["url"]))
-        print(f"  {name:14} {len(hits):3} relevant / {len(jobs)} total")
+        kept = 0
+        for j in jobs:
+            if not is_swe(j["title"]) or not in_us(j["loc"]):
+                continue
+            days = age_days(j["posted"])
+            if days is not None and days > MAX_AGE_DAYS:
+                continue
+            row = (name, j["title"].strip(), j["loc"], days, j["url"])
+            (entry_rows if tier(j["title"]) else other_rows).append(row)
+            kept += 1
+        print(f"  {name:14} {kept:3} kept / {len(jobs)} total")
 
-    rows.sort(key=lambda r: (r[0], r[1]))
-    lines = [f"# Job Radar — {len(rows)} matching roles across {ok} companies\n",
-             "_Auto-pulled from Greenhouse / Lever / Ashby public APIs. "
-             "Edit `companies.txt` to change targets._\n",
-             "| Company | Role | Location | Link |",
-             "|---|---|---|---|"]
-    for name, title, loc, url in rows:
-        loc = (loc or "").replace("|", "/")
-        lines.append(f"| {name} | {title} | {loc} | [apply]({url}) |")
+    # newest first; unknown dates sink to the bottom
+    key = lambda r: (r[3] is None, r[3] if r[3] is not None else 10**9)
+    entry_rows.sort(key=key)
+    other_rows.sort(key=key)
+
+    lines = [
+        f"# Job Radar — {len(entry_rows)} entry-level + {len(other_rows)} other SWE roles",
+        f"\n_Auto-pulled from Greenhouse / Lever / Ashby public APIs across {ok} "
+        f"sponsor-friendly companies. Newest first; roles older than "
+        f"{MAX_AGE_DAYS} days dropped. Edit `companies.txt` to change targets._\n",
+        "## 🎓 Entry-Level & New Grad\n",
+        table(entry_rows) if entry_rows else "_None right now — check the section below._",
+        "\n<details><summary>💻 Other software-engineering roles "
+        f"({len(other_rows)}) — non-senior, no explicit entry tag</summary>\n",
+        table(other_rows) if other_rows else "_None._",
+        "\n</details>",
+    ]
     if failed:
-        lines += ["", "<details><summary>Boards that failed (fix the slug in "
-                  "companies.txt)</summary>", ""]
+        lines += ["\n<details><summary>Boards that failed (fix the slug in "
+                  "companies.txt)</summary>\n"]
         lines += [f"- {f}" for f in failed]
-        lines += ["</details>"]
+        lines += ["\n</details>"]
 
     with open(OUT, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
-    print(f"\nwrote {OUT}: {len(rows)} roles, {ok} boards ok, {len(failed)} failed")
-    if not rows and ok == 0:
-        sys.exit(1)  # every board failed — surface it in CI
+    print(f"\nwrote {OUT}: {len(entry_rows)} entry + {len(other_rows)} other, "
+          f"{ok} boards ok, {len(failed)} failed")
+    if ok == 0:
+        sys.exit(1)
 
 
 if __name__ == "__main__":
