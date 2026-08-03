@@ -21,8 +21,8 @@ _Non-senior SWE roles with no level in the title. A new grad applies to these â€
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| MongoDB | Software Engineer 3 | New York City | today | [apply](https://www.mongodb.com/careers/job/?gh_jid=8083761) |
 | MongoDB | Software Engineer 3 | New York City | today | [apply](https://www.mongodb.com/careers/job/?gh_jid=8015792) |
+| MongoDB | Software Engineer 3 | New York City | today | [apply](https://www.mongodb.com/careers/job/?gh_jid=8083761) |
 | MongoDB | Software Engineer 3, Atlas Identity and Access Management | New York City | today | [apply](https://www.mongodb.com/careers/job/?gh_jid=8069776) |
 | MongoDB | Software Engineer 3, Atlas Search Systems | San Francisco | today | [apply](https://www.mongodb.com/careers/job/?gh_jid=7523920) |
 | MongoDB | Software Engineer 3, Atlas Vector Search | San Francisco | today | [apply](https://www.mongodb.com/careers/job/?gh_jid=7523911) |
@@ -42,15 +42,14 @@ _Non-senior SWE roles with no level in the title. A new grad applies to these â€
 | OpenAI | Software Engineer, API Agents | San Francisco | 2d ago | [apply](https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda) |
 | Asana | Software Engineer | New York City | 2d ago | [apply](https://www.asana.com/jobs/apply/7961475?gh_jid=7961475) |
 | Asana | Software Engineer, AI Developer Experience | New York City | 2d ago | [apply](https://www.asana.com/jobs/apply/7964275?gh_jid=7964275) |
-| Block | Software Engineer, Cash App - Lending Products | Bay Area, CA, United States of America | 2d ago | [apply](http://block.xyz/careers/jobs/5196173008?gh_jid=5196173008) |
 | Block | Software Engineer, Cash App - Lending Products | New York, NY, United States of America | 2d ago | [apply](http://block.xyz/careers/jobs/5201726008?gh_jid=5201726008) |
+| Block | Software Engineer, Cash App - Lending Products | Bay Area, CA, United States of America | 2d ago | [apply](http://block.xyz/careers/jobs/5196173008?gh_jid=5196173008) |
 | Block | Software Engineer, Reconciliation & Reporting | Bay Area, CA, United States of America | 2d ago | [apply](http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008) |
 | Nuro | Software Engineer, Routing | Mountain View, California (HQ) | 2d ago | [apply](https://nuro.ai/careersitem?gh_jid=7482347) |
 | Scale AI | Software Engineer, Gen AI | San Francisco, CA; New York, NY | 2d ago | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4591300005) |
 | Twilio | Software Engineer (L2) | Remote - US | 2d ago | [apply](https://job-boards.greenhouse.io/twilio/jobs/8100236) |
 | Twilio | Software Engineer (L2) Email | Remote - US | 2d ago | [apply](https://job-boards.greenhouse.io/twilio/jobs/7689461) |
 | Airbnb | Software Engineer, Community Support Engineering | San Francisco, CA | 3d ago | [apply](https://careers.airbnb.com/positions/8097917?gh_jid=8097917) |
-| Chime | Full-Stack Engineer, Human Agent Tooling | San Francisco, CA, USA | 3d ago | [apply](https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002) |
 | Coinbase | Software Engineer, Developer Infrastructure | Remote - USA | 3d ago | [apply](https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068) |
 | Discord | Software Engineer, Data Platform | San Francisco Bay Area | 3d ago | [apply](https://job-boards.greenhouse.io/discord/jobs/8396927002) |
 | Discord | Software Engineer, Developer Success | San Francisco Bay Area | 3d ago | [apply](https://job-boards.greenhouse.io/discord/jobs/8609250002) |
@@ -62,6 +61,7 @@ _Non-senior SWE roles with no level in the title. A new grad applies to these â€
 | Twilio | Software Engineer, Identity | Remote - US | 3d ago | [apply](https://job-boards.greenhouse.io/twilio/jobs/7605743) |
 | Twilio | Software Engineer (L2) | Remote - US | 3d ago | [apply](https://job-boards.greenhouse.io/twilio/jobs/8097672) |
 | Twilio | Software Engineer (L2) | Remote - US | 3d ago | [apply](https://job-boards.greenhouse.io/twilio/jobs/7946610) |
+| Chime | Full-Stack Engineer, Human Agent Tooling | San Francisco, CA, USA | 4d ago | [apply](https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002) |
 | Chime | Software Engineer, Lending | San Francisco, CA, USA | 4d ago | [apply](https://boards.greenhouse.io/chime/jobs/8657011002?gh_jid=8657011002) |
 | OpenAI | Software Engineer, Enterprise Verticals | San Francisco | 5d ago | [apply](https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8) |
 | Ramp | Software Engineer, GTM Platform | San Francisco, CA | 5d ago | [apply](https://jobs.ashbyhq.com/ramp/dbc6e470-3ec3-4605-b511-8ae166fea7b9) |
@@ -74,22 +74,22 @@ _Non-senior SWE roles with no level in the title. A new grad applies to these â€
 | Stripe | Full Stack Engineer, Link | New York, New York | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8062305) |
 | Stripe | Fullstack Engineer, Privy | NYC-Privy, US-Remote  | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7091959) |
 | Stripe | Infrastructure Engineer, Privy | New York | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7462961) |
-| Stripe | Software Engineer | New York, NY | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8009143) |
 | Stripe | Software Engineer | Seattle  | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7991636) |
+| Stripe | Software Engineer | New York, NY | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8009143) |
 | Stripe | Software Engineer | Seattle, WA | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7922832) |
 | Stripe | Software Engineer, Bridge | San Francisco, NY, Seattle | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7277110) |
 | Stripe | Software Engineer - Full Stack | South San Francisco, California | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8084193) |
 | Stripe | Software Engineer, Optimized Checkout & Link | US Remote | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8075469) |
-| Stripe | Software Engineer, Product Security Data Platforms | Seattle | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7761694) |
 | Stripe | Software Engineer, Product Security Data Platforms | Seattle | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=8039800) |
+| Stripe | Software Engineer, Product Security Data Platforms | Seattle | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7761694) |
 | Stripe | Software Engineer - Smart Contract, Bridge | San Francisco or New York | 7d ago | [apply](https://stripe.com/jobs/search?gh_jid=7507904) |
 | OpenAI | Software Engineer, GTM Growth Engineering | San Francisco | 9d ago | [apply](https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3) |
 | OpenAI | Applied AI Software Engineer, GTM Growth Engineering | San Francisco | 9d ago | [apply](https://jobs.ashbyhq.com/openai/38e3c4bf-a632-405e-9619-b87382ca2472) |
 | Databricks | Software Engineer - GenAI inference | San Francisco, California | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002) |
 | Databricks | Software Engineer, Web Products | Mountain View, California | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002) |
 | Databricks | Software Engineer, Web Products | Mountain View, California | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002) |
-| Databricks | Systems PhD - Software Engineer | Bellevue, Washington; Seattle, Washington | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002) |
 | Databricks | Systems PhD - Software Engineer | Mountain View, California; San Francisco, California | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002) |
+| Databricks | Systems PhD - Software Engineer | Bellevue, Washington; Seattle, Washington | 9d ago | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002) |
 | OpenAI | Software Engineer, Privacy Engineering (Lawful Access) | San Francisco | 10d ago | [apply](https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3) |
 | Anthropic | Full Stack Engineer, Education Labs | San Francisco, CA / New York City, NY | 10d ago | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5097186008) |
 | Twilio | Software Engineer L2 - Cloud Infrastructure | Remote - US | 10d ago | [apply](https://job-boards.greenhouse.io/twilio/jobs/7434770) |
@@ -165,15 +165,15 @@ _Non-senior SWE roles with no level in the title. A new grad applies to these â€
 | Reddit | Backend Engineer, Moderation Enforcement | Remote - United States | 23d ago | [apply](https://job-boards.greenhouse.io/reddit/jobs/7922994) |
 | OpenAI | Software Engineer, ChatGPT Shopping | San Francisco | 24d ago | [apply](https://jobs.ashbyhq.com/openai/ca54cd23-2bcc-4327-bcb6-46d81ed414a8) |
 | Robinhood | Full Stack Software Engineer, Credit Cards & Banking | Bellevue, WA; Menlo Park, CA; New York, NY | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723) |
-| Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530) |
-| Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975549?t=gh_src=&gh_jid=7975549) |
-| Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550) |
-| Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557) |
 | Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975558?t=gh_src=&gh_jid=7975558) |
+| Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557) |
+| Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550) |
+| Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975549?t=gh_src=&gh_jid=7975549) |
 | Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975531?t=gh_src=&gh_jid=7975531) |
+| Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530) |
+| Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507) |
 | Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975529?t=gh_src=&gh_jid=7975529) |
 | Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975526?t=gh_src=&gh_jid=7975526) |
-| Robinhood | Software Engineer | Menlo Park, CA | 24d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507) |
 | Scale AI | AI Infrastructure Engineer, Model Serving Platform | San Francisco, CA; New York, NY | 25d ago | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4520320005) |
 | Scale AI | Infrastructure Software Engineer, Enterprise GenAI | San Francisco, CA; New York, NY | 25d ago | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4665557005) |
 | Scale AI | Software Engineer, ARC Team | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | 25d ago | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4673771005) |
