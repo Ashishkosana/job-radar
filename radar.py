@@ -192,9 +192,10 @@ def main():
         print(f"  {name:14} {kept:3} kept / {len(jobs)} total")
 
     # newest first; unknown dates sink to the bottom
-    key = lambda r: (r[3] is None, r[3] if r[3] is not None else 10**9)
-    entry_rows.sort(key=key)
-    other_rows.sort(key=key)
+    def by_age(r):
+        return (r[3] is None, r[3] if r[3] is not None else 10**9)
+    entry_rows.sort(key=by_age)
+    other_rows.sort(key=by_age)
 
     lines = [
         f"# Job Radar — {len(entry_rows)} entry-level + {len(other_rows)} other SWE roles",
