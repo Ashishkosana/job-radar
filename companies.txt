@@ -54,3 +54,10 @@ greenhouse  vercel           Vercel
 greenhouse  webflow          Webflow
 lever       palantir         Palantir
 lever       spotify          Spotify
+
+# --- SmartRecruiters (verified live 2026-08-03) ---
+smartrecruiters Wise             Wise
+smartrecruiters ServiceTitan     ServiceTitan
+smartrecruiters Visa             Visa
+smartrecruiters Wayfair          Wayfair
+smartrecruiters WeWork           WeWork
