@@ -36,7 +36,8 @@ NOW = datetime.now(timezone.utc)
 # Community repos that publish a machine-readable listings.json (raw URLs).
 LISTINGS_JSON = {
     "SimplifyJobs": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
-    "vanshb03": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/.github/scripts/listings.json",
+    "vanshb03-2027": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/.github/scripts/listings.json",
+    "vanshb03-2026": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/.github/scripts/listings.json",
 }
 
 # ---- what counts as a software-engineering role ----
