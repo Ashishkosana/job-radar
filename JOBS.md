@@ -180,8 +180,8 @@ _Public Workday boards for large, consistent H-1B sponsors (Salesforce, NVIDIA, 
 
 | Company | Role | Location | Posted | Source | Link |
 |---|---|---|---|---|---|
-| NVIDIA | Systems Software Engineer - New College Grad 2026 | US, OR, Hillsboro | 3d ago | workday | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083) |
-| NVIDIA | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026 | US, CA, Santa, Clara | 17d ago | workday | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071) |
+| NVIDIA | Systems Software Engineer - New College Grad 2026 | US, OR, Hillsboro | 4d ago | workday | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083) |
+| NVIDIA | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026 | US, CA, Santa, Clara | 18d ago | workday | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071) |
 | NVIDIA | Software Engineer, TensorRT Specialized Platforms - New College Grad 2025 | US, CA, Santa Clara | 30d ago | workday | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870) |
 | NVIDIA | Software Engineer, Hardware Tools and Methodology - New College Grad 2026 | US, CA, Santa Clara | 30d ago | workday | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) |
 
@@ -193,7 +193,7 @@ _Public Workday boards for large, consistent H-1B sponsors (Salesforce, NVIDIA, 
 | PostHog | Backend Engineer | Remote | today | ashby | [apply](https://jobs.ashbyhq.com/posthog/1803b1de-d33b-4542-8e38-b6c4954cb789) |
 | Watershed | Software engineer, full-stack | San Francisco | today | ashby | [apply](https://jobs.ashbyhq.com/watershed/95adbc9d-2839-45a3-bf4f-d086251112f7) |
 | Coinbase | Software Engineer, Data Platform Team | Remote - USA | today | greenhouse | [apply](https://www.coinbase.com/careers/positions/8113286?gh_jid=8113286) |
-| MongoDB | Software Engineer 3 | New York City | today | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=8083761) |
+| MongoDB | Software Engineer 3 | New York City | today | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=8015792) |
 | MongoDB | Software Engineer 3, Atlas Identity and Access Management | New York City | today | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=8069776) |
 | MongoDB | Software Engineer 3, Atlas Search Systems | San Francisco | today | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=7523920) |
 | MongoDB | Software Engineer 3, Atlas Vector Search | San Francisco | today | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=7523911) |
@@ -212,12 +212,12 @@ _Public Workday boards for large, consistent H-1B sponsors (Salesforce, NVIDIA, 
 | Stripe | Full Stack Engineer, Link | New York, New York | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8062305) |
 | Stripe | Fullstack Engineer, Privy | NYC-Privy, US-Remote  | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7091959) |
 | Stripe | Infrastructure Engineer, Privy | New York | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7462961) |
-| Stripe | Software Engineer | New York, NY | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8009143) |
+| Stripe | Software Engineer | Seattle  | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7991636) |
 | Stripe | Software Engineer, Bridge | San Francisco, NY, Seattle | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7277110) |
 | Stripe | Software Engineer - Full Stack | South San Francisco, California | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8084193) |
 | Stripe | Software Engineer - Infrastructure | Seattle, WA | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8099239) |
 | Stripe | Software Engineer, Optimized Checkout & Link | US Remote | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8075469) |
-| Stripe | Software Engineer, Product Security Data Platforms | Seattle | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7761694) |
+| Stripe | Software Engineer, Product Security Data Platforms | Seattle | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8039800) |
 | Stripe | Software Engineer, Sending | South San Francisco, California | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8107302) |
 | Stripe | Software Engineer - Smart Contract, Bridge | San Francisco or New York | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7507904) |
 | Stripe | Software Engineer, Vulnerability Management | US - Remote | today | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8089353) |
@@ -245,7 +245,7 @@ _Public Workday boards for large, consistent H-1B sponsors (Salesforce, NVIDIA, 
 | OpenAI | Full-Stack Engineer, ChatGPT Education  & Learning | San Francisco | 2d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c) |
 | Anthropic | Software Engineer, ML Networking | San Francisco, CA / New York City, NY / Seattle, WA | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4926242008) |
 | Twilio | Software Engineer, Identity | Remote - US | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7605743) |
-| Twilio | Software Engineer (L2) | Remote - US | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/8097672) |
+| Twilio | Software Engineer (L2) | Remote - US | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/8100236) |
 | Twilio | Software Engineer L2 - Cloud Infrastructure | Remote - US | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7434770) |
 | Twilio | Software Engineer (L2) Email | Remote - US | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7689461) |
 | Twilio | Software Engineer L3 | Remote - US | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/8009057) |
@@ -265,7 +265,7 @@ _Public Workday boards for large, consistent H-1B sponsors (Salesforce, NVIDIA, 
 | Anthropic | Security Software Engineer, Detection & Response Platform | San Francisco, CA / New York City, NY / Seattle, WA; Washington, DC | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4595463008) |
 | Anthropic | Software Engineer, Human Data Interface | San Francisco, CA / New York City, NY | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5109273008) |
 | Anthropic | Software Engineer, RL Data | San Francisco, CA / New York City, NY | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5238606008) |
-| Block | Software Engineer, Cash App - Lending Products | New York, NY, United States of America | 3d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5201726008?gh_jid=5201726008) |
+| Block | Software Engineer, Cash App - Lending Products | Bay Area, CA, United States of America | 3d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5196173008?gh_jid=5196173008) |
 | Block | Software Engineer, Reconciliation & Reporting | Bay Area, CA, United States of America | 3d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008) |
 | Chime | Software Engineer, AI Enablement | Remote, USA | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8578967002?gh_jid=8578967002) |
 | Scale AI | AI Infrastructure Engineer, Model Serving Platform | San Francisco, CA; New York, NY | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4520320005) |
@@ -324,8 +324,8 @@ _Public Workday boards for large, consistent H-1B sponsors (Salesforce, NVIDIA, 
 | OpenAI | Software Engineer, GTM Growth Engineering | San Francisco | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3) |
 | OpenAI | Applied AI Software Engineer, GTM Growth Engineering | San Francisco | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/38e3c4bf-a632-405e-9619-b87382ca2472) |
 | Databricks | Software Engineer - GenAI inference | San Francisco, California | 13d ago | greenhouse | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002) |
-| Databricks | Software Engineer, Web Products | Mountain View, California | 13d ago | greenhouse | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002) |
-| Databricks | Systems PhD - Software Engineer | Bellevue, Washington; Seattle, Washington | 13d ago | greenhouse | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002) |
+| Databricks | Software Engineer, Web Products | Mountain View, California | 13d ago | greenhouse | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002) |
+| Databricks | Systems PhD - Software Engineer | Mountain View, California; San Francisco, California | 13d ago | greenhouse | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002) |
 | OpenAI | Software Engineer, Privacy Engineering (Lawful Access) | San Francisco | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3) |
 | Appian | Software Engineer | McLean, VA | 14d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/appian/jobs/8041241) |
 | Compass | Software Engineer - Mobile - iOS | Aventura, FL | 14d ago | SimplifyJobs | [apply](https://www.compass.com/careers?gh_jid=8081848) |
@@ -420,7 +420,7 @@ _Public Workday boards for large, consistent H-1B sponsors (Salesforce, NVIDIA, 
 | Realtor.com | Software Engineer - Backend | Austin, TX | 27d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/rdccareers/jobs/7800190003) |
 | OpenAI | Software Engineer, ChatGPT Shopping | San Francisco | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/ca54cd23-2bcc-4327-bcb6-46d81ed414a8) |
 | Robinhood | Full Stack Software Engineer, Credit Cards & Banking | Bellevue, WA; Menlo Park, CA; New York, NY | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723) |
-| Robinhood | Software Engineer | Menlo Park, CA | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/7975549?t=gh_src=&gh_jid=7975549) |
+| Robinhood | Software Engineer | Menlo Park, CA | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/7975531?t=gh_src=&gh_jid=7975531) |
 | iTradeNetwork | AI/ML Software Engineer | Oakland, CA | 28d ago | SimplifyJobs | [apply](https://www.itradenetwork.com/jobs/5290252008?gh_jid=5290252008) |
 | Johnson Controls | Embedded Software Engineer 2 | Westford, MA | 28d ago | SimplifyJobs | [apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Embedded-Software-Engineer-II_WD30273363-1) |
 | Rocket Companies | IOS Mobile Software Developer 1 | Seattle, WA; SF; Detroit, MI | 29d ago | SimplifyJobs | [apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1) |
