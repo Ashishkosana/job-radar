@@ -26,7 +26,7 @@ import re
 import sys
 import urllib.error
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 COMPANIES = "companies.txt"
 OUT = "JOBS.md"
@@ -39,6 +39,34 @@ LISTINGS_JSON = {
     "vanshb03-2027": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/.github/scripts/listings.json",
     "vanshb03-2026": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/.github/scripts/listings.json",
 }
+
+# Large employers on Workday whose PUBLIC CXS JSON API we poll directly. Workday has no
+# master directory, so each company is a distinct {tenant, data-center wd#, site}. All 15
+# were curl-verified live (HTTP 200 + populated jobPostings) and are consistent H-1B
+# sponsors. URL pattern: https://{tenant}.wd{N}.myworkdayjobs.com/{site}
+#   CAVEATS to read per-req: Capital One + Fidelity's LEAP program often say "no sponsorship";
+#   Adobe's site is the experienced-hire board (thin on new-grad). See notes when applying.
+WORKDAY_TENANTS = {
+    "Salesforce":            {"tenant": "salesforce", "wd": "wd12", "site": "External_Career_Site"},
+    "NVIDIA":                {"tenant": "nvidia",     "wd": "wd5",  "site": "NVIDIAExternalCareerSite"},
+    "Adobe":                 {"tenant": "adobe",      "wd": "wd5",  "site": "external_experienced"},
+    "Autodesk":              {"tenant": "autodesk",   "wd": "wd1",  "site": "Ext"},
+    "Capital One":           {"tenant": "capitalone", "wd": "wd12", "site": "Capital_One"},
+    "PayPal":                {"tenant": "paypal",     "wd": "wd1",  "site": "jobs"},
+    "Mastercard":            {"tenant": "mastercard", "wd": "wd1",  "site": "CorporateCareers"},
+    "Visa":                  {"tenant": "visa",       "wd": "wd5",  "site": "Visa"},
+    "Cisco":                 {"tenant": "cisco",      "wd": "wd5",  "site": "Cisco_Careers"},
+    "HPE":                   {"tenant": "hpe",        "wd": "wd5",  "site": "Jobsathpe"},
+    "Workday":               {"tenant": "workday",    "wd": "wd5",  "site": "Workday"},
+    "Nasdaq":                {"tenant": "nasdaq",     "wd": "wd1",  "site": "Global_External_Site"},
+    "Fidelity":              {"tenant": "fmr",        "wd": "wd1",  "site": "FidelityCareers"},
+    "Comcast":               {"tenant": "comcast",    "wd": "wd5",  "site": "Comcast_Careers"},
+    "Warner Bros Discovery": {"tenant": "warnerbros", "wd": "wd5",  "site": "global"},
+}
+# Entry-oriented search terms — Workday relevance-ranks and floats senior roles to the top,
+# so a plain "software engineer" query buries new-grad reqs. Query each term, merge, dedup.
+WORKDAY_SEARCHES = ("new grad software engineer", "associate software engineer",
+                    "software engineer 1", "graduate software engineer")
 
 # ---- what counts as a software-engineering role ----
 ROLE = re.compile(
@@ -55,16 +83,20 @@ DROP = re.compile(
 # ---- entry-level tiers ----
 NEWGRAD = re.compile(
     r"\b(new\s?grad|graduate|university\s?grad|campus|early\s?career|"
-    r"entry[\s-]?level|university)\b", re.I)
+    r"entry[\s-]?level|university|college\s+grad(uate)?)\b", re.I)
 JUNIOR = re.compile(
     r"\b(junior|jr\.?|associate\s+(software|engineer)|"
-    r"software\s+engineer\s+i\b|engineer\s+i\b|sde\s?(1|i)\b|"
+    r"software\s+engineer\s+[i1]\b|engineer\s+[i1]\b|sde\s?(1|i)\b|"
+    r"software\s+development\s+engineer\s+[i1]\b|amts|"
     r"level\s?1|entry)\b", re.I)
 
 # ---- location: US / US-remote only ----
 NON_US = re.compile(
     r"(\b(canada|poland|spain|india|brazil|germany|uk|ireland|mexico|"
     r"portugal|netherlands|france|australia|singapore|japan|israel|"
+    r"taiwan|china|korea|philippines|malaysia|vietnam|hong\s+kong|"
+    r"slovakia|czech\w*|romania|hungary|switzerland|sweden|austria|belgium|"
+    r"greece|turkey|thailand|indonesia|argentina|colombia|costa\s+rica|"
     r"toronto|ontario|vancouver|montreal|quebec|alberta|british\s+columbia|"
     r"emea|apac|latam|europe)\b|,\s*(ON|BC|QC|AB)\s*,?\s*CA\b)", re.I)
 US_OK = re.compile(
@@ -210,6 +242,61 @@ ATS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
        "smartrecruiters": smartrecruiters}
 
 
+def workday_posted(text):
+    """Workday returns freshness as human text ('Posted 3 Days Ago'), not an ISO date."""
+    if not text:
+        return None
+    t = text.lower()
+    if "today" in t:
+        days = 0
+    elif "yesterday" in t:
+        days = 1
+    elif (m := re.search(r"(\d+)\+?\s*day", t)):
+        days = int(m.group(1))
+    elif (m := re.search(r"(\d+)\+?\s*month", t)):
+        days = int(m.group(1)) * 30
+    else:
+        return None
+    return NOW - timedelta(days=days)
+
+
+def workday(company, cfg):
+    """Poll a company's public Workday CXS JSON API for entry-level SWE roles.
+
+    POST {searchText, limit, offset} -> {total, jobPostings:[{title, locationsText,
+    externalPath, postedOn}]}. One POST per entry-oriented search term, merged + deduped.
+    """
+    base = f"https://{cfg['tenant']}.{cfg['wd']}.myworkdayjobs.com"
+    cxs = f"{base}/wday/cxs/{cfg['tenant']}/{cfg['site']}/jobs"
+    hdrs = {"Content-Type": "application/json", "Accept": "application/json"}
+    out, seen = [], set()
+    for term in WORKDAY_SEARCHES:
+        for offset in (0, 20):  # two pages — relevance-ranking buries entry roles deep
+            body = json.dumps({"appliedFacets": {}, "limit": 20, "offset": offset,
+                               "searchText": term}).encode()
+            try:
+                d = get(cxs, data=body, headers=hdrs)
+            except Exception:  # noqa: BLE001 - one flaky page shouldn't kill the company
+                continue
+            for j in d.get("jobPostings", []):
+                path = j.get("externalPath", "")
+                if not path or path in seen:
+                    continue
+                seen.add(path)
+                loc = (j.get("locationsText") or "").strip()
+                # "2 Locations" / "Multiple Locations" (and blanks) hide the real country;
+                # recover it from the path segment (/job/US-CA-Santa-Clara/... vs
+                # /job/Taiwan-Taipei/...) so the US filter can still do its job.
+                if not loc or re.search(r"\d+\s+locations|multiple\s+locations", loc, re.I):
+                    m = re.search(r"/job/([^/]+)/", path)
+                    if m:
+                        loc = m.group(1).replace("-", ", ")
+                out.append(_row(company, j.get("title", ""), loc,
+                                f"{base}/{cfg['site']}{path}",
+                                workday_posted(j.get("postedOn")), "workday"))
+    return out
+
+
 def listings_repo(name, url):
     """Community new-grad listings.json (Simplify/vanshb03 schema)."""
     out = []
@@ -309,6 +396,18 @@ def main():
     except Exception as e:  # noqa: BLE001
         failed.append(f"The Muse ({type(e).__name__})")
 
+    # source 4: Workday CXS boards (big employers) — kept separate, entry-level only
+    wday_raw = []
+    for company, cfg in WORKDAY_TENANTS.items():
+        try:
+            got = workday(company, cfg)
+            wday_raw += got
+            print(f"  {('wd:' + company):18} {len(got):4} postings")
+        except Exception as e:  # noqa: BLE001
+            failed.append(f"{company} workday ({type(e).__name__})")
+    if wday_raw:
+        srcs += 1
+
     # ---- guardrails + dedup ----
     entry, other, seen = [], [], set()
     dropped = {"role": 0, "us": 0, "clearance": 0, "stale": 0, "dup": 0}
@@ -340,7 +439,30 @@ def main():
     entry.sort(key=by_age)
     other.sort(key=by_age)
 
-    total = len(entry) + len(other)
+    # Workday: same guardrails, but keep ONLY entry/new-grad ("our roles") — these boards
+    # are dominated by senior reqs, so a non-entry bucket would be all noise.
+    wday, wseen = [], set()
+    for r in wday_raw:
+        title, company = r["title"] or "", r["company"] or ""
+        if not is_swe(title) or tier(title) is None:
+            continue
+        # Workday boards are global; the country is sometimes only in the title
+        # ("… - Graduate - Slovakia"), so guard against both title and location.
+        if NON_US.search(title) or not in_us(r["loc"]):
+            continue
+        if clearance_required(f"{title} {company}") or CLEARANCE_LOC.search(r["loc"] or ""):
+            continue
+        r["_days"] = age_days(r["posted"])
+        if r["_days"] is not None and r["_days"] > MAX_AGE_DAYS:
+            continue
+        key = (norm(company), norm(title), norm(r["loc"]))
+        if key in wseen:
+            continue
+        wseen.add(key)
+        wday.append(r)
+    wday.sort(key=by_age)
+
+    total = len(entry) + len(other) + len(wday)
     lines = [
         f"# Job Radar — {total} US software-engineering roles",
         f"\n_Aggregated from {srcs} sources (company ATS boards + community new-grad "
@@ -348,6 +470,12 @@ def main():
         f"newest first, older than {MAX_AGE_DAYS} days dropped. Sponsorship not filtered._\n",
         f"## 🎓 Entry-Level / New Grad ({len(entry)})\n",
         table(entry) if entry else "_None titled entry-level right now._",
+        f"\n## 🏢 Workday — Big Employers, entry-level ({len(wday)})\n",
+        "_Public Workday boards for large, consistent H-1B sponsors (Salesforce, NVIDIA, "
+        "Visa, Cisco, PayPal, Mastercard…). SWE-1 / new-grad / associate titles only. "
+        "Read each req's work-authorization line — Capital One and Fidelity's LEAP program "
+        "often exclude sponsorship._\n",
+        table(wday) if wday else "_No entry-level Workday roles surfaced right now._",
         f"\n## 💻 Software Engineer — apply to these too ({len(other)})\n",
         table(other) if other else "_None._",
     ]
@@ -357,7 +485,8 @@ def main():
 
     with open(OUT, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
-    print(f"\nwrote {OUT}: {len(entry)} entry + {len(other)} other from {srcs} sources")
+    print(f"\nwrote {OUT}: {len(entry)} entry + {len(wday)} workday + {len(other)} other "
+          f"from {srcs} sources")
     print(f"  dropped: {dropped}")
     if not total and srcs == 0:
         sys.exit(1)
