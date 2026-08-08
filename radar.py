@@ -38,6 +38,7 @@ LISTINGS_JSON = {
     "SimplifyJobs": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
     "vanshb03-2027": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/.github/scripts/listings.json",
     "vanshb03-2026": "https://raw.githubusercontent.com/vanshb03/New-Grad-2026/dev/.github/scripts/listings.json",
+    "cvrve-2025": "https://raw.githubusercontent.com/cvrve/New-Grad-2025/dev/.github/scripts/listings.json",
 }
 
 # Large employers on Workday whose PUBLIC CXS JSON API we poll directly. Workday has no
