@@ -86,7 +86,17 @@ WORKDAY_TENANTS = {
 # Entry-oriented search terms — Workday relevance-ranks and floats senior roles to the top,
 # so a plain "software engineer" query buries new-grad reqs. Query each term, merge, dedup.
 WORKDAY_SEARCHES = ("new grad software engineer", "associate software engineer",
-                    "software engineer 1", "graduate software engineer")
+                    "software engineer 1", "graduate software engineer",
+                    "junior software developer", "ai engineer")
+
+# LinkedIn search queries, run daily through the rented Apify actor (last-24h window,
+# entry-level + full-time facets are applied in the URL builder below).
+LINKEDIN_SEARCHES = (
+    "software engineer new grad", "entry level software engineer",
+    "junior software engineer", "associate software engineer",
+    "junior developer", "entry level ai engineer",
+    "junior ai engineer", "entry level ai developer", "ai generalist",
+)
 
 # ---- what counts as a software-engineering role ----
 ROLE = re.compile(
@@ -94,7 +104,11 @@ ROLE = re.compile(
     r"software\s+development\s+engineer|back[\s-]?end\s+engineer|"
     r"front[\s-]?end\s+engineer|full[\s-]?stack\s+(engineer|developer)|"
     r"web\s+developer|application\s+developer|platform\s+engineer|"
-    r"infrastructure\s+engineer|programmer|swe|sde)\b", re.I)
+    r"infrastructure\s+engineer|programmer|swe|sde|"
+    r"ai\s+engineer|ai\s+developer|ai\s+generalist|applied\s+ai|"
+    r"machine\s+learning\s+engineer|ml\s+engineer|mle|"
+    r"generative\s+ai\s+(engineer|developer)|genai\s+(engineer|developer)|"
+    r"llm\s+engineer|junior\s+(developer|engineer))\b", re.I)
 DROP = re.compile(
     r"(\b(senior|staff|principal|lead|manager|director|head\s+of|vp|"
     r"solutions\s+(engineer|architect)|forward\s+deployed|sales|marketing|"
@@ -260,6 +274,70 @@ def smartrecruiters(slug, name):
 
 ATS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
        "smartrecruiters": smartrecruiters}
+
+
+def linkedin():
+    """Pull last-24h entry-level postings from LinkedIn via a rented Apify actor.
+
+    Uses the curious_coder/linkedin-jobs-scraper actor (no cookies, public data).
+    Auth: the Apify API token in the LINKEDIN_JOB_SCRAPPER env var / repo secret.
+    Skips quietly when the token is absent (e.g. a local run without the secret).
+    """
+    import os
+    import time as _time
+    import urllib.parse
+
+    token = os.environ.get("LINKEDIN_JOB_SCRAPPER")
+    if not token:
+        return None  # signal "source not configured"
+
+    # One LinkedIn guest-search URL per query: last 24h (f_TPR=r86400),
+    # entry level + internship excluded -> f_E=2, full-time (f_JT=F), US.
+    urls = []
+    for q in LINKEDIN_SEARCHES:
+        urls.append("https://www.linkedin.com/jobs/search/?" + urllib.parse.urlencode({
+            "keywords": q, "location": "United States",
+            "f_TPR": "r86400", "f_E": "2", "f_JT": "F",
+        }))
+    payload = json.dumps({
+        "urls": urls,
+        "scrapeCompany": False,
+        "limitPerSource": 25,
+    }).encode()
+
+    actor = "curious_coder~linkedin-jobs-scraper"
+    run = get(f"https://api.apify.com/v2/acts/{actor}/runs?token={token}",
+              data=payload, headers={"Content-Type": "application/json"})
+    run_id = run["data"]["id"]
+
+    # poll to completion (the scrape takes a few minutes)
+    for _ in range(60):
+        _time.sleep(15)
+        st = get(f"https://api.apify.com/v2/actor-runs/{run_id}?token={token}")
+        status = st["data"]["status"]
+        if status in ("SUCCEEDED", "FAILED", "ABORTED", "TIMED-OUT"):
+            break
+    if status != "SUCCEEDED":
+        raise RuntimeError(f"apify run {status}")
+
+    ds = st["data"]["defaultDatasetId"]
+    items = get(f"https://api.apify.com/v2/datasets/{ds}/items?token={token}&clean=true")
+
+    out, seen = [], set()
+    for j in items:
+        title = j.get("title") or j.get("jobTitle") or ""
+        company = (j.get("companyName") or j.get("company") or
+                   (j.get("companyDetails") or {}).get("name", "") or "")
+        loc = j.get("location") or j.get("place") or ""
+        url = (j.get("link") or j.get("jobUrl") or j.get("url") or
+               j.get("applyUrl") or "")
+        if not title or not url or url in seen:
+            continue
+        seen.add(url)
+        posted = parse_dt(j.get("postedAt") or j.get("publishedAt") or
+                          j.get("listedAt") or j.get("postedTime")) or NOW
+        out.append(_row(company, title, loc, url, posted, "linkedin"))
+    return out
 
 
 def workday_posted(text):
@@ -428,6 +506,19 @@ def main():
     if wday_raw:
         srcs += 1
 
+    # source 5: LinkedIn (last 24h) via rented Apify actor — needs the secret
+    li_raw = []
+    try:
+        got = linkedin()
+        if got is None:
+            print(f"  {'LinkedIn':14} skipped (no LINKEDIN_JOB_SCRAPPER token)")
+        else:
+            li_raw = got
+            srcs += 1
+            print(f"  {'LinkedIn':14} {len(got):4} postings")
+    except Exception as e:  # noqa: BLE001
+        failed.append(f"LinkedIn via Apify ({type(e).__name__})")
+
     # ---- guardrails + dedup ----
     entry, other, seen = [], [], set()
     dropped = {"role": 0, "us": 0, "clearance": 0, "stale": 0, "dup": 0}
@@ -482,7 +573,27 @@ def main():
         wday.append(r)
     wday.sort(key=by_age)
 
-    total = len(entry) + len(other) + len(wday)
+    # LinkedIn: same guardrails; prefer the DIRECT ATS link when we already have the
+    # same company+title from a first-party source (LinkedIn's apply flow is worse).
+    li, li_seen = [], set()
+    for r in li_raw:
+        title, company = r["title"] or "", r["company"] or ""
+        if not is_swe(title):
+            continue
+        if NON_US.search(title) or not in_us(r["loc"]):
+            continue
+        if (norm(company) in DEFENSE or clearance_required(f"{title} {company}")
+                or CLEARANCE_LOC.search(r["loc"] or "")):
+            continue
+        key = (norm(company), norm(title))
+        if key in seen or key in li_seen:   # `seen` = ATS/community/Workday rows
+            continue
+        li_seen.add(key)
+        r["_days"] = age_days(r["posted"])
+        li.append(r)
+    li.sort(key=by_age)
+
+    total = len(entry) + len(other) + len(wday) + len(li)
     lines = [
         f"# Job Radar — {total} US software-engineering roles",
         f"\n_Aggregated from {srcs} sources (company ATS boards + community new-grad "
@@ -496,6 +607,13 @@ def main():
         "Read each req's work-authorization line — Capital One and Fidelity's LEAP program "
         "often exclude sponsorship._\n",
         table(wday) if wday else "_No entry-level Workday roles surfaced right now._",
+        f"\n## 💼 LinkedIn — entry level, last 24h ({len(li)})\n",
+        "_Fresh LinkedIn postings (entry-level + full-time facets, posted in the last "
+        "24 hours) via a rented scraper. Same guardrails as everything else; when the "
+        "same job exists on a first-party board above, the direct link wins and the "
+        "LinkedIn row is dropped._\n",
+        table(li) if li else "_No fresh LinkedIn roles in the last 24 hours "
+        "(or the source was skipped)._",
         f"\n## 💻 Software Engineer — apply to these too ({len(other)})\n",
         table(other) if other else "_None._",
     ]

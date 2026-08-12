@@ -23,6 +23,8 @@ jobs:
         with:
           python-version: "3.12"
       - name: Pull fresh roles
+        env:
+          LINKEDIN_JOB_SCRAPPER: ${{ secrets.LINKEDIN_JOB_SCRAPPER }}
         run: python radar.py
       - name: Commit if changed
         run: |
