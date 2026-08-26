@@ -110,7 +110,9 @@ ROLE = re.compile(
     r"generative\s+ai\s+(engineer|developer)|genai\s+(engineer|developer)|"
     r"llm\s+engineer|junior\s+(developer|engineer))\b", re.I)
 DROP = re.compile(
-    r"(\b(senior|staff|principal|lead|manager|director|head\s+of|vp|"
+    # "distinguished" and "fellow" sit above principal and were missing: a Saviynt
+    # "Distinguished Software Engineer, Data Platform" reached a recommendation list.
+    r"(\b(senior|staff|principal|distinguished|fellow|lead|manager|director|head\s+of|vp|"
     r"solutions\s+(engineer|architect)|forward\s+deployed|sales|marketing|"
     r"recruit|II|III|IV|L[4-9])\b|\bsr\b)", re.I)
 

@@ -1,0 +1,192 @@
+# Companies already applied to, all-time. The mail check only looks back a fixed
+# window (15 days by default), so a July application is invisible to it -- that is how
+# Lyft and Abridge both resurfaced on the fresh list. This file is the long memory.
+# Regenerate from the tracker board; one company per line, comments allowed.
+Charta Health
+Brellium
+Medtronic
+Databricks
+ServiceNow
+Moveworks
+Handshake
+Lightfield
+Quora
+Appian
+Acrisure
+Pariveda
+Lynk
+Lyft
+Amentum
+Retell AI
+UHS
+SOCOTEC
+Samsara
+Pinterest
+InductiveHealth
+Color Health
+Chainlink Labs
+State Farm
+Aurora Innovation
+PointOne
+NCR Voyix
+Salesforce
+xAI
+WallStreetQuants
+Twitch
+Astronomer
+Altamira Technologies
+Crusoe
+Lithic
+CLEAR
+Verkada
+Cherry Technologies
+Abnormal
+HiredBuddy
+BeaconFire
+Nightwing
+Connected Aviation Solutions
+WEC Energy Group
+ZEDEDA
+Citadel
+Citadel Securities
+Toyota
+KAYAK
+Cisco
+Texas Instruments
+Cerebras Systems
+Mimecast
+Confido
+IBM
+NOSO LABS
+Validity
+Relay
+DMC
+Collective
+Civis Analytics
+Clera
+Honeywell Aerospace
+Cubic
+Cox Automotive
+EnergyHub
+Nintendo
+NWIS
+Micron
+Corporate Tools
+Realm
+Canonical
+RELX
+RTX
+PayPal
+Netic
+Vertafore
+Hewlett Packard Enterprise
+BrothersTech
+Sajix
+Jane Street
+NICE
+Paylocity
+Emonics
+Narmi
+EAI Technologies
+Traba
+Mastercard
+Motorola Solutions
+Old Mission Capital
+Renaissance
+Datalogz
+EchoStar
+BayRock Labs
+Glean
+TikTok
+Scowtt
+Innodata
+Forward Networks
+Chime
+Campus
+Confluence Technologies
+American Express
+Google
+Intel
+OWL Services
+Applied Systems
+SentiLink
+OpenAI
+Deloitte
+Scale AI
+Stripe
+Western Digital
+RoviSys
+Supabase
+Microsoft
+DebtBook
+Wellmark
+Underdog.io
+Cribl
+Gray Swan AI
+Revel
+ASSYST
+General Medicine
+Pylon
+Amazon
+Baton
+Harvey
+DoorDash
+Plaid
+Waymark
+IXL Learning
+Abridge
+Mechanize
+Ellipsis Labs
+Cohere
+WHOOP
+Affirm
+Zip
+Mercury
+Modern Treasury
+NewsBreak
+Klaviyo
+U.S. Bank
+Esri
+Nuro
+SimpliSafe
+Anduril
+StubHub
+PathAI
+UST
+InstaLILY AI
+Fuze Health
+AppLovin
+GoDaddy
+Figma
+Boeing
+Nymbus
+Supernova Technology
+Morris Health Technologies
+D3
+Akamai Technologies
+Notion
+Firetiger
+Snap Finance
+Rokt
+Ramp
+Intuit
+Epic
+Torc Robotics
+Asure Software
+Perpay
+Velo3D
+Agate Software
+Keycard
+Faros AI
+Nooks
+AHEAD
+Boson AI
+Aquatic Capital Management
+Rollout
+Wonderschool
+Tevora
+Uare.ai
+BRM
+Amerisure
+WeRide
+Praetorian
