@@ -1,17 +1,11 @@
 # Fresh roles — first published in the last 3 days
 
-_Generated 2026-08-26 23:28 UTC. Every row is live on the employer's own ATS board right now, was FIRST published (not merely updated or reposted) within 3 days, and has no application confirmation in your Gmail from the last 15 days._
+_Generated 2026-08-26 23:51 UTC. Every row is live on the employer's own ATS board right now, was FIRST published (not merely updated or reposted) within 3 days, and has no application confirmation in your Gmail from the last 15 days._
 
 | Tier | Company | Role | Location | First posted | Apply |
 |---|---|---|---|---|---|
 | **A** | Agate Software (applied here before) | Software Developer - Hybrid in AZ or MI   [SD2-2026-08] | Glendale, AZ | 1d ago | [apply](https://jobs.lever.co/agatesoftware/144f3e0b-140d-42fe-aaaf-fb57b91a9bca) |
-| **B** | Twitch (applied here before) | Software Engineer I, Memberships | San Francisco, CA | today | [apply](https://job-boards.greenhouse.io/twitch/jobs/8748320002) |
-| **B** | Energy Solutions | Software Engineer I (Portland, OR - US) | Portland, Oregon, United States | today | [apply](https://job-boards.greenhouse.io/energysolutions/jobs/5222431007) |
-| **B** | Energy Solutions | Software Engineer I (Orange, CA - US) | Orange, California, United States | today | [apply](https://job-boards.greenhouse.io/energysolutions/jobs/5222429007) |
-| **B** | Energy Solutions | Software Engineer I (Oakland, CA - US) | Oakland, California, United States | today | [apply](https://job-boards.greenhouse.io/energysolutions/jobs/5222428007) |
-| **B** | Energy Solutions | Software Engineer I (New York, NY - US) | New York, New York, United States | today | [apply](https://job-boards.greenhouse.io/energysolutions/jobs/5222432007) |
-| **B** | Energy Solutions | Software Engineer I (Chicago, IL - US) | Chicago, Illinois, United States | today | [apply](https://job-boards.greenhouse.io/energysolutions/jobs/5222430007) |
-| **B** | Energy Solutions | Software Engineer I (Boston, MA - US) | Boston, Massachusetts, United States | today | [apply](https://job-boards.greenhouse.io/energysolutions/jobs/5201891007) |
+| **B** | Twitch (applied here before) | Software Engineer I, Memberships | Seattle, WA | today | [apply](https://job-boards.greenhouse.io/twitch/jobs/8751076002) |
 | **B** | T-Mobile (applied here before) | Associate AI Engineer | Bellevue, Washington | today | [apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ368120) |
 | **B** | Roblox | Software Engineer, Creator | San Mateo, CA, United States | today | [apply](https://careers.roblox.com/jobs/8115917?gh_jid=8115917) |
 | **B** | Roblox | Software Engineer, Creator Studio | San Mateo, CA, United States | 1d ago | [apply](https://careers.roblox.com/jobs/8131689?gh_jid=8131689) |
@@ -19,7 +13,6 @@ _Generated 2026-08-26 23:28 UTC. Every row is live on the employer's own ATS boa
 | **B** | Syncreon Consulting | Full Stack Software Engineer (Java / Spring Boot) - W2 Position | New York | today | [apply](https://jobs.smartrecruiters.com/syncreonconsulting/744000145782545) |
 | **B** | Syncreon Consulting | Fullstack Developer-Java - Fixed Income securities - W2 position | New York | today | [apply](https://jobs.smartrecruiters.com/syncreonconsulting/744000145783649) |
 | **B** | Archer | Software Engineer - (SJ2026BS) | San Jose, California, United States | 1d ago | [apply](https://job-boards.greenhouse.io/archer56/jobs/7977707003) |
-| **B** | Addepar | Software Engineer, Client Experience Frameworks | New York, NY | 1d ago | [apply](https://job-boards.greenhouse.io/addepar1/jobs/8733680002) |
 | **B** | Vercel | Software Engineer, Data Platform | Hybrid - San Francisco, New York City | 1d ago | [apply](https://job-boards.greenhouse.io/vercel/jobs/6161129004) |
 | **B** | CVS Health (applied here before) | Software Development Engineer | — | 1d ago | [apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Software-Development-Engineer_R0943473) |
 | **B** | OpenSesame | Applied AI Engineer, Internal Automation | Remote | 2d ago | [apply](https://boards.greenhouse.io/opensesame/jobs/8152738?gh_jid=8152738) |
@@ -46,48 +39,6 @@ _Generated 2026-08-26 23:28 UTC. Every row is live on the employer's own ATS boa
 - prior: MECHANISM, not correlation. He lives in Tempe, so relocation disappears and many local reqs never raise the visa question. Only about 3% of his 188 applied companies have real Phoenix engineering presence, so this is under-exploited.
 
 **Twitch — Software Engineer I, Memberships** [tier B: enterprise-nontech]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 1 | verdict: eligible
-- why this tier: non-tech enterprise hiring an explicitly early-career req off fiscal backfills rather than a cohort; title is explicitly early-career-levelled; posted 0d ago, inside the first-48-hours window
-- prior: WEAK EVIDENCE, n=2. State Farm and IBM both advanced him, and both hire off fiscal backfills rather than cohorts, which means a Dec-2025 graduation is a fact rather than a knockout. IBM then rejected him, so this is not a strong prior.
-
-**Energy Solutions — Software Engineer I (Portland, OR - US)** [tier B: enterprise-nontech]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 1 | verdict: eligible
-- why this tier: non-tech enterprise hiring an explicitly early-career req off fiscal backfills rather than a cohort; title is explicitly early-career-levelled; posted 0d ago, inside the first-48-hours window
-- prior: WEAK EVIDENCE, n=2. State Farm and IBM both advanced him, and both hire off fiscal backfills rather than cohorts, which means a Dec-2025 graduation is a fact rather than a knockout. IBM then rejected him, so this is not a strong prior.
-
-**Energy Solutions — Software Engineer I (Orange, CA - US)** [tier B: enterprise-nontech]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 1 | verdict: eligible
-- why this tier: non-tech enterprise hiring an explicitly early-career req off fiscal backfills rather than a cohort; title is explicitly early-career-levelled; posted 0d ago, inside the first-48-hours window
-- prior: WEAK EVIDENCE, n=2. State Farm and IBM both advanced him, and both hire off fiscal backfills rather than cohorts, which means a Dec-2025 graduation is a fact rather than a knockout. IBM then rejected him, so this is not a strong prior.
-
-**Energy Solutions — Software Engineer I (Oakland, CA - US)** [tier B: enterprise-nontech]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 1 | verdict: eligible
-- why this tier: non-tech enterprise hiring an explicitly early-career req off fiscal backfills rather than a cohort; title is explicitly early-career-levelled; posted 0d ago, inside the first-48-hours window
-- prior: WEAK EVIDENCE, n=2. State Farm and IBM both advanced him, and both hire off fiscal backfills rather than cohorts, which means a Dec-2025 graduation is a fact rather than a knockout. IBM then rejected him, so this is not a strong prior.
-
-**Energy Solutions — Software Engineer I (New York, NY - US)** [tier B: enterprise-nontech]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 1 | verdict: eligible
-- why this tier: non-tech enterprise hiring an explicitly early-career req off fiscal backfills rather than a cohort; title is explicitly early-career-levelled; posted 0d ago, inside the first-48-hours window
-- prior: WEAK EVIDENCE, n=2. State Farm and IBM both advanced him, and both hire off fiscal backfills rather than cohorts, which means a Dec-2025 graduation is a fact rather than a knockout. IBM then rejected him, so this is not a strong prior.
-
-**Energy Solutions — Software Engineer I (Chicago, IL - US)** [tier B: enterprise-nontech]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 1 | verdict: eligible
-- why this tier: non-tech enterprise hiring an explicitly early-career req off fiscal backfills rather than a cohort; title is explicitly early-career-levelled; posted 0d ago, inside the first-48-hours window
-- prior: WEAK EVIDENCE, n=2. State Farm and IBM both advanced him, and both hire off fiscal backfills rather than cohorts, which means a Dec-2025 graduation is a fact rather than a knockout. IBM then rejected him, so this is not a strong prior.
-
-**Energy Solutions — Software Engineer I (Boston, MA - US)** [tier B: enterprise-nontech]
 - work authorisation: not stated
 - graduation window: not stated
 - years floor: 1 | verdict: eligible
@@ -140,13 +91,6 @@ _Generated 2026-08-26 23:28 UTC. Every row is live on the employer's own ATS boa
 - work authorisation: Archer is unable to provide work visa sponsorship for this position at the present time.
 - graduation window: not stated
 - years floor: None | verdict: runway
-- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 1d ago, inside the first-48-hours window
-- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
-
-**Addepar — Software Engineer, Client Experience Frameworks** [tier B: midsize-product]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 1 | verdict: eligible
 - why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 1d ago, inside the first-48-hours window
 - prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
 
@@ -258,15 +202,15 @@ _Generated 2026-08-26 23:28 UTC. Every row is live on the employer's own ATS boa
 
 ## What was dropped
 
-- not swe or senior: 78328
-- defense or cleared site: 484
+- not swe or senior: 78320
+- defense or cleared site: 483
 - internship: 85
 - not us: 1751
 - clearance: 7
 - no publish date: 2
 - stale: 1962
 - clearance or ITAR in body: 17
-- 3+ years required: 20
+- 3+ years required: 21
 - off-lane (body): 8
 - cohort mismatch: 3
 - duplicate row: 4
