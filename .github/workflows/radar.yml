@@ -1,15 +1,26 @@
 name: Job Radar
 
-# Pulls fresh openings from my target companies' ATS boards every morning and
-# commits the updated JOBS.md. Runs daily, on demand, or when I edit the target
-# list. No secrets needed — the ATS APIs are public.
+# Every weekday morning: cast the wide net, then cut it down to the shortlist you
+# can actually act on that day, and commit both.
+#
+# This used to run `radar.py` alone and commit a raw JOBS.md — roughly a thousand
+# rows with no eligibility gate, no ranking and no dedupe against applied.txt,
+# because every module that does that work was untracked and never reached CI.
+# JOBS.md is the input to the pipeline, not the output of it. FRESH.md is what
+# you read.
 on:
   schedule:
     - cron: "0 13 * * 1-5"   # 6am America/Phoenix, weekdays
   workflow_dispatch: {}
   push:
     branches: [main]
-    paths: ["companies.txt", "radar.py"]
+    paths:
+      - "companies.txt"
+      - "radar.py"
+      - "fresh.py"
+      - "eligibility.py"
+      - "archetype.py"
+      - "applied.txt"
 
 permissions:
   contents: write
@@ -22,17 +33,36 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Pull fresh roles
+      - name: Install test deps
+        run: pip install --quiet pytest
+
+      # A broken gate must fail loudly here rather than silently shipping a
+      # shortlist that hides viable roles. The false negative is the expensive
+      # one, and test_eligibility.py exists to catch exactly that.
+      - name: Gate tests
+        run: python -m pytest test_eligibility.py -q
+
+      # LINKEDIN_JOB_SCRAPPER is the Apify actor token behind the LinkedIn
+      # source added in c3aaa56. Keep it: without it radar.py silently loses a
+      # feed rather than failing.
+      - name: Wide net
         env:
           LINKEDIN_JOB_SCRAPPER: ${{ secrets.LINKEDIN_JOB_SCRAPPER }}
-        run: python radar.py
+        run: python radar.py                # -> JOBS.md
+
+      # No Gmail credentials in CI: fresh.py reads ~/.gmail-mcp, which is local
+      # only. --no-gmail falls back to applied.txt, which is the long memory the
+      # 15-day mail window cannot see anyway.
+      - name: Strict shortlist
+        run: python fresh.py --no-gmail     # -> FRESH.md
+
       - name: Commit if changed
         run: |
-          if [[ -n "$(git status --porcelain JOBS.md)" ]]; then
+          if [[ -n "$(git status --porcelain JOBS.md FRESH.md)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add JOBS.md
-            git commit -m "chore: refresh job radar"
+            git add JOBS.md FRESH.md
+            git commit -m "chore: refresh job radar + fresh shortlist"
             git push
           else
             echo "No new roles."
