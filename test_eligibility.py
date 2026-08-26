@@ -74,6 +74,17 @@ BLOCK_ELIGIBILITY = [
      "This position may be contingent upon verifying a candidate's residence, U.S. "
      "person status, and citizenship status, as this role involves technologies subject "
      "to U.S. export control regulations."),
+    # Energy Solutions, Greenhouse req 5201891007, first published 2026-08-26. The
+    # sentence never says "sponsorship", so every gate keyed on that word missed it and
+    # the req reached FRESH.md at tier B once per posted city — six rows on one morning.
+    # Duration is the tell: OPT plus a STEM extension is authorization with an end date,
+    # so "indefinitely" excludes him exactly as "no sponsorship, ever" would.
+    ("energy-solutions-indefinitely",
+     "Background Check Information. Information will be requested to perform the "
+     "compulsory background check. A drug screen and authorization to work in the U.S. "
+     "indefinitely are preconditions of employment."),
+    ("permanent-basis",
+     "Applicants must be authorized to work in the United States on a permanent basis."),
 ]
 
 

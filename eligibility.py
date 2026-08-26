@@ -113,7 +113,18 @@ SPONSORSHIP_REQUIRED = re.compile(
     r"(?:now or in the future|now and in the future|future)|"
     r"(?:will )?not (?:now or in the future )?requir\w*[^.\n]{0,40}sponsorship|"
     r"must not requir\w*[^.\n]{0,30}sponsorship|"
-    r"permanent(?:ly)? authoriz\w*[^.\n]{0,40}without[^.\n]{0,30}sponsorship)", re.I)
+    r"permanent(?:ly)? authoriz\w*[^.\n]{0,40}without[^.\n]{0,30}sponsorship|"
+    # Duration-phrased, and it never says "sponsorship" at all. Energy Solutions
+    # (Greenhouse req 5201891007, first published 2026-08-26): "A drug screen and
+    # authorization to work in the U.S. indefinitely are preconditions of
+    # employment." OPT plus a STEM extension is authorization with an end date,
+    # so "indefinitely" / "permanently" / "unrestricted" / "no end date" all mean
+    # the same disqualifying thing. Every gate above keyed on the word
+    # "sponsorship" and this req therefore reached FRESH.md at tier B, six times,
+    # once per posted city.
+    r"(?:authoriz|eligib)\w*[^\n]{0,60}\bwork\b[^\n]{0,60}"
+    r"(?:indefinitely|permanently|on a permanent basis|with no end date|"
+    r"without (?:any )?(?:time |duration )?restriction))", re.I)
 
 # Named exclusion of his visa category. Four real forms:
 # Quantcast "not currently able to engage candidates on OPT"; PNC "will not provide
