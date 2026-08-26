@@ -190,3 +190,31 @@ BRM
 Amerisure
 WeRide
 Praetorian
+
+# Merged 2026-08-26 from an 8-month Gmail ATS-confirmation scan
+# (greenhouse/ashby/lever/workday/icims/smartrecruiters/rippling senders).
+# The scan capped at 100 results, so treat it as a floor, not a census.
+Aurora
+CVS Health
+Cerebras
+Disney
+Exelixis
+Expedia
+Gumloop
+HPE
+InductiveHealth Informatics
+Interface.ai
+PostHog
+Reliance Inc
+Rivian VW Group Technologies
+Sentry
+Signify Health
+State Street
+T-Mobile
+Teladoc Health
+Trovy
+UCAR NCAR
+Urban Science
+Verizon
+WeRide.ai
+apexanalytix
