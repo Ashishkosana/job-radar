@@ -111,6 +111,16 @@ SPONSORSHIP_REQUIRED = re.compile(
     # Epic's "Eligible to work in the U.S. without visa sponsorship" unmatchable.
     r"((?:authoriz|eligib)\w*[^\n]{0,80}without[^\n]{0,40}sponsorship[^\n]{0,60}"
     r"(?:now or in the future|now and in the future|future)|"
+    # Same sentence, qualifier on the other side of the noun. Addepar (Greenhouse
+    # req 8733680002, 2026-08-25): "must be legally authorized to work in the
+    # United States for any employer without requiring current or future visa
+    # sponsorship (for example, employment-based visas such as H-1B , F-1 /OPT,
+    # or similar)". The alternative above only matched when the tense qualifier
+    # FOLLOWED "sponsorship", so this read as ELIGIBLE — on a posting that names
+    # F-1/OPT as the thing being excluded.
+    r"(?:authoriz|eligib)\w*[^\n]{0,80}without[^\n]{0,40}"
+    r"(?:current or future|future or current|now or in the future)"
+    r"[^\n]{0,40}sponsorship|"
     r"(?:will )?not (?:now or in the future )?requir\w*[^.\n]{0,40}sponsorship|"
     r"must not requir\w*[^.\n]{0,30}sponsorship|"
     r"permanent(?:ly)? authoriz\w*[^.\n]{0,40}without[^.\n]{0,30}sponsorship|"

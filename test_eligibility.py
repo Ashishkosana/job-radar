@@ -85,6 +85,16 @@ BLOCK_ELIGIBILITY = [
      "indefinitely are preconditions of employment."),
     ("permanent-basis",
      "Applicants must be authorized to work in the United States on a permanent basis."),
+    # Addepar, Greenhouse req 8733680002, 2026-08-25. Read as ELIGIBLE until 2026-08-26
+    # because the tense qualifier sits BEFORE the noun ("current or future visa
+    # sponsorship") and the gate only matched it after. The posting names F-1/OPT as an
+    # excluded category outright, so this was the worst possible false negative: the
+    # pipeline was one role away from applying to it.
+    ("addepar-current-or-future",
+     "Applicants must be legally authorized to work in the United States for any "
+     "employer without requiring current or future visa sponsorship (for example, "
+     "employment-based visas such as H-1B , F-1 /OPT, or similar), and must be "
+     "authorized to begin work in the U.S. promptly."),
 ]
 
 
