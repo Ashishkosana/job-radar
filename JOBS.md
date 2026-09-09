@@ -1,1845 +1,1851 @@
-# Job Radar — 1815 US software-engineering roles
+# Job Radar — 1821 US software-engineering roles
 
-_Aggregated from 1235 sources (company ATS boards + community new-grad listings + The Muse). US-only, non-senior, security-clearance roles excluded, newest first, older than 45 days dropped. Sponsorship not filtered._
+_Aggregated from 1236 sources (company ATS boards + community new-grad listings + The Muse). US-only, non-senior, security-clearance roles excluded, newest first, older than 45 days dropped. Sponsorship not filtered._
 
-## 🎓 Entry-Level / New Grad (326)
+## 🎓 Entry-Level / New Grad (332)
 
 | Company | Role | Location | Posted | Source | Link |
 |---|---|---|---|---|---|
 | Roblox | [2027] Software Engineer, Early Career | San Mateo, CA, United States | today | greenhouse | [apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
-| Wachter | Professional Services Junior Engineer | Mount Laurel, NJ | today | lever | [apply](https://jobs.lever.co/wachter/d6e087b3-90b6-447a-9b0d-fbe93f28c8a3) |
-| Nexthop.ai | Software Engineer New Grad - Hardware Diagnostics | Santa Clara, CA | today | SimplifyJobs | [apply](https://nexthopai.bamboohr.com/careers/107/) |
-| The Nuclear Company | AI Engineer 1 - Compliance, Quality & Testing | Washington, DC | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5286179008) |
-| The Nuclear Company | AI Engineer 1 - Platform Integration & AI/Data | Washington, DC  | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285585008) |
-| Stripe | Software Engineer, New Grad | San Francisco, Seattle, New York | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
-| Awetomaton | Junior Software Engineer (Full Stack) | Beavercreek, OH | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/awetomaton/jobs/5416716008) |
-| Breeze.cash | Full Stack Engineer - Junior | New York City, NY | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/breezecash/jobs/5412768008) |
-| Garner Health | Associate Software Engineer | New York City, New York | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004) |
-| General Dynamics Mission Systems | Entry Level Software Engineer | Lakewood, OH | 3d ago | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/73057/job?mobile=true&needsRedirect=false) |
-| HealthEdge | Associate Software Engineer | Boston, MA; Remote in USA | 3d ago | SimplifyJobs | [apply](https://careers-healthedge.icims.com/jobs/8440/job?mobile=true&needsRedirect=false) |
-| Spirit AeroSystems | Entry-Level Software Engineer | Wichita, KS | 3d ago | SimplifyJobs | [apply](https://careers.spiritaero.com/jobs/17433?icims=1) |
-| Johns Hopkins Applied Physics Laboratory | Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development | Laurel, MD | 3d ago | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59974?icims=1) |
-| Edgehog Trading | Graduate Software Engineer | Chicago, IL | 3d ago | SimplifyJobs | [apply](https://ats.rippling.com/edgehog-trading/jobs/0d6b0e5c-be84-4324-8ee3-b875504e01d8) |
-| Credence | Entry-Level AI Software Engineer | McLean, VA | 3d ago | SimplifyJobs | [apply](https://apply.workable.com/credence/j/BAD39E80E0/apply) |
-| Vestwell | Associate Software Engineer | Austin, TX | 3d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/vestwell/jobs/7983915003) |
-| ID.me | Software Development Engineer New Grad | Mountain View, CA | 3d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003) |
-| AiPrise | Software Engineer 1 | San Jose, CA | 3d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true) |
-| Scale AI | Software Engineer - New Grad | San Francisco, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
-| Accenture | Associate Software Engineer-Hire-to-Train Program (Pega) | Washington, DC | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006) |
-| Self Financial | Associate Software Engineer - UI | Austin, TX | 4d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/selffinancial/jobs/6181750004) |
-| Anduril | 2026 Early Career Software Engineer | Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) |
-| Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) |
-| Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) |
-| mthree | Junior Software Engineer | USA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006) |
-| Kikoff | Software Engineer New Grad | SF | 5d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/kikoff/jobs/4393822009) |
-| Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | 5d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) |
-| Trulioo | Junior Software Engineer | San Diego, CA | 5d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application?embed=true) |
-| SIFT | Software Engineer New Grad | Marina Del Rey, CA | 5d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application?embed=true) |
-| Cadence Design Systems | Software Engineer New Grad | San Jose, CA | 5d ago | SimplifyJobs | [apply](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738) |
-| Applied Materials | Software Engineer - New College Grad-Master's | Chandler, AZ | 5d ago | SimplifyJobs | [apply](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911) |
-| Valon | Software Engineer New Grad | New York | 6d ago | ashby | [apply](https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324) |
-| Five Rings Capital | Campus Full Time 2027 - Software Developer | New York | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008) |
-| General Matter | Software Engineer, New Grad | Los Angeles, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) |
-| Lila Sciences | Software Engineer I, Instrument Software | Cambridge, MA USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4186444009) |
-| Johns Hopkins Applied Physics Laboratory | Software Developer New Grad - Engagement Optimization | Laurel, MD | 6d ago | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59510?icims=1) |
-| Johns Hopkins Applied Physics Laboratory | Software Developer 2027 Graduate - Tactical System Prototyping and Deployment | Laurel, MD | 6d ago | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59558?icims=1) |
-| American Express | Software Engineer 1 Intern - Enterprise Technology Services | Phoenix, AZ | 6d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259) |
-| American Express | AI Engineer 1 - Enterprise Technology Services | Palo Alto, CA | 6d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013256) |
-| American Express | AI Engineer 1 - Graduate | Phoenix, AZ | 6d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255) |
-| InterSystems | Software Engineer Rotational Program - Early Career | Boston, MA | 6d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/intersystems/jobs/7827894003) |
-| Accenture | Associate Software Engineer - Pega | Washington, DC | 6d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006) |
-| Tebra | Software Engineer 1 - Back-End | Remote in USA | 6d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/tebra/jobs/4726985005) |
-| American Express | Software Engineer 1 - Enterprise Technology Services | NYC | 6d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796) |
-| Textron | Software Engineer 1 - Weapons | Wilmington, MA | 6d ago | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818) |
-| Sierra | Software Engineer, Agent (New Grad 2027) | San Francisco, CA | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00) |
-| Everlaw | Software Engineer I | Oakland, California, United States | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/everlaw/jobs/4705236006) |
-| Notability | Junior Engineer, Web Apps | San Francisco | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gingerlabsinc/jobs/4928821008) |
-| Katalyst Space Technologies | Recent Graduate - Software Engineer I | Broomfield, Colorado, United States | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/katalyst/jobs/6176710004) |
-| Twitch | Software Engineer I, Commerce Engineering | Seattle, WA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twitch/jobs/8459320002) |
-| Twitch | Software Engineer I, Discovery | San Francisco, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twitch/jobs/8623578002) |
-| Twitch | Software Engineer I, Memberships | San Francisco, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twitch/jobs/8748320002) |
-| Twitch | Software Engineer I, Payments | San Francisco, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twitch/jobs/8700578002) |
-| WhatNot | Software Engineer New Grad | Seattle, WA; SF; LA; NYC | 7d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true) |
-| Everlaw | Software Engineer 1 | Oakland, CA | 7d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/everlaw/jobs/4705236006) |
-| Sierra | Software Engineer New Grad - Agent | SF; NYC | 7d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00/application?embed=true) |
-| IXL Learning | Software Engineer New Grad | San Mateo, CA | 7d ago | SimplifyJobs | [apply](https://www.ixl.com/company/jobs?gh_jid=8765715002) |
-| Katalyst Space Technologies | Software Engineer New Grad - Software Engineer 1 | Broomfield, CO | 7d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/katalyst/jobs/6176710004) |
-| Textron | Software Engineer 1 - Electronic Systems | Hunt Valley, Cockeysville, MD | 7d ago | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666) |
-| Ciena | Software Developer New Grad | Atlanta, GA | 7d ago | SimplifyJobs | [apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608) |
-| General Motors | Entry Level Software Engineer | Milford, MI; Warren, MI | 7d ago | SimplifyJobs | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756) |
-| Vermeer | Embedded Software Engineer 1 - Engineering Development Program | Pella, IA | 7d ago | SimplifyJobs | [apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180) |
-| Chewy | Software Engineer 1 - WIZMO engineering team | Boston, MA; Bellevue, WA | 7d ago | SimplifyJobs | [apply](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Bellevue-WA/Software-Engineer-I_R30695-1) |
-| AeroVironment | Entry-Level Software Engineer - Specialized Exploitation & Targeting (SET) | Austin, TX | 7d ago | SimplifyJobs | [apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Austin-TX/Entry-Level-Software-Engineer_8600) |
-| Expedia Group | Software Development Engineer 1 | Seattle, WA | 7d ago | SimplifyJobs | [apply](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739-2) |
-| Clearwater Analytics | Associate Software Development Engineer | Boise, ID | 7d ago | SimplifyJobs | [apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Associate-Software-Development-Engineer_R12179) |
-| Motorola | Applied AI Engineer 1 - Supply Chain | Chicago, IL | 7d ago | SimplifyJobs | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Applied-AI-Engineer-I---Supply-Chain_R67371) |
-| SBT Global | Junior Web Developer - Bilingual in Korean | Englewood Cliffs, US | 8d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/sbtglobalinc/3743990014949716) |
-| LexisNexis Risk Solutions | Software Engineer New Grad - Risk Solutions Technology Graduate Program | Alpharetta, GA | 8d ago | SimplifyJobs | [apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617) |
-| RELX | Software Engineer New Grad | Alpharetta, GA | 8d ago | SimplifyJobs | [apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2) |
-| RELX | Software Engineer Graduate - Risk Solutions Technology | Boca Raton, FL | 8d ago | SimplifyJobs | [apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023) |
-| Nidec | Software Development Engineer 1 | St. Charles, IL | 8d ago | SimplifyJobs | [apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAIllinoisSt-Charles-IL/Software-Development-Engineer_R0017456) |
-| NVIDIA | AI Developer Technology Engineer New Grad - AI | Salt Lake City, UT; Austin, TX; Redmond, WA; Santa Clara, CA; Durham, NC; Boulder, CO | 8d ago | SimplifyJobs | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557) |
-| Alation | UX Software Engineer 1 - Contractor | Redwood City, CA | 8d ago | SimplifyJobs | [apply](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770) |
-| LexisNexis Risk Solutions | Software Engineer New Grad | Alpharetta, GA | 8d ago | SimplifyJobs | [apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1) |
-| Blue Origin | Avionics / Embedded Software Engineer 1 - 2027 Starts | Seattle, WA; LA; Cape Canaveral, FL; Kent, WA; Denver, CO; Huntsville, AL; Van Horn, TX | 8d ago | SimplifyJobs | [apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324) |
-| Blue Origin | Software Development Engineer 1 - Early Career - 2027 Starts | Seattle, WA; LA; Cape Canaveral, FL; Kent, WA; Denver, CO; Huntsville, AL | 8d ago | SimplifyJobs | [apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326) |
-| DefenseStorm | Junior Product Engineer - Software Engineer 1 | Alpharetta, GA; Atlanta, GA | 10d ago | SimplifyJobs | [apply](https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph | San Jose, CA | 10d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7679156878833682693) |
-| InstaLILY | Software Engineer I, General | New York, New York, United States, San Francisco, California, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/instalilyai/jobs/4271757009) |
-| Keysight Technologies | R&D Software Engineer Recent Graduate | Santa Rosa, CA | 11d ago | SimplifyJobs | [apply](https://jobs.keysight.com/jobs/54048?icims=1) |
-| Hewlett Packard Enterprise | Software Engineer Graduate | Andover, MA; Bloomington, MN; San Jose, CA; Spring, TX; Durham, NC; Westford, MA; Chippewa Falls, WI; Fort Collins, CO; Sunnyvale, CA; Roseville, CA | 11d ago | SimplifyJobs | [apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624) |
-| Barry-Wehmiller | Entry Level Software Engineer | Eau Claire, WI; Dallas, TX; Raleigh, NC; St. Louis, MO; Denver, CO | 11d ago | SimplifyJobs | [apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649) |
-| Nuro | Software Engineer, AI Platform - New Grad | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7351066) |
-| Relay | Associate Software Engineer, Embedded Development | Raleigh, NC | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/relaypro/jobs/7968124) |
-| V2X | Software Engineer 1 - Multiple Teams | Indianapolis, IN | 12d ago | SimplifyJobs | [apply](https://careers.gov2x.com/jobs/62655?icims=1) |
-| Garmin | Software Engineer 1 - Aviation Backend Web | Chanhassen, MN | 12d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/19732?icims=1) |
-| Ontic | Associate Software Engineer - Full Stack | Austin, TX | 12d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/Ontic/d50b6bea-876f-43fc-afb9-716efe9eca02/application?embed=true) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Video | Seattle, WA | 12d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7678145401619237173) |
-| L3Harris Technologies | Associate Software Engineer | Colorado Springs, CO | 12d ago | SimplifyJobs | [apply](https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1423789000/?ats=successfactors) |
-| ASM International | Software Engineer - Early Career - Fall 2026 | Phoenix, AZ | 12d ago | SimplifyJobs | [apply](https://www.asm.com/open-vacancies/?gh_jid=4876722101) |
-| Sierra Nevada Corporation | Software Engineer 1 | Lone Tree, CO; Dayton, OH; Plano, TX | 12d ago | SimplifyJobs | [apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526) |
-| Embedding VC | AI Engineer (Early Career) | San Francisco Bay Area | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1) |
-| Solace Health | Associate Platform Engineer (College Grad 2027) | Redwood City, CA | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd) |
-| Zip | Software Engineer, New Grad (2027 Start) | San Francisco | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea) |
-| True Anomaly | Flight Software Engineer I (New Grad) | Denver, CO or Long Beach, CA  | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007) |
-| True Anomaly | Software Engineer I, Data Science (New Grad) | Denver, CO or Long Beach, CA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007) |
-| True Anomaly | Software Engineer I, Full Stack (New Grad) | Denver, CO or Long Beach, CA  | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007) |
-| True Anomaly | Software Engineer I, Perception (New Grad) | Denver, CO or Long Beach, CA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007) |
-| True Anomaly | Software Engineer I, QA (New Grad) | Denver, CO or Long Beach, CA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007) |
-| True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | Denver, CO or Long Beach, CA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007) |
-| Alarm.com | Embedded Software Engineer 1 | Tysons, VA | 13d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/alarmcom/jobs/8622530002) |
-| Maximor AI | Software Engineer New Grad | NYC | 13d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true) |
-| True Anomaly | Software Engineer 1 New Grad - Spacecraft Simulation | Long Beach, CA; Denver, CO | 13d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007) |
-| True Anomaly | Flight Software Engineer 1 New Grad | Long Beach, CA; Denver, CO | 13d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007) |
-| True Anomaly | Data Science Software Engineer 1 New Grad - Data Science | Long Beach, CA; Denver, CO | 13d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007) |
-| PayIt | Associate Software Engineer | Kansas City, MO | 13d ago | SimplifyJobs | [apply](https://payitgov.com/careers-list?gh_jid=7975853003) |
-| True Anomaly | Software Engineer 1 New Grad - Perception | Long Beach, CA; Denver, CO | 13d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007) |
-| NewRocket | AI Engineer Graduate Level | Remote in USA | 13d ago | SimplifyJobs | [apply](https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004) |
-| The Voleon Group | Software Engineer - University Hire 2027 | Berkeley, CA | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c) |
-| Freeform | Software Engineer (New Grad December 2026) | Los Angeles, CA (On-site) | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003) |
-| Freeform | Software Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003) |
-| Metron | Associate Software Engineer | Reston, VA | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/metron/jobs/5211456007) |
-| SteerBridge | Junior Software Engineer | Vienna, VA | 14d ago | SimplifyJobs | [apply](https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply) |
-| Hardin Design | Entry-Level Web Developer | Madison, WI | 14d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/HardinDesign/744000145322155) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - PhD | Seattle, WA | 14d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7676650760662157621) |
-| ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD | San Jose, CA | 14d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7675473897004861749/detail) |
-| Google | Software Engineer Early Career - Multiple Teams | Madison, WI; Seattle, WA; Austin, TX; LA; Raleigh, NC; San Bruno, CA; Durham, NC; Kirkland, WA; NYC; Sunnyvale, CA; Mountain View, CA; Atlanta, GA | 15d ago | SimplifyJobs | [apply](https://www.google.com/about/careers/applications/jobs/results/84680705375642310) |
-| Nightwing Intelligence Solutions | Software Engineer 1 | Sterling, VA | 15d ago | SimplifyJobs | [apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958) |
-| Caris | Associate Software Engineer - Clinical Software Products | Irving, TX | 15d ago | SimplifyJobs | [apply](https://wd12.myworkdaysite.com/recruiting/carislifesciences/CLS/job/Irving-TX---75039/Associate-Software-Engineer_JR105464) |
-| General Dynamics Mission Systems | Software Engineer - Entry Level | Manassas, VA | 17d ago | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false) |
-| ConstructConnect | Associate Software Engineer - Product Development | Atlanta, GA | 17d ago | SimplifyJobs | [apply](https://careers-constructconnect.icims.com/jobs/2191/job?mobile=true&needsRedirect=false) |
-| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD | 19d ago | lever | [apply](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea) |
-| SpaceX | Software Engineer New Grad - Software - Application Software | Hawthorne, CA | 19d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/spacex/jobs/8730567002) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent | Seattle, WA | 19d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7675842865566222597) |
-| TikTok | Graduate Software Engineer - TikTok Search Data Infra | San Jose, CA | 19d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7675829388634392837) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics | San Jose, CA | 19d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7675844938504702213) |
-| TikTok | Machine Learning Engineer Graduate - Multiple Teams | San Jose, CA | 19d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7675841339440941317) |
-| Tax Relief Advocates | Junior Machine Learning Engineer | Irvine, CA | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008) |
-| Waymark | Junior Software Engineer | US - Remote | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/waymark/jobs/4711827005) |
-| Koah | Software Engineer - Early Career | SF | 20d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application?embed=true) |
-| Dark Wolf Solutions | Junior AI Software Engineer | Chantilly, VA; Herndon, VA | 20d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003) |
-| Astrion | Junior Software Developer - Datalinks Test Flight | Eglin AFB, FL | 20d ago | SimplifyJobs | [apply](https://careers.astrion.us/jobs/24705?icims=1) |
-| ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control | San Jose, CA | 20d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7675477660855781637/detail) |
-| ByteDance | Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform | San Jose, CA | 20d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7673632479987992837/detail) |
-| Talroo | Associate Software Engineer | Austin, TX | 21d ago | SimplifyJobs | [apply](https://www.talroo.com/careers/apply/?gh_jid=1003689) |
-| Marlabs | Entry Level Programmer / Developer | Piscataway, NJ | 21d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/MarlabsInc1/82334887) |
-| Marlabs | Entry Level Programmer Analyst | Piscataway, NJ | 21d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/MarlabsInc1/83216249) |
-| Notion | Software Engineer, New Grad (Dec 2026) | San Francisco, California | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) |
-| SpaceX | Software Engineer New Grad - Software | Redmond, WA | 24d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/spacex/jobs/8696058002) |
-| SpaceX | Software Engineer New Grad - Software - Starlink | Palo Alto, CA | 24d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/spacex/jobs/8696080002) |
-| WeRide | Software Engineer New Grad - Algorithm | San Jose, CA | 24d ago | SimplifyJobs | [apply](https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply) |
-| TikTok | Software Engineer Graduate - Ads Infra | San Jose, CA | 24d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7673409179353139461) |
-| Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI; Sunnyvale, CA | 24d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true) |
-| Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL | 24d ago | SimplifyJobs | [apply](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) |
-| Notion | Software Engineer New Grad | SF | 24d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application?embed=true) |
-| Applied Intuition | Embedded Software Engineer New Grad | Sunnyvale, CA | 24d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true) |
-| Muon Space | Software Engineer, Entry-Level | San Jose, CA | 25d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5204498007) |
-| DecisionPoint Corporation | Entry-level Software Developer | Remote in USA | 25d ago | SimplifyJobs | [apply](https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false) |
-| Composio | Fullstack Engineer New Grad - Product Team | SF | 25d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true) |
-| TikTok | Software Engineer Graduate - Media Engine | San Jose, CA | 25d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7673667938889009461) |
-| ByteDance | Multi-Cloud CDN Platform Engineer Graduate - CDN Platform | Seattle, WA | 25d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7670355132899526965/detail) |
-| ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Graduate - CDN Platform | Seattle, WA | 25d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7673626856724023557/detail) |
-| impact.com | Associate Software Engineer | Santa Barbara, CA | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/impact/jobs/8645964002) |
-| Integration Innovation (i3) | Associate Software Developer - COMPASS | Huntsville, AL | 26d ago | SimplifyJobs | [apply](https://careers-i3-corps.icims.com/jobs/5211/job?mobile=true&needsRedirect=false) |
-| TikTok | Graduate Software Engineer - Media Engine | San Jose, CA | 26d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670367152357673221) |
-| TikTok | Software Engineer Graduate - Foundation Platform | San Jose, CA | 26d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670276769459456309) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Governance - PhD | Seattle, WA | 26d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672928557537954053) |
-| TikTok | Backend Software Engineer Graduate - Creation Platform | San Jose, CA | 26d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670292836050422021) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Governance | San Jose, CA | 26d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672928557539002629) |
-| TikTok | Software Engineer Graduate - Video-on-Demand Algorithm | San Jose, CA | 26d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670282906426476853) |
-| Uniswap | Software Engineer - Early Career | NYC | 26d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012/application?embed=true) |
-| TikTok | Backend Software Engineer New Grad - Creator Strategy | San Jose, CA | 26d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672976491146004741) |
-| TikTok | Software Engineer Graduate - Recommendation Architecture - Feeds Infrastructure | Seattle, WA | 26d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672530785573980421) |
-| Panasonic Holdings | Software Engineer 1 - Embedded Systems | Irvine, CA | 26d ago | SimplifyJobs | [apply](https://careers.na.panasonic.com/jobs/50269?icims=1) |
-| TikTok | Software Engineer Graduate - Recommendation Infrastructure | San Jose, CA | 26d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7673284715407886597) |
-| Dexcom | Software Development Engineer 1 | Remote in USA | 26d ago | SimplifyJobs | [apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540) |
-| Kyndryl | Associate AI Engineer - Early Career Consult Program | Dallas, TX | 26d ago | SimplifyJobs | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739) |
-| Lennar | Software Engineer 1 | Miami, FL; Irving, TX | 26d ago | SimplifyJobs | [apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608) |
-| ByteDance | Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate | Seattle, WA | 27d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7672392998189959429/detail) |
-| ByteDance | Agent Evaluation and Evolution Machine Learning Engineer Graduate - Applied Machine Learning Ark | Seattle, WA | 27d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7672391016194066693/detail) |
-| Marriott International | Associate Software Engineer - Mobile - iOS | Bethesda, MD; United States | 27d ago | SimplifyJobs | [apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26099783) |
-| Marriott International | Associate Software Engineer - Android - Mobile | Bethesda, MD; United States | 27d ago | SimplifyJobs | [apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26099780) |
-| 9to9 Software Solutions | Entry Level Software Developer | Copperhill, TN | 27d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - PhD | Seattle, WA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672883737036654853) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672882500030138629) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD | Seattle, WA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672877778696407301) |
-| TikTok | AI Infrastructure Engineer Graduate - Recommendation & LLM | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672654026594093317) |
-| ByteDance | Video/Image AI/ML Software Engineer Graduate - Multimedia | San Diego, CA | 27d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7670354624860703029/detail) |
-| TikTok | Software Engineer Graduate - Recommendation | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672517471946000645) |
-| TikTok | Machine Learning Engineer Graduate - TikTok Vertical Recommendation | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672532275557583157) |
-| TikTok | Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672532801686571317) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Mall | Seattle, WA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672911151560296709) |
-| Resmed | Associate Software Engineer - Digital Product Engineering - Internet-of-Things | San Diego, CA | 27d ago | SimplifyJobs | [apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053125) |
-| Lennar Corporation | Software Engineer 1 | Miami, FL | 27d ago | SimplifyJobs | [apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523) |
-| DV Trading | 2027 Graduate Software Engineer (DV Commodities) | New York | 28d ago | greenhouse | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719126005) |
-| ByteDance | Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate - Applied Machine Learning Ark | San Jose, CA | 28d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7671102043532462389/detail) |
-| DV Trading | Graduate Software Engineer - DV Commodities | NYC | 28d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719126005) |
-| SZNS Solutions | Entry-Level Software Engineer | Reston, VA | 28d ago | SimplifyJobs | [apply](https://apply.workable.com/szns/j/D24DE0E111/apply) |
-| Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, US | 29d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/wjcompany/744000142693899) |
-| Cummins | Software Engineer 1 | United States | 29d ago | SimplifyJobs | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164) |
-| Teledyne | Junior Software Engineer | Huntsville, AL | 29d ago | SimplifyJobs | [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188) |
-| Blue Origin | Software Development Engineer 1 - Early Career | Seattle, WA | 29d ago | SimplifyJobs | [apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051) |
-| Blue Origin | Avionics / Embedded Software Engineer 1 - Early Career | LA; Kent, WA | 29d ago | SimplifyJobs | [apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055) |
-| Freeform | Software Engineer New Grad | LA | 31d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003) |
-| ByteDance | Software Development Engineer Graduate - Intent-Based Networking | San Jose, CA | 31d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7671145911004842245/detail) |
-| Atoms | Software Engineer New Grad | Seattle, WA; SF; LA; NYC; Mountain View, CA | 32d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8687930002) |
-| Veeva Systems | Associate Software Engineer - Engineering Development Program | Columbus, OH | 32d ago | SimplifyJobs | [apply](https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply) |
-| Veeva Systems | Associate Software Engineer | Pleasanton, CA | 32d ago | SimplifyJobs | [apply](https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply) |
-| TikTok | Backend Software Engineer Graduate - Data Lifecycle Management | San Jose, CA | 32d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670391173613160757) |
-| TikTok | Backend Software Engineer Graduate - Privacy and Security - Product | San Jose, CA | 32d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670387719826786565) |
-| InterImage | Full Stack Developer - Entry/Associate Level | Columbia, MD | 32d ago | SimplifyJobs | [apply](https://apply.workable.com/interimage/j/8DBD237A8E/apply) |
-| TP-Link Systems | Early Career Embedded Software Engineer | Irvine, CA | 32d ago | SimplifyJobs | [apply](https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply) |
-| ByteDance | LLM Backend Engineer Graduate - Applied Machine Learning | San Jose, CA | 32d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667730992538585349/detail) |
-| ByteDance | Machine Learning Engineer Graduate - Agent Evaluation & Evolution | San Jose, CA | 32d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7670932427485186309/detail) |
-| Google | Software Engineer - Campus | Cambridge, MA; Seattle, WA; LA; San Jose, CA; San Bruno, CA; Pittsburgh, PA; Kirkland, WA; NYC; Sunnyvale, CA; Mountain View, CA | 32d ago | SimplifyJobs | [apply](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) |
-| TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Graduate - Data-Arch-Tiktok Live | San Jose, CA | 32d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670876337129425205) |
-| Nooks | Software Engineer, New Grad | San Francisco | 33d ago | ashby | [apply](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53) |
-| Roblox | Software Engineer - Early Career | San Mateo, CA | 33d ago | SimplifyJobs | [apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
-| TikTok | Software Engineer Graduate - Multiple Teams | Seattle, WA | 33d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668582086900680965) |
-| TikTok | Software Engineer Graduate - Global E-commerce-Search - 2027 Start | Seattle, WA | 33d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670558992960358661) |
-| TikTok | Software Engineer Graduate - Data Arch - E-commerce | Seattle, WA | 33d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668582542044072245) |
-| TikTok | Graduate Software Engineer - Global CRM | San Jose, CA | 33d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668554579301124357) |
-| ByteDance | AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD | San Jose, CA | 33d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7668862426676775173/detail) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance | San Jose, CA | 33d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669908897587824949) |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Live | Seattle, WA | 33d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670285949553707317) |
-| ByteDance | Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering | San Jose, CA | 33d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7669859743775000885/detail) |
-| ByteDance | Machine Learning Backend Engineer Graduate - AML MLDev | San Jose, CA | 33d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7669791940490168629/detail) |
-| Garmin | Embedded Software Engineer 1 | Chandler, AZ | 33d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/19134?icims=1) |
-| Salesforce | Software Engineer College Grad | Palo Alto, CA; Seattle, WA; Indianapolis, IN; SF; Dallas, TX; Bellevue, WA | 33d ago | SimplifyJobs | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) |
-| Quora | New Grad: Software Engineer | Remote | 33d ago | vanshb03-2027 | [apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) |
-| Gen Digital | AI & Machine Learning Engineer I | USA - Mountain View, CA | 34d ago | ashby | [apply](https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf) |
-| Asure | Associate Software Engineer | Atlanta, GA | 34d ago | SimplifyJobs | [apply](https://asuresoftware.bamboohr.com/careers/1053/) |
-| SimpliSafe | Software Engineer I- User Systems | Boston, MA | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/simplisafe/jobs/8095181) |
-| Belvedere Trading | Software Engineer - Entry Level 2027 | Chicago, Illinois | 35d ago | lever | [apply](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f) |
-| SOCOTEC Global | Junior Software Engineer | New York, US | 35d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/socotec/744000141326319) |
-| Pariveda Solutions | Entry Level Software Engineer | Seattle, WA; Houston, TX; SF; LA; Dallas, TX; Philadelphia, PA; Chicago, IL; NYC; Atlanta, GA | 35d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true) |
-| SimpliSafe | Software Engineer 1 - User Systems | Boston, MA | 35d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/simplisafe/jobs/8095181) |
-| TikTok | Frontend Software Engineer Graduate - Global CRM | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668561079544154373) |
-| TikTok | Machine Learning Engineer Graduate - Data Search Recommendation Global E-Commerce | Seattle, WA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668384123840514309) |
-| TikTok | Graduate Software Engineer - Transaction Platform | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668557209047894325) |
-| TikTok | Frontend Software Engineer New Grad - Ads Interface | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668569995571726597) |
-| TikTok | Graduate Software Engineer - Ads Interface | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668855346857019701) |
-| TikTok | Machine Learning Engineer Graduate - Tiktok Content Ecology | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668838052657678597) |
-| TikTok | Machine Learning Engineer Graduate - App Ads and Gaming | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669709290431236357) |
-| TikTok | Machine Learning Engineer New Grad - Search Ads | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669698543896054069) |
-| TikTok | Software Engineer New Grad - Ads Infrastructure | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668879883938203957) |
-| TikTok | Graduate Machine Learning Engineer | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669702699627661573) |
-| TikTok | Machine Learning Engineer Graduate - Performance Monetization | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669691057987520773) |
-| TikTok | Backend Engineer Graduate - User Growth | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665986019233958197) |
-| TikTok | Backend Software Engineer Graduate - Global E-commerce | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668824169648097541) |
-| TikTok | AI Engineer Graduate - Client Architecture - 2027 Start | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7664978367107713333) |
-| TikTok | Mobile Software Engineer Graduate - Global E-commerce | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668831181590513925) |
-| TikTok | Backend Software Engineer Graduate - Digital Content Center | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668843238309824773) |
-| TikTok | Backend Engineer Graduate | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665989305914984709) |
-| TikTok | Machine Learning Engineer New Grad - Performance Monetization | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669691374918011141) |
-| TikTok | Frontend Software Engineer Graduate - Global E-commerce | Seattle, WA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668828193675036981) |
-| TikTok | Graduate Software Engineer | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668566347702569269) |
-| TikTok | Machine Learning Engineer Graduate - Commerce Ads - 2027 Start | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669711968024430853) |
-| TikTok | Machine Learning Engineer Graduate - Ads Signal & Measurement | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669700358734170373) |
-| TikTok | Graduate Software Engineer - Global Live | San Jose, CA | 35d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668845522007722245) |
-| Lightfield | Software Engineer, Infrastructure (Early Career) | Cambridge, MA | 36d ago | ashby | [apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
-| Retell AI | Software Engineer (New Grad) | San Francisco Bay Area | 36d ago | ashby | [apply](https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463) |
-| Lightfield | Early Career Infrastructure Software Engineer | Cambridge, MA; Boston, MA | 36d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application?embed=true) |
-| Walgreens | Software Engineer 1 - Java | Deerfield, IL | 36d ago | SimplifyJobs | [apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141) |
-| HarmonyTech | Junior Software Developer - .NET | Herndon, VA | 36d ago | SimplifyJobs | [apply](https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET) |
-| EAi Technologies | Physics/Math Graduate Software Developer | Vienna, VA | 36d ago | SimplifyJobs | [apply](https://eaiti.applytojob.com/apply/04bnB7a43f/PhysicsMath-Graduate-Entry-Level-Software-Developer) |
-| EAi Technologies | Entry Level Software Developer | Vienna, VA | 36d ago | SimplifyJobs | [apply](https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer) |
-| EAi Technologies | Entry Level .NET Software Developer | Vienna, VA | 36d ago | SimplifyJobs | [apply](https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer) |
-| TikTok | Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668701834807101749) |
-| TikTok | Backend Software Engineer Graduate - Risk & Response | Seattle, WA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663032057264244997) |
-| TikTok | Machine Learning Engineer Graduate | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665797203155896581) |
-| TikTok | Backend Software Engineer New Grad - Trust & Safety | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665994926887291189) |
-| TikTok | Machine Learning Engineer New Grad - Search Quality | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665793152026740997) |
-| TikTok | Software Engineer New Grad - Ads Measurement Signal Technology | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668717356843977013) |
-| TikTok | Machine Learning Engineer New Grad - Data Search Visual Search | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7667349591747758341) |
-| TikTok | Backend Software Engineer New Grad - Emerging Products & AI Safety | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663036952090347829) |
-| TikTok | Backend Software Engineer New Grad - Feed Safety | Seattle, WA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663028952600807733) |
-| TikTok | Backend Software Engineer Graduate - Business Governance | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663042453461600517) |
-| TikTok | Machine Learning Engineer Graduate - Data Search Basic Ranking | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7667344111675246901) |
-| TikTok | Software Engineer New Grad - Quality and Efficiency Technology | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668680253677504821) |
-| TikTok | Machine Learning Engineer New Grad - Data-Global E-Commerce-Search | Seattle, WA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668389759463393589) |
-| TikTok | Machine Learning Engineer New Grad | Seattle, WA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668376903708281141) |
-| TikTok | Machine Learning Engineer Graduate - Ads Delivery | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668660365135808821) |
-| TikTok | Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668592348941273349) |
-| TikTok | Software Engineer New Grad - Ads Signal & Measurement | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668724383120804149) |
-| TikTok | Machine Learning Engineer Graduate - Brand Ads | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668698260232702261) |
-| TikTok | Machine Learning Engineer Graduate - Ads Targeting | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668629846058223877) |
-| TikTok | Software Engineer New Grad - Business Integrity | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668592494649690421) |
-| TikTok | Software Engineer Graduate - MLOps | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668700671828707589) |
-| TikTok | Software Engineer Graduate - Ads Delivery | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668662545059023157) |
-| TikTok | Machine Learning Engineer New Grad - E-Commerce Search | Seattle, WA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668390999147776309) |
-| TikTok | Machine Learning Engineer Graduate - Ads Creative | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668669015051405573) |
-| Retell AI | Software Engineer New Grad - Founders Initiatives | SF; Redwood City, CA | 36d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application?embed=true) |
-| ByteDance | Backend Software Engineer Graduate - Platform | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667269919588321541/detail) |
-| ByteDance | Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling | Seattle, WA | 36d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7668799020705679669/detail) |
-| ByteDance | Software Engineer Graduate - AI Infrastructure Compute | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667334059728341253/detail) |
-| ByteDance | Software Engineer New Grad - AI Infra Compute | Seattle, WA | 36d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667303429264115973/detail) |
-| ByteDance | Backend and Infrastructure Software Engineer New Grad - Dev Infra | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667894766036322565/detail) |
-| ByteDance | Test Software Engineer Graduate - Research and Development Middle Platform | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7664894974764828981/detail) |
-| Universal Health Services | Associate Software Engineer - FSI | King of Prussia, PA | 36d ago | SimplifyJobs | [apply](https://jobs.uhsinc.com/jobs/362176?icims=1) |
-| TikTok | Machine Learning Engineer Graduate - Trust and Safety | Seattle, WA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665994926854555909) |
-| TikTok | Machine Learning Engineer New Grad - Trust and Safety | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665991852209932597) |
-| TikTok | Machine Learning Engineer New Grad - Recommendation | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663389745178757429) |
-| Texas Sports Academy | Junior AI Software Engineer | Austin, TX | 36d ago | SimplifyJobs | [apply](https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply) |
-| TikTok | AI Infrastructure Engineer Graduate - Algorithm Infrastructure - PhD | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7664534268139571509) |
-| TikTok | Machine Learning Infrastructure Engineer New Grad - Ads Infra | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668693662561634613) |
-| Garmin | Software Engineer 1 - Embedded Aviation | Olathe, KS | 37d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/18513?icims=1) |
-| Quora | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | Remote - Multiple Locations | 38d ago | ashby | [apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) |
-| NewsBreak | Software Engineer, ML Infra (Junior & New Grad) | Mountain View, California, United States | 38d ago | greenhouse | [apply](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
-| NewsBreak | Software Engineer Junior New Grad - ML Infra | Mountain View, CA | 38d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
-| Garmin | Software Engineer 1 - Connect IQ Applications | Olathe, KS | 38d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/18475?icims=1) |
-| Garmin | Software Engineer 1 - Web Development/Applications | Olathe, KS | 38d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/18510?icims=1) |
-| Garmin | Software Engineer 1 | Olathe, KS | 38d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/19098?icims=1) |
-| Noblis | Junior Software Developer | Reston, VA | 38d ago | SimplifyJobs | [apply](https://careers.noblis.org/jobs/27467?icims=1) |
-| Cisco | Software Engineer 1 | San Jose, CA | 38d ago | vanshb03-2027 | [apply](https://careers.cisco.com/global/en/job/1449197) |
-| Confido | New Grad Software Engineer | NYC Office | 39d ago | ashby | [apply](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e) |
-| Nexxen | Software Engineer 1 - DSP Runtime | New York, NY | 39d ago | ashby | [apply](https://jobs.ashbyhq.com/nexxen/53cbef54-13b1-4539-9a18-bdd0c3431d32) |
-| Cadence Design Systems | Application Software Developer New Grad | Livonia, MI | 39d ago | SimplifyJobs | [apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3) |
-| Cadence Design Systems | Multibody Dynamics Application Software Developer New Grad - Adams | Livonia, MI | 39d ago | SimplifyJobs | [apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788) |
-| Appian | New Grad 2027: Software Engineer | McLean, VA | 39d ago | vanshb03-2027 | [apply](https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-) |
-| Handshake | Software Engineer I, Handshake AI | San Francisco, CA | 40d ago | ashby | [apply](https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3) |
-| Oracle | Systems Software Engineer 1 | United States | 40d ago | SimplifyJobs | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728) |
-| Amerisure | Software Engineer 1 | Southfield, MI | 40d ago | SimplifyJobs | [apply](https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063) |
-| Crusoe | Software Engineer I, Storage | San Francisco, CA - US | 41d ago | ashby | [apply](https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02) |
-| Crusoe | Software Engineer 1 - Storage | SF | 41d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02/application?embed=true) |
-| Texas Sports Academy | Junior Software Engineer - AI-Forward | Austin, TX | 41d ago | SimplifyJobs | [apply](https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply) |
-| Color | Software Engineer, New Grad 2026 | South San Francisco, California | 42d ago | ashby | [apply](https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96) |
-| NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, California, United States | 42d ago | greenhouse | [apply](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006) |
-| Textron | Software Engineer 1 - Sea Systems | Sparks, MD | 42d ago | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975) |
-| RunSybil | Software Engineer 1 | NYC | 42d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application?embed=true) |
-| NewsBreak | Applied AI Engineer New Grad - Advertising Agents | Mountain View, CA | 42d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006) |
-| Color | Software Engineer New Grad | San Bruno, CA | 42d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true) |
-| RunSybil | Software Engineer I | New York City | 43d ago | ashby | [apply](https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59) |
-| Pattern Data | Software Engineer (Entry) | Richmond, VA | 43d ago | greenhouse | [apply](https://job-boards.greenhouse.io/patterndata/jobs/5196699007) |
-| Katalyst Space Technologies | Software Engineer I, Modeling and Simulation | Broomfield, Colorado, United States | 45d ago | greenhouse | [apply](https://job-boards.greenhouse.io/katalyst/jobs/6115352004) |
+| Handshake | Software Engineer I, Quality | San Francisco, CA | today | ashby | [apply](https://jobs.ashbyhq.com/handshake/2f936add-3a94-48d9-9759-90c1e2c64d3e) |
+| Kustomer | Software Engineer, Full Stack (Early Career) | US - New York, NY | today | ashby | [apply](https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817) |
+| Clarity Innovations | Junior Software Engineer Internship | Herndon, VA | today | greenhouse | [apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) |
+| Tax Relief Advocates | Junior Machine Learning Engineer | Irvine, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008) |
+| The Nuclear Company | AI Engineer 1 - Compliance, Quality & Testing | Washington, DC | today | greenhouse | [apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5286179008) |
+| The Nuclear Company | AI Engineer 1 - Platform Integration & AI/Data | Washington, DC  | today | greenhouse | [apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285585008) |
+| True Anomaly | Software Engineer I, Elixir (New Grad) | Denver, CO or Long Beach, CA  | today | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007) |
+| Veolia | Junior Manufacturing Software Engineer | Boulder, US | today | smartrecruiters | [apply](https://jobs.smartrecruiters.com/veoliaenvironnementsa/744000148551520) |
+| True Anomaly | Software Engineer 1 New Grad - Elixir | Long Beach, CA; Denver, CO | today | SimplifyJobs | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007) |
+| SpaceX | Software Engineer New Grad - Software - Starship | Hawthorne, CA | today | SimplifyJobs | [apply](https://boards.greenhouse.io/spacex/jobs/8743362002) |
+| Demiurge Studios | Associate Software Engineer | Remote in USA | today | SimplifyJobs | [apply](https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035/apply) |
+| CTG | Software Engineer 1 | Painted Post, NY | today | SimplifyJobs | [apply](https://careers.ctg.com/jobs/17557?icims=1) |
+| Johns Hopkins Applied Physics Laboratory | Graduate Software Engineer - Multiple Teams | Laurel, MD | today | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59653?icims=1) |
+| Wachter | Professional Services Junior Engineer | Mount Laurel, NJ | 1d ago | lever | [apply](https://jobs.lever.co/wachter/d6e087b3-90b6-447a-9b0d-fbe93f28c8a3) |
+| Nexthop.ai | Software Engineer New Grad - Hardware Diagnostics | Santa Clara, CA | 1d ago | SimplifyJobs | [apply](https://nexthopai.bamboohr.com/careers/107/) |
+| AeroVironment | Software Engineer 1 | Sunrise, FL | 1d ago | SimplifyJobs | [apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I_8682) |
+| Zebra Technologies | Software Engineer 1 - Fullstack | Holtsville, NY | 1d ago | SimplifyJobs | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Software-Engineer--I--Fullstack-_JR103057) |
+| Stripe | Software Engineer, New Grad | San Francisco, Seattle, New York | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
+| Awetomaton | Junior Software Engineer (Full Stack) | Beavercreek, OH | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/awetomaton/jobs/5416716008) |
+| Breeze.cash | Full Stack Engineer - Junior | New York City, NY | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/breezecash/jobs/5412768008) |
+| Garner Health | Associate Software Engineer | New York City, New York | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004) |
+| General Dynamics Mission Systems | Entry Level Software Engineer | Lakewood, OH | 4d ago | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/73057/job?mobile=true&needsRedirect=false) |
+| Spirit AeroSystems | Entry-Level Software Engineer | Wichita, KS | 4d ago | SimplifyJobs | [apply](https://careers.spiritaero.com/jobs/17433?icims=1) |
+| Johns Hopkins Applied Physics Laboratory | Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development | Laurel, MD | 4d ago | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59974?icims=1) |
+| Edgehog Trading | Graduate Software Engineer | Chicago, IL | 4d ago | SimplifyJobs | [apply](https://ats.rippling.com/edgehog-trading/jobs/0d6b0e5c-be84-4324-8ee3-b875504e01d8) |
+| Credence | Entry-Level AI Software Engineer | McLean, VA | 4d ago | SimplifyJobs | [apply](https://apply.workable.com/credence/j/BAD39E80E0/apply) |
+| Vestwell | Associate Software Engineer | Austin, TX | 4d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/vestwell/jobs/7983915003) |
+| ID.me | Software Development Engineer New Grad | Mountain View, CA | 4d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003) |
+| AiPrise | Software Engineer 1 | San Jose, CA | 4d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true) |
+| Scale AI | Software Engineer - New Grad | San Francisco, CA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
+| Accenture | Associate Software Engineer-Hire-to-Train Program (Pega) | Washington, DC | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006) |
+| Self Financial | Associate Software Engineer - UI | Austin, TX | 5d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/selffinancial/jobs/6181750004) |
+| Anduril | 2026 Early Career Software Engineer | Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) |
+| Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) |
+| Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) |
+| mthree | Junior Software Engineer | USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006) |
+| Kikoff | Software Engineer New Grad | SF | 6d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/kikoff/jobs/4393822009) |
+| Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | 6d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) |
+| Trulioo | Junior Software Engineer | San Diego, CA | 6d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application?embed=true) |
+| SIFT | Software Engineer New Grad | Marina Del Rey, CA | 6d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application?embed=true) |
+| Cadence Design Systems | Software Engineer New Grad | San Jose, CA | 6d ago | SimplifyJobs | [apply](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738) |
+| Applied Materials | Software Engineer - New College Grad-Master's | Chandler, AZ | 6d ago | SimplifyJobs | [apply](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911) |
+| Valon | Software Engineer New Grad | New York | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324) |
+| Five Rings Capital | Campus Full Time 2027 - Software Developer | New York | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008) |
+| General Matter | Software Engineer, New Grad | Los Angeles, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) |
+| Lila Sciences | Software Engineer I, Instrument Software | Cambridge, MA USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4186444009) |
+| Johns Hopkins Applied Physics Laboratory | Software Developer New Grad - Engagement Optimization | Laurel, MD | 7d ago | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59510?icims=1) |
+| Johns Hopkins Applied Physics Laboratory | Software Developer 2027 Graduate - Tactical System Prototyping and Deployment | Laurel, MD | 7d ago | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59558?icims=1) |
+| American Express | Software Engineer 1 Intern - Enterprise Technology Services | Phoenix, AZ | 7d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259) |
+| American Express | AI Engineer 1 - Enterprise Technology Services | Palo Alto, CA | 7d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013256) |
+| American Express | AI Engineer 1 - Graduate | Phoenix, AZ | 7d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255) |
+| InterSystems | Software Engineer Rotational Program - Early Career | Boston, MA | 7d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/intersystems/jobs/7827894003) |
+| Accenture | Associate Software Engineer - Pega | Washington, DC | 7d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006) |
+| Tebra | Software Engineer 1 - Back-End | Remote in USA | 7d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/tebra/jobs/4726985005) |
+| American Express | Software Engineer 1 - Enterprise Technology Services | NYC | 7d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796) |
+| Textron | Software Engineer 1 - Weapons | Wilmington, MA | 7d ago | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818) |
+| Sierra | Software Engineer, Agent (New Grad 2027) | San Francisco, CA | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00) |
+| Everlaw | Software Engineer I | Oakland, California, United States | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/everlaw/jobs/4705236006) |
+| Notability | Junior Engineer, Web Apps | San Francisco | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gingerlabsinc/jobs/4928821008) |
+| Katalyst Space Technologies | Recent Graduate - Software Engineer I | Broomfield, Colorado, United States | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/katalyst/jobs/6176710004) |
+| Twitch | Software Engineer I, Commerce Engineering | Seattle, WA | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twitch/jobs/8459320002) |
+| Twitch | Software Engineer I, Discovery | San Francisco, CA | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twitch/jobs/8623578002) |
+| Twitch | Software Engineer I, Memberships | Seattle, WA | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twitch/jobs/8751076002) |
+| Twitch | Software Engineer I, Payments | San Francisco, CA | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twitch/jobs/8700578002) |
+| WhatNot | Software Engineer New Grad | Seattle, WA; SF; LA; NYC | 8d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true) |
+| Everlaw | Software Engineer 1 | Oakland, CA | 8d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/everlaw/jobs/4705236006) |
+| Sierra | Software Engineer New Grad - Agent | SF; NYC | 8d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00/application?embed=true) |
+| IXL Learning | Software Engineer New Grad | San Mateo, CA | 8d ago | SimplifyJobs | [apply](https://www.ixl.com/company/jobs?gh_jid=8765715002) |
+| Katalyst Space Technologies | Software Engineer New Grad - Software Engineer 1 | Broomfield, CO | 8d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/katalyst/jobs/6176710004) |
+| Textron | Software Engineer 1 - Electronic Systems | Hunt Valley, Cockeysville, MD | 8d ago | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666) |
+| Ciena | Software Developer New Grad | Atlanta, GA | 8d ago | SimplifyJobs | [apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608) |
+| General Motors | Entry Level Software Engineer | Milford, MI; Warren, MI | 8d ago | SimplifyJobs | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618756) |
+| Vermeer | Embedded Software Engineer 1 - Engineering Development Program | Pella, IA | 8d ago | SimplifyJobs | [apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Plant-7--West-Segment-Office/Engineer-I---Embedded-Software-Engineer--Engineering-Development-Program-2027-_REQ-22180) |
+| Chewy | Software Engineer 1 - WIZMO engineering team | Boston, MA; Bellevue, WA | 8d ago | SimplifyJobs | [apply](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Bellevue-WA/Software-Engineer-I_R30695-1) |
+| AeroVironment | Entry-Level Software Engineer - Specialized Exploitation & Targeting (SET) | Austin, TX | 8d ago | SimplifyJobs | [apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Austin-TX/Entry-Level-Software-Engineer_8600) |
+| Expedia Group | Software Development Engineer 1 | Seattle, WA | 8d ago | SimplifyJobs | [apply](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739-2) |
+| Motorola | Applied AI Engineer 1 - Supply Chain | Chicago, IL | 8d ago | SimplifyJobs | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Applied-AI-Engineer-I---Supply-Chain_R67371) |
+| SBT Global | Junior Web Developer - Bilingual in Korean | Englewood Cliffs, US | 9d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/sbtglobalinc/3743990014949716) |
+| LexisNexis Risk Solutions | Software Engineer New Grad - Risk Solutions Technology Graduate Program | Alpharetta, GA | 9d ago | SimplifyJobs | [apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617) |
+| RELX | Software Engineer New Grad | Alpharetta, GA | 9d ago | SimplifyJobs | [apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2) |
+| RELX | Software Engineer Graduate - Risk Solutions Technology | Boca Raton, FL | 9d ago | SimplifyJobs | [apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023) |
+| Nidec | Software Development Engineer 1 | St. Charles, IL | 9d ago | SimplifyJobs | [apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAIllinoisSt-Charles-IL/Software-Development-Engineer_R0017456) |
+| Alation | UX Software Engineer 1 - Contractor | Redwood City, CA | 9d ago | SimplifyJobs | [apply](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770) |
+| LexisNexis Risk Solutions | Software Engineer New Grad | Alpharetta, GA | 9d ago | SimplifyJobs | [apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1) |
+| Blue Origin | Avionics / Embedded Software Engineer 1 - 2027 Starts | Seattle, WA; LA; Cape Canaveral, FL; Kent, WA; Denver, CO; Huntsville, AL; Van Horn, TX | 9d ago | SimplifyJobs | [apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324) |
+| Blue Origin | Software Development Engineer 1 - Early Career - 2027 Starts | Seattle, WA; LA; Cape Canaveral, FL; Kent, WA; Denver, CO; Huntsville, AL | 9d ago | SimplifyJobs | [apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326) |
+| DefenseStorm | Junior Product Engineer - Software Engineer 1 | Alpharetta, GA; Atlanta, GA | 11d ago | SimplifyJobs | [apply](https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph | San Jose, CA | 11d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7679156878833682693) |
+| InstaLILY | Software Engineer I, General | New York, New York, United States, San Francisco, California, United States | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/instalilyai/jobs/4271757009) |
+| Keysight Technologies | R&D Software Engineer Recent Graduate | Santa Rosa, CA | 12d ago | SimplifyJobs | [apply](https://jobs.keysight.com/jobs/54048?icims=1) |
+| Hewlett Packard Enterprise | Software Engineer Graduate | Andover, MA; Bloomington, MN; San Jose, CA; Spring, TX; Durham, NC; Westford, MA; Chippewa Falls, WI; Fort Collins, CO; Sunnyvale, CA; Roseville, CA | 12d ago | SimplifyJobs | [apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624) |
+| Barry-Wehmiller | Entry Level Software Engineer | Eau Claire, WI; Dallas, TX; Raleigh, NC; St. Louis, MO; Denver, CO | 12d ago | SimplifyJobs | [apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649) |
+| Nuro | Software Engineer, AI Platform - New Grad | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7351066) |
+| Relay | Associate Software Engineer, Embedded Development | Raleigh, NC | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/relaypro/jobs/7968124) |
+| V2X | Software Engineer 1 - Multiple Teams | Indianapolis, IN | 13d ago | SimplifyJobs | [apply](https://careers.gov2x.com/jobs/62655?icims=1) |
+| Garmin | Software Engineer 1 - Aviation Backend Web | Chanhassen, MN | 13d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/19732?icims=1) |
+| Ontic | Associate Software Engineer - Full Stack | Austin, TX | 13d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/Ontic/d50b6bea-876f-43fc-afb9-716efe9eca02/application?embed=true) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Video | Seattle, WA | 13d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7678145401619237173) |
+| L3Harris Technologies | Associate Software Engineer | Colorado Springs, CO | 13d ago | SimplifyJobs | [apply](https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1423789000/?ats=successfactors) |
+| ASM International | Software Engineer - Early Career - Fall 2026 | Phoenix, AZ | 13d ago | SimplifyJobs | [apply](https://www.asm.com/open-vacancies/?gh_jid=4876722101) |
+| Sierra Nevada Corporation | Software Engineer 1 | Lone Tree, CO; Dayton, OH; Plano, TX | 13d ago | SimplifyJobs | [apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526) |
+| Embedding VC | AI Engineer (Early Career) | San Francisco Bay Area | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1) |
+| Solace Health | Associate Platform Engineer (College Grad 2027) | Redwood City, CA | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd) |
+| Zip | Software Engineer, New Grad (2027 Start) | San Francisco | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea) |
+| True Anomaly | Flight Software Engineer I (New Grad) | Denver, CO or Long Beach, CA  | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007) |
+| True Anomaly | Software Engineer I, Data Science (New Grad) | Denver, CO or Long Beach, CA | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007) |
+| True Anomaly | Software Engineer I, Full Stack (New Grad) | Denver, CO or Long Beach, CA  | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007) |
+| True Anomaly | Software Engineer I, Perception (New Grad) | Denver, CO or Long Beach, CA | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007) |
+| True Anomaly | Software Engineer I, QA (New Grad) | Denver, CO or Long Beach, CA | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007) |
+| True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | Denver, CO or Long Beach, CA | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007) |
+| Alarm.com | Embedded Software Engineer 1 | Tysons, VA | 14d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/alarmcom/jobs/8622530002) |
+| Maximor AI | Software Engineer New Grad | NYC | 14d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true) |
+| True Anomaly | Software Engineer 1 New Grad - Spacecraft Simulation | Long Beach, CA; Denver, CO | 14d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007) |
+| True Anomaly | Flight Software Engineer 1 New Grad | Long Beach, CA; Denver, CO | 14d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007) |
+| True Anomaly | Data Science Software Engineer 1 New Grad - Data Science | Long Beach, CA; Denver, CO | 14d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007) |
+| PayIt | Associate Software Engineer | Kansas City, MO | 14d ago | SimplifyJobs | [apply](https://payitgov.com/careers-list?gh_jid=7975853003) |
+| True Anomaly | Software Engineer 1 New Grad - Perception | Long Beach, CA; Denver, CO | 14d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007) |
+| NewRocket | AI Engineer Graduate Level | Remote in USA | 14d ago | SimplifyJobs | [apply](https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004) |
+| The Voleon Group | Software Engineer - University Hire 2027 | Berkeley, CA | 15d ago | ashby | [apply](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c) |
+| Freeform | Software Engineer (New Grad December 2026) | Los Angeles, CA (On-site) | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003) |
+| Freeform | Software Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003) |
+| Metron | Associate Software Engineer | Reston, VA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/metron/jobs/5211456007) |
+| SteerBridge | Junior Software Engineer | Vienna, VA | 15d ago | SimplifyJobs | [apply](https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply) |
+| Hardin Design | Entry-Level Web Developer | Madison, WI | 15d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/HardinDesign/744000145322155) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph - PhD | Seattle, WA | 15d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7676650760662157621) |
+| ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD | San Jose, CA | 15d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7675473897004861749/detail) |
+| Google | Software Engineer Early Career - Multiple Teams | Madison, WI; Seattle, WA; Austin, TX; LA; Raleigh, NC; San Bruno, CA; Durham, NC; Kirkland, WA; NYC; Sunnyvale, CA; Mountain View, CA; Atlanta, GA | 16d ago | SimplifyJobs | [apply](https://www.google.com/about/careers/applications/jobs/results/84680705375642310) |
+| Nightwing Intelligence Solutions | Software Engineer 1 | Sterling, VA | 16d ago | SimplifyJobs | [apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958) |
+| Caris | Associate Software Engineer - Clinical Software Products | Irving, TX | 16d ago | SimplifyJobs | [apply](https://wd12.myworkdaysite.com/recruiting/carislifesciences/CLS/job/Irving-TX---75039/Associate-Software-Engineer_JR105464) |
+| General Dynamics Mission Systems | Software Engineer - Entry Level | Manassas, VA | 18d ago | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false) |
+| ConstructConnect | Associate Software Engineer - Product Development | Atlanta, GA | 18d ago | SimplifyJobs | [apply](https://careers-constructconnect.icims.com/jobs/2191/job?mobile=true&needsRedirect=false) |
+| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD | 20d ago | lever | [apply](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea) |
+| SpaceX | Software Engineer New Grad - Software - Application Software | Hawthorne, CA | 20d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/spacex/jobs/8730567002) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent | Seattle, WA | 20d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7675842865566222597) |
+| TikTok | Graduate Software Engineer - TikTok Search Data Infra | San Jose, CA | 20d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7675829388634392837) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics | San Jose, CA | 20d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7675844938504702213) |
+| TikTok | Machine Learning Engineer Graduate - Multiple Teams | San Jose, CA | 20d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7675841339440941317) |
+| Waymark | Junior Software Engineer | US - Remote | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/waymark/jobs/4711827005) |
+| Koah | Software Engineer - Early Career | SF | 21d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application?embed=true) |
+| Dark Wolf Solutions | Junior AI Software Engineer | Chantilly, VA; Herndon, VA | 21d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003) |
+| Astrion | Junior Software Developer - Datalinks Test Flight | Eglin AFB, FL | 21d ago | SimplifyJobs | [apply](https://careers.astrion.us/jobs/24705?icims=1) |
+| ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control | San Jose, CA | 21d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7675477660855781637/detail) |
+| ByteDance | Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform | San Jose, CA | 21d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7673632479987992837/detail) |
+| Talroo | Associate Software Engineer | Austin, TX | 22d ago | SimplifyJobs | [apply](https://www.talroo.com/careers/apply/?gh_jid=1003689) |
+| Marlabs | Entry Level Programmer / Developer | Piscataway, NJ | 22d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/MarlabsInc1/82334887) |
+| Marlabs | Entry Level Programmer Analyst | Piscataway, NJ | 22d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/MarlabsInc1/83216249) |
+| Notion | Software Engineer, New Grad (Dec 2026) | San Francisco, California | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) |
+| SpaceX | Software Engineer New Grad - Software | Redmond, WA | 25d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/spacex/jobs/8696058002) |
+| SpaceX | Software Engineer New Grad - Software - Starlink | Palo Alto, CA | 25d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/spacex/jobs/8696080002) |
+| WeRide | Software Engineer New Grad - Algorithm | San Jose, CA | 25d ago | SimplifyJobs | [apply](https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply) |
+| TikTok | Software Engineer Graduate - Ads Infra | San Jose, CA | 25d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7673409179353139461) |
+| Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI; Sunnyvale, CA | 25d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true) |
+| Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL | 25d ago | SimplifyJobs | [apply](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) |
+| Notion | Software Engineer New Grad | SF | 25d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application?embed=true) |
+| Applied Intuition | Embedded Software Engineer New Grad | Sunnyvale, CA | 25d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true) |
+| Muon Space | Software Engineer, Entry-Level | San Jose, CA | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5204498007) |
+| DecisionPoint Corporation | Entry-level Software Developer | Remote in USA | 26d ago | SimplifyJobs | [apply](https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false) |
+| Composio | Fullstack Engineer New Grad - Product Team | SF | 26d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true) |
+| TikTok | Software Engineer Graduate - Media Engine | San Jose, CA | 26d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7673667938889009461) |
+| ByteDance | Multi-Cloud CDN Platform Engineer Graduate - CDN Platform | Seattle, WA | 26d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7670355132899526965/detail) |
+| ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Graduate - CDN Platform | Seattle, WA | 26d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7673626856724023557/detail) |
+| impact.com | Associate Software Engineer | Santa Barbara, CA | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/impact/jobs/8645964002) |
+| Integration Innovation (i3) | Associate Software Developer - COMPASS | Huntsville, AL | 27d ago | SimplifyJobs | [apply](https://careers-i3-corps.icims.com/jobs/5211/job?mobile=true&needsRedirect=false) |
+| TikTok | Graduate Software Engineer - Media Engine | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670367152357673221) |
+| TikTok | Software Engineer Graduate - Foundation Platform | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670276769459456309) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Governance - PhD | Seattle, WA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672928557537954053) |
+| TikTok | Backend Software Engineer Graduate - Creation Platform | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670292836050422021) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Governance | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672928557539002629) |
+| TikTok | Software Engineer Graduate - Video-on-Demand Algorithm | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670282906426476853) |
+| Uniswap | Software Engineer - Early Career | NYC | 27d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012/application?embed=true) |
+| TikTok | Backend Software Engineer New Grad - Creator Strategy | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672976491146004741) |
+| TikTok | Software Engineer Graduate - Recommendation Architecture - Feeds Infrastructure | Seattle, WA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672530785573980421) |
+| Panasonic Holdings | Software Engineer 1 - Embedded Systems | Irvine, CA | 27d ago | SimplifyJobs | [apply](https://careers.na.panasonic.com/jobs/50269?icims=1) |
+| TikTok | Software Engineer Graduate - Recommendation Infrastructure | San Jose, CA | 27d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7673284715407886597) |
+| Dexcom | Software Development Engineer 1 | Remote in USA | 27d ago | SimplifyJobs | [apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540) |
+| Kyndryl | Associate AI Engineer - Early Career Consult Program | Dallas, TX | 27d ago | SimplifyJobs | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739) |
+| Lennar | Software Engineer 1 | Miami, FL; Irving, TX | 27d ago | SimplifyJobs | [apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608) |
+| ByteDance | Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate | Seattle, WA | 28d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7672392998189959429/detail) |
+| ByteDance | Agent Evaluation and Evolution Machine Learning Engineer Graduate - Applied Machine Learning Ark | Seattle, WA | 28d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7672391016194066693/detail) |
+| 9to9 Software Solutions | Entry Level Software Developer | Copperhill, TN | 28d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Mall - PhD | Seattle, WA | 28d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672883737036654853) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation | San Jose, CA | 28d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672882500030138629) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation - PhD | Seattle, WA | 28d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672877778696407301) |
+| TikTok | AI Infrastructure Engineer Graduate - Recommendation & LLM | San Jose, CA | 28d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672654026594093317) |
+| ByteDance | Video/Image AI/ML Software Engineer Graduate - Multimedia | San Diego, CA | 28d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7670354624860703029/detail) |
+| TikTok | Software Engineer Graduate - Recommendation | San Jose, CA | 28d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672517471946000645) |
+| TikTok | Machine Learning Engineer Graduate - TikTok Vertical Recommendation | San Jose, CA | 28d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672532275557583157) |
+| TikTok | Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start | San Jose, CA | 28d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672532801686571317) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Mall | Seattle, WA | 28d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7672911151560296709) |
+| Resmed | Associate Software Engineer - Digital Product Engineering - Internet-of-Things | San Diego, CA | 28d ago | SimplifyJobs | [apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053125) |
+| Lennar Corporation | Software Engineer 1 | Miami, FL | 28d ago | SimplifyJobs | [apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523) |
+| DV Trading | 2027 Graduate Software Engineer (DV Commodities) | New York | 29d ago | greenhouse | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719126005) |
+| ByteDance | Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate - Applied Machine Learning Ark | San Jose, CA | 29d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7671102043532462389/detail) |
+| DV Trading | Graduate Software Engineer - DV Commodities | NYC | 29d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719126005) |
+| SZNS Solutions | Entry-Level Software Engineer | Reston, VA | 29d ago | SimplifyJobs | [apply](https://apply.workable.com/szns/j/D24DE0E111/apply) |
+| Woongjin | Jr. Full Stack Developer- Bilingual (Korean/ English) | Plano, US | 30d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/wjcompany/744000142693899) |
+| Cummins | Software Engineer 1 | United States | 30d ago | SimplifyJobs | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164) |
+| Teledyne | Junior Software Engineer | Huntsville, AL | 30d ago | SimplifyJobs | [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188) |
+| Blue Origin | Software Development Engineer 1 - Early Career | Seattle, WA | 30d ago | SimplifyJobs | [apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051) |
+| Blue Origin | Avionics / Embedded Software Engineer 1 - Early Career | LA; Kent, WA | 30d ago | SimplifyJobs | [apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055) |
+| Freeform | Software Engineer New Grad | LA | 32d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003) |
+| ByteDance | Software Development Engineer Graduate - Intent-Based Networking | San Jose, CA | 32d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7671145911004842245/detail) |
+| Atoms | Software Engineer New Grad | Seattle, WA; SF; LA; NYC; Mountain View, CA | 33d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8687930002) |
+| Veeva Systems | Associate Software Engineer - Engineering Development Program | Columbus, OH | 33d ago | SimplifyJobs | [apply](https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply) |
+| Veeva Systems | Associate Software Engineer | Pleasanton, CA | 33d ago | SimplifyJobs | [apply](https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply) |
+| TikTok | Backend Software Engineer Graduate - Data Lifecycle Management | San Jose, CA | 33d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670391173613160757) |
+| TikTok | Backend Software Engineer Graduate - Privacy and Security - Product | San Jose, CA | 33d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670387719826786565) |
+| InterImage | Full Stack Developer - Entry/Associate Level | Columbia, MD | 33d ago | SimplifyJobs | [apply](https://apply.workable.com/interimage/j/8DBD237A8E/apply) |
+| TP-Link Systems | Early Career Embedded Software Engineer | Irvine, CA | 33d ago | SimplifyJobs | [apply](https://apply.workable.com/tp-link-usa-corp/j/F943A617EC/apply) |
+| ByteDance | LLM Backend Engineer Graduate - Applied Machine Learning | San Jose, CA | 33d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667730992538585349/detail) |
+| ByteDance | Machine Learning Engineer Graduate - Agent Evaluation & Evolution | San Jose, CA | 33d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7670932427485186309/detail) |
+| Google | Software Engineer - Campus | Cambridge, MA; Seattle, WA; LA; San Jose, CA; San Bruno, CA; Pittsburgh, PA; Kirkland, WA; NYC; Sunnyvale, CA; Mountain View, CA | 33d ago | SimplifyJobs | [apply](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) |
+| TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Graduate - Data-Arch-Tiktok Live | San Jose, CA | 33d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670876337129425205) |
+| Nooks | Software Engineer, New Grad | San Francisco | 34d ago | ashby | [apply](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53) |
+| Roblox | Software Engineer - Early Career | San Mateo, CA | 34d ago | SimplifyJobs | [apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
+| TikTok | Software Engineer Graduate - Multiple Teams | Seattle, WA | 34d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668582086900680965) |
+| TikTok | Software Engineer Graduate - Global E-commerce-Search - 2027 Start | Seattle, WA | 34d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670558992960358661) |
+| TikTok | Software Engineer Graduate - Data Arch - E-commerce | Seattle, WA | 34d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668582542044072245) |
+| TikTok | Graduate Software Engineer - Global CRM | San Jose, CA | 34d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668554579301124357) |
+| ByteDance | AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD | San Jose, CA | 34d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7668862426676775173/detail) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance | San Jose, CA | 34d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669908897587824949) |
+| TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation Live | Seattle, WA | 34d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7670285949553707317) |
+| ByteDance | Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering | San Jose, CA | 34d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7669859743775000885/detail) |
+| ByteDance | Machine Learning Backend Engineer Graduate - AML MLDev | San Jose, CA | 34d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7669791940490168629/detail) |
+| Garmin | Embedded Software Engineer 1 | Chandler, AZ | 34d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/19134?icims=1) |
+| Salesforce | Software Engineer College Grad | Palo Alto, CA; Seattle, WA; Indianapolis, IN; SF; Dallas, TX; Bellevue, WA | 34d ago | SimplifyJobs | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) |
+| Quora | New Grad: Software Engineer | Remote | 34d ago | vanshb03-2027 | [apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) |
+| Gen Digital | AI & Machine Learning Engineer I | USA - Mountain View, CA | 35d ago | ashby | [apply](https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf) |
+| Asure | Associate Software Engineer | Atlanta, GA | 35d ago | SimplifyJobs | [apply](https://asuresoftware.bamboohr.com/careers/1053/) |
+| SimpliSafe | Software Engineer I- User Systems | Boston, MA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/simplisafe/jobs/8095181) |
+| Belvedere Trading | Software Engineer - Entry Level 2027 | Chicago, Illinois | 36d ago | lever | [apply](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f) |
+| SOCOTEC Global | Junior Software Engineer | New York, US | 36d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/socotec/744000141326319) |
+| Pariveda Solutions | Entry Level Software Engineer | Seattle, WA; Houston, TX; SF; LA; Dallas, TX; Philadelphia, PA; Chicago, IL; NYC; Atlanta, GA | 36d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true) |
+| SimpliSafe | Software Engineer 1 - User Systems | Boston, MA | 36d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/simplisafe/jobs/8095181) |
+| TikTok | Frontend Software Engineer Graduate - Global CRM | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668561079544154373) |
+| TikTok | Machine Learning Engineer Graduate - Data Search Recommendation Global E-Commerce | Seattle, WA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668384123840514309) |
+| TikTok | Graduate Software Engineer - Transaction Platform | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668557209047894325) |
+| TikTok | Frontend Software Engineer New Grad - Ads Interface | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668569995571726597) |
+| TikTok | Graduate Software Engineer - Ads Interface | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668855346857019701) |
+| TikTok | Machine Learning Engineer Graduate - Tiktok Content Ecology | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668838052657678597) |
+| TikTok | Machine Learning Engineer Graduate - App Ads and Gaming | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669709290431236357) |
+| TikTok | Machine Learning Engineer New Grad - Search Ads | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669698543896054069) |
+| TikTok | Software Engineer New Grad - Ads Infrastructure | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668879883938203957) |
+| TikTok | Graduate Machine Learning Engineer | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669702699627661573) |
+| TikTok | Machine Learning Engineer Graduate - Performance Monetization | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669691057987520773) |
+| TikTok | Backend Engineer Graduate - User Growth | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665986019233958197) |
+| TikTok | Backend Software Engineer Graduate - Global E-commerce | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668824169648097541) |
+| TikTok | AI Engineer Graduate - Client Architecture - 2027 Start | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7664978367107713333) |
+| TikTok | Mobile Software Engineer Graduate - Global E-commerce | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668831181590513925) |
+| TikTok | Backend Software Engineer Graduate - Digital Content Center | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668843238309824773) |
+| TikTok | Backend Engineer Graduate | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665989305914984709) |
+| TikTok | Machine Learning Engineer New Grad - Performance Monetization | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669691374918011141) |
+| TikTok | Frontend Software Engineer Graduate - Global E-commerce | Seattle, WA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668828193675036981) |
+| TikTok | Graduate Software Engineer | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668566347702569269) |
+| TikTok | Machine Learning Engineer Graduate - Commerce Ads - 2027 Start | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669711968024430853) |
+| TikTok | Machine Learning Engineer Graduate - Ads Signal & Measurement | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7669700358734170373) |
+| TikTok | Graduate Software Engineer - Global Live | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668845522007722245) |
+| Lightfield | Software Engineer, Infrastructure (Early Career) | Cambridge, MA | 37d ago | ashby | [apply](https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420) |
+| Retell AI | Software Engineer (New Grad) | San Francisco Bay Area | 37d ago | ashby | [apply](https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463) |
+| Lightfield | Early Career Infrastructure Software Engineer | Cambridge, MA; Boston, MA | 37d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application?embed=true) |
+| Walgreens | Software Engineer 1 - Java | Deerfield, IL | 37d ago | SimplifyJobs | [apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141) |
+| HarmonyTech | Junior Software Developer - .NET | Herndon, VA | 37d ago | SimplifyJobs | [apply](https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET) |
+| EAi Technologies | Physics/Math Graduate Software Developer | Vienna, VA | 37d ago | SimplifyJobs | [apply](https://eaiti.applytojob.com/apply/04bnB7a43f/PhysicsMath-Graduate-Entry-Level-Software-Developer) |
+| EAi Technologies | Entry Level Software Developer | Vienna, VA | 37d ago | SimplifyJobs | [apply](https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer) |
+| EAi Technologies | Entry Level .NET Software Developer | Vienna, VA | 37d ago | SimplifyJobs | [apply](https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer) |
+| TikTok | Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668701834807101749) |
+| TikTok | Backend Software Engineer Graduate - Risk & Response | Seattle, WA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663032057264244997) |
+| TikTok | Machine Learning Engineer Graduate | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665797203155896581) |
+| TikTok | Backend Software Engineer New Grad - Trust & Safety | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665994926887291189) |
+| TikTok | Machine Learning Engineer New Grad - Search Quality | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665793152026740997) |
+| TikTok | Software Engineer New Grad - Ads Measurement Signal Technology | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668717356843977013) |
+| TikTok | Machine Learning Engineer New Grad - Data Search Visual Search | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7667349591747758341) |
+| TikTok | Backend Software Engineer New Grad - Emerging Products & AI Safety | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663036952090347829) |
+| TikTok | Backend Software Engineer New Grad - Feed Safety | Seattle, WA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663028952600807733) |
+| TikTok | Backend Software Engineer Graduate - Business Governance | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663042453461600517) |
+| TikTok | Machine Learning Engineer Graduate - Data Search Basic Ranking | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7667344111675246901) |
+| TikTok | Software Engineer New Grad - Quality and Efficiency Technology | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668680253677504821) |
+| TikTok | Machine Learning Engineer New Grad - Data-Global E-Commerce-Search | Seattle, WA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668389759463393589) |
+| TikTok | Machine Learning Engineer New Grad | Seattle, WA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668376903708281141) |
+| TikTok | Machine Learning Engineer Graduate - Ads Delivery | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668660365135808821) |
+| TikTok | Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668592348941273349) |
+| TikTok | Software Engineer New Grad - Ads Signal & Measurement | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668724383120804149) |
+| TikTok | Machine Learning Engineer Graduate - Brand Ads | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668698260232702261) |
+| TikTok | Machine Learning Engineer Graduate - Ads Targeting | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668629846058223877) |
+| TikTok | Software Engineer New Grad - Business Integrity | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668592494649690421) |
+| TikTok | Software Engineer Graduate - MLOps | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668700671828707589) |
+| TikTok | Software Engineer Graduate - Ads Delivery | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668662545059023157) |
+| TikTok | Machine Learning Engineer New Grad - E-Commerce Search | Seattle, WA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668390999147776309) |
+| TikTok | Machine Learning Engineer Graduate - Ads Creative | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668669015051405573) |
+| Retell AI | Software Engineer New Grad - Founders Initiatives | SF; Redwood City, CA | 37d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application?embed=true) |
+| ByteDance | Backend Software Engineer Graduate - Platform | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667269919588321541/detail) |
+| ByteDance | Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling | Seattle, WA | 37d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7668799020705679669/detail) |
+| ByteDance | Software Engineer Graduate - AI Infrastructure Compute | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667334059728341253/detail) |
+| ByteDance | Software Engineer New Grad - AI Infra Compute | Seattle, WA | 37d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667303429264115973/detail) |
+| ByteDance | Backend and Infrastructure Software Engineer New Grad - Dev Infra | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667894766036322565/detail) |
+| ByteDance | Test Software Engineer Graduate - Research and Development Middle Platform | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7664894974764828981/detail) |
+| Universal Health Services | Associate Software Engineer - FSI | King of Prussia, PA | 37d ago | SimplifyJobs | [apply](https://jobs.uhsinc.com/jobs/362176?icims=1) |
+| TikTok | Machine Learning Engineer Graduate - Trust and Safety | Seattle, WA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665994926854555909) |
+| TikTok | Machine Learning Engineer New Grad - Trust and Safety | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7665991852209932597) |
+| TikTok | Machine Learning Engineer New Grad - Recommendation | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663389745178757429) |
+| Texas Sports Academy | Junior AI Software Engineer | Austin, TX | 37d ago | SimplifyJobs | [apply](https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply) |
+| TikTok | AI Infrastructure Engineer Graduate - Algorithm Infrastructure - PhD | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7664534268139571509) |
+| TikTok | Machine Learning Infrastructure Engineer New Grad - Ads Infra | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668693662561634613) |
+| Garmin | Software Engineer 1 - Embedded Aviation | Olathe, KS | 38d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/18513?icims=1) |
+| Quora | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | Remote - Multiple Locations | 39d ago | ashby | [apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) |
+| NewsBreak | Software Engineer, ML Infra (Junior & New Grad) | Mountain View, California, United States | 39d ago | greenhouse | [apply](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
+| NewsBreak | Software Engineer Junior New Grad - ML Infra | Mountain View, CA | 39d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
+| Garmin | Software Engineer 1 - Connect IQ Applications | Olathe, KS | 39d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/18475?icims=1) |
+| Garmin | Software Engineer 1 - Web Development/Applications | Olathe, KS | 39d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/18510?icims=1) |
+| Garmin | Software Engineer 1 | Olathe, KS | 39d ago | SimplifyJobs | [apply](https://careers.garmin.com/jobs/19098?icims=1) |
+| Noblis | Junior Software Developer | Reston, VA | 39d ago | SimplifyJobs | [apply](https://careers.noblis.org/jobs/27467?icims=1) |
+| Cisco | Software Engineer 1 | San Jose, CA | 39d ago | vanshb03-2027 | [apply](https://careers.cisco.com/global/en/job/1449197) |
+| Confido | New Grad Software Engineer | NYC Office | 40d ago | ashby | [apply](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e) |
+| Nexxen | Software Engineer 1 - DSP Runtime | New York, NY | 40d ago | ashby | [apply](https://jobs.ashbyhq.com/nexxen/53cbef54-13b1-4539-9a18-bdd0c3431d32) |
+| Cadence Design Systems | Application Software Developer New Grad | Livonia, MI | 40d ago | SimplifyJobs | [apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3) |
+| Cadence Design Systems | Multibody Dynamics Application Software Developer New Grad - Adams | Livonia, MI | 40d ago | SimplifyJobs | [apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788) |
+| Appian | New Grad 2027: Software Engineer | McLean, VA | 40d ago | vanshb03-2027 | [apply](https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-) |
+| Handshake | Software Engineer I, Handshake AI | San Francisco, CA | 41d ago | ashby | [apply](https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3) |
+| Oracle | Systems Software Engineer 1 | United States | 41d ago | SimplifyJobs | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728) |
+| Amerisure | Software Engineer 1 | Southfield, MI | 41d ago | SimplifyJobs | [apply](https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063) |
+| Crusoe | Software Engineer I, Storage | San Francisco, CA - US | 42d ago | ashby | [apply](https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02) |
+| Crusoe | Software Engineer 1 - Storage | SF | 42d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02/application?embed=true) |
+| Texas Sports Academy | Junior Software Engineer - AI-Forward | Austin, TX | 42d ago | SimplifyJobs | [apply](https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply) |
+| Color | Software Engineer, New Grad 2026 | South San Francisco, California | 43d ago | ashby | [apply](https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96) |
+| NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, California, United States | 43d ago | greenhouse | [apply](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006) |
+| Textron | Software Engineer 1 - Sea Systems | Sparks, MD | 43d ago | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975) |
+| RunSybil | Software Engineer 1 | NYC | 43d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application?embed=true) |
+| NewsBreak | Applied AI Engineer New Grad - Advertising Agents | Mountain View, CA | 43d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006) |
+| Color | Software Engineer New Grad | San Bruno, CA | 43d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true) |
+| RunSybil | Software Engineer I | New York City | 44d ago | ashby | [apply](https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59) |
+| Pattern Data | Software Engineer (Entry) | Richmond, VA | 44d ago | greenhouse | [apply](https://job-boards.greenhouse.io/patterndata/jobs/5196699007) |
 
-## 🏢 Workday — Big Employers, entry-level (7)
+## 🏢 Workday — Big Employers, entry-level (8)
 
 _Public Workday boards for large, consistent H-1B sponsors (Salesforce, NVIDIA, Visa, Cisco, PayPal, Mastercard…). SWE-1 / new-grad / associate titles only. Read each req's work-authorization line — Capital One and Fidelity's LEAP program often exclude sponsorship._
 
 | Company | Role | Location | Posted | Source | Link |
 |---|---|---|---|---|---|
-| Clearwater Analytics | Software Development Engineer I | Office - Seattle | 5d ago | workday | [apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Seattle/Software-Development-Engineer-I_R12059) |
-| Motorola Solutions | Applied AI Engineer I – Supply Chain | Chicago, IL, More... | 7d ago | workday | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Applied-AI-Engineer-I---Supply-Chain_R67371) |
-| HPE | Software Engineer Graduate | Spring, Texas, United, States, of, America | 11d ago | workday | [apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1) |
-| Dexcom | Software Development Engineer 1 | Remote - United States | 12d ago | workday | [apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540) |
+| PayPal | Software Engineer - Recent Graduate | San, Jose, California, United, States, of, America | today | workday | [apply](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237) |
+| Clearwater Analytics | Software Development Engineer I | Office - Seattle | 6d ago | workday | [apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Seattle/Software-Development-Engineer-I_R12059) |
+| Motorola Solutions | Applied AI Engineer I – Supply Chain | Chicago, IL, More... | 8d ago | workday | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Applied-AI-Engineer-I---Supply-Chain_R67371) |
+| HPE | Software Engineer Graduate | Spring, Texas, United, States, of, America | 12d ago | workday | [apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1) |
+| Dexcom | Software Development Engineer 1 | Remote - United States | 13d ago | workday | [apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540) |
 | NVIDIA | Software Engineer, Hardware Tools and Methodology - New College Grad 2026 | US, CA, Santa Clara | 30d ago | workday | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) |
 | NVIDIA | Applied Machine Learning Engineer, Circuit Design - New College Grad 2026 | US, CA, Santa, Clara | 30d ago | workday | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517) |
 | Rocket (Quicken Loans) | Software Engineer I | Detroit, MI | 30d ago | workday | [apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975) |
 
-## 💼 LinkedIn — entry level, last 24h (116)
+## 💼 LinkedIn — entry level, last 24h (115)
 
 _Fresh LinkedIn postings (entry-level + full-time facets, posted in the last 24 hours) via a rented scraper. Same guardrails as everything else; when the same job exists on a first-party board above, the direct link wins and the LinkedIn row is dropped._
 
 | Company | Role | Location | Posted | Source | Link |
 |---|---|---|---|---|---|
-| PROS | AI Software Engineer – Enterprise Productivity | Houston, TX | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-software-engineer-%E2%80%93-enterprise-productivity-at-pros-4452750337?position=57&pageNum=0&refId=wBWaHe6wji%2Bu%2Fq8t0GLuhA%3D%3D&trackingId=mfRRFSg1lTcQFUOVwV4KGw%3D%3D) |
-| OP Recruiting | Software Engineer - C++ | Chicago, IL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-op-recruiting-4455541108?position=54&pageNum=0&refId=wBWaHe6wji%2Bu%2Fq8t0GLuhA%3D%3D&trackingId=4i7wpUqOVMf59SHYwC475A%3D%3D) |
-| Relativity | Software Engineer | South Carolina, United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418068006?position=48&pageNum=0&refId=wBWaHe6wji%2Bu%2Fq8t0GLuhA%3D%3D&trackingId=pu2AQFTGDmpfwJCjZYtJ%2BQ%3D%3D) |
-| BeaconFire Inc. | Software Engineer | New York City Metropolitan Area | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-beaconfire-inc-4458007634?position=41&pageNum=0&refId=wBWaHe6wji%2Bu%2Fq8t0GLuhA%3D%3D&trackingId=7bhE44TXEd5fEI5exXZWiA%3D%3D) |
-| Revature | Entry Level Software Developer | Dallas, TX | today | linkedin | [apply](https://www.linkedin.com/jobs/view/entry-level-software-developer-at-revature-4463287525?position=26&pageNum=0&refId=wBWaHe6wji%2Bu%2Fq8t0GLuhA%3D%3D&trackingId=8F1Af%2BVdkTiTeFByEcyOew%3D%3D) |
-| Revature | Software Engineer | Tampa, FL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-revature-4463275786?position=30&pageNum=0&refId=wBWaHe6wji%2Bu%2Fq8t0GLuhA%3D%3D&trackingId=5iRnpRAEscponqsE7amwIA%3D%3D) |
-| Anything | Backend Engineer - AI | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/backend-engineer-ai-at-anything-4332205894?position=21&pageNum=0&refId=wBWaHe6wji%2Bu%2Fq8t0GLuhA%3D%3D&trackingId=FGeOoRffpWdaQo5AtjJp6A%3D%3D) |
-| Crossing Hurdles | Full Stack Software Engineer | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-crossing-hurdles-4382410515?position=24&pageNum=0&refId=wBWaHe6wji%2Bu%2Fq8t0GLuhA%3D%3D&trackingId=E5DVId%2B0Swqg85MyHMOKZw%3D%3D) |
-| TikTok | Backend Engineer Graduate (User Growth) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/backend-engineer-graduate-user-growth-2027-start-at-tiktok-4448295048?position=5&pageNum=0&refId=wBWaHe6wji%2Bu%2Fq8t0GLuhA%3D%3D&trackingId=vDxOUVyjtH8Iyd7vPuqz%2FQ%3D%3D) |
-| TikTok | Software Engineer Graduate (Transaction Platform) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-transaction-platform-2027-start-at-tiktok-4446281814?position=7&pageNum=0&refId=wBWaHe6wji%2Bu%2Fq8t0GLuhA%3D%3D&trackingId=pkvHQcXrduiiejKumE9A0w%3D%3D) |
-| Mayo Clinic | Software Engineer - Test and Quality | Rochester, MN | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-test-and-quality-at-mayo-clinic-4464658012?position=56&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=YXh2%2BPu0Th1pP2cYeBrtAA%3D%3D) |
-| BIP Ventures | Junior AI Engineer | Full Stack Developer | Financial Services / Venture Capital | Atlanta, GA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-ai-engineer-full-stack-developer-financial-services-venture-capital-at-bip-ventures-4464623701?position=60&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=BXGyCeTbZbOkTTmw47uFag%3D%3D) |
-| Divine Talent | Full Stack Developer | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-developer-at-divine-talent-4462295979?position=57&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=LpBxBWiYNqlSf49IAll5fA%3D%3D) |
-| edkey | Software Engineer | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-edkey-4463521880?position=53&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=NJp5SddRQWqDTZ9zeZpjLg%3D%3D) |
-| Mayo Clinic | Software Engineer - Business Analysis and Integration | Rochester, MN | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-business-analysis-and-integration-at-mayo-clinic-4464647202?position=49&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=BsrtgKXxy0%2By1%2B4WbuKviQ%3D%3D) |
-| Naval Nuclear Laboratory (FMP) | Software Engineer, Entry Level | West Mifflin, PA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-entry-level-at-naval-nuclear-laboratory-fmp-4461775934?position=44&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=aU5QpEczQCREmVhOUsy1YQ%3D%3D) |
-| iSoftStone | Associate AI Developer | White Plains, NY | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-ai-developer-at-isoftstone-4425740945?position=46&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=Prz3tP4kt5RY1KSOME1gQw%3D%3D) |
-| ServiceNow | Associate Software Engineer, Core Infrastructure - Moveworks | Mountain View, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-software-engineer-core-infrastructure-moveworks-at-servicenow-4369288501?position=39&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=g3OP9WQPREGjdUNOGfNpag%3D%3D) |
-| Hire Feed | Software Engineer - E-Commerce (Remote) | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4464493805?position=41&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=%2BpP6Ad%2BtTLVsZkCEMrPESQ%3D%3D) |
-| FetchJobs.co | Software Engineer | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-fetchjobs-co-4464606008?position=23&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=jHz%2BoIXU5CpmVYnSS34cAA%3D%3D) |
-| Veeva Systems | Associate Software Engineer - 2027 Start Dates | Boston, MA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-software-engineer-2027-start-dates-at-veeva-systems-4454489584?position=14&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=BIRW2Au3zTJFhoE26%2Br2Aw%3D%3D) |
-| Kareer Basycs | Web Developer | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/web-developer-at-kareer-basycs-4462546146?position=43&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=ZCiMRzyLfX6BOI%2BgeLjsjA%3D%3D) |
-| Haystack | Software Engineer | Boston, KY | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4461800089?position=32&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=HMVgdJhVys2WxW0co%2FyiAw%3D%3D) |
-| Jobright.ai | Backend Engineer, New Grad | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/backend-engineer-new-grad-at-jobright-ai-4463509560?position=34&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=ThROcPI%2FMgFKPLfZOQxFvA%3D%3D) |
-| Whova | Software Engineer (San Diego Only) | San Diego, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-san-diego-only-at-whova-4463518672?position=29&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=RP1mvun4Mdd6hmrrTyWkYQ%3D%3D) |
-| AV | Software Engineer I | Sunrise, FL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-av-4464621818?position=25&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=s5vhP9GZPSe82uHs01ryHQ%3D%3D) |
-| DefenseStorm | Junior Product Engineer | Software Engineer I | Alpharetta, GA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-product-engineer-software-engineer-i-at-defensestorm-4463506454?position=30&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=2eCt1lVL1LnQmiTV3xT0Lw%3D%3D) |
-| Harris Computer | Associate AI Assisted Software Developer | Idaho, United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-ai-assisted-software-developer-at-harris-computer-4462025162?position=21&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=P9EZ4A96CrunPnYz3KgERw%3D%3D) |
-| TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/backend-software-engineer-graduate-global-e-commerce-2027-start-at-tiktok-4448292130?position=23&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=H1GraPI0hqghXNa9ki1gFg%3D%3D) |
-| TikTok | Software Engineer Graduate (Global CRM) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-global-crm-2027-start-at-tiktok-4449977510?position=24&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=PEcgBd%2Bk0cnlcD7isMI3TA%3D%3D) |
-| Hire Feed | Junior Software Engineer (Remote) | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4464602822?position=20&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=ACJiCxxVDD3whJ315QQM4A%3D%3D) |
-| Giftogram | Junior Full Stack Developer | Whippany, NJ | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-giftogram-4464626208?position=14&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=icEJcuSeuUdVk%2Fe89IhmQQ%3D%3D) |
-| ByteDance | Backend Software Engineer Graduate (Platform) - 2027 Start | New York, United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/backend-software-engineer-graduate-platform-2027-start-at-bytedance-4448124963?position=16&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=Rjdem6kHnOI9nG8T1F%2F%2B%2FA%3D%3D) |
-| Prometheum | Software Engineer 1 (Full-Stack) | New York, NY | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-1-full-stack-at-prometheum-4463509453?position=7&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=T7m42G6sO7TAflF6yH%2BKMw%3D%3D) |
-| Eccalon, LLC | Junior Software Engineer - onsite | Detroit, MI | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-software-engineer-onsite-at-eccalon-llc-4417513151?position=5&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=txtfqcSZR%2FuC5PthPYAA5w%3D%3D) |
-| Google | Software Engineer, Search Ads in AI Experiences | Mountain View, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-search-ads-in-ai-experiences-at-google-4463270194?position=22&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=R%2BStvnI0VNV8mhc2zpPk%2BA%3D%3D) |
-| Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-software-engineer-software-engineer-at-applied-systems-4436261665?position=21&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=I7oGyJI%2BHktx0FZ%2BbyD9yg%3D%3D) |
-| Caterpillar Inc. | Software Engineer | Chicago, IL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-caterpillar-inc-4464435328?position=19&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=%2FkI3HAX5hQnVL48k6qXkAQ%3D%3D) |
-| Yara AI | Full Stack Engineer (New Grad) | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-engineer-new-grad-at-yara-ai-4464439774?position=20&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=TVQNOwp686lN67qW9F0ljg%3D%3D) |
-| Yara AI | Software Engineer (New Grad) | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-yara-ai-4464452422?position=10&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=05u3lqzw6Q8993XuVv3yNg%3D%3D) |
-| Collins Aerospace | Software Engineer I (Onsite) | Cedar Rapids, IA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-onsite-at-collins-aerospace-4464632509?position=11&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=nqbBtMk5Jk%2BZF%2BWSHY2kAw%3D%3D) |
-| Notion | Software Engineer, Early Career (AI) | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-early-career-ai-at-notion-4437472369?position=14&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=aI0%2Bape0A3lUU16l52gx5g%3D%3D) |
-| Brooksource | Junior Software Engineer | Dallas, TX | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-software-engineer-at-brooksource-4463508840?position=17&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=12bq7XNaf3rFTaF1TofMtQ%3D%3D) |
-| TikTok | Backend Software Engineer Graduate (TikTok - Privacy and Security - Product) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/backend-software-engineer-graduate-tiktok-privacy-and-security-product-2027-start-at-tiktok-4448495898?position=7&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=cuaxz139QmtlgxXaakLxWA%3D%3D) |
-| Tata Technologies | Software Engineer | Warren, IL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-tata-technologies-4464633394?position=9&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=6X%2F7jQE2BOspCFhTwpo6JQ%3D%3D) |
-| Notion | Software Engineer, Early Career | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-early-career-at-notion-4437461678?position=6&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=%2FoWElz0QDzDvY72%2Fo7lKKg%3D%3D) |
-| ByteDance | Software Development Engineer Graduate (Intent-Based Networking) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-development-engineer-graduate-intent-based-networking-2027-start-at-bytedance-4450794697?position=4&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=pIHCr4d7AGc%2FJ3a1IdOybg%3D%3D) |
-| Sunrise Movement Sierra Leone | Junior Software Engineer | New York, United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-software-engineer-at-sunrise-movement-sierra-leone-4462535301?position=2&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=7iy9AmvcXcN8ml58cN%2B9SA%3D%3D) |
-| Uber | Software Engineer I | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-uber-4464600793?position=1&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=4gl1vcJMx44Oy4Td%2By9zew%3D%3D) |
-| Aderant | AI Engineer – Center of Excellence | Atlanta, GA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-center-of-excellence-at-aderant-4451552732?position=39&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=MXq1bJ3vUwH0cMXoeZdcSw%3D%3D) |
-| TikTok | Software Engineer Graduate (AI Agent & Global Revenue Platform) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-ai-agent-global-revenue-platform-2027-start-at-tiktok-4448273907?position=30&pageNum=0&refId=l%2FxKcmFbB0fbKPuBIWzI7w%3D%3D&trackingId=rNdayNtAgjGXj7AwsJR58g%3D%3D) |
-| Jobright.ai | Full Stack Engineer, New Grad | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-engineer-new-grad-at-jobright-ai-4463513607?position=49&pageNum=0&refId=VamFpM5wUqNRoIoOeLNSUw%3D%3D&trackingId=Cqu7APW1KMeJem3TzQensQ%3D%3D) |
-| California State University San Marcos | Software Developer I, Instructional and Information Technology Services | San Marcos, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-developer-i-instructional-and-information-technology-services-at-california-state-university-san-marcos-4455546596?position=19&pageNum=0&refId=VamFpM5wUqNRoIoOeLNSUw%3D%3D&trackingId=UmWlh1wS9vnSdg4sxLNduQ%3D%3D) |
-| TikTok | Software Engineer Graduate (Ads Measurement Signal Technology) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-ads-measurement-signal-technology-2027-start-at-tiktok-4447920038?position=8&pageNum=0&refId=VamFpM5wUqNRoIoOeLNSUw%3D%3D&trackingId=UXmqhnh2e56qtYNVkYLWUg%3D%3D) |
-| ByteDance | Software Engineer Graduate (AI Infra Compute) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-ai-infra-compute-2027-start-at-bytedance-4448140717?position=28&pageNum=0&refId=l%2FxKcmFbB0fbKPuBIWzI7w%3D%3D&trackingId=8rGQkofTqYQBWOe5TwSsmQ%3D%3D) |
-| Netrolynx AI | Full Stack Engineer | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-engineer-at-netrolynx-ai-4464494140?position=51&pageNum=0&refId=VamFpM5wUqNRoIoOeLNSUw%3D%3D&trackingId=Y6O2k3qFxRasB2Ygx9Udwg%3D%3D) |
-| TikTok | Software Engineer Graduate (Foundation Platform) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-foundation-platform-2027-start-at-tiktok-4452901177?position=7&pageNum=0&refId=VamFpM5wUqNRoIoOeLNSUw%3D%3D&trackingId=oPSIr6GR1PX6ixBTKor5dA%3D%3D) |
-| BeaconFire Inc. | Entry-Level / Junior Software Developer | New Jersey, United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/entry-level-junior-software-developer-at-beaconfire-inc-4459524666?position=4&pageNum=0&refId=VamFpM5wUqNRoIoOeLNSUw%3D%3D&trackingId=hdDTMxeDyOWRcmY8aMSdeg%3D%3D) |
-| RightClick | Applied AI Analyst | Norwalk, CT | today | linkedin | [apply](https://www.linkedin.com/jobs/view/applied-ai-analyst-at-rightclick-4442887185?position=52&pageNum=0&refId=HyI5AKiJVDgKBN0OMn768g%3D%3D&trackingId=QxHciTQ5MSshhBq4P4MpVw%3D%3D) |
-| TikTok | Software Engineer Graduate (TikTok Global Live) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-tiktok-global-live-2027-start-at-tiktok-4448296039?position=8&pageNum=0&refId=7f5LTlZw5%2BfXbTlh2eIAMA%3D%3D&trackingId=WSC4DDGuOW3svLHKwm5aNA%3D%3D) |
-| Mayo Clinic | Associate AI/ML Engineer- Post Deployment Governance | Rochester, MN | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-ai-ml-engineer-post-deployment-governance-at-mayo-clinic-4464641229?position=38&pageNum=0&refId=HyI5AKiJVDgKBN0OMn768g%3D%3D&trackingId=%2F%2F5wfo5CRiUhjZbQ3LiGqQ%3D%3D) |
-| BeaconFire Inc. | Entry Level AI Developer- Python | California, United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/entry-level-ai-developer-python-at-beaconfire-inc-4459551192?position=14&pageNum=0&refId=HyI5AKiJVDgKBN0OMn768g%3D%3D&trackingId=V6tlLmYMYkkgonyhZ2dvTg%3D%3D) |
-| ByteDance | Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/visual-generation-multimodal-evaluation-machine-learning-engineer-graduate-aml-ark-us-2027-start-at-bytedance-4451800651?position=9&pageNum=0&refId=HyI5AKiJVDgKBN0OMn768g%3D%3D&trackingId=chODbxDgoE7ixkQaHYgetA%3D%3D) |
-| ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/agent-evaluation-evolution-machine-learning-engineer-graduate-aml-ark-us-2027-start-at-bytedance-4448785094?position=10&pageNum=0&refId=HyI5AKiJVDgKBN0OMn768g%3D%3D&trackingId=%2BcqWllClovtDw8djCfO2dw%3D%3D) |
-| TikTok | Software Engineer Graduate (TikTok AI Search & Visual Search Infra Team) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-tiktok-ai-search-visual-search-infra-team-2027-start-at-tiktok-4452376767?position=24&pageNum=0&refId=l%2FxKcmFbB0fbKPuBIWzI7w%3D%3D&trackingId=da1rqgTNp8%2FYkR5Mbx2Zew%3D%3D) |
-| Jobright.ai | LLM Engineer, Entry Level | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/llm-engineer-entry-level-at-jobright-ai-4463510904?position=4&pageNum=0&refId=l%2FxKcmFbB0fbKPuBIWzI7w%3D%3D&trackingId=j6hd6aiVnUbUvoX%2B%2FRdxkw%3D%3D) |
-| ATC | AI Engineer (Python, Machine Learning & Generative AI) | Texas, United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-python-machine-learning-generative-ai-at-atc-4464623060?position=57&pageNum=0&refId=zSzEVz9aPDbzCZ64QBjJwQ%3D%3D&trackingId=OrkL0ETWzKfSSqVXnZJVAQ%3D%3D) |
-| Innovatech Staffing | Machine Learning Engineer | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-at-innovatech-staffing-4463242261?position=54&pageNum=0&refId=zSzEVz9aPDbzCZ64QBjJwQ%3D%3D&trackingId=%2Bl5iWK7USoQsP7DM4ZouTQ%3D%3D) |
-| Booz Allen Hamilton | AI Engineer, Junior | San Antonio, TX | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-junior-at-booz-allen-hamilton-4455373412?position=44&pageNum=0&refId=zSzEVz9aPDbzCZ64QBjJwQ%3D%3D&trackingId=545UzLmlQ%2Bj9DowQXPDKXA%3D%3D) |
-| Astrion | Machine Learning Engineer | Huntsville, AL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-at-astrion-4407960376?position=36&pageNum=0&refId=zSzEVz9aPDbzCZ64QBjJwQ%3D%3D&trackingId=acckJZQBjEKfsRxIzEI6vw%3D%3D) |
-| ByteDance | Dev AI Software Engineer Graduate (Dev Infra US) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/dev-ai-software-engineer-graduate-dev-infra-us-2027-start-at-bytedance-4448126997?position=25&pageNum=0&refId=zSzEVz9aPDbzCZ64QBjJwQ%3D%3D&trackingId=F1oJbUxcaLtg6%2Fm%2Fz670fQ%3D%3D) |
-| TikTok | Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-governance-2027-start-at-tiktok-4454254416?position=20&pageNum=0&refId=zSzEVz9aPDbzCZ64QBjJwQ%3D%3D&trackingId=1CycLem4HhR%2F2yia0sGeBg%3D%3D) |
-| TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-tiktok-trust-and-safety-2027-start-at-tiktok-4447988805?position=19&pageNum=0&refId=zSzEVz9aPDbzCZ64QBjJwQ%3D%3D&trackingId=YNkryUQZV23zkdbynZO97g%3D%3D) |
-| Jobright.ai | Generative AI Engineer, Entry Level | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/generative-ai-engineer-entry-level-at-jobright-ai-4463515665?position=3&pageNum=0&refId=zSzEVz9aPDbzCZ64QBjJwQ%3D%3D&trackingId=8nHYQJ23xHE5EEeFeKTSFA%3D%3D) |
-| BeaconFire Inc. | Entry Level Agentic AI Developer (Python) | East Windsor, NJ | today | linkedin | [apply](https://www.linkedin.com/jobs/view/entry-level-agentic-ai-developer-python-at-beaconfire-inc-4461198821?position=12&pageNum=0&refId=zSzEVz9aPDbzCZ64QBjJwQ%3D%3D&trackingId=spK%2BUiJ%2B77XBRqf%2BDFiVhA%3D%3D) |
-| MIT Lincoln Laboratory | Medical Imaging AI Developer | Lexington, MA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/medical-imaging-ai-developer-at-mit-lincoln-laboratory-4444456008?position=35&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=4mVErTkROheaUI4mwcB9xg%3D%3D) |
-| PwC | AI Engineer- Experienced Associate- Commercial Technology & Innovation | Dallas, TX | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-experienced-associate-commercial-technology-innovation-at-pwc-4455528565?position=30&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=%2FICMsYu%2BbpLy23iyvyudkA%3D%3D) |
-| Stealth Startup | Machine Learning Engineer | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-at-stealth-startup-4462521012?position=23&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=Keobl3gea6xULuIDlCqqXg%3D%3D) |
-| Mayo Clinic | AI/ML Engineer - Validation & Evaluation | Rochester, MN | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-ml-engineer-validation-evaluation-at-mayo-clinic-4464658009?position=34&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=AMUHTScwHr0OKExCcGTXzQ%3D%3D) |
-| Mayo Clinic | Associate AI/ML Engineer | Rochester, MN | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-ai-ml-engineer-at-mayo-clinic-4464643204?position=12&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=tKsfxXu2XD1spbNclvDCCw%3D%3D) |
-| BeaconFire Inc. | Agentic Gen AI Developer (Python) | Pennsylvania, United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/agentic-gen-ai-developer-python-at-beaconfire-inc-4459999593?position=16&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=k4mgr%2FM%2Fz1CP%2FeEFUzYtKg%3D%3D) |
-| ByteDance | Software Engineer Graduate (Data-Speech-Product RD-Engineering-US) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-data-speech-product-rd-engineering-us-2027-start-at-bytedance-4449496343?position=8&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=RFaJkDXX4sy5nv7mJafSqA%3D%3D) |
-| TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-search-alliance-2027-start-at-tiktok-4449968567?position=3&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=mSRPGCKme09dEQifhp3dug%3D%3D) |
-| X, The Moonshot Factory | Machine Learning Engineer, Tapestry | Mountain View, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-tapestry-at-x-the-moonshot-factory-4454458157?position=9&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=S2nE0RlyNeDwXXgqZnxh0A%3D%3D) |
-| BeaconFire Inc. | Gen AI Developer | Oregon, United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/gen-ai-developer-at-beaconfire-inc-4459998714?position=14&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=POaD6eXrq6clTtBgDXFbGQ%3D%3D) |
-| Jobright.ai | AI Engineer, Entry Level | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-entry-level-at-jobright-ai-4463508436?position=1&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=0BMsjo9dL0Vw4ppZg6SrXA%3D%3D) |
-| Mentor Talent Acquisition | Junior Full Stack Engineer | New York, United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-full-stack-engineer-at-mentor-talent-acquisition-4457250148?position=9&pageNum=6&refId=DsKr6EsMyFO8yyO9MBjBjA%3D%3D&trackingId=%2FmNRaaHnPt6zaceOxj0RPA%3D%3D) |
-| Vestmark | Java Software Engineer | Boston, MA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/java-software-engineer-at-vestmark-4435114251?position=10&pageNum=6&refId=DsKr6EsMyFO8yyO9MBjBjA%3D%3D&trackingId=qZFL2PdDfcSzuSqAJuYm6A%3D%3D) |
-| ByteDance | Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-aml-engine-orchestration-2027-start-at-bytedance-4451826067?position=10&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=%2BSra7Nv2wvVqIFtbybBfYQ%3D%3D) |
-| Speria | Machine Learning Engineer | Dunwoody, GA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-at-speria-4463500938?position=8&pageNum=6&refId=LV%2By6zV24YVBmJtRGJICKw%3D%3D&trackingId=ERx%2F6yv5gwwOF87onqLHIw%3D%3D) |
-| Dew Software | Python AI Engineer | Cleveland, OH | today | linkedin | [apply](https://www.linkedin.com/jobs/view/python-ai-engineer-at-dew-software-4461405208?position=3&pageNum=6&refId=LV%2By6zV24YVBmJtRGJICKw%3D%3D&trackingId=k6q5CuE7adHnHknY6gz2OA%3D%3D) |
-| Chainlink Labs | Software Engineer I, CCIP | Charlotte, AR | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-ccip-at-chainlink-labs-4445990602?position=6&pageNum=6&refId=DsKr6EsMyFO8yyO9MBjBjA%3D%3D&trackingId=FicwV8ozod8I61ROCHcfeA%3D%3D) |
-| Dolby Laboratories | Video Software Engineer | Sunnyvale, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/video-software-engineer-at-dolby-laboratories-4455587317?position=2&pageNum=6&refId=DsKr6EsMyFO8yyO9MBjBjA%3D%3D&trackingId=jDCb%2FYXG%2BWkEcT53NeduJw%3D%3D) |
-| Goliath Partners | Software Engineer | New York City Metropolitan Area | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-goliath-partners-4464607308?position=4&pageNum=6&refId=DsKr6EsMyFO8yyO9MBjBjA%3D%3D&trackingId=kWtap4cbY22KAkH56djjQA%3D%3D) |
-| EisnerAmper | AI Developer– Agent Specialist | Birmingham, AL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-developer%E2%80%93-agent-specialist-at-eisneramper-4464624788?position=2&pageNum=7&refId=0zyJsXGkJJNsuawf5jQF5A%3D%3D&trackingId=Inmwg4li15hfSl5tehb2JQ%3D%3D) |
-| Aline | Engineering - Software Engineer (AI & Agentic Solutions) | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/engineering-software-engineer-ai-agentic-solutions-at-aline-4464645148?position=9&pageNum=7&refId=0zyJsXGkJJNsuawf5jQF5A%3D%3D&trackingId=az5zszVUOvOZBnjp4Eic1w%3D%3D) |
-| Infosys | Python AWS AI Engineer | Plano, TX | today | linkedin | [apply](https://www.linkedin.com/jobs/view/python-aws-ai-engineer-at-infosys-4442857454?position=6&pageNum=7&refId=0zyJsXGkJJNsuawf5jQF5A%3D%3D&trackingId=2BX%2FITzAuXrUuMtz6%2BB2Tw%3D%3D) |
-| Phoenix Group of Virginia | Power Platform Engineer - Contingent | Chesapeake, VA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/power-platform-engineer-contingent-at-phoenix-group-of-virginia-4463518294?position=9&pageNum=6&refId=jX1JTAiaH98M6MGNlotWVA%3D%3D&trackingId=tQND7y7IE0smvC50VJ96sQ%3D%3D) |
-| Jobright.ai | Machine Learning Engineer, New Grad | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-new-grad-at-jobright-ai-4463512889?position=9&pageNum=9&refId=q7xOAhLHG6zvRjWU83Vt6Q%3D%3D&trackingId=Zr%2FjqvXLVhwLC8yRTytr%2BA%3D%3D) |
-| Jobright.ai | Machine Learning Engineer, Model Development — Entry Level | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-model-development-%E2%80%94-entry-level-at-jobright-ai-4463502729?position=6&pageNum=9&refId=q7xOAhLHG6zvRjWU83Vt6Q%3D%3D&trackingId=%2FwWNgi2069RaCo5xfQmNkQ%3D%3D) |
-| P-1 AI | AI Engineer | San Francisco Bay Area | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-at-p-1-ai-4431981620?position=4&pageNum=8&refId=BnTa4%2FGB0LidvX7sLaeUgg%3D%3D&trackingId=nEy96Q0wyc68G9AzeZ18Vg%3D%3D) |
-| Jobright.ai | AI Engineer, Generative AI — New Grad | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-generative-ai-%E2%80%94-new-grad-at-jobright-ai-4463518644?position=7&pageNum=9&refId=q7xOAhLHG6zvRjWU83Vt6Q%3D%3D&trackingId=%2BHXO5vgtkeIYU2HVckWqBg%3D%3D) |
-| ACA Group | Product Engineer (Software Developer/Engineer) .net/C#/Angular or React, AWS and/or Azure | Durham, NC | today | linkedin | [apply](https://www.linkedin.com/jobs/view/product-engineer-software-developer-engineer-net-c%23-angular-or-react-aws-and-or-azure-at-aca-group-4442867812?position=9&pageNum=7&refId=8G0QWU%2Bg1uIp4STIlEIrag%3D%3D&trackingId=yd26fzx9JxcZQxyGanANdg%3D%3D) |
-| Serco | Power Platforms Junior Engineer | Washington, DC | today | linkedin | [apply](https://www.linkedin.com/jobs/view/power-platforms-junior-engineer-at-serco-4464480857?position=7&pageNum=7&refId=8G0QWU%2Bg1uIp4STIlEIrag%3D%3D&trackingId=9JmUCDoZYxcHwmbA3MtxoA%3D%3D) |
-| Jobright.ai | AI Engineer, New Grad | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-new-grad-at-jobright-ai-4463518525?position=5&pageNum=9&refId=q7xOAhLHG6zvRjWU83Vt6Q%3D%3D&trackingId=HfqIZBxclOVSGVeURRAnXQ%3D%3D) |
-| Jobright.ai | AI Engineer, Intelligent Systems — Entry Level | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-intelligent-systems-%E2%80%94-entry-level-at-jobright-ai-4463519583?position=4&pageNum=9&refId=q7xOAhLHG6zvRjWU83Vt6Q%3D%3D&trackingId=qREHugIWnMbaHsr7ld2dMg%3D%3D) |
-| PepsiCo | Analytics Platform Engineer | New York, NY | today | linkedin | [apply](https://www.linkedin.com/jobs/view/analytics-platform-engineer-at-pepsico-4462536266?position=5&pageNum=8&refId=xQQGJtHwX%2FYnkeU4BI6Ekg%3D%3D&trackingId=OQSjU9WkgwXKUcM0KWpmgQ%3D%3D) |
-| Crossway | Software Developer | Wheaton, IL | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-developer-at-crossway-4301317457?position=25&pageNum=0&refId=wBWaHe6wji%2Bu%2Fq8t0GLuhA%3D%3D&trackingId=se0LACjhYpe9vMakw%2FeTaw%3D%3D) |
-| TalentHop | Full Stack Software Engineer | United States | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-talenthop-4462261102?position=52&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=VTy%2FZa7CGbKXCNMLauPh5A%3D%3D) |
-| GM Financial | Software Development Engineer I | Irving, TX | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-development-engineer-i-at-gm-financial-4439435845?position=28&pageNum=0&refId=OB9UWpMnUqyiU%2FKC0s7aqQ%3D%3D&trackingId=qd4L9HqtRHrvgaVirAJoTA%3D%3D) |
-| GM Financial | SDE I- Adobe Exp Platform | Irving, TX | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/sde-i-adobe-exp-platform-at-gm-financial-4439432858?position=41&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=AW0BroPwR94%2BzcV04YQ3Aw%3D%3D) |
-| TalentHop | Software Engineer I | United States | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-talenthop-4462254093?position=39&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=j4GNjukoooyE1K1uvaMfWQ%3D%3D) |
-| HiredBuddy | Web Developer | San Francisco, CA | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/web-developer-at-hiredbuddy-4462964986?position=27&pageNum=0&refId=uAwrCMVpg03MoL1M2Hxq1g%3D%3D&trackingId=X%2FBo4Gic5Acfof5TkUuPlw%3D%3D) |
-| Jobright.ai | Machine Learning Engineer, Applied AI — New Grad | United States | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-applied-ai-%E2%80%94-new-grad-at-jobright-ai-4462999446?position=2&pageNum=0&refId=MYg%2F7E6Yjk8C9mV0wFwUeg%3D%3D&trackingId=3xQ3beL7HcHsRSqHfFkpBA%3D%3D) |
-| MeeBoss | Generative AI Engineer | United States | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/generative-ai-engineer-at-meeboss-4464406142?position=4&pageNum=6&refId=LV%2By6zV24YVBmJtRGJICKw%3D%3D&trackingId=nHLf9zZjpkDGu4X6w%2FK3NQ%3D%3D) |
-| RedBeard Solutions | CNO Analyst/Programmer | Fort George G. Meade, MD | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/cno-analyst-programmer-at-redbeard-solutions-4462961964?position=2&pageNum=8&refId=xQQGJtHwX%2FYnkeU4BI6Ekg%3D%3D&trackingId=%2FTUbddw3J10%2FGKjvnXThWw%3D%3D) |
+| NetApp | NetApp Emerging Talent - Software Engineer (Systems) | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/netapp-emerging-talent-software-engineer-systems-at-netapp-4462560988?position=41&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=hh4%2BZ3clzH4Y9MOJguHAaw%3D%3D) |
+| University of Utah | Software Development Engineer | Salt Lake City, UT | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-development-engineer-at-university-of-utah-4464979195?position=59&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=CExcobG%2B0fJKPw%2BQtkK84g%3D%3D) |
+| ACF Global Logistics | Full Stack Developer - 1+ years Experience | Spring Arbor, MI | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-developer-1%2B-years-experience-at-acf-global-logistics-4463865590?position=57&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=v%2FY2lXjlDma66OwDVd7mQg%3D%3D) |
+| Rincon Research Corporation | Jr. Software Engineer | Centennial, CO | today | linkedin | [apply](https://www.linkedin.com/jobs/view/jr-software-engineer-at-rincon-research-corporation-4463596894?position=48&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=5dIV7u7AmTBsomsywa1Vew%3D%3D) |
+| Radiance Technologies | Junior Software Engineer | Dayton, OH | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-software-engineer-at-radiance-technologies-4465094118?position=46&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=OkOC%2Bhb6N4QpNj15NQfjgg%3D%3D) |
+| Garmin | Software Engineer 1 (Android) | Yarmouth, ME | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-1-android-at-garmin-4464925625?position=42&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=h9mf%2FPUQaGNxmPXtb8B1CA%3D%3D) |
+| Astrion | Software Developer - Junior | Eglin Air Force Base, FL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-developer-junior-at-astrion-4456116062?position=40&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=5Vik0FrWyxZ2ucIWWLhmgA%3D%3D) |
+| Vituity | Software Engineer I - Remote - Nationwide | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-remote-nationwide-at-vituity-4443262516?position=26&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=Kd84Pm2SlkG7Se1chC1mEg%3D%3D) |
+| Two Six Technologies | Junior Software Developer | Herndon, VA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-software-developer-at-two-six-technologies-4455922654?position=29&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=NdQ32DCwJB3sM%2Fsq1tA0gQ%3D%3D) |
+| Bliss Technical Staffing | Software Engineer | Los Angeles County, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-bliss-technical-staffing-4463565805?position=32&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=R8vCrsrCYbdSNEbpLRsMVg%3D%3D) |
+| Jobright.ai | Backend Engineer, New Grad | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/backend-engineer-new-grad-at-jobright-ai-4463894340?position=39&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=a8dmAcSJXihbvZcYdK2WQQ%3D%3D) |
+| Rocket | Software Engineer I | Detroit, MI | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-rocket-4442893738?position=43&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=Zdanz%2FRkZpcDSSOp70D8RQ%3D%3D) |
+| ByteDance | Software Engineer Graduate (Traffic Infrastructure)- 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-traffic-infrastructure-2027-start-at-bytedance-4448131822?position=25&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=dz4apBXhYMKcI2smgiMYKw%3D%3D) |
+| Amazon | Software Development Engineer – Amazon Leo (US) | Los Angeles, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-development-engineer-%E2%80%93-amazon-leo-us-at-amazon-4455933568?position=30&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=yeZehRxapKDtCSt02jBjlA%3D%3D) |
+| Curtiss-Wright Corporation | Associate Software Development Engineer | Tewksbury, MA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-software-development-engineer-at-curtiss-wright-corporation-4463024539?position=24&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=8HMd0oBq7WCF1L2iMlqO%2BA%3D%3D) |
+| Hire Feed | Junior Software Engineer (Remote) | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4465069143?position=21&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=rT8jTKHYKAiLC2lrvz%2F9Fg%3D%3D) |
+| Hover | Security Software Engineer | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/security-software-engineer-at-hover-4462568962?position=28&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=AJLomdlDDj1kQRLhZL1OGQ%3D%3D) |
+| RemoteHunter | Software Engineer I | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-remotehunter-4463868007?position=22&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=IYlTRh0rpCN8bQ2VCtX%2Bxw%3D%3D) |
+| ByteDance | Software Engineer Graduate (Data-Intelligent Creation-AI Platform-Global Vision Engineering) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-graduate-data-intelligent-creation-ai-platform-global-vision-engineering-2027-start-at-bytedance-4450206268?position=21&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=DS%2Fax3tuSq7m%2FwM6zrvLRw%3D%3D) |
+| Publix Super Markets | Associate Software Engineer - Accounting Systems | Lakeland, FL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-software-engineer-accounting-systems-at-publix-super-markets-4465023352?position=18&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=haLLh8qVc1mdARuk6TXf3A%3D%3D) |
+| TalentHop | Software Engineer I | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-talenthop-4463055451?position=32&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=PwEhm4wi9YZYSWFQZVsgTw%3D%3D) |
+| TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | Seattle, WA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/backend-software-engineer-graduate-global-e-commerce-2027-start-at-tiktok-4448291147?position=16&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=grUl4qi6kwbzKF3C%2Bc6DWw%3D%3D) |
+| T-Mobile | Associate Software Engineer | Overland Park, KS | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-software-engineer-at-t-mobile-4463599428?position=15&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=aODHmHyBS3zb3%2FiGfKwV6w%3D%3D) |
+| PPLIED | Software Engineer All Levels | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-pplied-4463855390?position=14&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=hsM6Ag2srhVddDm%2B1iyqiA%3D%3D) |
+| Amazon | Robotics - Software Development Engineer | Westboro, WI | today | linkedin | [apply](https://www.linkedin.com/jobs/view/robotics-software-development-engineer-at-amazon-4455923649?position=23&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=C6tx3oTmoXf0sPDDYZQckw%3D%3D) |
+| Drift AI | Software Engineer - New Grad | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-drift-ai-4465063834?position=20&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=V09rWLU9nawSU%2BTJYz0Kgg%3D%3D) |
+| Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | Cupertino, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-development-engineer-i-%E2%80%93-ai-ml-network-infrastructure-annapurna-labs-at-amazon-4455910511?position=20&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=NuvfPxUDAakpE5eHZzlCLg%3D%3D) |
+| Yamaha Motor Corporation, USA | Software Engineer I | Kennesaw, GA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-yamaha-motor-corporation-usa-4446383629?position=19&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=sx3co1g5EV51R22ChJYz%2FA%3D%3D) |
+| Haystack | Software Engineer | Boston, KY | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4461800089?position=18&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=Q4lzk4uqvA23dt6uKdKdWg%3D%3D) |
+| Palantir Technologies | Software Engineer, New Grad | Denver, CO | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-palantir-technologies-4434136634?position=12&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=n6aUINOgR7gRo%2Fr7z4wAQQ%3D%3D) |
+| Stealth Startup | Fullstack / AI Engineer (New Grads) | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/fullstack-ai-engineer-new-grads-at-stealth-startup-4463035159?position=16&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=oM1SW7l8aE1QAn%2BTqvXSxA%3D%3D) |
+| Amazon Web Services (AWS) | Software Development Engineer, AWS Data Services - 2026 (US) | Seattle, WA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-development-engineer-aws-data-services-2026-us-at-amazon-web-services-aws-4455787889?position=11&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=d2bOSTfC%2BwGhhUJ1%2Bxg8gg%3D%3D) |
+| TikTok | (General Hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/general-hire-backend-software-engineer-graduate-trust-safety-2027-start-at-tiktok-4447682418?position=15&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=lZjz2zA7h8tYOjno%2Bk79qg%3D%3D) |
+| Yara AI | Full Stack Engineer (New Grad) | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-engineer-new-grad-at-yara-ai-4464991426?position=14&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=kI8RiZcKgpRV3yA8IktN6w%3D%3D) |
+| Solarity | Software Engineer I | Sioux Falls, SD | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-solarity-4463899625?position=9&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=yzcR94s%2BQasoKaPLm4g%2F%2Fw%3D%3D) |
+| Adacel | Full Stack Developer | Orlando, FL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-developer-at-adacel-4463872406?position=17&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=QlpAEfyOGxgmd1m2SAvj5Q%3D%3D) |
+| Palantir Technologies | Software Engineer, New Grad - Defense | New York, NY | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-defense-at-palantir-technologies-4434143445?position=8&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=8iRZuq7U8uthjOwzZmu5pQ%3D%3D) |
+| Premier Global Links LLC | Backend Software Engineer | New York, NY | today | linkedin | [apply](https://www.linkedin.com/jobs/view/backend-software-engineer-at-premier-global-links-llc-4463820835?position=6&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=O1uQUliX%2BuO8usc48rnxfg%3D%3D) |
+| Amazon | Software Development Engineer – Embedded Systems 2026 (US) | Sunnyvale, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-development-engineer-%E2%80%93-embedded-systems-2026-us-at-amazon-4455919606?position=5&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=KmYSfx3ML1DbmVoR9LtM%2BA%3D%3D) |
+| Palantir Technologies | Software Engineer, New Grad - Production Infrastructure | New York, NY | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-production-infrastructure-at-palantir-technologies-4434145450?position=5&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=jV3bcCulopVocfBxEc43zA%3D%3D) |
+| TikTok | Backend Software Engineer Graduate (TikTok-PGC-Digital Content Center) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/backend-software-engineer-graduate-tiktok-pgc-digital-content-center-2027-start-at-tiktok-4448277614?position=3&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=TAUAZ5ZVc9okNo6FXid1mA%3D%3D) |
+| Yara AI | Software Engineer (New Grad) | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-yara-ai-4464998156?position=2&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=kO%2FJY1IwOW3XRuzpXhAN8Q%3D%3D) |
+| Helic & Co | Junior Software Developer | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-software-developer-at-helic-co-4465082167?position=1&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=gJpJd43ah2Ibi2P210pX1A%3D%3D) |
+| TikTok | Fullstack Software Engineer Graduate (Global E-commerce) - 2027 Start | Seattle, WA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/fullstack-software-engineer-graduate-global-e-commerce-2027-start-at-tiktok-4448274877?position=2&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=L%2Bb9F3vDX2aRjlxhiyfQ7w%3D%3D) |
+| Amazon Web Services (AWS) | Software Development Engineer, AWS Glue | Bellevue, WA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-development-engineer-aws-glue-at-amazon-web-services-aws-4455909769?position=58&pageNum=0&refId=wi%2FLYp79zeNyVmxghPOxiA%3D%3D&trackingId=gaOkKOEjT029XOd7DLkhmA%3D%3D) |
+| TikTok | Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start | Seattle, WA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-governance-2027-start-at-tiktok-4454255433?position=31&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=cuDupvzkKF4bZPJG0NMeiQ%3D%3D) |
+| FetchJobs.co | Software Engineer - Agile | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-agile-at-fetchjobs-co-4465034510?position=49&pageNum=0&refId=wi%2FLYp79zeNyVmxghPOxiA%3D%3D&trackingId=VwAzmBFS3Oty86aMwaZEyg%3D%3D) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Synthetic Aperture Radar ML Engineer - Imaging Systems | Laurel, MD | today | linkedin | [apply](https://www.linkedin.com/jobs/view/2027-graduate-synthetic-aperture-radar-ml-engineer-imaging-systems-at-johns-hopkins-applied-physics-laboratory-4463824312?position=29&pageNum=0&refId=ms8tN63JKRIkcugFD5pNVw%3D%3D&trackingId=EWoF3%2B5%2FzNE%2BOq117BTtZA%3D%3D) |
+| TalentHop | Full Stack Software Engineer | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-talenthop-4463048490?position=27&pageNum=0&refId=ms8tN63JKRIkcugFD5pNVw%3D%3D&trackingId=xTMF8No3l4uFtiGnrSEY6Q%3D%3D) |
+| Amazon | Software Development Engineer - 2026 (US) | Seattle, WA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-development-engineer-2026-us-at-amazon-4455784915?position=4&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=MYj4MP3bSJjAvcYrbLqB2w%3D%3D) |
+| TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-live-2027-start-at-tiktok-4449970539?position=4&pageNum=0&refId=ms8tN63JKRIkcugFD5pNVw%3D%3D&trackingId=A3EwcNI5r2Jgs%2BH4qfYKPA%3D%3D) |
+| TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation) - 2027 Start | Seattle, WA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-foundation-2027-start-at-tiktok-4453028913?position=5&pageNum=0&refId=ms8tN63JKRIkcugFD5pNVw%3D%3D&trackingId=G%2B%2FzGYP%2BYvoWHHxdGZDRWQ%3D%3D) |
+| TikTok | (General Hire)Machine Learning Engineer Graduate (TikTok Recommendation) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/general-hire-machine-learning-engineer-graduate-tiktok-recommendation-2027-start-at-tiktok-4448200245?position=29&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=LvT9FKlbyQIj9IvqFkc%2B5w%3D%3D) |
+| McWane Ductile | Programmer | Phillipsburg, NJ | today | linkedin | [apply](https://www.linkedin.com/jobs/view/programmer-at-mcwane-ductile-4463039994?position=45&pageNum=0&refId=wi%2FLYp79zeNyVmxghPOxiA%3D%3D&trackingId=p5UZYnTN6EMxvzdXSTcbaQ%3D%3D) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Engineer; Machine Learning Engineer; Data Scientist - Tactical Intelligence Systems | Laurel, MD | today | linkedin | [apply](https://www.linkedin.com/jobs/view/2027-graduate-software-engineer-machine-learning-engineer-data-scientist-tactical-intelligence-systems-at-johns-hopkins-applied-physics-laboratory-4463806553?position=26&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=b1AtIWLW%2Fo5JP2VNv8LycA%3D%3D) |
+| OneStream Software | AI Engineer | Birmingham, MI | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-at-onestream-software-4464943495?position=27&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=3%2BfzmxfEKnvhW2mDmBgzmw%3D%3D) |
+| VestweII | Associate, Software Engineer | Austin, TX | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-software-engineer-at-vestweii-4465077402?position=33&pageNum=0&refId=wi%2FLYp79zeNyVmxghPOxiA%3D%3D&trackingId=rux%2FZlNYCGBJgRn%2BnYx9Dw%3D%3D) |
+| Drift AI | Full-Stack Engineer, Human Agent Tooling | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-engineer-human-agent-tooling-at-drift-ai-4465059557?position=29&pageNum=0&refId=wi%2FLYp79zeNyVmxghPOxiA%3D%3D&trackingId=zLalLonmiep0LI81XlXUvQ%3D%3D) |
+| Capgemini | Associate-AI-ML Engineer / GenAI Engineer - Data Scientist | Houston, TX | today | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-ai-ml-engineer-genai-engineer-data-scientist-at-capgemini-4463150384?position=23&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=lAqDmmxoKbZlNS%2F7zwebRg%3D%3D) |
+| Leader Bank | Full Stack Developer | Arlington, MA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-developer-at-leader-bank-4465094113?position=16&pageNum=0&refId=wi%2FLYp79zeNyVmxghPOxiA%3D%3D&trackingId=o4gVap6CnhEbE8TYzDosOg%3D%3D) |
+| Flexjet | Machine Learning Engineer | Cleveland, OH | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-at-flexjet-4456326391?position=11&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=IXlXRrValfMRpp4V0GYlxQ%3D%3D) |
+| Torch Technologies, Inc. | Software Engineer I | Huntsville, AL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-torch-technologies-inc-4465085223?position=11&pageNum=0&refId=wi%2FLYp79zeNyVmxghPOxiA%3D%3D&trackingId=wDtY1eb2tiGLy3uGCOUYQQ%3D%3D) |
+| ByteDance | Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-risk-control-2027-start-at-bytedance-4456162559?position=15&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=REgDkmGeRuHl%2BCzTvXEn8A%3D%3D) |
+| Crowe | Machine Learning Software Engineer 1 | Atlanta, TX | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-software-engineer-1-at-crowe-4465094315?position=8&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=8vbxZ3JnDQziyeG6atk22w%3D%3D) |
+| Jobright.ai | Generative AI Engineer, Entry Level | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/generative-ai-engineer-entry-level-at-jobright-ai-4464103119?position=3&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=e5peA4hY8CZOJLPDBB0VCQ%3D%3D) |
+| Jobright.ai | AI Engineer, Entry Level | San Francisco, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-entry-level-at-jobright-ai-4463884308?position=2&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=UBm%2FhX7aOszxOnjf7EJz5w%3D%3D) |
+| Honeywell Aerospace | Software Engineer I | Phoenix, AZ | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-at-honeywell-aerospace-4446151494?position=19&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=KIHxzqu%2FYLtRXqZ0TmrdLg%3D%3D) |
+| Jobright.ai | Full Stack Engineer, New Grad | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/full-stack-engineer-new-grad-at-jobright-ai-4463889397?position=4&pageNum=6&refId=xcEOdqv8V9z4gl%2FbRKgiaQ%3D%3D&trackingId=oNoeeNg6GNdqsxQQHkNl8g%3D%3D) |
+| Cintal, Inc. | Software Engineer – FORTRAN to C++ Migration | Morton, IL | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-fortran-to-c%2B%2B-migration-at-cintal-inc-4465020842?position=7&pageNum=6&refId=xcEOdqv8V9z4gl%2FbRKgiaQ%3D%3D&trackingId=HTyV3W3IVTJIFxY39xSOlQ%3D%3D) |
+| TikTok | Machine Learning Engineer Graduate (Search Ads) - 2027 Start | San Jose, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-search-ads-2027-start-at-tiktok-4446274960?position=35&pageNum=0&refId=aW61%2Fhd5ka9SFzuoQ39S0A%3D%3D&trackingId=ij9FlQRlWIg35sGraV8JWw%3D%3D) |
+| CBIZ | AI Developer | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-developer-at-cbiz-4463886578?position=37&pageNum=0&refId=tDqjAkOpfAFEFCdGSAC7GQ%3D%3D&trackingId=rns0sgindL1pK8e%2BgklCNA%3D%3D) |
+| PNC | Software Engineer I, MLOps (Python/Big Data) | Pittsburgh, PA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-mlops-python-big-data-at-pnc-4459094806?position=45&pageNum=0&refId=tDqjAkOpfAFEFCdGSAC7GQ%3D%3D&trackingId=Ffug5XZvKOsM8326PhPszw%3D%3D) |
+| Capgemini | Software Engineer | Atlanta, GA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-capgemini-4464919185?position=36&pageNum=0&refId=tDqjAkOpfAFEFCdGSAC7GQ%3D%3D&trackingId=2JNX9ySXHvac91fHyfUc7Q%3D%3D) |
+| Jobright.ai | LLM Engineer, Entry Level | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/llm-engineer-entry-level-at-jobright-ai-4464101758?position=4&pageNum=0&refId=tDqjAkOpfAFEFCdGSAC7GQ%3D%3D&trackingId=uQj65OJD7J8WIbYxIoDNQw%3D%3D) |
+| Viasat | Embedded Software Engineer, Early Career | Carlsbad, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/embedded-software-engineer-early-career-at-viasat-4456400452?position=5&pageNum=7&refId=3GdIm%2Fx8zPYHI8osl%2FB2XA%3D%3D&trackingId=YACQpZsLFYUoCtpqtpY72w%3D%3D) |
+| Hire Feed | Software Engineer - E-Commerce (Remote) | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4465060254?position=1&pageNum=6&refId=7%2FiepjJQHINK19kqx%2Bo%2FcA%3D%3D&trackingId=Hx4g4k8DYbvg4YZdsgjVJw%3D%3D) |
+| Elevait Solutions | Staffing - Software Engineer I | Painted Post, NY | today | linkedin | [apply](https://www.linkedin.com/jobs/view/staffing-software-engineer-i-at-elevait-solutions-4465045955?position=9&pageNum=8&refId=oEID8qDt1fb2m1eVC8xTuQ%3D%3D&trackingId=bNcoNkGsQRIBJAcoI3xX3g%3D%3D) |
+| ATC | AI Engineer (Python, Machine Learning & Generative AI) | Texas, United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-python-machine-learning-generative-ai-at-atc-4463894362?position=9&pageNum=6&refId=f6eJXIqA5%2BpCd%2Fbw0k3%2BuQ%3D%3D&trackingId=1WCbk92f1jVh60%2BNW3w8hw%3D%3D) |
+| Anduril Industries | Software Engineer, Tracking | Fort Collins, CO | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-tracking-at-anduril-industries-4453407393?position=10&pageNum=8&refId=oEID8qDt1fb2m1eVC8xTuQ%3D%3D&trackingId=OkGtoVThndhh2P1AlybCfA%3D%3D) |
+| Hire-Agency | Jr Web Developer | Draper, UT | today | linkedin | [apply](https://www.linkedin.com/jobs/view/jr-web-developer-at-hire-agency-4463579169?position=6&pageNum=8&refId=oEID8qDt1fb2m1eVC8xTuQ%3D%3D&trackingId=RP8PiC7yuSI4y%2Bc5cCY9sQ%3D%3D) |
+| Audible | Software Development Engineer | Cambridge, MA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-development-engineer-at-audible-4455917253?position=7&pageNum=8&refId=oEID8qDt1fb2m1eVC8xTuQ%3D%3D&trackingId=097JywKF0XLv%2B60eEiqUhw%3D%3D) |
+| Apetan Consulting LLC | ML ENGINEER/Remote | United States | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ml-engineer-remote-at-apetan-consulting-llc-4465099108?position=2&pageNum=6&refId=f6eJXIqA5%2BpCd%2Fbw0k3%2BuQ%3D%3D&trackingId=rUxTKsEsS4JO9faUGmAciQ%3D%3D) |
+| Morgan Stanley | AI Integration Software Engineer - Associate | New York, NY | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-integration-software-engineer-associate-at-morgan-stanley-4454918360?position=5&pageNum=6&refId=f6eJXIqA5%2BpCd%2Fbw0k3%2BuQ%3D%3D&trackingId=VsKRgzQ5hOzQgr7K4vu%2Fxg%3D%3D) |
+| Meta | Software Engineer, Systems ML - Compilers / Backend | Menlo Park, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-systems-ml-compilers-backend-at-meta-4463001586?position=1&pageNum=6&refId=f6eJXIqA5%2BpCd%2Fbw0k3%2BuQ%3D%3D&trackingId=hoVgiyJpVButhQDsMfrWlw%3D%3D) |
+| Yale University | Research Software Engineer- Program Analyst | New Haven, CT | today | linkedin | [apply](https://www.linkedin.com/jobs/view/research-software-engineer-program-analyst-at-yale-university-4462566525?position=3&pageNum=8&refId=76eiBx6%2FUYdpJI19%2B48VUA%3D%3D&trackingId=OE5XsbPKNByB9ykIcBRCuw%3D%3D) |
+| Tata Consultancy Services | Generative AI Engineer | Irving, TX | today | linkedin | [apply](https://www.linkedin.com/jobs/view/generative-ai-engineer-at-tata-consultancy-services-4463898617?position=1&pageNum=7&refId=otGDVppiCyRNdIoDWLwofg%3D%3D&trackingId=U5LseFyZVD7%2BwNY%2BNvt3lQ%3D%3D) |
+| Infosys | AI Engineer | Hartford, CT | today | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-at-infosys-4412028190?position=3&pageNum=8&refId=d6OhXMugH2sbQTZoKYN2fQ%3D%3D&trackingId=6qppzfckkyEmgNaIMppAZg%3D%3D) |
+| NVIDIA | Software Engineer - AI Research Clusters | Santa Clara, CA | today | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-ai-research-clusters-at-nvidia-4463578131?position=8&pageNum=9&refId=bBZ85GpfeJA3O7%2Fe0ZCFIA%3D%3D&trackingId=KrRRBnS4fCbJC1yDNfMG1A%3D%3D) |
+| DivIHN Integration Inc | Junior Software Engineer | Painted Post, NY | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-software-engineer-at-divihn-integration-inc-4463548860?position=31&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=%2Ff9Eft8JHE0xIY0wjcy2CQ%3D%3D) |
+| TalentBurst, an Inc 5000 company | Software Engineer 1 | Painted Post, NY | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-1-at-talentburst-an-inc-5000-company-4462547793?position=60&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=igLMnUDTOyEOjaShgcdqNw%3D%3D) |
+| FDM Group | Junior Software Engineer | Charlotte, NC | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-software-engineer-at-fdm-group-4464678832?position=56&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=ZKUxcdUlOu12T7DLk1U29A%3D%3D) |
+| Plexus Resource Solutions | Software Engineer (0-3 YOE) | United States | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-0-3-yoe-at-plexus-resource-solutions-4462554387?position=50&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=MSdwOC1vVs3hdTgdKMWmVA%3D%3D) |
+| Webologix Ltd/ INC | Java Software Engineer | United States | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/java-software-engineer-at-webologix-ltd-inc-4464693983?position=25&pageNum=0&refId=AWcEJrki15IVqB3N9SZTpw%3D%3D&trackingId=VcvylAUoJjgur3G3iD5e%2Fw%3D%3D) |
+| Mastech Digital | Software Engineer | Painted Post, NY | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-mastech-digital-4462552436?position=40&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=13%2BzEVnwPr98TZBbYaNOcQ%3D%3D) |
+| Noble Machines | Junior Robotics Software Engineer | Sunnyvale, CA | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/junior-robotics-software-engineer-at-noble-machines-4464680131?position=29&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=pjxY65HCkerVSeSneJT7Pg%3D%3D) |
+| Newport News Shipbuilding, A Division of HII | SOFTWARE ENGINEER 1 | Newport News, VA | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-1-at-newport-news-shipbuilding-a-division-of-hii-4463531614?position=39&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=0GIAd2G%2B71hffsTQFq9T6g%3D%3D) |
+| HII | SOFTWARE ENGINEER 1 | Newport News, VA | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-1-at-hii-4463537187?position=34&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=NSKFdJLvYBWP7SAmR%2F2vFA%3D%3D) |
+| IBM | Software Engineer Apprentice | Tucson, AZ | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-apprentice-at-ibm-4462545770?position=30&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=al%2By088ZVGaiOJ1eIwnSNg%3D%3D) |
+| SEACORP | Software Engineer - Cyber Team | Middletown, RI | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-cyber-team-at-seacorp-4459333842?position=16&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=vq3JQEudWdHZDcPK8LZ7Yw%3D%3D) |
+| Collins Aerospace | Software Engineer I (Onsite) | Cedar Rapids, IA | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-onsite-at-collins-aerospace-4464901169?position=12&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=rnq2qCMAJvfXQHtOwEaIJA%3D%3D) |
+| FLINT | Software Engineer | Sacramento County, CA | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-flint-4464645406?position=7&pageNum=0&refId=wEu6h%2BDds%2BVedOG6qc%2Fz7g%3D%3D&trackingId=CSVKMsaosAjzpy2Gx8PcCQ%3D%3D) |
+| Zebra Technologies | Software Engineer, I (Fullstack) | Holtsville, NY | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-at-zebra-technologies-4462545411?position=3&pageNum=0&refId=w09lxkvphFsiuParyqP3zQ%3D%3D&trackingId=%2FZzDWoaEdg34BMVyiw6Kcw%3D%3D) |
+| PwC | AI Engineer- Experienced Associate- Commercial Technology & Innovation | Tampa, FL | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-experienced-associate-commercial-technology-innovation-at-pwc-4455529493?position=31&pageNum=0&refId=ms8tN63JKRIkcugFD5pNVw%3D%3D&trackingId=RDnTGMjgaKoatmFEgiWMJQ%3D%3D) |
+| Jobright.ai | Machine Learning Engineer, Applied AI — New Grad | United States | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-applied-ai-%E2%80%94-new-grad-at-jobright-ai-4463562911?position=2&pageNum=0&refId=ms8tN63JKRIkcugFD5pNVw%3D%3D&trackingId=PKpeDyN8gsRSQfxUUlnAzg%3D%3D) |
+| Lenovo | AI Platform Engineer (PC Agentic Applications) - Global Future Leaders Program (2027) | North Carolina, United States | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-platform-engineer-pc-agentic-applications-global-future-leaders-program-2027-at-lenovo-4463533376?position=25&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=giZxRvdjh4ZFBEs11zhgRg%3D%3D) |
+| Bluedot LLC | Software Developer – Entry Level | Pennsylvania, United States | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-developer-%E2%80%93-entry-level-at-bluedot-llc-4462535179?position=1&pageNum=0&refId=gvcXeSHWY3QpboDhZhTIRA%3D%3D&trackingId=6xpGewvaRl1uGSQIRkHNuw%3D%3D) |
+| iSoftStone | Associate AI Developer | White Plains, NY | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/associate-ai-developer-at-isoftstone-4425740945?position=4&pageNum=0&refId=K4HerTLNJ9AqnDMbY8V95g%3D%3D&trackingId=Bo1p8j6SiuCAoqQ6IJUZEw%3D%3D) |
+| Gallagher | AI Developer | Rolling Meadows, IL | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-developer-at-gallagher-4464637703?position=17&pageNum=0&refId=tDqjAkOpfAFEFCdGSAC7GQ%3D%3D&trackingId=YOO2BrgChNUHDs6ZdIeodA%3D%3D) |
+| Demiurge Studios | 2027 Associate Software Engineer | United States | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/2027-associate-software-engineer-at-demiurge-studios-4464685818?position=5&pageNum=6&refId=7%2FiepjJQHINK19kqx%2Bo%2FcA%3D%3D&trackingId=3WSXPlXffD2%2F1lTsJgiWqg%3D%3D) |
+| Y-12 National Security Complex | Software Developer | Oak Ridge, TN | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-developer-at-y-12-national-security-complex-4464654320?position=4&pageNum=7&refId=3GdIm%2Fx8zPYHI8osl%2FB2XA%3D%3D&trackingId=dbqUS3jyQMwP5Cltj34xBg%3D%3D) |
+| Epic | Software Engineer | Houston, TX | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/software-engineer-at-epic-4445183912?position=9&pageNum=7&refId=z82PoB9Cy%2BUAouZHIkT5Pw%3D%3D&trackingId=SgGoU2nKL4iGiY2sn10L7A%3D%3D) |
+| ITA Group, Inc. | AI Engineer | West Des Moines, IA | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/ai-engineer-at-ita-group-inc-4463567293?position=47&pageNum=0&refId=tDqjAkOpfAFEFCdGSAC7GQ%3D%3D&trackingId=BTdnFkTKct%2Bhr2w4N9tPOQ%3D%3D) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Developer or RF Systems Engineer | Laurel, MD | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/2027-graduate-software-developer-or-rf-systems-engineer-at-johns-hopkins-applied-physics-laboratory-4462538419?position=1&pageNum=8&refId=76eiBx6%2FUYdpJI19%2B48VUA%3D%3D&trackingId=wcNU4AiY%2FP9FPdTpNUDuUw%3D%3D) |
+| MeeBoss | Generative AI Engineer | United States | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/generative-ai-engineer-at-meeboss-4464912451?position=5&pageNum=7&refId=otGDVppiCyRNdIoDWLwofg%3D%3D&trackingId=X%2BhnVgRTLoNDQfpefPNcpw%3D%3D) |
+| EarnIn | Machine Learning Engineer | Mountain View, CA | 1d ago | linkedin | [apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-at-earnin-4464645752?position=8&pageNum=8&refId=d6OhXMugH2sbQTZoKYN2fQ%3D%3D&trackingId=1Pal%2Bkk8%2FjqRR%2FLTEmvPVg%3D%3D) |
 
 ## 💻 Software Engineer — apply to these too (1366)
 
 | Company | Role | Location | Posted | Source | Link |
 |---|---|---|---|---|---|
-| OpenAI | Applied AI Engineer, Government | Washington, DC | today | ashby | [apply](https://jobs.ashbyhq.com/openai/485cda77-5d8f-4aaa-bca5-916b011477e6) |
+| OpenAI | Control Systems Software Engineer, Robotics | San Francisco | today | ashby | [apply](https://jobs.ashbyhq.com/openai/60573bf4-13ad-4933-aba7-729f428e9f69) |
+| OpenAI | Software Engineer, AI for Chip Design | San Francisco | today | ashby | [apply](https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405) |
+| Coinbase | Machine Learning Engineer Intern | Hybrid - San Francisco, CA | today | greenhouse | [apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
+| Coinbase | Software Engineer Intern | Hybrid - San Francisco, CA | today | greenhouse | [apply](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
+| GitLab | Intermediate Backend Engineer, Pipeline Authoring | Remote, United Kingdom | today | greenhouse | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8773028002) |
 | Roblox | Software Engineer, Account Authentication | San Mateo, CA, United States | today | greenhouse | [apply](https://careers.roblox.com/jobs/8097701?gh_jid=8097701) |
 | Roblox | Software Engineer, Communications | San Mateo, CA, United States | today | greenhouse | [apply](https://careers.roblox.com/jobs/8083944?gh_jid=8083944) |
 | Roblox | Software Engineer, Creator | San Mateo, CA, United States | today | greenhouse | [apply](https://careers.roblox.com/jobs/8115917?gh_jid=8115917) |
 | Roblox | Software Engineer, Creator Business | San Mateo, CA, United States | today | greenhouse | [apply](https://careers.roblox.com/jobs/8113334?gh_jid=8113334) |
 | Roblox | Software Engineer, Creator Studio | San Mateo, CA, United States | today | greenhouse | [apply](https://careers.roblox.com/jobs/8131689?gh_jid=8131689) |
 | Roblox | Software Engineer, Economy Platform | San Mateo, CA, United States | today | greenhouse | [apply](https://careers.roblox.com/jobs/8060254?gh_jid=8060254) |
-| Roblox | Software Engineer, Foundation AI | San Mateo, CA, United States | today | greenhouse | [apply](https://careers.roblox.com/jobs/8123004?gh_jid=8123004) |
 | Roblox | [Summer 2027] Software Engineer Intern | San Mateo, CA, United States | today | greenhouse | [apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
-| Twilio | Machine Learning Engineer | Remote - US | today | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7702644) |
-| Twilio | Software Engineer | Remote - Estonia | today | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7647708) |
-| Twilio | Software Engineer, Identity | Remote - US | today | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7605743) |
-| Twilio | Software Engineer (L2) | Remote - US | today | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/8100236) |
-| Twilio | Software Engineer L2 - Cloud Infrastructure | Remote - US | today | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7434770) |
-| Twilio | Software Engineer L3 | Remote - US | today | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/8009057) |
-| Twilio | Software Engineer (L3) Data Substrate | Remote - US | today | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7954715) |
-| Twilio | Software Engineer, Platform Engineering (L2) | Remote - US | today | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/8026207) |
-| Twilio | Software Engineer-Platform Engineering (L3) | Remote - US | today | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/8026203) |
-| Twilio | Software Engineer - Video | Remote - US | today | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7661919) |
-| Vercel | Software Engineer, Backend | Remote - United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5430088004) |
-| Mirage | Software Engineer, Backend | Union Square, New York City | today | ashby | [apply](https://jobs.ashbyhq.com/mirage/3016d374-987f-4dd2-bcab-c976a59acc0b) |
-| Mirage | Software Engineer, Agents | Union Square, New York City | today | ashby | [apply](https://jobs.ashbyhq.com/mirage/dc5089f3-c494-47ed-9312-edebd032c218) |
-| Talos | Software Engineer Intern, Dealer | New York | today | ashby | [apply](https://jobs.ashbyhq.com/talos-trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977) |
-| Talos | Software Engineer Intern, RFQ | New York | today | ashby | [apply](https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285) |
-| Anduril | Agentic AI Engineer, Automation | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5219383007?gh_jid=5219383007) |
+| Samsara | AI Engineer, Customer Success | Remote - US | today | greenhouse | [apply](https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110) |
+| Samsara | Finance & Strategy AI Engineer | San Francisco - SF9 | today | greenhouse | [apply](https://www.samsara.com/company/careers/roles/8113356?gh_jid=8113356) |
+| Samsara | People Analytics AI Engineer | Remote - Seattle | today | greenhouse | [apply](https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719) |
+| Vercel | Software Engineer, AI Gateway | Hybrid - San Francisco | today | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5798406004) |
+| Clera | Software Engineer, AI & Data Systems | San Francisco | today | ashby | [apply](https://jobs.ashbyhq.com/clera/63d532c2-6e12-4ad4-a599-9a756cd3ce12) |
+| Embedding VC | Software Engineer, Enterprise AI Platform | San Francisco Bay Area | today | ashby | [apply](https://jobs.ashbyhq.com/embedding-vc/b49531ff-4850-4bab-8fbf-72a8ec299e60) |
+| Embedding VC | Software Engineer, Agent | San Francisco Bay Area | today | ashby | [apply](https://jobs.ashbyhq.com/embedding-vc/5d382f97-5444-45b6-b491-140e88d151a7) |
+| Mind Robotics | Software Engineer, Edge & Field Systems | Normal, IL | today | ashby | [apply](https://jobs.ashbyhq.com/mindrobotics/d8d93018-b5c2-4623-b252-5f032eab46ac) |
+| Mirage | Software Engineer, iOS | Union Square, New York City | today | ashby | [apply](https://jobs.ashbyhq.com/mirage/53e0fac6-c409-4288-82e3-4d2fa9140815) |
+| People Culture Talent | Infrastructure Engineer | San Francisco, CA | today | ashby | [apply](https://jobs.ashbyhq.com/people-culture-talent/eaec0e74-061c-4441-a96e-b3beae6aecbb) |
+| Accenture | Data Platform Engineer | Chantilly, VA | today | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4701476006?gh_jid=4701476006) |
 | Anduril | CNC Programmer/Operator | Morrisville, North Carolina, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5179736007?gh_jid=5179736007) |
-| Anduril | Frontend Software Engineer | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5147775007?gh_jid=5147775007) |
 | Anduril | Infrastructure Engineer, Kubernetes | Reston, Virginia, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5177879007?gh_jid=5177879007) |
-| Anduril | Mission Software Engineer | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5208852007?gh_jid=5208852007) |
 | Anduril | Platform Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5227576007?gh_jid=5227576007) |
-| Anduril | Robotics Software Engineer | Boston, Massachusetts, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5179580007?gh_jid=5179580007) |
-| Anduril | Robotics Software Engineer, Behaviors | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5121816007?gh_jid=5121816007) |
-| Anduril | Robotics Software Engineer, Maneuver Dominance | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5113527007?gh_jid=5113527007) |
-| Anduril | Robotics Software Engineer, Omen | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5183150007?gh_jid=5183150007) |
-| Anduril | Robotics Software Engineer, Sensor Integration | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5096506007?gh_jid=5096506007) |
-| Anduril | Robotics Software Engineer, Verification & Validation | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5083521007?gh_jid=5083521007) |
-| Anduril | Software Engineer, Agentic Modeling & Simulation | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5184726007?gh_jid=5184726007) |
-| Anduril | Software Engineer, Agent Platform | Washington, District of Columbia, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5174717007?gh_jid=5174717007) |
-| Anduril | Software Engineer, AI Platform | Boston, Massachusetts, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5210930007?gh_jid=5210930007) |
 | Anduril | Software Engineer (C#) | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5211022007?gh_jid=5211022007) |
-| Anduril | Software Engineer, Cloud OS | Seattle, Washington, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5130646007?gh_jid=5130646007) |
-| Anduril | Software Engineer, Distributed Simulation | Seattle, Washington, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228337007?gh_jid=5228337007) |
 | Anduril | Software Engineer, Factory Systems | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5135811007?gh_jid=5135811007) |
-| Anduril | Software Engineer, Front End | Reston, Virginia, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5177896007?gh_jid=5177896007) |
-| Anduril | Software Engineer, Geospatial Platform (Terra) | Seattle, Washington, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5131066007?gh_jid=5131066007) |
 | Anduril | Software Engineer, Intelligence Systems | Reston, Virginia, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5064165007?gh_jid=5064165007) |
-| Anduril | Software Engineer - ML Infrastructure | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5195642007?gh_jid=5195642007) |
-| Anduril | Software Engineer - Modeling & Simulation | Costa Mesa, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5062357007?gh_jid=5062357007) |
-| Anduril | Software Engineer, Robotics Tracking and Fusion | Waltham, Massachusetts, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5213218007?gh_jid=5213218007) |
-| Anduril | Software Engineer, Space Special Programs | Chantilly, Virginia, United States; Herndon, Virginia, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5208795007?gh_jid=5208795007) |
 | Anduril | Software Engineer, Tooling | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | today | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5227588007?gh_jid=5227588007) |
+| Axon | AI Infrastructure Engineer | Boston, Massachusetts, United States; San Francisco, California, United States; Scottsdale, Arizona, United States; Seattle, Washington, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/axon/jobs/7810798003) |
+| Celonis | Applied AI Engineer - Technology Consultant | New York, US, New York | today | greenhouse | [apply](https://job-boards.greenhouse.io/celonis/jobs/7765659003?gh_jid=7765659003) |
+| Cook Systems | FastTrack Full-Stack Developer Program | Nashville, TN | today | greenhouse | [apply](https://job-boards.greenhouse.io/cooksys/jobs/5386869008) |
+| Cribl | Software Engineer, Core Platform | Remote - United States | today | greenhouse | [apply](https://cribl.io/job-detail/?gh_jid=6143413004) |
+| Cribl | Software Engineer, Edge | Remote - United States | today | greenhouse | [apply](https://cribl.io/job-detail/?gh_jid=6144377004) |
+| Atoms | Backend Engineer | Mountain View, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8583340002) |
 | Atoms | Frontend Engineer | New York, NY | today | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8583309002) |
+| Atoms | Robotics Software Engineer | Pittsburgh, PA | today | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8583192002) |
+| Atoms | Software Engineer, Customer Lifecycle | Mountain View, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8767297002) |
+| Atoms | Software Engineer- Money Engineering | New York, NY | today | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8457896002) |
 | Atoms | Software Engineer - Networking | San Francisco, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8767251002) |
-| Gallup | Software Engineer Intern — Summer 2027 | San Francisco | today | greenhouse | [apply](https://job-boards.greenhouse.io/gallup/jobs/4395897009) |
-| KoBold Metals | Frontend Software Engineer | Remote | today | greenhouse | [apply](https://job-boards.greenhouse.io/koboldmetals/jobs/4286209005) |
-| KoBold Metals | Software Engineer (All Levels) | Remote | today | greenhouse | [apply](https://job-boards.greenhouse.io/koboldmetals/jobs/4510145005) |
-| KoBold Metals | Software Engineer (All Levels), United Kingdom | Remote, United Kingdom | today | greenhouse | [apply](https://job-boards.greenhouse.io/koboldmetals/jobs/4678367005) |
-| LG Electronics | Embodied AI Engineer | Englewood Cliffs, NJ; Santa Clara, CA  | today | greenhouse | [apply](https://job-boards.greenhouse.io/lgelectronics/jobs/5369133008) |
+| DoorDash | Embedded Software Engineer (Firmware) - DoorDash Air | San Francisco, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8122134) |
+| DoorDash | Machine Learning Engineer, Drive | San Francisco, CA; Sunnyvale, CA; Seattle, WA | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8113186) |
+| DoorDash | Machine Learning Engineer, Marketplace Optimization | San Francisco, CA; Sunnyvale, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/7580407) |
+| DoorDash | Robotics Software Engineer - Labs, DoorDash Air | San Francisco, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/6682078) |
+| DoorDash | Software Engineer, Android (All Teams) | Sunnyvale, CA; San Francisco, CA; Seattle, WA | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/5630438) |
+| DoorDash | Software Engineer, Backend (All Teams) | Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/5630445) |
+| DoorDash | Software Engineer, Backend - DoorDash Air | San Francisco, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/6599474) |
+| DoorDash | Software Engineer, Data and AI Platform | San Francisco, CA; Sunnyvale, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171620) |
+| DoorDash | Software Engineer, Data Platform (All Teams) | San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/7577073) |
+| DoorDash | Software Engineer, iOS (All Teams) | Sunnyvale, CA; San Francisco, CA; Seattle, WA; New York, NY | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/5630454) |
+| DoorDash | Software Engineer, Machine Learning Infrastructure - Generative AI | San Francisco, CA; Sunnyvale, CA; Seattle, WA | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8013249) |
+| DoorDash | Software Engineer, Planning & Controls - Autonomy & Robotics, DoorDash Air | San Francisco, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8046982) |
+| DoorDash | Software Engineer, Robotics Infrastructure - Autonomy & Robotics, DoorDash Air | San Francisco, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8046909) |
+| DoorDash | Software Engineer, Spark Platform | San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8044370) |
+| DoorDash | Software Engineer, Storage | San Francisco, CA; Seattle, WA; New York, NY | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8024644) |
+| DoorDash | Software Engineer, Traffic | San Francisco, CA; New York, NY; Seattle, WA | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8120763) |
+| DoorDash | Software Engineer, Unified Gateway | San Francisco, CA; Seattle, WA; Los Angeles, CA; New York, NY | today | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8146670) |
+| DRW | AI Engineer | Chicago | today | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/6586001) |
+| DRW | Software Developer | Chicago | today | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7980165) |
+| Eudia | AI Engineer Intern | Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/eudia/jobs/4020078009) |
+| Evolver | GenAI Engineer (Python) | Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/evolver/jobs/4092111009) |
+| Freeform | Software Engineer | Los Angeles, CA (On-site) | today | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7691540003) |
+| General Matter | Embedded Software Engineer | Los Angeles, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/4487707008) |
+| General Matter | Software Engineer, Hardware Test & Automation | Los Angeles, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/4819852008) |
+| GRVTY | AI/ML Engineer | McLean, Virginia, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4273921009) |
+| GRVTY | Expert ML Software Engineer | Springfield, Virginia, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4372498009) |
+| GRVTY | Frontend Software Engineer | San Antonio, Texas, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4398252009) |
+| GRVTY | Full Stack Developer | Aurora, Colorado, United States; Sterling, Virginia, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4332575009) |
+| GRVTY | Infrastructure Engineer | Herndon, Virginia, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4394435009) |
+| GRVTY | Palantir Platform Engineer | Herndon, Virginia, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4394446009) |
+| GRVTY | Platform Engineer | Chantilly, Virginia, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4312743009) |
+| GRVTY | Software Developer | Chantilly, Virginia, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4371622009) |
+| GRVTY | Software Development Engineer | Herndon, Virginia, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4394424009) |
+| GRVTY | Software Engineer | Dayton, Ohio, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4091493009) |
+| GRVTY | Software Engineer (Full Stack) - SME | Springfield, Virginia, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4201756009) |
+| GRVTY | Software Engineer - Kubernetes | Maryland, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4398261009) |
+| GRVTY | Software Engineer - Maritime Autonomy (AUV/UUV) | Ventura, California, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4305759009) |
+| Katalyst Space Technologies | Flight Software Engineer | Broomfield, Colorado, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/katalyst/jobs/6185969004) |
+| Katalyst Space Technologies | Robotics Software Engineer | Broomfield, Colorado, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/katalyst/jobs/6186135004) |
+| Lexington Medical | Electrical/Embedded Software Engineer Intern | Bedford, MA | today | greenhouse | [apply](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008) |
+| Lexington Medical | Embedded Software Engineer | Bedford, MA | today | greenhouse | [apply](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5419363008) |
+| MrBeast | Full Stack Engineer, App Framework & E-Commerce | San Mateo, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6119092004) |
+| Otter | Backend Engineer | Mountain View, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/otter/jobs/7820368002) |
+| Peregrine | Software Engineer, Product Experiences | San Francisco, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4704820005) |
 | Redwood Materials | Embedded Software Engineer – Power Electronics, Energy Storage | San Francisco, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6003203004?gh_jid=6003203004) |
 | Redwood Materials | Infrastructure Software Engineer, Energy Storage | San Francisco, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/redwoodmaterials/jobs/5737879004?gh_jid=5737879004) |
 | Redwood Materials | Software Engineer - Site Controller, Energy Storage | San Francisco, California, United States | today | greenhouse | [apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6097367004?gh_jid=6097367004) |
-| SpaceX | Application Software Engineer, Internal Systems | Starbase, TX | today | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8785507002?gh_jid=8785507002) |
-| SpaceX | Full Stack Software Engineer | Bastrop, TX | today | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8785505002?gh_jid=8785505002) |
-| SpaceX | Full Stack Software Engineer, Internal Systems | Hawthorne, CA | today | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8785502002?gh_jid=8785502002) |
-| The New York Times | Software Engineer, Growth Conversion | New York, NY | today | greenhouse | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4730745005) |
+| Rockstar Games | Cloud Platform Engineer | Manhattan, New York, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/rockstargames/jobs/7800927003) |
+| Rockstar Games | Full Stack Engineer (C#/React) | Manhattan, New York, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/rockstargames/jobs/7711703003) |
+| Rockstar Games | Software Engineer (C#/.NET) | Manhattan, New York, United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/rockstargames/jobs/7711702003) |
+| SpaceX | CMM Programmer (Valves) - 2nd Shift | Hawthorne, CA | today | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8788050002?gh_jid=8788050002) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Alexandria, VA, USA | Alexandria, VA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975245004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Boise, ID, USA | Boise, ID, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975293004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Champaign, IL, USA | Champaign, IL, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975316004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Chapel Hill, NC, USA | Chapel Hill, NC, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975190004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Columbia, SC, USA | Columbia, SC, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975370004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Cupertino, CA, USA | Cupertino, CA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975166004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Dayton, OH, USA | Dayton, OH, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975322004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Denver, CO, USA | Denver, CO, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976288004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - El Paso, TX, USA | El Paso, TX, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975307004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Fresno, CA, USA | Fresno, CA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975275004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Jacksonville, FL, USA | Jacksonville, FL, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975208004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Jersey City, NJ, USA | Jersey City, NJ, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975214004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Kirkland, WA, USA | Kirkland, WA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975147004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Los Angeles, CA, USA | Los Angeles, CA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975127004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Madison, WI, USA | Madison, WI, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975184004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Nashville, TN, USA | Nashville, TN, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975196004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Oakland, CA, USA | Oakland, CA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975172004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Omaha, NE, USA | Omaha, NE, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975328004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Orlando, FL, USA | Orlando, FL, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975202004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Palo Alto, CA, USA | Palo Alto, CA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975121004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Pittsburgh, PA, USA | Pittsburgh, PA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975227004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - San Jose, CA, USA | San Jose, CA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975160004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Silver Spring, MD, USA | Silver Spring, MD, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975178004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - State College, PA, USA | State College, PA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975334004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Syracuse, NY, USA | Syracuse, NY, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975340004) |
+| Speechify | Software Engineer, Platform - Alexandria, VA, USA | Alexandria, VA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974212004) |
+| Speechify | Software Engineer, Platform - Birmingham, AL, USA | Birmingham, AL, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974263004) |
+| Speechify | Software Engineer, Platform - Cary, NC, USA | Cary, NC, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974242004) |
+| Speechify | Software Engineer, Platform - Champaign, IL, USA | Champaign, IL, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974175004) |
+| Speechify | Software Engineer, Platform - Chicago, IL, USA | Chicago, IL, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974169004) |
+| Speechify | Software Engineer, Platform - College Park, MD, USA | College Park, MD, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974224004) |
+| Speechify | Software Engineer, Platform - Cupertino, CA, USA | Cupertino, CA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974126004) |
+| Speechify | Software Engineer, Platform - Eugene, OR, USA | Eugene, OR, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974162004) |
+| Speechify | Software Engineer, Platform - Fort Lauderdale, FL, USA | Fort Lauderdale, FL, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974276004) |
+| Speechify | Software Engineer, Platform - Fresno, CA, USA | Fresno, CA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974144004) |
+| Speechify | Software Engineer, Platform - Indianapolis, IN, USA | Indianapolis, IN, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974201004) |
+| Speechify | Software Engineer, Platform - Kirkland, WA, USA | Kirkland, WA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974154004) |
+| Speechify | Software Engineer, Platform - Memphis, TN, USA | Memphis, TN, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974254004) |
+| Speechify | Software Engineer, Platform - Norfolk, VA, USA | Norfolk, VA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974220004) |
+| Speechify | Software Engineer, Platform - Oklahoma City, OK, USA | Oklahoma City, OK, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974243004) |
+| Speechify | Software Engineer, Platform - Phoenix, AZ, USA | Phoenix, AZ, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974188004) |
+| Speechify | Software Engineer, Platform - Provo, UT, USA | Provo, UT, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974170004) |
+| Speechify | Software Engineer, Platform - Saint Paul, MN, USA | Saint Paul, MN, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974179004) |
+| Speechify | Software Engineer, Platform - San Diego, CA, USA | San Diego, CA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974140004) |
+| Speechify | Software Engineer, Platform - Santa Monica, CA, USA | Santa Monica, CA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974134004) |
+| Speechify | Software Engineer, Platform - Seattle, WA, USA | Seattle, WA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976204004) |
+| Speechify | Software Engineer, Platform - State College, PA, USA | State College, PA, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974184004) |
+| Speechify | Software Engineer, Platform - Syracuse, NY, USA | Syracuse, NY, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974192004) |
+| Speechify | Software Engineer, Platform - Tampa, FL, USA | Tampa, FL, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974232004) |
+| Speechify | Software Engineer, Platform - West Lafayette, IN, USA | West Lafayette, IN, USA | today | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974205004) |
+| STR | Autonomy Algorithms Software Engineer | Arlington, VA | today | greenhouse | [apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4704680006) |
+| STR | Full Stack Developer | Woburn, MA  | today | greenhouse | [apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4687157006) |
+| STR | Machine Learning Engineer | Arlington, VA | today | greenhouse | [apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4700461006) |
+| Tax Relief Advocates | AI Full-Stack Developer | Irvine, California | today | greenhouse | [apply](https://job-boards.greenhouse.io/taxreliefadvocates/jobs/5265400008) |
+| Together AI | Machine Learning Engineer - Inference | San Francisco  | today | greenhouse | [apply](https://job-boards.greenhouse.io/togetherai/jobs/4385540007) |
+| Together AI | Platform Engineer, Model Shaping | San Francisco  | today | greenhouse | [apply](https://job-boards.greenhouse.io/togetherai/jobs/4790243007) |
+| Torc Robotics | ML Engineer, I - MLOps Framework | Remote - US | today | greenhouse | [apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002) |
+| Verkada | Backend Engineer, Alarms | San Mateo, CA United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/5191604007) |
+| Verkada | Backend Engineer - Connectivity | San Mateo, CA United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/5194598007) |
+| Verkada | Embedded Software Engineer - Access Control | San Mateo, CA United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/5233102007) |
+| Verkada | Software Engineer - Computer Vision | San Mateo, CA United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/5195995007) |
+| Verkada | Software Engineer - Data Platform | San Mateo, CA United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/4129304007) |
+| Verkada | Software Engineer - Imaging Systems | San Mateo, CA United States | today | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/4134234007) |
+| xAI | Exceptional Software Engineer |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4956028007) |
+| xAI | Facilities Infrastructure Engineer, Data Center Infrastructure - Memphis |  Southaven, MS; Memphis, TN | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5182374007) |
+| xAI | Machine Learning Engineer - Ads |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4996796007) |
+| xAI | Machine Learning Engineer - Recommendation Systems |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4703144007) |
+| xAI | ML Infrastructure Engineer |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5193037007) |
+| xAI | Software Engineer, Ads Product |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5152408007) |
+| xAI | Software Engineer - Consumer Subscriptions |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5109691007) |
+| xAI | Software Engineer, Data Center - Memphis |  Southaven, MS; Memphis, TN | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5209858007) |
+| xAI | Software Engineer, Data Platform |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4803862007) |
+| xAI | Software Engineer - Evals |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
+| xAI | Software Engineer - Kernels/CUDA (C++) |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5052040007) |
+| xAI | Software Engineer - Linux Kernel (C++, C) |  Palo Alto, CA; Seattle, WA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5202187007) |
+| xAI | Software Engineer, Media |  Palo Alto, CA; Seattle, WA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4805874007) |
+| xAI | Software Engineer - Network (C++) |  Palo Alto, CA; Seattle, WA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5179367007) |
+| xAI | Software Engineer - Networking Software and Services |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4946696007) |
+| xAI | Software Engineer, Observability |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4803905007) |
+| xAI | Software Engineer - Platform Infrastructure (Rust, C++) |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5191142007) |
+| xAI | Software Engineer - Platform Security |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4835611007) |
+| xAI | Software Engineer - Real-Time Storage |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4805886007) |
+| xAI | Software Engineer - Search Infrastructure |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5205179007) |
+| xAI | Software Engineer - Search Ranking |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5125621007) |
+| xAI | Software Engineer - Training/Inference (C++) |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4533894007) |
+| xAI | Software Engineer - Voice Model |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5051966007) |
+| xAI | Software Engineer - X Data Engineering |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5182183007) |
+| xAI | Software Engineer - X Developer Platform |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5204788007) |
+| xAI | Software Engineer, X Money |  Palo Alto, CA | today | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5107958007) |
 | Zoox | Software Engineer - Robot Software Infrastructure | Foster City, CA | today | lever | [apply](https://jobs.lever.co/zoox/6da52aa7-0ccb-48d0-af25-0889f41ddee5) |
-| Syncreon Consulting | Vice President, Full Stack Engineer | Pittsburgh, US | today | smartrecruiters | [apply](https://jobs.smartrecruiters.com/syncreonconsulting/744000148276099) |
-| Johns Hopkins Applied Physics Laboratory | Software Developer / RF Systems Engineer | Laurel, MD | today | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59975?icims=1) |
-| Robinhood | Software Engineer, Proactive Capabilities | Bellevue, WA; Menlo Park, CA | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&gh_jid=8067604) |
-| Catapult | Agentic AI Engineer | New York | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/catapultsports/jobs/8083093) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Alexandria, VA, USA | Alexandria, VA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975245004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Boise, ID, USA | Boise, ID, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975293004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Champaign, IL, USA | Champaign, IL, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975316004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Chapel Hill, NC, USA | Chapel Hill, NC, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975190004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Columbia, SC, USA | Columbia, SC, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975370004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Cupertino, CA, USA | Cupertino, CA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975166004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Dayton, OH, USA | Dayton, OH, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975322004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Denver, CO, USA | Denver, CO, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976288004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - El Paso, TX, USA | El Paso, TX, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975307004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Fresno, CA, USA | Fresno, CA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975275004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Jacksonville, FL, USA | Jacksonville, FL, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975208004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Jersey City, NJ, USA | Jersey City, NJ, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975214004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Kirkland, WA, USA | Kirkland, WA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975147004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Los Angeles, CA, USA | Los Angeles, CA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975127004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Madison, WI, USA | Madison, WI, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975184004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Nashville, TN, USA | Nashville, TN, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975196004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Oakland, CA, USA | Oakland, CA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975172004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Omaha, NE, USA | Omaha, NE, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975328004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Orlando, FL, USA | Orlando, FL, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975202004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Palo Alto, CA, USA | Palo Alto, CA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975121004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Pittsburgh, PA, USA | Pittsburgh, PA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975227004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - San Jose, CA, USA | San Jose, CA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975160004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Silver Spring, MD, USA | Silver Spring, MD, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975178004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - State College, PA, USA | State College, PA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975334004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Syracuse, NY, USA | Syracuse, NY, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975340004) |
-| Speechify | Software Engineer, Platform - Alexandria, VA, USA | Alexandria, VA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974212004) |
-| Speechify | Software Engineer, Platform - Birmingham, AL, USA | Birmingham, AL, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974263004) |
-| Speechify | Software Engineer, Platform - Cary, NC, USA | Cary, NC, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974242004) |
-| Speechify | Software Engineer, Platform - Champaign, IL, USA | Champaign, IL, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974175004) |
-| Speechify | Software Engineer, Platform - Chicago, IL, USA | Chicago, IL, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974169004) |
-| Speechify | Software Engineer, Platform - College Park, MD, USA | College Park, MD, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974224004) |
-| Speechify | Software Engineer, Platform - Cupertino, CA, USA | Cupertino, CA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974126004) |
-| Speechify | Software Engineer, Platform - Eugene, OR, USA | Eugene, OR, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974162004) |
-| Speechify | Software Engineer, Platform - Fort Lauderdale, FL, USA | Fort Lauderdale, FL, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974276004) |
-| Speechify | Software Engineer, Platform - Fresno, CA, USA | Fresno, CA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974144004) |
-| Speechify | Software Engineer, Platform - Indianapolis, IN, USA | Indianapolis, IN, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974201004) |
-| Speechify | Software Engineer, Platform - Kirkland, WA, USA | Kirkland, WA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974154004) |
-| Speechify | Software Engineer, Platform - Memphis, TN, USA | Memphis, TN, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974254004) |
-| Speechify | Software Engineer, Platform - Norfolk, VA, USA | Norfolk, VA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974220004) |
-| Speechify | Software Engineer, Platform - Oklahoma City, OK, USA | Oklahoma City, OK, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974243004) |
-| Speechify | Software Engineer, Platform - Phoenix, AZ, USA | Phoenix, AZ, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974188004) |
-| Speechify | Software Engineer, Platform - Provo, UT, USA | Provo, UT, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974170004) |
-| Speechify | Software Engineer, Platform - Saint Paul, MN, USA | Saint Paul, MN, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974179004) |
-| Speechify | Software Engineer, Platform - San Diego, CA, USA | San Diego, CA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974140004) |
-| Speechify | Software Engineer, Platform - Santa Monica, CA, USA | Santa Monica, CA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974134004) |
-| Speechify | Software Engineer, Platform - Seattle, WA, USA | Seattle, WA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976204004) |
-| Speechify | Software Engineer, Platform - State College, PA, USA | State College, PA, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974184004) |
-| Speechify | Software Engineer, Platform - Syracuse, NY, USA | Syracuse, NY, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974192004) |
-| Speechify | Software Engineer, Platform - Tampa, FL, USA | Tampa, FL, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974232004) |
-| Speechify | Software Engineer, Platform - West Lafayette, IN, USA | West Lafayette, IN, USA | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974205004) |
-| The Trade Desk | Software Engineer, Commercial Intelligence and Analytics | Bellevue; Chicago; Los Angeles; New York; San Francisco | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5165087007) |
-| Field AI | 3D/AR/VR Software Engineer | Boston, MA | 1d ago | lever | [apply](https://jobs.lever.co/field-ai/e22d37a0-6247-4e20-8c63-cb2d84056b85) |
-| Caterpillar | Software Engineer | Peoria, IL; Chicago, IL; Irving, TX | 1d ago | SimplifyJobs | [apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000392873) |
-| STR | Autonomy Algorithms Software Engineer | Arlington, VA | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4704680006) |
-| STR | Full Stack Developer | Woburn, MA  | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4687157006) |
-| STR | Machine Learning Engineer | Arlington, VA | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4700461006) |
-| OpenAI | Software Engineer, Host Assurance | San Francisco | 3d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/0b9e565a-ae5f-40fc-8350-b59f71f76df1) |
-| OpenAI | Software Engineer, HSM Infrastructure Security, Consumer Devices | San Francisco | 3d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/a14780e7-0316-478c-8e6a-d7629c31c49d) |
-| Block | Software Engineer, Justice Engineering | Bay Area, CA, United States of America | 3d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5406194008?gh_jid=5406194008) |
-| Chime | Full-Stack Engineer, Human Agent Tooling | San Francisco, CA, USA | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002) |
-| Lyft | Machine Learning Engineer | New York, NY | 3d ago | greenhouse | [apply](https://app.careerpuck.com/job-board/lyft/job/8689127002?gh_jid=8689127002) |
-| Lyft | ML Software Engineer, ETA | San Francisco, CA | 3d ago | greenhouse | [apply](https://app.careerpuck.com/job-board/lyft/job/8639200002?gh_jid=8639200002) |
-| Lyft | Software Engineer | Seattle, WA | 3d ago | greenhouse | [apply](https://app.careerpuck.com/job-board/lyft/job/8772594002?gh_jid=8772594002) |
-| Lyft | Software Engineer, Fulfillment Core Services | Seattle, WA | 3d ago | greenhouse | [apply](https://app.careerpuck.com/job-board/lyft/job/8716222002?gh_jid=8716222002) |
-| Pinterest | Machine Learning Engineer, Core Engineering | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US | 3d ago | greenhouse | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=6121450) |
-| Pinterest | Machine Learning Engineer, Monetization Engineering | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | 3d ago | greenhouse | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=6121543) |
-| Reddit | Software Engineer - Data Movement Platform | Remote - United States | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/reddit/jobs/7997866) |
-| Stripe | AI Engineer | Chicago | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8044460) |
-| Stripe | Backend Engineer, Core Technology | US-Remote, Chicago, Seattle, San Francisco | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=6042172) |
-| Stripe | Backend Engineer, Link | NYC, Sea, SF, Tor | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8131144) |
-| Stripe | Backend Engineer, Privy | NYC-Privy | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7235875) |
-| Stripe | Full Stack Engineer, Bridge | San Francisco, NYC | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8142764) |
-| Stripe | Full Stack Engineer, Link | New York, New York | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8062305) |
-| Stripe | Fullstack Engineer, Privy | NYC-Privy, US-Remote  | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7091959) |
-| Stripe | Infrastructure Engineer, Privy | New York | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7462961) |
-| Stripe | Machine Learning Engineer | South San Francisco, CA | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8137997) |
-| Stripe | Software Engineer | Chicago, IL | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8137972) |
-| Stripe | Software Engineer, Backend Engineer- Credit Coverage | New York, NY | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8130578) |
-| Stripe | Software Engineer, Bridge | San Francisco, NY, Seattle | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7277110) |
-| Stripe | Software Engineer, Intern (Summer or Winter) | San Francisco, Seattle, New York City | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8128745) |
-| Stripe | Software Engineer, Online Database Infrastructure | Seattle, WA | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8177930) |
-| Stripe | Software Engineer, Platform Infrastructure | San Francisco, New York City, Seattle, Chicago, US-Remote | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8127182) |
-| Stripe | Software Engineer, Product Security Data Platforms | Seattle | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8039800) |
-| Stripe | Software Engineer - Smart Contract, Bridge | San Francisco or New York | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7507904) |
-| Stripe | Software Engineer, Vulnerability Management | US - Remote | 3d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8089353) |
-| Allen Control Systems | Software Engineer, Platform | San Francisco, CA | 3d ago | ashby | [apply](https://jobs.ashbyhq.com/allen-control-systems/a9a746a3-556c-4c28-9ee9-707872cacd3c) |
-| Benchling | Software Engineer, Agents | San Francisco, CA | 3d ago | ashby | [apply](https://jobs.ashbyhq.com/benchling/263fd507-eb03-4cfa-8297-ce276b729b52) |
-| Clera | Software Engineer | remote | 3d ago | ashby | [apply](https://jobs.ashbyhq.com/clera/f7f10a5d-b458-48a7-91dd-cc0215b21cd8) |
-| Mercor | Infrastructure Engineer | San Francisco | 3d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/296c4031-5e98-4772-95f5-a9eb5bd7746d) |
-| Mercor | Cloud Platform Engineer (SF) | San Francisco | 3d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/9617d47a-9e6f-404f-b1fe-2fa4b7ff8471) |
-| Mercor | Software Engineer, Platform | New York City | 3d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/8492ebff-ed8e-4472-b729-3a49f4b52fc0) |
-| Mercor | Software Engineer, Applied AI | New York City | 3d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/4bb1232c-3f1e-4fd7-8894-fcd68f96e3db) |
-| Accenture | Cloud Infrastructure Engineer | Suitland, MD | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4711336006?gh_jid=4711336006) |
-| Cook Systems | FastTrack Full-Stack Developer Program | Nashville, TN | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/cooksys/jobs/5386869008) |
-| DebtBook | Software Engineer | Charlotte, NC | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/debtbook/jobs/4731319005) |
-| Fanatics | Android Software Engineer | New York, NY, United States | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4250817009) |
-| Fanatics | Full Stack Engineer, Growth | Los Angeles, CA, United States; New York, NY, United States | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4260584009) |
-| Lucid Motors | Perception Machine Learning Engineer – ADAS | Southfield, MI | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5199878007) |
-| Lucid Motors | Software Engineer, Data Infrastructure | Southfield, MI | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5199841007) |
-| MrBeast | Full Stack Engineer, App Framework & E-Commerce | Primary: Bay Area (San Francisco/Peninsula) | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6119092004) |
-| MrBeast | Full Stack Engineer, Live & Game | Primary: Bay Area (San Francisco/Peninsula) | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6119136004) |
-| Neuralink | Embedded Software Engineer Intern, Implant Embedded Systems | Austin, Texas, United States; South San Francisco, California, United States | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) |
-| Neuralink | Machine Learning Engineer Intern | South San Francisco, California, United States | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) |
-| Neuralink | Software Engineer Intern, BCI Applications | Austin, Texas, United States; South San Francisco, California, United States | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003) |
-| Neuralink | Software Engineer Intern, Implant | Austin, Texas, United States; South San Francisco, California, United States | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003) |
-| Neuralink | Software Engineer Intern, Infrastructure | South San Francisco, California, United States | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) |
-| Neuralink | Software Engineer Intern, Internal Apps | Austin, Texas, United States; South San Francisco, California, United States | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) |
-| Neuralink | Software Engineer Intern, Robotics | Austin, Texas, United States; South San Francisco, California, United States | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) |
-| Peregrine | Software Engineer, Product Experiences | Washington, D.C. | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4704821005) |
-| Relativity Space | AI Software Engineer | Long Beach, California, United States | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/relativity/jobs/8726261002?gh_jid=8726261002) |
-| SpaceX | Full Stack Software Engineer, Flight Software | Cape Canaveral, FL | 3d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8784863002?gh_jid=8784863002) |
-| Yext | Software Engineer | New York, NY | 3d ago | greenhouse | [apply](https://job-boards.greenhouse.io/yext/jobs/8174875) |
-| Filevine | Software Development Engineer in Test (SDET) - Immigration AI | United States | 3d ago | lever | [apply](https://jobs.lever.co/filevine/fadc2d63-2103-4be5-a16f-4400a05b454f) |
-| Intuitive Surgical | Software Engineer - Systems Integration | Sunnyvale, US | 3d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/intuitive/744000147611499) |
-| SBT Global | Java/Python Full Stack Developer | Plano, US | 3d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/sbtglobalinc/3743990015090616) |
-| Rivian | Software Engineer - Cloud & Software FinOps | Atlanta, GA | 3d ago | SimplifyJobs | [apply](https://careers.rivian.com/jobs/33476?icims=1) |
-| Aerotech | Software Engineer - Enterprise Development | Pittsburgh, PA | 3d ago | SimplifyJobs | [apply](https://aerotech.applytojob.com/apply/K8ctztnPW6/Software-Engineer-Enterprise-Development) |
-| Aerotech | Software Engineer - Application Development | Pittsburgh, PA | 3d ago | SimplifyJobs | [apply](https://aerotech.applytojob.com/apply/F6xsydip1r/Software-Engineer-Application-Development) |
-| Valmont | IT Associate Programmer Analyst | Carrollton, TX; Omaha, NE | 3d ago | SimplifyJobs | [apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/IT-Associate-Programmer-Analyst_R28670) |
-| OpenAI | Software Engineer, Native Learning Experiences | San Francisco | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3) |
-| OpenAI | Full Stack Software Engineer, Product Explorations | San Francisco | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/4d1ede8c-3d4c-4503-8408-81e4b68c5c91) |
-| Anthropic | Applied AI, Research Engineer | San Francisco, CA / New York City, NY | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5390811008) |
-| Anthropic | Data Infrastructure Engineer, Pre-training | San Francisco, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4973067008) |
-| Chime | Software Engineer, Growth | San Francisco, CA, USA | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8782503002?gh_jid=8782503002) |
-| Coinbase | Software Engineer, Blockchain Platform Nodes | Remote - USA | 4d ago | greenhouse | [apply](https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437) |
-| Coinbase | Threat Intelligence Platform Engineer | Remote - USA | 4d ago | greenhouse | [apply](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619) |
-| Gusto | AI Engineer, Legal & Compliance | San Francisco, CA - Hybrid | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gusto/jobs/8039574) |
-| Gusto | Enterprise Application AI Engineer | San Francisco, CA - Hybrid | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gusto/jobs/7369003) |
-| Gusto | Software Engineer,  AI Developer Tools | San Francisco, CA - Hybrid | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gusto/jobs/7947684) |
-| Gusto | Software Engineer, ML Platform | Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gusto/jobs/8073232) |
-| Gusto | Software Engineer, Payments | New York, New York, United States; San Francisco, CA - Hybrid | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gusto/jobs/8104213) |
-| Scale AI | Infrastructure Software Engineer, Enterprise GenAI | San Francisco, CA; New York, NY | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4665557005) |
-| Scale AI | Software Engineer - AI Enablement | San Francisco, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4722512005) |
-| Anyscale | Software Engineer (Ray Core) | San Francisco | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/anyscale/81809616-ef2f-44f8-bcee-d1e17749f45d) |
-| Clera | Full Stack Software Engineer | New York | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/clera/6a17b77a-2581-4bda-a9c4-68392f6e5ed5) |
-| Eventual | Software Engineer, Data Systems | San Francisco | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/eventualcomputing/ff541fc0-b72e-40ad-84dc-6baa22570356) |
-| Eventual | Software Engineer, Multimodal Backend Systems | San Francisco | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/eventualcomputing/2bab624c-4e35-4b31-bd4f-4e68d648b87d) |
-| Iambic Therapeutics | Software Engineer — Agentic data pipelines | Remote - US | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/iambic-therapeutics/ed5c9548-a170-4a73-ade7-2f710d009fac) |
-| Mistral AI | AI Developer Relations Engineer | San Francisco | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/mistral.ai/c1d29d94-c1d5-4168-92fd-a01cc176e471) |
-| Polymarket | Mobile Infrastructure Engineer | New York | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/polymarket/87dd5e61-733c-4d75-8f4c-03503126e7fe) |
-| Valinor | Full-Stack Software Engineer, C2 & Tactical Integration | Cookeville, TN | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/valinor/c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e) |
-| The Voleon Group | Software Engineer, Strategy Research Analytics | Remote, United States | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/voleon/941f1ec0-c9f4-4cea-b629-df12070cf10b) |
-| 9th Way Insignia | AI Engineer | United States - Remote | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5393451008) |
-| Accenture | Platform Engineer | Arlington, VA | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4676708006?gh_jid=4676708006) |
-| Alpaca | Software Engineer - Market Data | Remote - North America | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/alpaca/jobs/6144575004) |
-| Celonis | Applied AI Engineer - Technology Consultant | New York, US, New York | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/celonis/jobs/7765659003?gh_jid=7765659003) |
-| Chicago Trading Company | AI Engineer | Chicago, Illinois, United States | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/chicagotrading/jobs/4730408005) |
-| DLH | Programmer Analyst (SAS or R) | United States - Remote | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/dlhcorporation/jobs/5159601007) |
-| DoorDash | Embedded Software Engineer (Firmware) - DoorDash Air | San Francisco, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8122134) |
-| DoorDash | Machine Learning Engineer, Drive | San Francisco, CA; Sunnyvale, CA; Seattle, WA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8113186) |
-| DoorDash | Machine Learning Engineer, Marketplace Optimization | San Francisco, CA; Sunnyvale, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/7580407) |
-| DoorDash | Robotics Software Engineer - Labs, DoorDash Air | San Francisco, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/6682078) |
-| DoorDash | Software Engineer, Android (All Teams) | Sunnyvale, CA; San Francisco, CA; Seattle, WA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/5630438) |
-| DoorDash | Software Engineer, Backend (All Teams) | Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/5630445) |
-| DoorDash | Software Engineer, Backend - DoorDash Air | San Francisco, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/6599474) |
-| DoorDash | Software Engineer, Data and AI Platform | San Francisco, CA; Sunnyvale, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171620) |
-| DoorDash | Software Engineer, Data Platform (All Teams) | San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/7577073) |
-| DoorDash | Software Engineer, iOS (All Teams) | Sunnyvale, CA; San Francisco, CA; Seattle, WA; New York, NY | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/5630454) |
-| DoorDash | Software Engineer, Machine Learning Infrastructure - Generative AI | San Francisco, CA; Sunnyvale, CA; Seattle, WA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8013249) |
-| DoorDash | Software Engineer, Planning & Controls - Autonomy & Robotics, DoorDash Air | San Francisco, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8046982) |
-| DoorDash | Software Engineer, Robotics Infrastructure - Autonomy & Robotics, DoorDash Air | San Francisco, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8046909) |
-| DoorDash | Software Engineer, Spark Platform | San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8044370) |
-| DoorDash | Software Engineer, Storage | San Francisco, CA; Seattle, WA; New York, NY | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8024644) |
-| DoorDash | Software Engineer, Traffic | San Francisco, CA; New York, NY; Seattle, WA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8120763) |
-| DoorDash | Software Engineer, Unified Gateway | San Francisco, CA; Seattle, WA; Los Angeles, CA; New York, NY | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8146670) |
-| Glean | Software Engineer, Developer Productivity | Mountain View, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4614706005) |
-| Kodiak Robotics | Software Engineer, Controls (MATLAB) | Mountain View, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/kodiak/jobs/4391971009) |
-| Neros Technologies | Full-Stack Software Engineer | Torrance, California, United States | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5174689007) |
-| Neros Technologies | IT Infrastructure Engineer | Torrance, California, United States | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5143570007) |
-| Point72 | Software Engineer, Back Office Systems | New York, NY | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8773519002?gh_jid=8773519002) |
-| Point72 | Software Engineer, Macro Quant Analytics Technology | New York; London | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8060321002?gh_jid=8060321002) |
-| SpaceX | AI Security Software Engineer (Starshield) | Hawthorne, CA | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8782397002?gh_jid=8782397002) |
-| SpaceX | Application Software Engineer - Memphis | Memphis, TN | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8611191002?gh_jid=8611191002) |
-| SpaceX | Full Stack Software Engineer, Application Software - Memphis | Memphis, TN | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8648213002?gh_jid=8648213002) |
-| SpaceX | Full Stack Software Engineer, Internal Systems - Memphis | Memphis, TN | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8686286002?gh_jid=8686286002) |
-| SpaceX | Software Engineer, Application Software - Memphis | Memphis, TN | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8763491002?gh_jid=8763491002) |
-| SpaceX | Software Engineer (Flight Reliability) | Hawthorne, CA | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8783243002?gh_jid=8783243002) |
-| Speechify | Software Engineer, Platform | Remote | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5058944004) |
-| Torc Robotics | Software Engineer, I - Data Engineering | Ann Arbor, MI, Blacksburg, VA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002) |
-| Verkada | Software Engineer - Imaging Systems | San Mateo, CA United States | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/4134234007) |
-| xAI | Exceptional Software Engineer |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4956028007) |
-| xAI | Facilities Infrastructure Engineer, Data Center Infrastructure - Memphis |  Southaven, MS; Memphis, TN | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5182374007) |
-| xAI | Machine Learning Engineer - Ads |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4996796007) |
-| xAI | Machine Learning Engineer - Recommendation Systems |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4703144007) |
-| xAI | ML Infrastructure Engineer |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5193037007) |
-| xAI | Software Engineer, Ads Product |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5152408007) |
-| xAI | Software Engineer - Consumer Subscriptions |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5109691007) |
-| xAI | Software Engineer, Data Center - Memphis |  Southaven, MS; Memphis, TN | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5209858007) |
-| xAI | Software Engineer, Data Platform |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4803862007) |
-| xAI | Software Engineer - Evals |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
-| xAI | Software Engineer - Kernels/CUDA (C++) |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5052040007) |
-| xAI | Software Engineer - Linux Kernel (C++, C) |  Palo Alto, CA; Seattle, WA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5202187007) |
-| xAI | Software Engineer, Media |  Palo Alto, CA; Seattle, WA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4805874007) |
-| xAI | Software Engineer - Network (C++) |  Palo Alto, CA; Seattle, WA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5179367007) |
-| xAI | Software Engineer - Networking Software and Services |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4946696007) |
-| xAI | Software Engineer, Observability |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4803905007) |
-| xAI | Software Engineer - Platform Infrastructure (Rust, C++) |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5191142007) |
-| xAI | Software Engineer - Platform Security |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4835611007) |
-| xAI | Software Engineer - Real-Time Storage |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4805886007) |
-| xAI | Software Engineer - Search Infrastructure |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5205179007) |
-| xAI | Software Engineer - Search Ranking |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5125621007) |
-| xAI | Software Engineer - Training/Inference (C++) |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/4533894007) |
-| xAI | Software Engineer - Voice Model |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5051966007) |
-| xAI | Software Engineer - X Data Engineering |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5182183007) |
-| xAI | Software Engineer - X Developer Platform |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5204788007) |
-| xAI | Software Engineer, X Money |  Palo Alto, CA | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xai/jobs/5107958007) |
-| Xaira Therapeutics | Lab Software Engineer | South San Francisco, California, United States | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5230698007) |
-| Zoox | Software Engineer - Collision Avoidance System Metrics | Foster City, CA | 4d ago | lever | [apply](https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5) |
-| Intuitive Surgical | Finance AI Engineer | Sunnyvale, US | 4d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/intuitive/744000147351020) |
-| LinkedIn | Software Engineer - Web Infrastructure | Mountain View, US | 4d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/linkedin3/744000147327239) |
-| Skyward | Software Engineer - Intern | Stevens Point, US | 4d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/skyward1/744000147320799) |
-| Smiths Detection Group | CNC Machinist - Programmer / Operator | Baton Rouge, US | 4d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/smithsgroup2/744000147321255) |
-| Oracle | Software Developer 1 | Nashville, TN | 4d ago | SimplifyJobs | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344446) |
-| L3Harris Technologies | Software Engineer - Engineering Leadership Development Program | Melbourne, FL | 4d ago | SimplifyJobs | [apply](https://jobs.l3harris.com/job/Melbourne-Engineering-Leadership-Development-Program-Software-Engineer-(Various-Locations)-FL-32919/1426639800/?ats=successfactors) |
-| L3Harris Technologies | Software Engineer Intern - Engineering Leadership Development Program | Melbourne, FL | 4d ago | SimplifyJobs | [apply](https://jobs.l3harris.com/job/Melbourne-Engineering-Leadership-Development-Program-Software-Engineer-(Various-Locations)-FL-32919/1426639500/?ats=successfactors) |
-| Anthropic | Applied AI Architect, Cyber | San Francisco, CA / New York City, NY | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5387733008) |
-| GitLab | Intermediate Backend Engineer, EMEA | Remote, United Kingdom | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8778279002) |
-| Samsara | AI Engineer, Customer Success | Remote - US | 5d ago | greenhouse | [apply](https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110) |
-| Scale AI | Software Engineer, Public Sector | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4302243005) |
-| Cerebras | Detection and Response Platform Engineer | Sunnyvale, CA | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/cerebras/d114d16b-3c5f-44a1-9a15-26b37fb45369) |
-| ElevenLabs | HPC Infrastructure Engineer - GPU Clusters | United States | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9) |
-| Hadrian | Software Engineer Intern | Los Angeles, CA | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e) |
-| Rain | Software Engineer - Wallets | Remote | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/rain/6393bceb-88cf-4806-a51c-401be580c59e) |
-| Accenture | AI / ML Engineer | Tampa, FL | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4711009006?gh_jid=4711009006) |
-| Accenture | Full Stack Developer (Jasper) | Washington, DC | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4702242006?gh_jid=4702242006) |
-| Accenture | Software Engineer (Java) | Arlington, VA | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4710734006?gh_jid=4710734006) |
-| Addepar | Software Engineer, Client Experience Frameworks | New York, NY | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/addepar1/jobs/8733680002) |
-| Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
-| Anduril | C++ Mission Software Engineer, Mission Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5125189007?gh_jid=5125189007) |
-| Anduril | Embedded Software Engineer, Anti-Tamper | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5206527007?gh_jid=5206527007) |
-| Anduril | Embedded Software Engineer, Manufacturing Test, Intelligence Systems | Santa Ana, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5212828007?gh_jid=5212828007) |
-| Anduril | Embedded Systems Software Engineer | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5129670007?gh_jid=5129670007) |
-| Anduril | Flight Software Engineer | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5102166007?gh_jid=5102166007) |
-| Anduril | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007) |
-| Anduril | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike - Advanced Effects | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5035788007?gh_jid=5035788007) |
-| Anduril | Full Stack Software Engineer | Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5089044007?gh_jid=5089044007) |
-| Anduril | Full-Stack Software Engineer, Mission Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5160360007?gh_jid=5160360007) |
-| Anduril | GNC Software Engineer | Waltham, Massachusetts, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5178086007?gh_jid=5178086007) |
-| Anduril | Ground Software Engineer, Space | Chantilly, Virginia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5197127007?gh_jid=5197127007) |
-| Anduril | Manufacturing Software Engineer, Intelligence Systems | Ashville, Ohio, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5080387007?gh_jid=5080387007) |
-| Anduril | Metrology Engineer/CMM Programmer, Maritime Division | Santa Ana, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5182778007?gh_jid=5182778007) |
-| Anduril | Metrology Specialist/CMM Programmer, Maritime Division | Santa Ana, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5182773007?gh_jid=5182773007) |
-| Anduril | Mission Software Engineer, Air Vehicle Autonomy, Backend | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4672848007?gh_jid=4672848007) |
-| Anduril | Mission Software Engineer, Air Vehicle Autonomy, C++ | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4673932007?gh_jid=4673932007) |
-| Anduril | Mission Software Engineer, Air Vehicle Autonomy, GenSWE | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4800373007?gh_jid=4800373007) |
-| Anduril | Mission Software Engineer, EW | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5161108007?gh_jid=5161108007) |
-| Anduril | Mission Software Engineer - Undersea Reconnaissance & Strike | Quincy, Massachusetts, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5221253007?gh_jid=5221253007) |
-| Anduril | Mission Software Engineer, Vehicle Software, C++ | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4672888007?gh_jid=4672888007) |
-| Anduril | Mission Software Engineer, Vehicle Software, Communications | Boston, Massachusetts, United States; Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5176751007?gh_jid=5176751007) |
-| Anduril | Mission Software Engineer, Vehicle Software, Computer Vision | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4734570007?gh_jid=4734570007) |
-| Anduril | Mission Software Engineer, Vehicle Software, Consensus | Boston, Massachusetts, United States; Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5176752007?gh_jid=5176752007) |
-| Anduril | Mission Software Engineer, Vehicle Software, Frontend | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4672911007?gh_jid=4672911007) |
-| Anduril | Mission Software Engineer, Vehicle Software, GenSWE | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007) |
-| Anduril | Orbital Software Engineer, Space | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4872480007?gh_jid=4872480007) |
-| Anduril | Quantum Software Engineer | Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5089054007?gh_jid=5089054007) |
-| Anduril | Robotic Software Engineer | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5183145007?gh_jid=5183145007) |
-| Anduril | Robotics Software Engineer, Air Vehicle Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) |
-| Anduril | Robotics Software Engineer - Undersea Dominance | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5196757007?gh_jid=5196757007) |
-| Anduril | Robotics Software Engineer, Vehicle Software | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007) |
-| Anduril | Rust Software Engineer, Air Vehicle Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5125172007?gh_jid=5125172007) |
-| Anduril | Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5203050007?gh_jid=5203050007) |
-| Anduril | Software Engineer, Air Defense | Broomfield, Colorado, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5134169007?gh_jid=5134169007) |
-| Anduril | Software Engineer, Air & Missile Defense | Huntsville, Alabama, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5203040007?gh_jid=5203040007) |
-| Anduril | Software Engineer, Anvil | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4932828007?gh_jid=4932828007) |
-| Anduril | Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007) |
-| Anduril | Software Engineer, Command Control Mission Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5161486007?gh_jid=5161486007) |
-| Anduril | Software Engineer, Dev Infra, Air Defense | Irvine, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5150887007?gh_jid=5150887007) |
-| Anduril | Software Engineer, Discovery | Seattle, Washington, United States; Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4980592007?gh_jid=4980592007) |
-| Anduril | Software Engineer, Full Stack | Irvine, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4836302007?gh_jid=4836302007) |
-| Anduril | Software Engineer, Generalist | Irvine, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5009117007?gh_jid=5009117007) |
-| Anduril | Software Engineer, Ghost | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4932891007?gh_jid=4932891007) |
-| Anduril | Software Engineer, Manufacturing Test | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5161512007?gh_jid=5161512007) |
-| Anduril | Software Engineer - Maritime Integrated Solutions | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5220095007?gh_jid=5220095007) |
-| Anduril | Software Engineer - Maritime Integrated Systems | Boston, Massachusetts, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5185389007?gh_jid=5185389007) |
-| Anduril | Software Engineer - Mobile, Android | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5163532007?gh_jid=5163532007) |
-| Anduril | Software Engineer, Perception | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5165250007?gh_jid=5165250007) |
-| Anduril | Software Engineer, Robotics | Irvine, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5102393007?gh_jid=5102393007) |
-| Anduril | Software Engineer, Robotics Data Foundation (Cloud) | Seattle, Washington, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5185965007?gh_jid=5185965007) |
-| Anduril | Software Engineer, Rust | Waltham, Massachusetts, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5209409007?gh_jid=5209409007) |
-| Anduril | Software Engineer, Satellite Command and Control | Colorado Springs, Colorado, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5225303007?gh_jid=5225303007) |
-| Anduril | Software Engineer, Sensor Fusion | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5194560007?gh_jid=5194560007) |
-| Anduril | Software Engineer, Space Systems Test | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4992181007?gh_jid=4992181007) |
-| Anduril | Software Engineer, Target Tracking | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5226944007?gh_jid=5226944007) |
-| Anduril | Software Engineer, Tracking | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007) |
-| Anduril | Software Engineer - Undersea Dominance | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5171114007?gh_jid=5171114007) |
-| Anduril | Software Engineer, Vehicle Software, V&V | Costa Mesa, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4673813007?gh_jid=4673813007) |
-| Anduril | Tracking Software Engineer, Space | Washington, District of Columbia, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5114861007?gh_jid=5114861007) |
-| Archer | Software Engineer - (SJ2026BS) | San Jose, California, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/archer56/jobs/7977707003) |
-| Archer | VMS Software Engineer | San Jose, California, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/archer56/jobs/7607278003) |
-| Awetomaton | Software Engineer – Python & Kubernetes Integration | Boulder, CO | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/awetomaton/jobs/5385876008) |
-| Axios | Software Engineer | Remote | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/axios/jobs/7818788) |
-| Defense Unicorns | Platform Engineer - FedD180/FedD181 | Remote, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/5203690007) |
-| DRW | Software Engineer - Cumberland/FICCO Front Office Systems | New York City | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7728094) |
-| ENSCO | Embedded Software Engineer | Endicott, New York, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/ensco/jobs/5349198008) |
-| ENSCO | Software Developer | Melbourne, Florida, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/ensco/jobs/5384918008) |
-| General Matter | Embedded Software Engineer | Los Angeles, CA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/4487707008) |
-| General Matter | Software Engineer, Data Platform | Los Angeles, CA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5412538008) |
-| Glean | Software Engineer, AI/ML Infrastructure | Mountain View, CA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4501783005) |
-| GRVTY | Infrastructure Engineer | Herndon, Virginia, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4394435009) |
-| GRVTY | Palantir Platform Engineer | Herndon, Virginia, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4394446009) |
-| GRVTY | Software Development Engineer | Herndon, Virginia, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4394424009) |
-| impact.com | Intermediate Full Stack Software Engineer | Columbus, OH | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/impact/jobs/8557055002) |
-| Natera | Software Engineer, Full Stack | San Carlos, CA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/natera/jobs/5993307004) |
-| PlayStation | Core Tech Programmer | United States, Santa Monica, CA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/naughtydog/jobs/5978835004) |
-| PlayStation | SDET Programmer | United States, Santa Monica, CA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/naughtydog/jobs/5790604004) |
-| PlayStation | Web Tools Programmer | United States, Santa Monica, CA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/naughtydog/jobs/5822257004) |
-| Neuralink | Software Engineer, BCI Applications | Austin, Texas, United States; South San Francisco, California, United States | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6596365003?gh_jid=6596365003) |
-| Sphinx Defense | Full Stack Engineer | Remote | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/sphinxdefense/jobs/5413848008) |
-| Virtu Financial | Hardware Platform Engineer | Austin, TX | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/virtu/jobs/8469926002) |
-| Zone 5 Technologies | Embedded Software Engineer V/VI | Fort Walton Beach, Florida, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/zone5technologies/jobs/5372358008) |
-| Pickle Robot | Software Engineer V – Applied ML Research | Charlestown, MA | 5d ago | lever | [apply](https://jobs.lever.co/picklerobot/44a2d3e8-54d3-4a41-9085-0e7a2cbefc7d) |
-| Zoox | Software Engineer, Operational Tools | Foster City, CA | 5d ago | lever | [apply](https://jobs.lever.co/zoox/998ca0ca-4e3a-409f-bc84-f364d5451e01) |
-| AbbVie | Software Engineer, Design Systems | North Chicago, US | 5d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/abbvie/3743990015033346) |
-| Keysight Technologies | Software Engineer - Measurement Applications | Colorado Springs, CO | 5d ago | SimplifyJobs | [apply](https://jobs.keysight.com/jobs/54139?icims=1) |
-| PQ | AI-Augmented Software Engineer | Malvern, PA | 5d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/PQ/744000147064769) |
-| Arch | Software Engineer - Early Careers | NYC | 5d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?embed=true) |
-| Hewlett Packard | Embedded Firmware and Software Engineer | Spring, TX | 5d ago | SimplifyJobs | [apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Embedded-Firmware-and-Software-Engineer_3161388-2) |
-| Cadence Design Systems | Software Engineer | San Jose, CA | 5d ago | SimplifyJobs | [apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2) |
-| Baseten | Software Engineer - Identity and Authorization | San Francisco | 6d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/19972142-ec0b-4049-8d8f-6a341f57f938) |
-| OpenAI | Applied AI Engineer, Cyber, Government | Washington, DC | 6d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a) |
-| Block | Software Engineer, Cash App Taxes | New York, NY, United States of America | 6d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5412832008?gh_jid=5412832008) |
-| Databricks | AI Engineer — GTM Analytics | United States | 6d ago | greenhouse | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002) |
-| Discord | Software Engineer, Data Platform | San Francisco Bay Area | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/discord/jobs/8396927002) |
-| Discord | Software Engineer, Developer Success | San Francisco Bay Area | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/discord/jobs/8609250002) |
-| Discord | Software Engineer, Distributed Systems | San Francisco Bay Area | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/discord/jobs/8545663002) |
-| Scale AI | AI Infrastructure Engineer, Sandbox Platform | San Francisco, CA; Seattle, WA; New York, NY | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4716453005) |
-| Scale AI | Software Engineer, Data Infrastructure | New York, NY; Washington, DC | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4708221005) |
-| Scale AI | Software Engineer, Platform | San Francisco, CA; New York, NY | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4594879005) |
-| Adaptive Security | Founding Machine Learning Engineer | NYC | 6d ago | ashby | [apply](https://jobs.ashbyhq.com/adaptivesecurity/547fef33-6371-4a49-9085-5810744f95b0) |
-| Gumloop | Software Engineer - Infrastructure | San Francisco Office | 6d ago | ashby | [apply](https://jobs.ashbyhq.com/gumloop/35729200-4460-40a6-8972-508bd1d0f6b5) |
-| Valon | Software Engineer Intern | New York | 6d ago | ashby | [apply](https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64) |
-| Accenture | Software Developer/Engineer | Washington, DC | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4689887006?gh_jid=4689887006) |
-| Addepar | Software Engineer - Platform Integration | New York, NY | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/addepar1/jobs/8765252002) |
-| AppLovin | ML Infrastructure Engineer | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/applovin/jobs/4655740006?gh_jid=4655740006) |
-| Five Rings Capital | Summer Intern 2027 - Software Developer | New York | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
-| General Matter | CNC Programmer (Mill, Lathe & Swiss) | Los Angeles, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5231625008) |
-| General Matter | Network Infrastructure Engineer | Los Angeles, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5015189008) |
-| General Matter | Software Engineer, Controls & Automation | Los Angeles, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5082193008) |
-| General Matter | Software Engineer – C++/Python | Los Angeles, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5026280008) |
-| General Matter | Software Engineer, Data Visualization | Los Angeles, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5407436008) |
-| General Matter | Software Engineer, Enterprise Systems | Los Angeles, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5389914008) |
-| General Matter | Software Engineer, Hardware Test & Automation | Los Angeles, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/4819852008) |
-| General Matter | Software Engineer, Systems Simulation & Test | Los Angeles, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5135167008) |
-| Instabase | Software Engineer - Agent Harness | San Francisco, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/instabase/jobs/8635719002) |
-| Mixpanel | Software Engineer, Data Runtime | San Francisco, US (Hybrid) | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mixpanel/jobs/8162414) |
-| Mozilla | Software Engineer, Release Engineering | Remote | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mozilla/jobs/8055519) |
-| Pure Storage | Fullstack Software Engineer, AI Infra | Santa Clara, California | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/purestorage/jobs/8166226) |
-| Realtor.com | Software Engineer | Austin, Texas, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/rdccareers/jobs/7978615003?gh_jid=7978615003) |
-| Re:Build Manufacturing | CMM Programmer | Rock Hill, SC | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4709483005) |
-| Re:Build Manufacturing | Software Engineer | Framingham, MA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4719210005) |
-| Scout Motors | AI Infrastructure Engineer | Charlotte, North Carolina, United States | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5201286007) |
-| SpaceX | AI Software Engineer (Vehicle Engineering) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8559015002?gh_jid=8559015002) |
-| SpaceX | Application Software Engineer | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8611189002?gh_jid=8611189002) |
-| SpaceX | Application Software Engineer, Applied AI | Cape Canaveral, FL | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8658743002?gh_jid=8658743002) |
-| SpaceX | Application Software Engineer, Employee Experience | Starbase, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8632106002?gh_jid=8632106002) |
-| SpaceX | Application Software Engineer, Manufacturing Systems | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8600012002?gh_jid=8600012002) |
-| SpaceX | CMM Programmer (Starlink) - 2nd Shift | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8694895002?gh_jid=8694895002) |
-| SpaceX | CNC Programmer, Development (Starlink) | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8697078002?gh_jid=8697078002) |
-| SpaceX | CNC Programmer - Level 4/5 (2nd Shift) | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8487596002?gh_jid=8487596002) |
-| SpaceX | CNC Programmer, NX CAM (IGT Blades & Vanes) - Level 4/5 | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8743358002?gh_jid=8743358002) |
-| SpaceX | CNC Programmer, NX CAM (Starlink) | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8731809002?gh_jid=8731809002) |
-| SpaceX | CNC Programmer (Starship Components) - Level 4/5 | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8509075002?gh_jid=8509075002) |
-| SpaceX | CNC Programmer (Starship Components) - Level 4/5 (2nd Shift) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8581415002?gh_jid=8581415002) |
-| SpaceX | Dimensional Inspector (CMM Programmer) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8741932002?gh_jid=8741932002) |
-| SpaceX | EDM Programmer (Starlink) | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8579766002?gh_jid=8579766002) |
-| SpaceX | Embedded Software Engineer, Laser Mesh Routing (Starlink) | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8578934002?gh_jid=8578934002) |
-| SpaceX | Embedded Software Engineer, OS/Platform  (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8752935002?gh_jid=8752935002) |
-| SpaceX | Embedded Software Engineer, OS/Platform (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8530798002?gh_jid=8530798002) |
-| SpaceX | Embedded Software Engineer, Satellite Antenna (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8603628002?gh_jid=8603628002) |
-| SpaceX | Embedded Software Engineer (Starlink) | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8706480002?gh_jid=8706480002) |
-| SpaceX | Factory Software Engineer (Starlink) | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8574053002?gh_jid=8574053002) |
-| SpaceX | Flight Software Engineer (Starlink Mobile) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8556909002?gh_jid=8556909002) |
-| SpaceX | Flight Software Infrastructure Engineer (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8692260002?gh_jid=8692260002) |
-| SpaceX | Full Stack Engineer (Application Software) | Cape Canaveral, FL | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8710146002?gh_jid=8710146002) |
-| SpaceX | Full Stack Engineer, Employee Experience | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8763492002?gh_jid=8763492002) |
-| SpaceX | Full Stack Engineer, Flight Software | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8769729002?gh_jid=8769729002) |
-| SpaceX | Full Stack Software Engineer (Application Software) | Starbase, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8639573002?gh_jid=8639573002) |
-| SpaceX | Full Stack Software Engineer (Build Reliability) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8555791002?gh_jid=8555791002) |
-| SpaceX | Full Stack Software Engineer, Data Platform (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002) |
-| SpaceX | Full Stack Software Engineer, Data (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8656465002?gh_jid=8656465002) |
-| SpaceX | Full Stack Software Engineer, Developer Systems | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8763489002?gh_jid=8763489002) |
-| SpaceX | Full Stack Software Engineer, Employee Experience | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8726225002?gh_jid=8726225002) |
-| SpaceX | Full Stack Software Engineer, Manufacturing | Starbase, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8650988002?gh_jid=8650988002) |
-| SpaceX | Full Stack Software Engineer, Manufacturing Systems | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8703540002?gh_jid=8703540002) |
-| SpaceX | Full Stack Software Engineer, MES (Manufacturing Execution System) | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8696897002?gh_jid=8696897002) |
-| SpaceX | Full Stack Software Engineer, Observability (Starlink) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8638457002?gh_jid=8638457002) |
-| SpaceX | Full Stack Software Engineer, Operations Software (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8722645002?gh_jid=8722645002) |
-| SpaceX | Full Stack Software Engineer - Simulation & Flight Systems | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8731959002?gh_jid=8731959002) |
-| SpaceX | Full Stack Software Engineer (Starlink) | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8501225002?gh_jid=8501225002) |
-| SpaceX | Full Stack Software Engineer (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8610872002?gh_jid=8610872002) |
-| SpaceX | HVAC Programmer | McGregor, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8647921002?gh_jid=8647921002) |
-| SpaceX | Infrastructure Engineer | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8604308002?gh_jid=8604308002) |
-| SpaceX | IT Infrastructure Engineer, Virtualization & Storage | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8451903002?gh_jid=8451903002) |
-| SpaceX | IT Network Infrastructure Engineer | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8570046002?gh_jid=8570046002) |
-| SpaceX | IT Network Infrastructure Engineer, Launch | Starbase, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8458745002?gh_jid=8458745002) |
-| SpaceX | Kubernetes Platform Infrastructure Engineer (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8573281002?gh_jid=8573281002) |
-| SpaceX | ML Engineer, Surrogate Modeling (Vehicle Engineering) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8559035002?gh_jid=8559035002) |
-| SpaceX | Operations Engineer, Applied AI (Application Software) | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8652235002?gh_jid=8652235002) |
-| SpaceX | OS/Platform Software Engineer (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8752620002?gh_jid=8752620002) |
-| SpaceX | Platform Engineer, Flight Software (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8692268002?gh_jid=8692268002) |
-| SpaceX | RF Software Engineer (Starlink) | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8624761002?gh_jid=8624761002) |
-| SpaceX | RF Software Engineer (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8517637002?gh_jid=8517637002) |
-| SpaceX | Satellite On-Orbit Operations Software Engineer (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8706537002?gh_jid=8706537002) |
-| SpaceX | Satellite Systems Software Engineer (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8751097002?gh_jid=8751097002) |
-| SpaceX | Security Software Engineer (Starlink) | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002) |
-| SpaceX | Security Software Engineer (Starshield) | Washington, DC | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8738708002?gh_jid=8738708002) |
-| SpaceX | Simulation Software Engineer (Application Software) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8488034002?gh_jid=8488034002) |
-| SpaceX | Software Engineer | McGregor, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8563110002?gh_jid=8563110002) |
-| SpaceX | Software Engineer, AI Satellites (Starmind) | Bastrop, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002) |
-| SpaceX | Software Engineer (Application Software) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8731256002?gh_jid=8731256002) |
-| SpaceX | Software Engineer, Applied AI (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637712002?gh_jid=8637712002) |
-| SpaceX | Software Engineer, Backend (C/C++) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8672397002?gh_jid=8672397002) |
-| SpaceX | Software Engineer, Beam Planning (Starlink) | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8578907002?gh_jid=8578907002) |
-| SpaceX | Software Engineer, CDN (Starlink) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8756159002?gh_jid=8756159002) |
-| SpaceX | Software Engineer, C++ (Dragon) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8601802002?gh_jid=8601802002) |
-| SpaceX | Software Engineer, Collision Avoidance (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8749208002?gh_jid=8749208002) |
-| SpaceX | Software Engineer, Components (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8625617002?gh_jid=8625617002) |
-| SpaceX | Software Engineer, Components Test (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8625615002?gh_jid=8625615002) |
-| SpaceX | Software Engineer, Continuous Integration (Starship) | Starbase, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8533859002?gh_jid=8533859002) |
-| SpaceX | Software Engineer, C++ (Raptor) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8598038002?gh_jid=8598038002) |
-| SpaceX | Software Engineer, C++ (Simulations) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8603609002?gh_jid=8603609002) |
-| SpaceX | Software Engineer, C++ Simulations (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8682197002?gh_jid=8682197002) |
-| SpaceX | Software Engineer, C++ (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8477124002?gh_jid=8477124002) |
-| SpaceX | Software Engineer, Data (Starlink) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002) |
-| SpaceX | Software Engineer, Design Engineering (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637713002?gh_jid=8637713002) |
-| SpaceX | Software Engineer, Design Software (Starship) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8466905002?gh_jid=8466905002) |
-| SpaceX | Software Engineer, Development Test (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8532395002?gh_jid=8532395002) |
-| SpaceX | Software Engineer, DevOps (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8573204002?gh_jid=8573204002) |
-| SpaceX | Software Engineer, Embedded Software (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8752598002?gh_jid=8752598002) |
-| SpaceX | Software Engineer, Embedded Software (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8436708002?gh_jid=8436708002) |
-| SpaceX | Software Engineer, Engineering Simulation & Automation (Vehicle Engineering) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8559054002?gh_jid=8559054002) |
-| SpaceX | Software Engineer, Flight Software C++ (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8593183002?gh_jid=8593183002) |
-| SpaceX | Software Engineer, Flight Software (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8752581002?gh_jid=8752581002) |
-| SpaceX | Software Engineer, Flight Software (Starship) | Starbase, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8562284002?gh_jid=8562284002) |
-| SpaceX | Software Engineer, Hardware Test & Automation (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8565155002?gh_jid=8565155002) |
-| SpaceX | Software Engineer, Hardware Test & Automation (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8574243002?gh_jid=8574243002) |
-| SpaceX | Software Engineer, High Performance Computing | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8621463002?gh_jid=8621463002) |
-| SpaceX | Software Engineer, High Performance Computing (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8578931002?gh_jid=8578931002) |
-| SpaceX | Software Engineer, Inference (AI Data Engineering) | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002) |
-| SpaceX | Software Engineer, Low Latency Computing (Starlink) | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8578910002?gh_jid=8578910002) |
-| SpaceX | Software Engineer, Mobile Apps (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637756002?gh_jid=8637756002) |
-| SpaceX | Software Engineer, Network Observability (Starlink) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8577262002?gh_jid=8577262002) |
-| SpaceX | Software Engineer, Platform / Infrastructure (Starlink) | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8632322002?gh_jid=8632322002) |
-| SpaceX | Software Engineer (Platform Team) | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8558859002?gh_jid=8558859002) |
-| SpaceX | Software Engineer, Power Optimization (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8647459002?gh_jid=8647459002) |
-| SpaceX | Software Engineer, Product Development (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8436728002?gh_jid=8436728002) |
-| SpaceX | Software Engineer, Propulsion Simulation & Data Analysis | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8581299002?gh_jid=8581299002) |
-| SpaceX | Software Engineer, Satellite Systems (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8621508002?gh_jid=8621508002) |
-| SpaceX | Software Engineer, Simulation | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8695142002?gh_jid=8695142002) |
-| SpaceX | Software Engineer - Simulation & Flight Systems | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8735368002?gh_jid=8735368002) |
-| SpaceX | Software Engineer, Simulations (Application Software) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8487534002?gh_jid=8487534002) |
-| SpaceX | Software Engineer, Site Reliability Engineering (Application Software) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8647095002?gh_jid=8647095002) |
-| SpaceX | Software Engineer (Starfall) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8642274002?gh_jid=8642274002) |
-| SpaceX | Software Engineer (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8525359002?gh_jid=8525359002) |
-| SpaceX | Software Engineer (Starlink/Akoustis) | Canandaigua, NY  | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8696779002?gh_jid=8696779002) |
-| SpaceX | Software Engineer (Starlink Enterprise) | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8586637002?gh_jid=8586637002) |
-| SpaceX | Software Engineer, Starlink Enterprise Products (Space Lasers) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8715839002?gh_jid=8715839002) |
-| SpaceX | Software Engineer (Starlink Mobile) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8568939002?gh_jid=8568939002) |
-| SpaceX | Software Engineer, Starlink Network | Sunnyvale, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8458001002?gh_jid=8458001002) |
-| SpaceX | Software Engineer, Starlink UX (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637755002?gh_jid=8637755002) |
-| SpaceX | Software Engineer (Starshield) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8501199002?gh_jid=8501199002) |
-| SpaceX | Software Engineer (Starship) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8569160002?gh_jid=8569160002) |
-| SpaceX | Software Engineer, Telemetry (Starlink) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8631930002?gh_jid=8631930002) |
-| SpaceX | Software Engineer, Test Infrastructure (Application Software) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8585072002?gh_jid=8585072002) |
-| SpaceX | Software Engineer, Test Infrastructure (C/C++) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637049002?gh_jid=8637049002) |
-| SpaceX | Software Engineer (Thermal & Fluid Analysis) | Starbase, TX | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8562437002?gh_jid=8562437002) |
-| SpaceX | Software Engineer, Tracking (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8749199002?gh_jid=8749199002) |
-| SpaceX | Software Engineer, Vehicle Operations (Starshield) | Hawthorne, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8609228002?gh_jid=8609228002) |
-| SpaceX | Software Infrastructure Engineer, Flight Software (Starlink) | Redmond, WA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8692270002?gh_jid=8692270002) |
-| SpaceX | Software Infrastructure Engineer (Starlink) | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8584920002?gh_jid=8584920002) |
-| SpaceX | Wi-Fi Software Engineer (Starlink) | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8715832002?gh_jid=8715832002) |
-| SpaceX | Wireless Software Engineer (Starlink) | Palo Alto, CA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Atlanta, GA, USA | Atlanta, GA, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976287004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Austin, TX, USA | Austin, TX, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976293004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Bakersfield, CA, USA | Bakersfield, CA, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975280004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Birmingham, AL, USA | Birmingham, AL, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975317004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Boston, MA, USA | Boston, MA, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975128004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Cincinnati, OH, USA | Cincinnati, OH, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975197004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - College Station, TX, USA | College Station, TX, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975310004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Detroit, MI, USA | Detroit, MI, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975191004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Evanston, IL, USA | Evanston, IL, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975209004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Fort Collins, CO, USA | Fort Collins, CO, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975295004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Frisco, TX, USA | Frisco, TX, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975167004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Greensboro, NC, USA | Greensboro, NC, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975359004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Hartford, CT, USA | Hartford, CT, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975347004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Kansas City, MO, USA | Kansas City, MO, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975203004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Knoxville, TN, USA | Knoxville, TN, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975377004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Las Vegas, NV, USA | Las Vegas, NV, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975173004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Minneapolis, MN, USA | Minneapolis, MN, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975179004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - New York, NY, USA | New York, NY, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975122004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Portland, OR, USA | Portland, OR, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975150004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Raleigh, NC, USA | Raleigh, NC, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975185004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Richmond, VA, USA | Richmond, VA, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975252004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - St. Petersburg, FL, USA | St. Petersburg, FL, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975323004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Tallahassee, FL, USA | Tallahassee, FL, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975329004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Tempe, AZ, USA | Tempe, AZ, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975161004) |
-| Speechify | Software Engineer, Platform - Albuquerque, NM, USA | Albuquerque, NM, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974185004) |
-| Speechify | Software Engineer, Platform - Ann Arbor, MI, USA | Ann Arbor, MI, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974189004) |
-| Speechify | Software Engineer, Platform - Burlington, VT, USA | Burlington, VT, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974206004) |
-| Speechify | Software Engineer, Platform - Charlotte, NC, USA | Charlotte, NC, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974233004) |
-| Speechify | Software Engineer, Platform - College Station, TX, USA | College Station, TX, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974163004) |
-| Speechify | Software Engineer, Platform - Culver City, CA, USA | Culver City, CA, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974135004) |
-| Speechify | Software Engineer, Platform - Dallas, TX, USA | Dallas, TX, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976203004) |
-| Speechify | Software Engineer, Platform - Denver, CO, USA | Denver, CO, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974172004) |
-| Speechify | Software Engineer, Platform - Frisco, TX, USA | Frisco, TX, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974155004) |
-| Speechify | Software Engineer, Platform - Greensboro, NC, USA | Greensboro, NC, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974244004) |
-| Speechify | Software Engineer, Platform - Ithaca, NY, USA | Ithaca, NY, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974194004) |
-| Speechify | Software Engineer, Platform - Knoxville, TN, USA | Knoxville, TN, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974255004) |
-| Speechify | Software Engineer, Platform - Las Vegas, NV, USA | Las Vegas, NV, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974180004) |
-| Speechify | Software Engineer, Platform - Los Angeles, CA, USA | Los Angeles, CA, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974133004) |
-| Speechify | Software Engineer, Platform - Naperville, IL, USA | Naperville, IL, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974171004) |
-| Speechify | Software Engineer, Platform - New Haven, CT, USA | New Haven, CT, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974202004) |
-| Speechify | Software Engineer, Platform - New York, NY, USA | New York, NY, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976197004) |
-| Speechify | Software Engineer, Platform - Reston, VA, USA | Reston, VA, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974214004) |
-| Speechify | Software Engineer, Platform - San Jose, CA, USA | San Jose, CA, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974120004) |
-| Speechify | Software Engineer, Platform - Savannah, GA, USA | Savannah, GA, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974230004) |
-| Speechify | Software Engineer, Platform - Scottsdale, AZ, USA | Scottsdale, AZ, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974141004) |
-| Speechify | Software Engineer, Platform - Silver Spring, MD, USA | Silver Spring, MD, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974225004) |
-| Speechify | Software Engineer, Platform - Sunnyvale, CA, USA | Sunnyvale, CA, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974127004) |
-| Speechify | Software Engineer, Platform - Tucson, AZ, USA | Tucson, AZ, USA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974145004) |
-| Smiths Detection Group | CNC Machinist - Operator/Programmer | Pasadena, US | 6d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/smithsgroup2/744000146811609) |
-| Wellmark | Software Engineer - Digital Workforce | Des Moines, US | 6d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/wellmarkinc/744000146786840) |
-| Winsupply | Software Developer Intern | Moraine, US | 6d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/winsupply1/3743990015014717) |
-| General Dynamics Mission Systems | Software Engineer | Pittsfield, MA | 6d ago | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/74682/job?mobile=true&needsRedirect=false) |
-| Johns Hopkins Applied Physics Laboratory | Software Developer - Modeling, Simulation and Analysis Tool | Laurel, MD | 6d ago | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59599?icims=1) |
-| American Express | AI Engineer | Phoenix, AZ | 6d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254) |
-| American Express | Software Engineer 2 - Enterprise Technology Services | Phoenix, AZ | 6d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013264) |
-| Apple | Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems | Sunnyvale, CA | 6d ago | SimplifyJobs | [apply](https://jobs.apple.com/en-us/details/200681316) |
-| American Express | Software Engineer Intern - Enterprise Technology Services | Sunrise, FL | 6d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801) |
-| Nationwide | Software Engineer - Full Stack - Application Product Security | Columbus, OH | 6d ago | SimplifyJobs | [apply](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006) |
-| Baker Hughes | Software Engineer | Minden, NV | 6d ago | SimplifyJobs | [apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272) |
-| Onto Innovation | Software Engineer 2 | Wilmington, MA | 6d ago | SimplifyJobs | [apply](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Jonspin/Software-Engineer-2_R-6241) |
-| OpenAI | Applied AI Architect, Government | Washington, DC | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/6882c919-600e-43c8-92f9-803d4eb3bcd2) |
-| OpenAI | Software Engineer, Safety Engineering | San Francisco | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/9371f837-70ef-4387-a4b7-70f252b04aa5) |
-| Asana | Software Engineer | New York City | 7d ago | greenhouse | [apply](https://www.asana.com/jobs/apply/7961475?gh_jid=7961475) |
-| Block | Software Engineer, Finance Applications | Bay Area, CA, United States of America | 7d ago | greenhouse | [apply](http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008) |
-| Block | Software Engineer, Financial Platform - Issuing | Bay Area, CA, United States of America | 7d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5369947008?gh_jid=5369947008) |
-| Block | Software Engineer, Reconciliation & Reporting | Bay Area, CA, United States of America | 7d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008) |
-| GitLab | AI Engineer | Remote, Bangalore | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8556658002) |
-| MongoDB | Software Engineer 3 | New York City | 7d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=8083761) |
-| MongoDB | Software Engineer 3, Atlas Clusters Platform | New York City | 7d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=8089859) |
-| MongoDB | Software Engineer 3, Atlas Identity and Access Management | New York City | 7d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=8069776) |
-| MongoDB | Software Engineer 3, Atlas Search Systems | San Francisco | 7d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=7523920) |
-| MongoDB | Software Engineer 3, Atlas Vector Search | San Francisco | 7d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=7523911) |
-| MongoDB | Software Engineer 3, Networking & Observability | New York City; United States | 7d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=8119841) |
-| MongoDB | Software Engineer 3, Search Systems Replication & Routing | San Francisco | 7d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=7235322) |
-| Nextdoor | Machine Learning Engineer - Ads | US Remote | 7d ago | greenhouse | [apply](https://about.nextdoor.com/careers-list/?gh_jid=6005888) |
-| AfterQuery | Software Engineer - Growth Infrastructure | San Francisco | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/afterquery/7df65be5-5338-4d54-bc0a-ac550633618b) |
-| Amplify | Full Stack Software Engineer | Remote - United States | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/amplify/52bf5d5b-a1fb-4911-b686-5ebefa9d55dd) |
-| Harvey | Software Engineer, Security | San Francisco | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/harvey/d2624850-8dd4-4eb4-b5dc-f386b715a26f) |
-| Imprint | Data Infrastructure Engineer | New York City | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/imprint/25409da3-c86f-4824-a292-bbd20a0f2f11) |
-| Cybernetic Labs | Software Engineer, Agent Platform | New York City | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/netic/525fcc1f-f64b-4c01-bbe6-51e2bd391f1d) |
-| Plaid | Software Engineer, Backend | Seattle Office | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d) |
-| Plaid | Software Engineer, Full Stack | Seattle Office | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/plaid/8de90516-8070-42c5-8b04-267bf6785bea) |
-| Prelim | Software Engineer, Product | New York | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/prelim/bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409) |
-| Sierra | Software Engineer, Agent (Spanish speaking) | San Francisco, CA | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/1d5cf6f0-feba-46a6-98bc-70a1627a76d0) |
-| Specter | Wireless Software Engineer | San Francisco | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/specter/702586cc-1a00-4fd0-89ed-2207f0d0095b) |
-| Astranis | Embedded Software Engineer - Network Software | San Francisco | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/astranis/jobs/4363202006) |
-| Astranis | Flight Software Engineer | San Francisco | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/astranis/jobs/4015622006) |
-| Astranis | Hardware Test Software Engineer | San Francisco, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/astranis/jobs/4244436006) |
-| Astranis | Machinist/Programmer | San Francisco | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/astranis/jobs/4596812006) |
-| Astranis | Software Engineer - Hardware Test | San Francisco, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/astranis/jobs/4702072006) |
-| Blueprint Technologies | AI/ML Engineer - Automation/Robotics | Redmond, WA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/bpcs/jobs/8160825) |
-| Clarity Innovations | Full Stack Software Engineer | MacDill AFB, FL  | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5220451007) |
-| Atoms | Software Engineer, Customer Lifecycle | Mountain View, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8767297002) |
-| Data Systems Analysts | Software Developer | Fort Detrick, MD | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5361811008) |
-| Data Systems Analysts | Software Developer - ACWS | Fort Dix, NJ | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5410601008) |
-| Everlaw | GTM AI Engineer | Oakland, California, United States | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/everlaw/jobs/4709372006) |
-| Gotion | Machine Learning Engineer | Fremont, California | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gotion/jobs/8648163002) |
-| Gotion | Software Development Engineer – Full Stack | Fremont, California | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gotion/jobs/8633831002) |
-| iCapital Network | Software Developer in Test - Assistant Vice President / Vice President | New York, New York, United States | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8446783002) |
-| iCapital Network | Software Developer in Test - Vice President | Salt Lake City, Utah, United States | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8446777002) |
-| iCapital Network | Software Engineer in Test - Associate / Assistant Vice President | Salt Lake City, Utah, United States | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8631890002) |
-| onXmaps | Full-Stack Engineer | Austin, Texas, United States; Bozeman, Montana, United States; Denver, Colorado, United States; Free Solo; Kalispell, Montana, United States; Minneapolis, Minnesota, United States; Missoula, Montana, United States; Portland, Oregon, United States; Salt Lake City, Utah, United States; Seattle, Washington, United States | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/onxmaps/jobs/4708765006) |
-| Twitch | Software Development Engineer, Security Platform | Irvine, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twitch/jobs/8739196002) |
-| Zoox | Embedded Software Engineer - Drive Systems | Foster City, CA | 7d ago | lever | [apply](https://jobs.lever.co/zoox/ea3fbfaf-588b-434a-9a5a-c61edc731a40) |
-| Noblis | Software Developer - Full-Stack - Multiple Levels | Washington, DC | 7d ago | SimplifyJobs | [apply](https://careers.noblis.org/jobs/27747?icims=1) |
-| Keysight Technologies | Machine Learning Engineer | Santa Rosa, CA | 7d ago | SimplifyJobs | [apply](https://jobs.keysight.com/jobs/54093?icims=1) |
-| PlanetScale | Software Engineer - Internal Tools | SF | 7d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/planetscale/jobs/4389100009) |
-| DiDi Global | Software Engineer - Planning Selection Autonomy | San Jose, CA | 7d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/didi/jobs/8131851) |
-| Textron | Software Engineer - Sea Systems | Hunt Valley, Cockeysville, MD | 7d ago | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342905) |
-| KLA | Software Engineer | Milpitas, CA | 7d ago | SimplifyJobs | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640196) |
-| Clera | Backend Engineer | remote | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/clera/5b3933d9-bd40-4c22-abc7-aa2dfa6918d6) |
-| Mariana Minerals | Full Stack Software Engineer | San Francisco HQ | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/marianaminerals/eebc7048-02a3-42ba-80b7-04b8a997e50a) |
-| Metron | Mid-Level Software Engineer | Reston, VA | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/metron/jobs/5225462007) |
-| RF-SMART | Software Developer | Jacksonville, Florida, United States | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409573008) |
-| SpecterOps | Web Developer-Contract | Remote, United States  | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/specterops/jobs/8621096002) |
-| The New York Times | Software Engineer, Reﬂections | New York, NY | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4724948005) |
-| OpenAI | Software Engineer, Financial Engineering | San Francisco | 10d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/4ef5bf23-cf0e-4b97-a639-11f963c99b88) |
-| Chime | Software Engineer, AI Enablement | Remote, USA | 10d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8578967002?gh_jid=8578967002) |
-| Chime | Software Engineer, Communication Platform | San Francisco, CA, USA | 10d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8681191002?gh_jid=8681191002) |
-| Chime | Software Engineer, Infrastructure | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | 10d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8573625002?gh_jid=8573625002) |
-| Chime | Software Engineer, Membership | San Francisco, CA, USA | 10d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8614188002?gh_jid=8614188002) |
-| Chime | Software Engineer, Support Foundations | San Francisco, CA, USA | 10d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8607195002?gh_jid=8607195002) |
-| Coinbase | Software Engineer, CDP - Payment Acceptance | Remote - USA | 10d ago | greenhouse | [apply](https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730) |
-| FluidStack | Software Engineer, Applied AI | San Francisco, CA | 10d ago | ashby | [apply](https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07) |
-| FluidStack | Software Engineer, Ontology | San Francisco, CA | 10d ago | ashby | [apply](https://jobs.ashbyhq.com/fluidstack/cd97ec50-81f7-4fdd-a95b-602e6e1303a8) |
-| Snowflake | Software Engineer, Full Stack - Marketplace | US-CA-Menlo Park | 10d ago | ashby | [apply](https://jobs.ashbyhq.com/snowflake/a51a1e30-94ec-4550-b39f-90ef328dfa87) |
-| Specter | Software Engineer - Applied AI | San Francisco | 10d ago | ashby | [apply](https://jobs.ashbyhq.com/specter/4129379f-8d85-4929-affd-1e5fd604b0a9) |
-| 10a Labs | Machine Learning Engineer | Remote | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/10alabs/jobs/4273194009) |
-| 10a Labs | Software Engineer, Infrastructure & Platform | Remote | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/10alabs/jobs/4331389009) |
-| Accenture | Full Stack Developer | Suitland, MD | 10d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4695324006?gh_jid=4695324006) |
-| Accenture | PeopleSoft Application Developer | Washington, DC | 10d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4709348006?gh_jid=4709348006) |
-| Freedom Technology Solutions Group | Software Developer 503 | Springfield, VA | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/4740049007) |
-| GRVTY | AI/ML Engineer | McLean, Virginia, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4273921009) |
-| GRVTY | Expert ML Software Engineer | Springfield, Virginia, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4372498009) |
-| GRVTY | Full Stack Developer | Aurora, Colorado, United States; Sterling, Virginia, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4332575009) |
-| GRVTY | Platform Engineer | Chantilly, Virginia, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4312743009) |
-| GRVTY | Software Developer | Chantilly, Virginia, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4371622009) |
-| GRVTY | Software Engineer | Dayton, Ohio, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4091493009) |
-| GRVTY | Software Engineer (Full Stack) - SME | Springfield, Virginia, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4201756009) |
-| GRVTY | Software Engineer - Maritime Autonomy (AUV/UUV) | Ventura, California, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grvty/jobs/4305759009) |
-| iCapital Network | Backend Engineer, Blockchain - Assistant Vice President | Salt Lake City, Utah, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8534813002) |
-| iCapital Network | Backend Engineer Scala - Assistant Vice President | New York, New York, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8645602002) |
-| iCapital Network | Backend Software Engineer - Assistant Vice President | Greenwich,  Connecticut, United States; New York, New York, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8646019002) |
-| iCapital Network | Backend Software Engineer - Associate / Assistant Vice President | Salt Lake City, Utah, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8534824002) |
-| iCapital Network | Blockchain / Backend Engineer - Vice President | New York, New York, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8645615002) |
-| iCapital Network | Cloud Infrastructure Engineer -  Vice President | Salt Lake City, Utah, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8577716002) |
-| iCapital Network | DevSecOps Platform Engineer - Vice President | Salt Lake City, Utah, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8393357002) |
-| iCapital Network | Full Stack Engineer - Assistant Vice President | Salt Lake City, Utah, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8452446002) |
-| iCapital Network | Full Stack Engineer - Associate | Salt Lake City, Utah, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8452448002) |
-| iCapital Network | Full Stack Engineer, Ruby and React - Vice President | Salt Lake City, Utah, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8452434002) |
-| iCapital Network | Python Software Developer in Test - Assistant Vice President | Salt Lake City, Utah, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8451059002) |
-| iCapital Network | Scala Backend Software Engineer - Vice President | Salt Lake City, Utah, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8543881002) |
-| iCapital Network | Software Engineer - Associate / Assistant Vice President | Salt Lake City, Utah, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8662826002) |
-| iCapital Network | Software Engineer -  Vice President | Salt Lake City, Utah, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8662833002) |
-| iCapital Network | UI Frontend Engineer - Associate | New York, New York, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8645574002) |
-| NewsBreak | AI Engineer, Agent Platform | Mountain View, California, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/newsbreak/jobs/4683873006) |
-| Rockstar Games | Cloud Platform Engineer | Manhattan, New York, United States | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/rockstargames/jobs/7800927003) |
-| Trace3 | Software Engineer BM/SRM (26-216) | Huntsville, AL | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trace3/jobs/8003848) |
-| Virtu Financial | 2027 Internship - Software Engineer | Austin, TX; New York | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
-| Voyager Technologies | Embedded Software Engineer | Pittsburgh, PA | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4355447009) |
-| Voyager Technologies | Machine Learning Engineer - Associate | El Segundo, CA | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356972009) |
-| Voyager Technologies | Machine Learning Engineer - Mid-Level | El Segundo, CA | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356982009) |
-| Voyager Technologies | Software Engineer | San Diego, CA | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4355026009) |
-| Warp | Software Engineer, Enterprise Security | Remote | 10d ago | greenhouse | [apply](https://job-boards.greenhouse.io/warp/jobs/6163780004) |
-| Notability | Backend Engineer | SF | 10d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/gingerlabsinc/jobs/5410136008) |
-| Anthropic | Applied AI Architect, Startups | San Francisco, CA / New York City, NY | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5406982008) |
-| Anthropic | Applied AI Architect, Strategic Enterprise Tech | San Francisco, CA / New York City, NY / Seattle, WA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5409008008) |
-| Nuro | Software Engineer, Sensor Platform | Mountain View, California (HQ) | 11d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=8163179) |
-| Nuro | Software Engineer, Video Streaming | Mountain View, California (HQ) | 11d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=8164473) |
-| Anyscale | Software Engineer (Ray Data) | San Francisco | 11d ago | ashby | [apply](https://jobs.ashbyhq.com/anyscale/01aef589-e268-4b22-b513-d1f9f076210f) |
-| Exa | Software Engineer, Intern | San Francisco, California | 11d ago | ashby | [apply](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) |
-| Exa | Software Engineer, Security | San Francisco, California | 11d ago | ashby | [apply](https://jobs.ashbyhq.com/exa/c4081592-fa8c-4fed-9041-70c62feee157) |
-| Mercor | Software Engineer, Agents | New York City | 11d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/f6035e89-f820-482c-9500-efb70226b134) |
-| Retell AI | Applied AI Engineer (Customer Facing) | San Francisco Bay Area | 11d ago | ashby | [apply](https://jobs.ashbyhq.com/retell-ai/1fcd6e82-2a31-4e2f-abcf-be069ebb6e8c) |
-| Accenture | Pega Software Developer | Washington, DC | 11d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4709154006?gh_jid=4709154006) |
-| Eulerity | Associate Backend Engineer | New York, New York | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/eulerity/jobs/4709039006) |
-| Freeform | Factory Infrastructure Engineer | Los Angeles, CA (On-site) | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7979541003) |
-| impact.com | Full Stack Software Engineer | Seattle, Washington | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/impact/jobs/8465838002) |
-| Jane Street | Front End Software Engineer | New York, New York, United States | 11d ago | greenhouse | [apply](https://www.janestreet.com/join-jane-street/apply/6184529002?gh_jid=6184529002) |
-| Jane Street | Machine Learning Engineer | New York, New York, United States | 11d ago | greenhouse | [apply](https://www.janestreet.com/join-jane-street/apply/8611307002?gh_jid=8611307002) |
-| Jane Street | Software Engineer | New York, New York, United States | 11d ago | greenhouse | [apply](https://www.janestreet.com/join-jane-street/apply/8419303002?gh_jid=8419303002) |
-| Jane Street | Software Engineer / Writer | New York, New York, United States | 11d ago | greenhouse | [apply](https://www.janestreet.com/join-jane-street/apply/7604415002?gh_jid=7604415002) |
-| LG Electronics | Backend/ML Engineer | Santa Clara, CA  | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/lgelectronics/jobs/5394128008) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Berkeley, CA, USA | Berkeley, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975174004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Bloomington, IN, USA | Bloomington, IN, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975324004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Buffalo, NY, USA | Buffalo, NY, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975336004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Chicago, IL, USA | Chicago, IL, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975129004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Colorado Springs, CO, USA | Colorado Springs, CO, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975297004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Dallas, TX, USA | Dallas, TX, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976292004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Des Moines, IA, USA | Des Moines, IA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975330004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Fremont, CA, USA | Fremont, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975180004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Honolulu, HI, USA | Honolulu, HI, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975312004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Huntsville, AL, USA | Huntsville, AL, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975198004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Irvine, CA, USA | Irvine, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975192004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Long Beach, CA, USA | Long Beach, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975138004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Louisville, KY, USA | Louisville, KY, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975384004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Milwaukee, WI, USA | Milwaukee, WI, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975318004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Mountain View, CA, USA | Mountain View, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975162004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Newark, NJ, USA | Newark, NJ, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975216004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - New Haven, CT, USA | New Haven, CT, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975235004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Norfolk, VA, USA | Norfolk, VA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975354004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Philadelphia, PA, USA | Philadelphia, PA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975223004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Salt Lake City, UT, USA | Salt Lake City, UT, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975152004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - San Francisco, CA, USA | San Francisco, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976298004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Santa Monica, CA, USA | Santa Monica, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975186004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Seattle, WA, USA | Seattle, WA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975123004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Sunnyvale, CA, USA | Sunnyvale, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975168004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Tacoma, WA, USA | Tacoma, WA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975283004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Tampa, FL, USA | Tampa, FL, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975204004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Washington, DC, USA | Washington, DC, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976286004) |
-| Speechify | Software Engineer, Platform - Atlanta, GA, USA | Atlanta, GA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976196004) |
-| Speechify | Software Engineer, Platform - Austin, TX, USA | Austin, TX, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974147004) |
-| Speechify | Software Engineer, Platform - Bakersfield, CA, USA | Bakersfield, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974146004) |
-| Speechify | Software Engineer, Platform - Bellevue, WA, USA | Bellevue, WA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976202004) |
-| Speechify | Software Engineer, Platform - Bend, OR, USA | Bend, OR, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974164004) |
-| Speechify | Software Engineer, Platform - Chattanooga, TN, USA | Chattanooga, TN, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974257004) |
-| Speechify | Software Engineer, Platform - Columbus, OH, USA | Columbus, OH, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974193004) |
-| Speechify | Software Engineer, Platform - Fort Collins, CO, USA | Fort Collins, CO, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974176004) |
-| Speechify | Software Engineer, Platform - Houston, TX, USA | Houston, TX, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974157004) |
-| Speechify | Software Engineer, Platform - Huntsville, AL, USA | Huntsville, AL, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974265004) |
-| Speechify | Software Engineer, Platform - Long Beach, CA, USA | Long Beach, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974136004) |
-| Speechify | Software Engineer, Platform - Madison, WI, USA | Madison, WI, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974181004) |
-| Speechify | Software Engineer, Platform - Newark, NJ, USA | Newark, NJ, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974226004) |
-| Speechify | Software Engineer, Platform - New Orleans, LA, USA | New Orleans, LA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974267004) |
-| Speechify | Software Engineer, Platform - Oakland, CA, USA | Oakland, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974121004) |
-| Speechify | Software Engineer, Platform - Omaha, NE, USA | Omaha, NE, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974211004) |
-| Speechify | Software Engineer, Platform - Pittsburgh, PA, USA | Pittsburgh, PA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974234004) |
-| Speechify | Software Engineer, Platform - Providence, RI, USA | Providence, RI, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974204004) |
-| Speechify | Software Engineer, Platform - Richmond, VA, USA | Richmond, VA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974216004) |
-| Speechify | Software Engineer, Platform - San Francisco, CA, USA | San Francisco, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976208004) |
-| Speechify | Software Engineer, Platform - Santa Clara, CA, USA | Santa Clara, CA, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974128004) |
-| Speechify | Software Engineer, Platform - Stony Brook, NY, USA | Stony Brook, NY, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974196004) |
-| Speechify | Software Engineer, Platform - St. Petersburg, FL, USA | St. Petersburg, FL, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974235004) |
-| Speechify | Software Engineer, Platform - Tempe, AZ, USA | Tempe, AZ, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974143004) |
-| Speechify | Software Engineer, Platform - Tulsa, OK, USA | Tulsa, OK, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974245004) |
-| Speechify | Software Engineer, Platform - Washington, DC, USA | Washington, DC, USA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974208004) |
-| Trace3 | Algorithm Software Engineer | Huntsville, AL | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trace3/jobs/8164535) |
-| UJET | Full Stack Engineer, AI Platform | Remote, US | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/ujet/jobs/4710463005) |
-| Robert Bosch Venture Capital | Metrologist/CMM Programmer | Albion, US | 11d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/boschgroup/744000146184839) |
-| Harvard University | Research Software Engineer | Boston, US | 11d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/harvarduniversity/3743990014919476) |
-| Intuitive Surgical | Full Stack Engineer | Sunnyvale, US | 11d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/intuitive/744000146230504) |
-| Southern Company | Application Developer 1 - Asset Technology AMI | Naperville, IL; Atlanta, GA | 11d ago | SimplifyJobs | [apply](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21161) |
-| Vanta | Software Engineer, Integrations Platform, Vanta For Government (V4G) | Remote U.S. | 12d ago | ashby | [apply](https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a) |
-| Anthropic | Strategy & Operations, Applied AI - AMER | San Francisco, CA / New York City, NY | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5284500008) |
-| Nuro | Applied AI Researcher, Agent Systems & Evaluation | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7793005) |
-| Nuro | Full Stack Software Engineer, Fleet Platform and Operations Tooling | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7917839) |
-| Nuro | Software Engineer, AI Platform - Intern | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7351061) |
-| Nuro | Software Engineer, Applied AI Infrastructure | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=8122990) |
-| Nuro | Software Engineer, Autonomy Visualization | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7896063) |
-| Nuro | Software Engineer, Data Platform | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7895644) |
-| Nuro | Software Engineer, ML Data Infrastructure | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7895818) |
-| Nuro | Software Engineer, ML Inference Platform | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=8122537) |
-| Nuro | Software Engineer, ML Infrastructure | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=6909931) |
-| Nuro | Software Engineer, ML Infrastructure, Optimization | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=6916236) |
-| Nuro | Software Engineer, ML Infrastructure Platform | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=8122483) |
-| Nuro | Software Engineer, Offboard Infrastructure | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7638789) |
-| Nuro | Software Engineer, Onboard Platform | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7998328) |
-| Nuro | Software Engineer, Performance Tooling and Infrastructure | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7786521) |
-| Nuro | Software Engineer, Routing | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7482347) |
-| Reddit | Backend Software Engineer, PDP Experience | Remote - United States | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/reddit/jobs/8148431) |
-| Vercel | Security Software Engineer, IAM | Remote - United States | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/6093255004) |
-| Vercel | Software Engineer, Trust & Safety | Hybrid - San Francisco, New York City | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5649459004) |
-| 8VC | Software Engineer - MeritFirst | Austin, TX | 12d ago | ashby | [apply](https://jobs.ashbyhq.com/8vc/1625aeeb-f518-4f16-81cb-a42c25ef1014) |
-| Anyscale | Software Engineer, ML Developer Experience | San Francisco | 12d ago | ashby | [apply](https://jobs.ashbyhq.com/anyscale/81c3c26a-71e3-4c4c-a88e-88c538a169be) |
-| N1 | Software Engineer (Full Stack) | New York City | 12d ago | ashby | [apply](https://jobs.ashbyhq.com/n1/2213cef6-fbcd-42f7-8e0e-c6a23bfc1119) |
-| TRM Labs | Backend Engineer, Agent Tools | United States | 12d ago | ashby | [apply](https://jobs.ashbyhq.com/trm-labs/1eff4d33-7cf1-4682-a548-dcc4abd913f3) |
-| Accenture | AI/ML Full Stack Engineer | Columbia, MD | 12d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4695377006?gh_jid=4695377006) |
-| Accenture | .Net / React Full Stack Developer | Washington, DC | 12d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4708769006?gh_jid=4708769006) |
-| Axle | Full Stack Developer | Remote | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/axle/jobs/5217971007) |
-| Data Systems Analysts | Software Developer - Mid (SMDC) | Huntsville, AL | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5391523008) |
-| Defense Unicorns | Platform Engineer (FedD200/ FedD201/ FedD202) | Remote, United States | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/5223131007) |
-| Dialpad | Software Engineer (Agentic Systems) | Bay Area, US | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/dialpad/jobs/8633544002) |
-| Metron | Rust Software Engineer | Reston, VA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/metron/jobs/5223907007) |
-| Metron | Software Development Engineer in Test (SDET) | Reston, VA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/metron/jobs/5222417007) |
-| Metron | Software Engineer, Infrastructure | Reston, VA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/metron/jobs/5223845007) |
-| Muon Space | Software Engineer, Customer Solutions | San Jose, CA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5222971007) |
-| Planet | Software Engineer, Missions Software | United States, Remote | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/planetlabs/jobs/8008355) |
-| Planet | Software Engineer - Platform, Mission Systems | United States, Remote | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/planetlabs/jobs/8022265) |
-| Planet | Software Engineer, Platform Operations | United States, Remote | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/planetlabs/jobs/7555019) |
-| Torc Robotics | ML Engineer, I - MLOps Framework | Remote - US | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002) |
-| Arrive Logistics | Software Engineer | Chicago, IL | 12d ago | lever | [apply](https://jobs.lever.co/arrivelogistics/ed5b4a1d-619e-4b35-9c56-ece700a5282d) |
-| Zoox | Embedded Software Engineer, Wireless Technologies | Foster City, CA | 12d ago | lever | [apply](https://jobs.lever.co/zoox/7522162e-a518-444e-8fe7-49b8b45bbdd3) |
-| LinkedIn | Fullstack Engineer- Personalization Platform | Mountain View, US | 12d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/linkedin3/744000146028526) |
-| Talan | C# Software Developer (.NET) - NYC | New York, US | 12d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/talan/744000146028838) |
-| Textron | Software Engineer | Wilmington, MA | 12d ago | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344719) |
-| Global Lending Services | Software Developer | Greenville, SC | 12d ago | SimplifyJobs | [apply](https://jobs.lever.co/glsllc/6fe04362-4ef7-46f2-acc7-4a72355ed90c/apply) |
-| Watershed | Software engineer, full-stack | New York City | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/watershed/2f60ee9b-cb7f-4c05-93d2-bad49243bf31) |
-| Anthropic | AI Engineer, GTM Claudification | Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5390966008) |
-| Robinhood | Full Stack Software Engineer, Credit Cards & Banking | Bellevue, WA; Menlo Park, CA; New York, NY | 13d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723) |
-| Robinhood | Machine Learning Engineer | Bellevue, WA | 13d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/7960680?t=gh_src=&gh_jid=7960680) |
-| Robinhood | Software Engineer, Backend | Menlo Park, CA; New York, NY | 13d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) |
-| Robinhood | Software Engineer, Cryptography | Bellevue, WA; Menlo Park, CA | 13d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370) |
-| Robinhood | Software Engineer, Wallet | Menlo Park, CA; New York, NY | 13d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/8088444?t=gh_src=&gh_jid=8088444) |
-| Benchling | Software Engineer, Platform (Developer Experience) | San Francisco, CA | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/benchling/63d7d126-efaf-4a48-b328-f8d85b640ebf) |
-| Cerebras | Cloud Infrastructure Engineer | Sunnyvale, CA | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/cerebras/2b22599f-b1ee-46ef-8684-1475bc49bac0) |
-| Mercor | Software Engineer, Marketplace | San Francisco | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/160c8177-765b-4bdc-a5be-5f646dccc98a) |
-| Realm | Software Engineer - Intern | Remote | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
-| Treeswift | Full Stack Software Engineer | New York Office | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/treeswift/7a4f57cf-f80c-481d-a086-84b1328fbbbc) |
-| Zip | Software Engineer Intern (Summer 2027) | San Francisco | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf) |
-| Axon | CMM Programmer (Onsite) | Mesa, Arizona, United States | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/axon/jobs/7866206003) |
-| Atoms | Robotics Software Engineer Intern | Pittsburgh, PA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002) |
-| Katalyst Space Technologies | Software Engineer, Ground Software | Broomfield, Colorado, United States | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/katalyst/jobs/6130553004) |
-| LeoLabs | Radar Software Engineer | Remote | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/leolabsinc/jobs/4205913009) |
-| Neuralink | Software Engineer, Next Gen | Austin, Texas, United States; South San Francisco, California, United States | 13d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6658884003?gh_jid=6658884003) |
-| Oklo | Software Engineer | Santa Clara, CA or Remote | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/oklo/jobs/4018702004) |
-| Oklo | Software Engineer (Applied AI/ML) | Santa Clara, CA or Remote | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/oklo/jobs/6150355004) |
-| QuEra Computing | Scientific Software Engineer - Developer Experience | Boston, MA, USA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5369462008) |
-| Stratolaunch | Flight Software Engineer | Mojave, California, United States | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/stratolaunch/jobs/4606174008) |
-| Trace3 | Software Engineer | AI & Automation | United States | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trace3/jobs/8157855) |
-| Truveta | Software Engineer – Cerberus | Seattle, WA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/truveta/jobs/6147526004) |
-| Kitware | Software Engineer | Clifton Park, New York | 13d ago | lever | [apply](https://jobs.lever.co/kitware/2037d8ac-2c76-4b33-a72c-acb0500cf09e) |
-| Veeva Systems | Platform Engineer - Commercial Services Tools | Massachusetts - Boston | 13d ago | lever | [apply](https://jobs.lever.co/veeva/47279623-8cbf-42f9-8f41-461c25af2edf) |
-| Zoox | Software Engineer - C++ Core Data | Foster City, CA | 13d ago | lever | [apply](https://jobs.lever.co/zoox/c2abc555-0105-4eda-b9c9-5c9ee28703e7) |
-| Lawrence Livermore National Laboratory (LLNL) | Software Developer-Mid Career | Livermore, US | 13d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/llnl/3743990014860026) |
-| Wabtec | Embedded Software Engineer | Salem, US | 13d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/wabtec/3743990014870476) |
-| DTCC | Application Developer Analyst - 2027 EDGE Program | Tampa, FL; Dallas, TX; Jersey City, NJ | 13d ago | SimplifyJobs | [apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463) |
-| General Dynamics Mission Systems | Software Engineer - Crypto and Cross Domain Solutions | Scottsdale, AZ | 13d ago | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/74514/job?mobile=true&needsRedirect=false) |
-| NewRocket | AI Engineer - Anthropic | Remote in USA | 13d ago | SimplifyJobs | [apply](https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004) |
-| Torc Robotics | Machine Learning Engineer - MLOps Framework | Remote in USA | 13d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002) |
-| Hewlett Packard Enterprise | Software Engineer | Westford, MA | 13d ago | SimplifyJobs | [apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208691) |
-| OpenAI | Software Engineer, AI accelerator Runtime | San Francisco | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532) |
-| OpenAI | Systems Software Engineer, Silicon Bringup | San Francisco | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143) |
-| Anthropic | Applied AI Engineer, Beneficial Deployments (Life Sciences) | San Francisco, CA / New York City, NY | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5021015008) |
-| Anthropic | IT Systems Engineer, Mobile Client Platform Engineer | Boston, MA; Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY; Washington, DC | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5396384008) |
-| Anthropic | Software Engineer, Business Technology | New York City, NY / Seattle, WA; San Francisco, CA / New York City, NY | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5400153008) |
-| Block | Enterprise People Platform Engineer | Bay Area, CA, United States of America | 14d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5381210008?gh_jid=5381210008) |
-| Figma | Software Engineer Intern (Winter 2027) | San Francisco, CA • New York, NY | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) |
-| Vercel | Software Engineer, Data Platform | Hybrid - San Francisco, New York City | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/6161129004) |
-| Hadrian | Software Engineer, Machine Interfaces | Los Angeles, CA | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/0276373a-fcf7-4a19-bdac-59ac8a0a67d0) |
-| Rivet Industries | Software Engineer Intern, XR Team (Fall 2026) | Bellevue, WA | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc) |
-| Sierra | Software Engineer, Agent - Public Sector | San Francisco, CA | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/c66b30fc-9588-4699-85c1-2166b23b8778) |
-| Snowflake | Software Engineer - Data Clean Room/ AI Data Hub | US-WA-Bellevue | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/snowflake/2b3e7582-84c9-4fd1-969c-16ae1a4f61e6) |
-| Apptronik | Software Engineer - Dexterous Manipulation | Austin, TX | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/apptronik/jobs/6135687004?gh_jid=6135687004) |
-| BrightAI | AI Engineer, Time-Series Signal Processing | Palo Alto, CA | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/brightai/jobs/5616556004) |
-| Freeform | Software Engineer | Los Angeles, CA (On-site) | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7691540003) |
-| Freeform | Software Engineer (Embedded) | Los Angeles, CA (On-site) | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7770777003) |
-| Freeform | Software Engineer (Full Stack Enterprise) | Los Angeles, CA (On-site) | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7704562003) |
-| MORSE Corp | Autonomy Software Engineer | Cambridge, MA | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/6510212003?gh_jid=6510212003) |
-| MORSE Corp | Cloud Software Engineer | Cambridge, MA, Arlington, VA  | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/6042651003?gh_jid=6042651003) |
-| MORSE Corp | C++ Software Engineer | Cambridge, MA | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/7834095003?gh_jid=7834095003) |
-| MORSE Corp | Embedded Software Engineer | Cambridge, MA | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/7453242003?gh_jid=7453242003) |
-| MORSE Corp | Front End Software Engineer | Cambridge, MA | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/7619938003?gh_jid=7619938003) |
-| MORSE Corp | Full Stack Software Engineer | Cambridge, MA, Arlington, VA, Seattle, WA  | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/6620672003?gh_jid=6620672003) |
-| MORSE Corp | Python Software Engineer | Cambridge, MA, Arlington, VA | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/6005590003?gh_jid=6005590003) |
-| MORSE Corp | Robotics Software Engineer | Cambridge, MA | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/7668590003?gh_jid=7668590003) |
-| Neuralink | Embedded Software Engineer, Implant Embedded Systems | Austin, Texas, United States; South San Francisco, California, United States | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6550259003?gh_jid=6550259003) |
-| Neuralink | Software Engineer, CI/CD | Austin, Texas, United States; South San Francisco, California, United States | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/7743089003?gh_jid=7743089003) |
-| Neuralink | Software Engineer, Implant | Austin, Texas, United States; South San Francisco, California, United States | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6569010003?gh_jid=6569010003) |
-| Neuralink | Software Engineer, Robotics | Austin, Texas, United States; South San Francisco, California, United States | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/4205469003?gh_jid=4205469003) |
-| PatientPoint | Software Engineer in Test | Cincinnati, Ohio, United States | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/patientpoint/jobs/4722426005) |
-| SharkNinja | Applied AI & Analytics Associate Opportunities | Needham, MA, United States | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4680287006) |
-| Smartsheet | Software Engineer - Mobile (Remote Eligible in Bulgaria) |  -REMOTE, BULGARIA- | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/smartsheet/jobs/8141665) |
-| Verkada | Backend Engineer, Alarms | San Mateo, CA United States | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/5191604007) |
-| Verkada | Backend Engineer - Connectivity | San Mateo, CA United States | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/5194598007) |
-| Verkada | Embedded Software Engineer - Access Control | San Mateo, CA United States | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210563007) |
-| Verkada | Software Engineer - Computer Vision | San Mateo, CA United States | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/5195995007) |
-| Verkada | Software Engineer - Data Platform | San Mateo, CA United States | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/verkada/jobs/4129304007) |
-| Woolpert | Embedded Systems & LIDAR Software Engineer | Kiln, MS | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/woolpert/jobs/4370881009) |
-| Rainmaker | Software Engineer, Infrastructure | El Segundo, CA | 14d ago | lever | [apply](https://jobs.lever.co/make-rain/91bdb036-ae7d-47e4-828b-fb7761665226) |
-| LinkedIn | Software Engineer - Systems and Infrastructure | Mountain View, US | 14d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/linkedin3/744000145375788) |
-| Parallel Systems | Embedded Software Engineer - Vehicle Software | LA | 14d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/parallel/jobs/5220626007) |
-| TikTok | Machine Learning Engineer - E-Commerce Knowledge Graph | San Jose, CA | 14d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7676647728043280645) |
-| Infleqtion | Quantum Software Engineer - Compiler & Control Systems | Chicago, IL | 14d ago | SimplifyJobs | [apply](https://apply.workable.com/coldquanta/j/DA0D4B3975/apply) |
-| Infleqtion | Quantum Software Engineer - Compiler | Chicago, IL | 14d ago | SimplifyJobs | [apply](https://apply.workable.com/coldquanta/j/1B97312CA0/apply) |
-| OceanComm | Embedded Software Engineer - DSP | Chicago, IL | 14d ago | SimplifyJobs | [apply](https://apply.workable.com/oceancomm/j/912979C2F0/apply) |
-| Amazon | Software Development Engineer - Amazon Leo | Redmond, WA; Northridge, LA | 14d ago | SimplifyJobs | [apply](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) |
-| KLA | AI Engineer - Computer Vision/Signal Processing | Milpitas, CA | 14d ago | SimplifyJobs | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582) |
-| Foundation Health | Software Engineer | Orlando, FL; Remote in USA | 14d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application?embed=true) |
-| Notion | Software Engineer, Developer Platform | San Francisco, California | 15d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a) |
-| OpenAI | Software Engineer, Model Runtime | San Francisco | 15d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96) |
-| Anthropic | Security Software Engineer, Detection & Response Platform | New York City, NY / Seattle, WA; San Francisco, CA / New York City, NY / Seattle, WA; Washington, DC | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4595463008) |
-| Specter | Software Engineer — Fleet | San Francisco | 15d ago | ashby | [apply](https://jobs.ashbyhq.com/specter/0c92d7fa-34eb-48a8-92db-8ff213acdd6f) |
-| OpenSesame | Applied AI Engineer, Internal Automation | Remote | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/opensesame/jobs/8152738?gh_jid=8152738) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Anaheim, CA, USA | Anaheim, CA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975141004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Arlington, VA, USA | Arlington, VA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975242004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Bellevue, WA, USA | Bellevue, WA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975124004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Burlington, VT, USA | Burlington, VT, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975349004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Cambridge, MA, USA | Cambridge, MA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975211004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Cary, NC, USA | Cary, NC, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975193004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Charleston, SC, USA | Charleston, SC, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975367004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Cleveland, OH, USA | Cleveland, OH, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975199004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - College Park, MD, USA | College Park, MD, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975175004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Durham, NC, USA | Durham, NC, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975187004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Fort Worth, TX, USA | Fort Worth, TX, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975163004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Houston, TX, USA | Houston, TX, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975169004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Ithaca, NY, USA | Ithaca, NY, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975343004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Memphis, TN, USA | Memphis, TN, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975373004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - New Orleans, LA, USA | New Orleans, LA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975319004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Oklahoma City, OK, USA | Oklahoma City, OK, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975331004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Provo, UT, USA | Provo, UT, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975155004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Reno, NV, USA | Reno, NV, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975299004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Reston, VA, USA | Reston, VA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975248004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Saint Paul, MN, USA | Saint Paul, MN, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975181004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Santa Cruz, CA, USA | Santa Cruz, CA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975313004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - Spokane, WA, USA | Spokane, WA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975286004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - St. Louis, MO, USA | St. Louis, MO, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975205004) |
-| Speechify | Software Engineer, Data Infrastructure & Acquisition - West Palm Beach, FL, USA | West Palm Beach, FL, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975325004) |
-| Speechify | Software Engineer, Platform - Anaheim, CA, USA | Anaheim, CA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974137004) |
-| Speechify | Software Engineer, Platform - Berkeley, CA, USA | Berkeley, CA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974122004) |
-| Speechify | Software Engineer, Platform - Boston, MA, USA | Boston, MA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974217004) |
-| Speechify | Software Engineer, Platform - Buffalo, NY, USA | Buffalo, NY, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974187004) |
-| Speechify | Software Engineer, Platform - Cambridge, MA, USA | Cambridge, MA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974219004) |
-| Speechify | Software Engineer, Platform - Cincinnati, OH, USA | Cincinnati, OH, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974195004) |
-| Speechify | Software Engineer, Platform - Colorado Springs, CO, USA | Colorado Springs, CO, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974178004) |
-| Speechify | Software Engineer, Platform - Des Moines, IA, USA | Des Moines, IA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974213004) |
-| Speechify | Software Engineer, Platform - Evanston, IL, USA | Evanston, IL, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974173004) |
-| Speechify | Software Engineer, Platform - Fort Worth, TX, USA | Fort Worth, TX, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974151004) |
-| Speechify | Software Engineer, Platform - Hartford, CT, USA | Hartford, CT, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974198004) |
-| Speechify | Software Engineer, Platform - Honolulu, HI, USA | Honolulu, HI, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974165004) |
-| Speechify | Software Engineer, Platform - Kansas City, MO, USA | Kansas City, MO, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974207004) |
-| Speechify | Software Engineer, Platform - Louisville, KY, USA | Louisville, KY, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974259004) |
-| Speechify | Software Engineer, Platform - Nashville, TN, USA | Nashville, TN, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974252004) |
-| Speechify | Software Engineer, Platform - Palo Alto, CA, USA | Palo Alto, CA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976207004) |
-| Speechify | Software Engineer, Platform - Princeton, NJ, USA | Princeton, NJ, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974228004) |
-| Speechify | Software Engineer, Platform - Raleigh, NC, USA | Raleigh, NC, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974236004) |
-| Speechify | Software Engineer, Platform - San Antonio, TX, USA | San Antonio, TX, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974158004) |
-| Speechify | Software Engineer, Platform - San Mateo, CA, USA | San Mateo, CA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974129004) |
-| Speechify | Software Engineer, Platform - Tacoma, WA, USA | Tacoma, WA, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974156004) |
-| Speechify | Software Engineer, Platform - West Palm Beach, FL, USA | West Palm Beach, FL, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974237004) |
-| Speechify | Software Engineer, Platform - Winston-Salem, NC, USA | Winston-Salem, NC, USA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974246004) |
-| Virtu Financial | Software Engineer - Frontend Trading Application (C#/.NET) | New York | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/virtu/jobs/4261145002) |
-| Warp | Software Engineer | New York, New York | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/warp/jobs/4324888004) |
-| Crowdstrike | Software Engineer - Sensor - SAO | Redmond, WA; Sunnyvale, CA | 15d ago | SimplifyJobs | [apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874) |
-| Google | Software Engineer - AI/Machine Learning - PhD | Madison, WI; Seattle, WA; Raleigh, NC; San Bruno, CA; Durham, NC; Kirkland, WA; NYC; Sunnyvale, CA; Mountain View, CA; Atlanta, GA | 15d ago | SimplifyJobs | [apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878) |
-| Northwood Space | Network Software Engineer | Torrance, CA | 16d ago | ashby | [apply](https://jobs.ashbyhq.com/northwoodspace/f19b12b2-1f52-43a6-8e0e-a866c92c4fc1) |
-| OpenAI | Applied AI Architect - EDU | San Francisco | 17d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22) |
-| OpenAI | Software Engineer, API Safety | San Francisco | 17d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/990397de-c00c-4577-b093-d8c82b4e9145) |
-| Mariana Minerals | Machine Learning Engineer (Autonomy) | San Francisco HQ | 17d ago | ashby | [apply](https://jobs.ashbyhq.com/marianaminerals/c9be8e0d-bb09-4792-954e-10451b170108) |
-| Sierra | IT Infrastructure Engineer | San Francisco, CA | 17d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6) |
-| Bandwidth | NetSuite Application Developer | Raleigh, NC | 17d ago | greenhouse | [apply](https://job-boards.greenhouse.io/bandwidth/jobs/8148069) |
-| National Information Solutions Cooperative (NISC) | Database Conversion (ETL) Programmer | Mandan, ND or Lake St. Louis, MO | 17d ago | greenhouse | [apply](https://job-boards.greenhouse.io/nisc/jobs/8148217) |
-| Point72 | Machine Learning Engineer | New York | 17d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8170176002?gh_jid=8170176002) |
-| Point72 | Machine Learning Engineer, GenAI Technology | New York, NY | 17d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8651402002?gh_jid=8651402002) |
-| Point72 | Machine Learning Infrastructure Engineer, GenAI Technology | New York, NY | 17d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8472280002?gh_jid=8472280002) |
-| Point72 | NLP / AI Engineer | New York | 17d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/7661997002?gh_jid=7661997002) |
-| Point72 | Quantitative Analyst / Software Developer | New York | 17d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002) |
-| Point72 | Quantitative Software Developer | New York | 17d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8032153002?gh_jid=8032153002) |
-| Point72 | Quantitative Software Developer Intern | New York, London, or Paris | 17d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
-| Point72 | Software Engineer - Data | New York, NY | 17d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8544800002?gh_jid=8544800002) |
-| Point72 | Software Engineer, Investor and Fund Administration Technology | United States | 17d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8372893002?gh_jid=8372893002) |
-| QuEra Computing | Scientific Software Engineer - Compiler | Boston, MA  USA | 17d ago | greenhouse | [apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/4584808008) |
-| Vestmark | Software Engineer | Boston, MA (Hybrid) | 17d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vestmark/jobs/8009953) |
-| SBT Global | Java Full-Stack Developer (Korean Bilingual) | Santa Ana, US | 17d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/sbtglobalinc/3743990014778306) |
-| Integration Innovation (i3) | Software Engineer | Huntsville, AL | 17d ago | SimplifyJobs | [apply](https://careers-i3-corps.icims.com/jobs/5218/job?mobile=true&needsRedirect=false) |
-| Avalore | AI/ML Engineer | Arlington County, Arlington, VA | 17d ago | SimplifyJobs | [apply](https://apply.workable.com/avalore/j/236521B2C0/apply) |
-| OpenAI | Software Engineer, Private Computing | San Francisco | 18d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/0f887fe6-39f4-44f6-8ee5-230c3002f0d7) |
-| OpenAI | Machine Learning Engineer, Multimodal Perception and Authentication | San Francisco | 18d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174) |
-| Anthropic | Applied AI Architect, Commercial | San Francisco, CA / New York City, NY | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5192805008) |
-| Anthropic | Applied AI Architect, Enterprise Tech | San Francisco, CA / New York City, NY / Seattle, WA | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5383335008) |
-| Anthropic | Applied AI Architect, Industries | New York City, NY; San Francisco, CA / New York City, NY / Seattle, WA | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4461444008) |
-| Anthropic | Applied AI Architect, Partnerships | San Francisco, CA / New York City, NY | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5300430008) |
-| Anthropic | Applied AI Architect, Public Sector (National Security) | Washington, DC | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5390877008) |
-| Anthropic | Applied AI Engineer, Enterprise Tech | San Francisco, CA / New York City, NY / Seattle, WA | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5057647008) |
-| Anthropic | Applied AI Technical Evangelist, Startup Ecosystem | San Francisco, CA | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5116927008) |
-| Anthropic | Full Stack Engineer, Education Labs | San Francisco, CA / New York City, NY | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5097186008) |
-| Anthropic | Full-Stack Software Engineer, Reinforcement Learning | San Francisco, CA / New York City, NY | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5186067008) |
-| Anthropic | Machine Learning Infrastructure Engineer, Safeguards Research | San Francisco, CA / New York City, NY | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5364804008) |
-| Anthropic | Model Performance Software Engineer, Claude Code | San Francisco, CA / New York City, NY | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5098025008) |
-| Anthropic | Software Engineer, Desktop | San Francisco, CA / New York City, NY | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5367585008) |
-| Anthropic | Software Engineer, ML Networking | San Francisco, CA / New York City, NY / Seattle, WA | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4926242008) |
-| Anthropic | Software Engineer, Research Data Platform | San Francisco, CA / New York City, NY | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5191226008) |
-| Anthropic | Software Engineer, Research Tools | San Francisco, CA / New York City, NY; San Francisco, CA / New York City, NY / Seattle, WA | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4981828008) |
-| Samsara | Finance & Strategy AI Engineer | San Francisco - SF9 | 18d ago | greenhouse | [apply](https://www.samsara.com/company/careers/roles/8113356?gh_jid=8113356) |
-| Samsara | People Analytics AI Engineer | Remote - Seattle | 18d ago | greenhouse | [apply](https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719) |
-| Accenture | Data Platform Engineer | Chantilly, VA | 18d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4701476006?gh_jid=4701476006) |
-| ALTEN Technology | Robotics Software Engineer | North Reading, MA | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5197168007) |
-| Babel Street | Data Warehouse Software Engineer | Somerville, Massachusetts, United States | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/babelstreet/jobs/8120325) |
-| BeyondTrust | Software Development Engineer | Remote United Kingdom | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/beyondtrust/jobs/8126148) |
-| Pure Storage | Software Engineer | Santa Clara, California | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/purestorage/jobs/8102970) |
-| US Conec | Software Developer | Hickory, North Carolina, United States | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/usconec/jobs/4374306009) |
-| CapTech Consulting | Full-Stack Developer (.NET based) | Salt Lake City, US | 18d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/captechconsulting/744000144608108) |
-| Smiths Detection Group | CNC Programmer | 51 Growth Road, Laconia, US | 18d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/smithsgroup2/744000144781339) |
-| Qualcomm | Verification Software Engineer - Software Engineering | San Diego, CA | 18d ago | SimplifyJobs | [apply](https://qualcomm.eightfold.ai/careers/job/446720426705) |
-| Nucleus Biologics | Full Stack Engineer | San Diego, CA | 18d ago | SimplifyJobs | [apply](https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3) |
-| PPLSI | Software Engineer | Remote in USA | 18d ago | SimplifyJobs | [apply](https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) |
-| General Motors | Software Engineer - AV Data Collection | Sunnyvale, CA | 18d ago | SimplifyJobs | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529) |
-| Fidelity Investments | Software Engineer - Leap | Westlake, TX; Durham, NC; Merrimack, NH | 18d ago | SimplifyJobs | [apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884) |
-| Baseten | AI Engineer | San Francisco | 19d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/b13ec426-d09d-4122-8112-cf25adbd7d60) |
-| OpenAI | Software Engineer, Trainium | San Francisco | 19d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/2bf44c13-a463-4ec7-b152-b8367075246c) |
-| Commure | Fullstack Engineer, Ambient AI | Mountain View, CA | 19d ago | ashby | [apply](https://jobs.ashbyhq.com/commure/d5f91cfa-48ab-430d-b618-ba77c82c64a2) |
-| N1 | Software Engineer Intern (Backend, Rust) | New York City | 19d ago | ashby | [apply](https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6) |
-| Cribl | Software Engineer, Edge | Remote - United States | 19d ago | greenhouse | [apply](https://cribl.io/job-detail/?gh_jid=6144377004) |
-| DRW | AI Engineer | New York City | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/6586065) |
-| DRW | Platform Engineer Intern | Chicago | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7997729) |
-| DRW | Python Software Engineer, Trading Platform | Chicago, New York | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7545859) |
-| DRW | Software Developer | Chicago | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7980165) |
-| DRW | Software Developer Intern | Chicago | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7992936) |
-| DRW | Software Engineer, Cumberland/FICCO Tools Engineering | New York City | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7392396) |
-| DRW | Software Engineer, Research – Cumberland Systematic | Chicago | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7283668) |
-| DRW | Systems Software Engineer | Chicago | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/8120240) |
-| Proconex | Full Stack Developer & AI/ML Engineer - Vision AI | Royersford, Pennsylvania, United States | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/proconex/jobs/5970129004) |
-| Hatch IT | Full Stack Developer | Washington, DC | 19d ago | lever | [apply](https://jobs.lever.co/hatchit/01dc3371-523c-451b-b4e7-14f5b5d7ef9b) |
-| Lawrence Livermore National Laboratory (LLNL) | Python Software Developer | Livermore, US | 19d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/llnl/3743990014681646) |
-| Point72 | Software Developer - Developers | NYC | 19d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/point72/jobs/7598678002) |
-| ViaSat | Embedded Software Engineer | Marlborough, MA; Tampa, FL; Tempe, AZ; Carlsbad, CA; Linthicum Heights, MD | 19d ago | SimplifyJobs | [apply](https://careers.viasat.com/jobs/6723?icims=1) |
-| ViaSat | Embedded Software Engineer - Secure Network Systems | Marlborough, MA; Tampa, FL; Tempe, AZ; Carlsbad, CA; Linthicum Heights, MD | 19d ago | SimplifyJobs | [apply](https://careers.viasat.com/jobs/6722?icims=1) |
-| Boston Engineering | Embedded Software Engineer | Waltham, MA | 19d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/BostonEngineeringCorporation/744000144398844) |
-| Truveta | Software Engineer - Commerce | Seattle, WA | 19d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/truveta/jobs/6147526004) |
-| TikTok | Research Scientist/Software Engineer - Neural Graphics and World Models | San Jose, CA | 19d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668854153882011957) |
-| VivSoft Technologies | Software Engineer | Remote in USA | 19d ago | SimplifyJobs | [apply](https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level) |
-| OpenAI | Software Engineer, Plugin Developer Platform | San Francisco | 20d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/71838fdf-4476-490c-81b6-4bf0746f6774) |
-| Brex | AI Engineer, Ecosystem | San Francisco, California, United States | 20d ago | greenhouse | [apply](https://www.brex.com/careers/8606890002?gh_jid=8606890002) |
-| Brex | AI Engineer, Product | San Francisco, California, United States | 20d ago | greenhouse | [apply](https://www.brex.com/careers/8606845002?gh_jid=8606845002) |
-| Databricks | Software Engineer, Web Products | Mountain View, California | 20d ago | greenhouse | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002) |
-| Databricks | Systems PhD - Software Engineer | Bellevue, Washington; Seattle, Washington | 20d ago | greenhouse | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002) |
-| Figma | Software Engineer - Application Platform | San Francisco, CA • New York, NY • United States | 20d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/6142506004?gh_jid=6142506004) |
-| Reddit | Software Engineer, Content Platform | Remote - United States | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/reddit/jobs/8139781) |
-| Vercel | Security Software Engineer, Open Source Frameworks | Hybrid - San Francisco, New York City, London, Berlin | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/6117204004) |
-| Vercel | Software Engineer, Agent | Hybrid - New York City | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5704320004) |
-| Vercel | Software Engineer, AI Gateway | Hybrid - San Francisco, New York City | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5798406004) |
-| Vercel | Software Engineer, AI SDK | Hybrid - San Francisco, New York City | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5474915004) |
-| Vercel | Software Engineer, CDN | Hybrid - San Francisco, New York City | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5179639004) |
-| Vercel | Software Engineer, CDN Content | Hybrid - San Francisco | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/6105394004) |
-| Vercel | Software Engineer, Deployment Infrastructure | Hybrid - San Francisco, New York City | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5633880004) |
-| Vercel | Software Engineer, eve | Hybrid - San Francisco, New York City | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/6098390004) |
-| Vercel | Software Engineer, Observability | Hybrid - San Francisco, New York City, London | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5428982004) |
-| Vercel | Software Engineer, Workflows | Hybrid - San Francisco, New York City | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5798416004) |
-| Anyscale | Software Engineer, Infrastructure | San Francisco | 20d ago | ashby | [apply](https://jobs.ashbyhq.com/anyscale/8691daef-bfe5-4d01-871f-cf2226ba0c82) |
-| Dyna Robotics | Exceptional Software Engineer | Redwood City, CA | 20d ago | ashby | [apply](https://jobs.ashbyhq.com/dyna-robotics/9f1fb776-9d59-4725-9749-6a529cbdfada) |
-| Quantcast | Software Engineer (Cloud Infrastructure) | Seattle, WA | 20d ago | ashby | [apply](https://jobs.ashbyhq.com/quantcast/18213524-c947-4be3-b728-497f23dcd5cf) |
-| Rivet Industries | Software Engineer, Linux Kernel / Android | San Jose, CA | 20d ago | ashby | [apply](https://jobs.ashbyhq.com/rivet/001345f4-a044-41dd-bc8c-91d09b4969c5) |
-| Strala Group | Software Engineer | San Francisco | 20d ago | ashby | [apply](https://jobs.ashbyhq.com/strala-ai/4c234cbb-477d-4caf-b35f-6518f5eb244e) |
-| Bandwidth | Software Engineer (Voice) | Raleigh, NC | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/bandwidth/jobs/8108712) |
-| Defense Unicorns | Platform Engineer - Army (FedD151/FedD168) | Remote, United States | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/5156350007) |
-| Gradial | Applied AI Engineer | Seattle, WA | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gradial/jobs/4338065009) |
-| Muon Space | Software Engineer, Frontend | San Jose, CA | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5188072007) |
-| Tax Relief Advocates | AI Full-Stack Developer | Irvine, California | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/taxreliefadvocates/jobs/5265400008) |
-| US Conec | CMM Programmer | Hickory, North Carolina, United States | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/usconec/jobs/4373550009) |
-| Virtu Financial | 2027 Internship - Frontend Engineer (UI) | New York | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
-| Relativity Space | AI Software Engineer - Terrestrial Software - AI, Data and Platform Engineering | Long Beach, CA | 20d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/relativity/jobs/8726261002) |
-| Deeter Analytics | Machine Learning Engineer | Remote in USA | 20d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true) |
-| Amentum | Software Developer/Database Management Specialist-GIS Analyst | Atlantic City, NJ | 20d ago | SimplifyJobs | [apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-NJ-Atlantic-City/Software-Developer-Database-Management-Specialist-GIS-Analyst_R0168362) |
-| Confido | Applied AI Data Analyst | NYC Office | 21d ago | ashby | [apply](https://jobs.ashbyhq.com/confido/b92ca21b-c771-44d0-991b-e3dae7654dab) |
-| Ekho | Full-stack Engineer | New York City HQ | 21d ago | ashby | [apply](https://jobs.ashbyhq.com/ekho/c8888199-a4aa-4b61-9744-67bd2c92f4d8) |
-| HavocAI | Field Software Engineer | Remote  | 21d ago | ashby | [apply](https://jobs.ashbyhq.com/havocai/f7e2a1b3-8999-40ae-93d7-fc3ed79750f5) |
-| Mintlify | Applied AI Engineer | San Francisco | 21d ago | ashby | [apply](https://jobs.ashbyhq.com/mintlify/ec55d98f-6e94-4ffb-9a55-4adad39297c3) |
-| CLEAR | Software Engineer Backend (Java) | New York, New York, United States | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/clear/jobs/8107053) |
-| CLEAR | Software Engineer (Fullstack and Backend Roles) | New York, New York, United States | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/clear/jobs/8043865) |
-| CLEAR | Software Engineer, Infrastructure | New York, New York, United States | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/clear/jobs/7901600) |
-| Grafana Labs | Software Engineer - Platform Metal | UK | Remote | United Kingdom (Remote) | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6144059004) |
-| Muon Space | ​​Platform Engineer, Onboard Compute | San Jose, CA | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5214205007) |
-| Opto Investments | Software Engineer, Backend | New York, New York, United States; Remote; San Francisco, California, United States | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/optoinvest/jobs/7887376003) |
-| Opto Investments | Software Engineer, Product | New York, New York, United States; Remote; San Francisco, California, United States | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/optoinvest/jobs/7887481003) |
-| Scout AI | AI Engineer | Sunnyvale, CA | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scoutai/jobs/4643324008) |
-| Scout AI | Full Stack Software Engineer | Sunnyvale, CA | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scoutai/jobs/4958043008) |
-| Scout AI | Robotics Software Engineer | Sunnyvale, CA | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scoutai/jobs/5137118008) |
-| Scout AI | Software Engineer, Agent Harnessing | Sunnyvale, California | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scoutai/jobs/5248857008) |
-| Agile Defense | Full Stack Engineer / Software Developer (CBP) | Ashburn, VA | 21d ago | lever | [apply](https://jobs.lever.co/agile-defense/98189ef7-8c90-4ccd-b92e-7052b724a773) |
-| CapTech Consulting | Full-Stack Engineer | Atlanta, US | 21d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/captechconsulting/744000144131119) |
-| Lawrence Livermore National Laboratory (LLNL) | Conflict Simulation Software Engineer and Technical Trainer | Livermore, US | 21d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/llnl/3743990014631026) |
-| Woongjin | Backend Engineer _ AI Gateway- Bilingual (Korean/ English) | Plano, US | 21d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/wjcompany/744000143894039) |
-| X Development | Machine Learning Engineer - Tapestry | Mountain View, CA | 21d ago | SimplifyJobs | [apply](https://x.company/careers/8722582002?gh_jid=8722582002) |
-| Alpha Nexus Group | C++ Software Engineer | Chicago, IL | 21d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/AlphaNexusGroup/90016777) |
-| Diesel Laptops | Software Engineer | Dallas, TX | 21d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/DieselLaptops/743999719953833) |
-| Zoro | Full Stack Software Developer | Chicago, IL; Buffalo Grove, IL | 21d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/Zoro/87619425) |
-| Stryker | Software Development Engineer | Fort Wayne, IN | 21d ago | SimplifyJobs | [apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Software-Development-Engineer_R570340) |
-| Eulerity | Associate Web Development Software Engineer (SDK) | New York, New York | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/eulerity/jobs/4705868006) |
-| Boom Supersonic | Software Engineer - Exceptional Talent | Centennial, CO | 22d ago | SimplifyJobs | [apply](https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc) |
-| Notion | Software Engineer Intern (Winter 2027) | San Francisco, California | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) |
-| Notion | Software Engineer Intern (Summer 2027) | San Francisco, California | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) |
-| OpenAI | Software Engineer, Compute Infrastructure | San Francisco | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1) |
-| Clay | Software Engineer, Backend (Product) | New York | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/9aeacdb4-2364-40b8-935e-c561af931b5a) |
-| Clay | Software Engineer, Applied AI | New York | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1) |
-| Clay | Software Engineer, Full Stack (Product) | New York | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/4b20eb92-c27c-46fb-8d5b-ead32765a7d8) |
-| Clay | Machine Learning Engineer | San Francisco | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/d04f47c4-aed6-481d-a093-74c2ae4f3432) |
-| Clay | Software Engineer, Data Products & Platform | New York | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/046cb127-d5fc-444f-a2a9-fb4029d6a503) |
-| Clay | Software Engineer, Backend (Infrastructure & Platform) | New York | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/29f84bd5-71d5-411f-a3dc-3592949a5240) |
-| Cogent Security | Software Engineer - Applied AI | San Francisco, CA | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/cogent-security/8762ddb1-fad6-40e0-90a9-c239d1cbdb17) |
-| Cogent Security | Software Engineer - Backend | San Francisco, CA | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/cogent-security/8ed91823-a59b-469a-a6ed-51d33c34ddb9) |
-| Cogent Security | Software Engineer - Fullstack | San Francisco, CA | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/cogent-security/962e2482-e91a-44fd-b327-6598d02fb130) |
-| Cogent Security | Software Engineer - Developer Experience | San Francisco, CA | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/cogent-security/86fbea69-21e9-4115-8674-60c2105079d8) |
-| Confido | Applied AI/ML Engineer | NYC Office | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/confido/3a95d866-2e8f-432a-927d-8679386cefe2) |
-| Snowflake | Software Engineer - AIM Virtualization | US-CA-Menlo Park | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/snowflake/08ba6a41-fb63-4b51-aee7-be5501668909) |
-| The Voleon Group | Software Engineer Intern - (Summer 2027) | Berkeley, CA | 24d ago | ashby | [apply](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6) |
-| Rover | Software Engineer, Price Experience | Seattle | 24d ago | lever | [apply](https://jobs.lever.co/rover/a81ab324-969a-44f1-89b4-e7ff7487a735) |
-| WeRide | Software Engineer Intern - Perception/Computer Vision | San Jose, CA | 24d ago | SimplifyJobs | [apply](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7/apply) |
-| State Farm | Software Engineer - iOS | Tempe, AZ; Dunwoody, GA; Richardson, TX; Bloomington, IL | 24d ago | SimplifyJobs | [apply](https://jobs.statefarm.com/jobs/44950?icims=1) |
-| Scale AI | Software Engineer, Enterprise AI | New York, NY; San Francisco, CA | 25d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4513943005) |
-| Benchling | Software Engineer, Full Stack (Document Canvas) | San Francisco, CA | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/benchling/d627fcc2-2e34-4bde-9be2-242c89c19436) |
-| Mercor | Software Engineer, Search Systems - Code Data | San Francisco | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/aac13ab1-a746-437a-8c56-daf6e8b6c542) |
-| Mintlify | Backend Engineer | San Francisco | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/mintlify/4da2f7a2-3d5a-4652-bf01-aed59f4cb72b) |
-| Northwood Space | Infrastructure Engineer | Torrance, CA | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/northwoodspace/00955a02-867b-42e2-ba35-3cc41020fc99) |
-| Sierra | Software Engineer, Agent - Tech, Media & Telecom | San Francisco, CA | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/4472e6c2-fe4e-4540-a37c-68b9367fe02a) |
-| Accenture | Cloud Platform Engineer | Chantilly, VA | 25d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4705176006?gh_jid=4705176006) |
-| Airtable | Software Engineer, Infrastructure (4-8 YOE) | San Francisco, CA; New York, NY; Seattle, WA | 25d ago | greenhouse | [apply](https://job-boards.greenhouse.io/airtable/jobs/8400373002) |
-| Airtable | Software Engineer, Product Backend (4-8 YOE) | San Francisco, CA; New York, NY | 25d ago | greenhouse | [apply](https://job-boards.greenhouse.io/airtable/jobs/8397515002) |
-| Cribl | Software Engineer, Core Platform | Remote - United States | 25d ago | greenhouse | [apply](https://cribl.io/job-detail/?gh_jid=6143413004) |
-| Figure | Helix AI Engineer, Training Performance | San Jose, CA | 25d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4705296006) |
-| Muon Space | Software Engineer, Flight Software | San Jose, CA  | 25d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5023371007) |
-| Muon Space | Software Engineer, IR Data Products | San Jose, CA | 25d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5205516007) |
-| Muon Space | Software Engineer, Simulation Infrastructure | San Jose, CA | 25d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5204530007) |
-| Planet | Software Engineer | San Francisco, CA | 25d ago | greenhouse | [apply](https://job-boards.greenhouse.io/planetlabs/jobs/8096079) |
-| Synergy ECP | Mid-Level Full Stack Developer | Washington, DC | 25d ago | lever | [apply](https://jobs.lever.co/synergyecp/ed5bebd6-0a6f-461f-905c-bf92ca2bcff5) |
-| Arcfield | Software Engineer / Electrical Engineer | Chesterbrook, PA | 25d ago | SimplifyJobs | [apply](https://careers.arcfield.com/jobs/8467?icims=1) |
-| Berkshire Hathaway GUARD Insurance Companies | Full Stack Developer | Alpharetta, GA; Scottsdale, AZ; Parsippany-Troy Hills, NJ; Conshohocken, PA; Wilkes-Barre, PA | 25d ago | SimplifyJobs | [apply](https://careers-guard.icims.com/jobs/5913/job?mobile=true&needsRedirect=false) |
-| Fidelity Investments | Leap Software Engineer | Westlake, TX; Durham, NC; Merrimack, NH | 25d ago | SimplifyJobs | [apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859) |
-| Fidelity Investments | Software Engineer - Leap Program | Westlake, TX; Durham, NC; Merrimack, NH | 25d ago | SimplifyJobs | [apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870) |
-| OpenAI | Machine Learning Engineer, API Multicloud | San Francisco | 26d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/5acf4854-1d42-40ca-bff8-4f6f04cdce68) |
-| OpenAI | Full Stack Software Engineer - Codex for Finance | San Francisco | 26d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/099dd6af-b017-4a60-85d5-4c79da3a9ead) |
-| Cerebras | Cluster Operations Software Engineer | Sunnyvale, CA | 26d ago | ashby | [apply](https://jobs.ashbyhq.com/cerebras/f25b9677-32fa-41ed-84d1-0ed704a98533) |
-| HavocAI | Embedded Software Engineer | North Kingstown, RI | 26d ago | ashby | [apply](https://jobs.ashbyhq.com/havocai/c88453f9-7b27-4fc5-8efe-ea5722df0f05) |
-| TRM Labs | Data Platform Engineer - AI Platform | United States | 26d ago | ashby | [apply](https://jobs.ashbyhq.com/trm-labs/2a784630-702d-4b49-a033-5cbd0d9c8a94) |
-| TRM Labs | Software Engineer, Data Infrastructure - AI Platform | United States | 26d ago | ashby | [apply](https://jobs.ashbyhq.com/trm-labs/85d748d0-5377-486f-9209-c811704dbdaa) |
-| Watney | Software Engineer | San Francisco | 26d ago | ashby | [apply](https://jobs.ashbyhq.com/watney/df868f89-e151-4872-b27c-0ef98e7313ce) |
-| AvidXchange | Software Engineer (Multiple Positions) | Charlotte, North Carolina, United States | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5109361007) |
-| CaseGuard | Software Engineer - Backend | Arlington, VA | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/caseguard/jobs/5387488008) |
-| Flow Traders | Software Engineer (Trading Automation) | New York | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/flowtraders/jobs/8120460) |
-| Mixpanel | Software Engineer, AI Platform | San Francisco, US (Hybrid) | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mixpanel/jobs/8064216) |
-| PitchBook | Machine Learning Engineer | Seattle, Washington, United States | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/pitchbookdata/jobs/4687505006) |
-| T2 Systems | Full Stack Developer | Indianapolis, IN | 26d ago | SimplifyJobs | [apply](https://www.t2systems.com/jobs?gh_jid=4675527006) |
-| Sigla | Software Engineer | St. Louis, MO | 26d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/SiglaLLC/743999662580203) |
-| Presidency Solutions | Software Developer | Farmington Hills, MI | 26d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/PresidencySolutions1/82551703) |
-| Selector Software | Software Engineer | Santa Clara, CA | 26d ago | SimplifyJobs | [apply](https://selectorsoftware.bamboohr.com/careers/193/) |
-| United Smart Tech | AI Engineer - Agents & Experimentation | Carrollton, TX | 26d ago | SimplifyJobs | [apply](https://unitedsmarttech.bamboohr.com/careers/185/) |
-| Kyndryl | Associate AI Engineer | Dallas, TX | 26d ago | SimplifyJobs | [apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2) |
-| Baseten | Software Engineer - Continuous Delivery | San Francisco | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce) |
-| Baseten | Software Engineer - Testing Frameworks | San Francisco | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d) |
-| Baseten | Software Engineer - AI Developer Productivity | San Francisco | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1) |
-| OpenAI | Backend Software Engineer - Codex for Finance | San Francisco | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/a23bd45a-e192-460d-bd34-a0f6c4bc6865) |
-| Figma | Software Engineer - AI Platforms | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004) |
-| Figma | Software Engineer - AI Product | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004) |
-| Figma | Software Engineer - C++ | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004) |
-| Figma | Software Engineer - Data Infrastructure | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004) |
-| Figma | Software Engineer - Developer Experience | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5790627004?gh_jid=5790627004) |
-| Figma | Software Engineer - Distributed Systems | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004) |
-| Figma | Software Engineer - Full Stack | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004) |
-| Figma | Software Engineer - Graphics & Media | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004) |
-| Figma | Software Engineer - Growth & Monetization | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5552560004?gh_jid=5552560004) |
-| Figma | Software Engineer - Machine Learning | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004) |
-| Figma | Software Engineer - Mobile Web | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/6100023004?gh_jid=6100023004) |
-| Figma | Software Engineer - Traffic | San Francisco, CA • New York, NY • United States | 27d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/6102379004?gh_jid=6102379004) |
-| Hadrian | CAM Programmer, Execution | Los Angeles, CA | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/ca2ab5f8-6a99-458a-9148-eee69122de14) |
-| Mercor | Fullstack Software Engineer, Agent Platform | San Francisco | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/3750ee8a-64d1-46ac-b4f9-6a823f949034) |
-| Nooks | Platform Engineer, Revenue Operations | San Francisco | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/nooks/3c11271a-488e-4272-a303-f76d630eaac3) |
-| Quantcast | Software Engineer (Full Stack) | San Francisco, CA | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809) |
-| Sierra | Software Engineer, Agent - Retail | San Francisco, CA | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/93fea91f-a8a2-4084-8113-1cde73344e33) |
-| ExtraHop | Framework Software Engineer | Remote / Seattle, WA | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6141938004) |
-| Glean | Software Engineer, AI & Security | Mountain View, CA | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4605446005) |
-| Rockstar Games | Full Stack Engineer (C#/React) | Manhattan, New York, United States | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/rockstargames/jobs/7711703003) |
-| Rockstar Games | Software Engineer (C#/.NET) | Manhattan, New York, United States | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/rockstargames/jobs/7711702003) |
-| Sigma Computing | Software Engineer - Compiler | New York City, NY | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767918003) |
-| Truveta | Software Engineer - Live Link | Seattle, WA | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/truveta/jobs/6140479004) |
-| SOSi | PeopleSoft Software Developer | Charleston, SC | 27d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/SOSi1/3743990012453536) |
-| 9to9 Software Solutions | Software Developer | Pittsburgh, PA | 27d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209227) |
-| Baseten | Software Engineer - Observability | San Francisco | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda) |
-| Notion | Software Engineer, Collections Infra | San Francisco, California | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/ca74504a-9b91-4ce3-b0df-97919b46e749) |
-| Hadrian | Robotics Software Engineer, Perception | San Francisco Bay Area, CA | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/81aa9da8-eaff-4644-ae5b-a0d105509a0a) |
-| Nova Talent | Mechanical Vision Corp - Software Engineer | New York | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/nova-talent/14c18114-f371-4ef2-8caa-6c0341777850) |
-| One Brief | Software Development Engineer in Test | United States / Remote | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/onebrief/fbd0fd12-5aed-4428-9373-55ec2c5076f3) |
-| Defense Unicorns | Platform Engineer | United States - Remote | 28d ago | greenhouse | [apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/5208110007) |
-| DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) | New York | 28d ago | greenhouse | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) |
-| Opto Investments | Infrastructure Engineer | New York, New York, United States; Remote; San Francisco, California, United States | 28d ago | greenhouse | [apply](https://job-boards.greenhouse.io/optoinvest/jobs/7850073003) |
-| Samba TV | Full Stack Engineer | San Francisco, California | 28d ago | lever | [apply](https://jobs.lever.co/sambatv/8607b6ab-5488-41f4-a82b-58636df788f6) |
-| WeRide | New Grads 2027 - Software Engineer - Perception/Computer Vision | San Jose, CA | 28d ago | lever | [apply](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7) |
-| WeRide | New Grads 2027 - Software Engineer, Algorithm | San Jose, CA | 28d ago | lever | [apply](https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b) |
-| Western Digital | Software Engineer (Apps) | San Jose, US | 28d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/westerndigital/744000142878952) |
-| Apple | Frontend Engineer | Austin, TX | 28d ago | SimplifyJobs | [apply](https://jobs.apple.com/en-us/details/200676168) |
-| PAM Health | AI Engineer | Plano, TX | 28d ago | SimplifyJobs | [apply](https://careers-pamhealth.icims.com/jobs/91855/job?mobile=true&needsRedirect=false) |
-| Nova Talent | Software Engineer - Early Stage | SF; LA; NYC | 28d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/nova-talent/14c18114-f371-4ef2-8caa-6c0341777850/application?embed=true) |
-| Teserac | AI Engineer | Santa Clara, CA | 28d ago | SimplifyJobs | [apply](https://apply.workable.com/teserac-inc/j/6DB18627C3/apply) |
-| The Anywhere | Full Stack Developer | Hilton Head Island, SC | 28d ago | SimplifyJobs | [apply](https://apply.workable.com/the-anywhere-company/j/523D858ED1/apply) |
-| CWILL | R&D Trainee - Full-Stack Engineer - Backend | Remote in USA; Cary, NC | 28d ago | SimplifyJobs | [apply](https://apply.workable.com/cwill-us/j/1D51B4DDFC/apply) |
-| Insitu | Software Engineer - Simulation | Bingen, WA | 28d ago | SimplifyJobs | [apply](https://insitu.wd1.myworkdayjobs.com/careers/job/Bingen-WA/Software-Engineer---Simulation---Hybrid---Relocation-Assistance-Available_R0003743-1) |
-| Pickle Robot | Robotics Software Engineer | Charlestown, MA | 29d ago | lever | [apply](https://jobs.lever.co/picklerobot/42939c0b-de3b-47fa-a661-e9492c71de63) |
-| Cummins | Product Software Engineer | Columbus, IN | 29d ago | SimplifyJobs | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434259) |
-| Notion | Software Engineer, Infrastructure Security | San Francisco, California | 31d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/e3d8dc06-da05-4e9d-a143-2e9c51fa3d51) |
-| interface.ai | Software Engineer | San Francisco | 31d ago | ashby | [apply](https://jobs.ashbyhq.com/interface-ai/abbcf39d-cac3-49ee-9279-82a59821c300) |
-| Mercor | Software Engineer, Frontier Data Products | San Francisco | 31d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/ae344099-3fde-4027-bfde-f953db8b4728) |
-| RoboForce | Robotics Software Engineer | Milpitas, CA | 31d ago | greenhouse | [apply](https://job-boards.greenhouse.io/roboforce/jobs/5181554008) |
-| Zoox | Contract Student Worker - Machine Learning Engineer - Data Mining & VLM (Full-time) | Foster City, CA | 31d ago | lever | [apply](https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e) |
-| Belvedere Trading | Software Engineer | Chicago, IL | 31d ago | SimplifyJobs | [apply](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply) |
-| Barrios | Software Developer | Houston, TX | 31d ago | SimplifyJobs | [apply](https://careers-barrios.icims.com/jobs/2840/job?mobile=true&needsRedirect=false) |
-| OpenAI | Software Engineer, Silicon Design Methodology | San Francisco | 32d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/e961c9df-caa0-4b29-b37c-a3e02c564615) |
-| AfterQuery | SWE (LATM) | San Francisco (Remote) | 32d ago | ashby | [apply](https://jobs.ashbyhq.com/afterquery/f7fa22af-3a09-4cbe-9b7b-bf8719ff9bae) |
-| Hadrian | ML Platform Engineer | Los Angeles, CA | 32d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/18edaac7-95af-4fb6-b25c-b7000911167d) |
-| Hadrian | Data Platform Engineer | Los Angeles, CA | 32d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/298e5846-aea9-47d1-a026-d158a5c0a39c) |
-| Kustomer | Software Engineer, Infrastructure (Optimization) | US - New York, NY | 32d ago | ashby | [apply](https://jobs.ashbyhq.com/kustomer/50bf7508-e199-4136-a11f-705f06b834c4) |
-| Northwood Space | Command & Telemetry Software Engineer | Torrance, CA | 32d ago | ashby | [apply](https://jobs.ashbyhq.com/northwoodspace/2ec65763-31ee-47d5-a14f-e2c2b8802281) |
-| Sciforium | Software Engineer, Fullstack | San Francisco, CA | 32d ago | ashby | [apply](https://jobs.ashbyhq.com/sciforium/b5c36095-9588-437e-ab75-f46925517b0c) |
-| CPI Security | Full Stack Software Engineer | Charlotte, North Carolina, United States | 32d ago | greenhouse | [apply](https://job-boards.greenhouse.io/cpisecurity/jobs/4703156006) |
-| Atoms | Backend Engineer | Mountain View, CA | 32d ago | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8583340002) |
-| Atoms | Robotics Software Engineer | Pittsburgh, PA | 32d ago | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8583192002) |
-| Atoms | Software Engineer- Money Engineering | New York, NY | 32d ago | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8457896002) |
-| Otter | Backend Engineer | Mountain View, CA | 32d ago | greenhouse | [apply](https://job-boards.greenhouse.io/otter/jobs/7820368002) |
-| Zoox | Embedded Software Engineer - Battery Management Systems | San Diego, CA | 32d ago | lever | [apply](https://jobs.lever.co/zoox/082ed20c-b8e1-4b1c-9c22-4738ad94055d) |
-| Zoox | Embedded Software Engineer - Body Systems | Foster City, CA | 32d ago | lever | [apply](https://jobs.lever.co/zoox/46c23963-2be1-4037-8f1a-ce87bdccde6d) |
-| InterImage | Software Engineer | Remote in USA; Arlington County, Arlington, VA | 32d ago | SimplifyJobs | [apply](https://apply.workable.com/interimage/j/50AEE969C4/apply) |
-| OpenAI | Software Engineer, Distributed Data Systems - Robotics | San Francisco | 33d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/da07ba71-81fd-47c7-adb1-2b2d1eaed325) |
-| OpenAI | Software Engineer, API Enterprise Controls | San Francisco | 33d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/4c0a6cb6-d365-4e5b-bdff-c093d951026d) |
-| Allen Control Systems | Chief CV/ML Engineer | Austin, TX | 33d ago | ashby | [apply](https://jobs.ashbyhq.com/allen-control-systems/acdae127-9d53-4450-a99e-e8d558dfd7a4) |
-| Blueprint Technologies | Systems Security Software Engineer | Redmond, WA | 33d ago | greenhouse | [apply](https://job-boards.greenhouse.io/bpcs/jobs/8095595) |
-| DV Trading | C++ Software Engineer (DV Commodities - New York) | New York | 33d ago | greenhouse | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4721259005) |
-| impact.com | Software Engineer | Seattle | 33d ago | greenhouse | [apply](https://job-boards.greenhouse.io/impact/jobs/8636977002) |
-| Kodiak Robotics | Software Engineer, Routing | Mountain View, CA | 33d ago | greenhouse | [apply](https://job-boards.greenhouse.io/kodiak/jobs/4243323009) |
-| OpenAI | Full-Stack Engineer, ChatGPT Education  & Learning | San Francisco | 34d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c) |
-| Scale AI | Frontier Agents Engineer (Applied AI) | San Francisco, CA; New York, NY | 34d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4720573005) |
-| Palantir | Platform Engineer - Identity Infrastructure | Palo Alto, CA | 34d ago | lever | [apply](https://jobs.lever.co/palantir/721fe5ca-73b8-4223-826e-93a528194821) |
-| Gumloop | Full Stack Software Engineer | San Francisco Office | 34d ago | ashby | [apply](https://jobs.ashbyhq.com/gumloop/a7b6de54-8e37-4d69-ac03-f9c1d4075205) |
-| HavocAI | AI Infrastructure Engineer – Agents & ML Systems | Remote  | 34d ago | ashby | [apply](https://jobs.ashbyhq.com/havocai/69843537-34f3-41e3-a69b-0ce11259d121) |
-| Sierra | Software Engineer - Healthcare Integrations | San Francisco, CA | 34d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/97ca0c70-f371-4167-9908-2adca3464b8d) |
-| Ginkgo Bioworks | Software Engineer 2, Autonomous Lab | Boston, Massachusetts | 34d ago | greenhouse | [apply](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5166911007) |
-| Glean | Software Engineer, Cloud Deployment Infrastructure | San Francisco, CA | 34d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4711861005) |
-| Glean | Software Engineer, Cloud Infrastructure | San Francisco, CA | 34d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4709327005) |
-| Headlands Tech Holdings | C++ Software Developer | Amsterdam; Chicago; London; New York | 34d ago | greenhouse | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227758009) |
-| Headlands Tech Holdings | Java Software Developer | Amsterdam; Chicago; London; New York | 34d ago | greenhouse | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227795009) |
-| Sphinx Defense | Backend Engineer | Colorado Springs, CO | 34d ago | greenhouse | [apply](https://job-boards.greenhouse.io/sphinxdefense/jobs/5294849008) |
-| Field AI | Robotics AI Engineer, Sensor Calibration | Irvine, CA | 34d ago | lever | [apply](https://jobs.lever.co/field-ai/1ff2ae13-b4a7-4800-a52e-d1c858924861) |
-| Layup Parts | Machine Learning Engineer | Huntington Beach, CA | 34d ago | lever | [apply](https://jobs.lever.co/layup/024d2772-e251-4cdf-9b12-0cd919390b8e) |
-| Layup Parts | Software Engineer, Controls & Automation | Huntington Beach, CA | 34d ago | lever | [apply](https://jobs.lever.co/layup/4a97feec-c1af-4f81-8148-d7ad27a88e1e) |
-| Zoox | Embedded Software Engineer - MCU Platforms | Foster City, CA | 34d ago | lever | [apply](https://jobs.lever.co/zoox/4c16c18c-18c0-433c-bc21-8bd72824a1d9) |
-| Asure | Associate AI Software Engineer | Addison, TX | 34d ago | SimplifyJobs | [apply](https://asuresoftware.bamboohr.com/careers/1058/) |
-| Qualcomm | Machine Learning Engineer - Machine Learning Engineering | San Diego, CA | 34d ago | SimplifyJobs | [apply](https://qualcomm.eightfold.ai/careers/job/446717859953) |
-| Starbucks | Application Developer - Application Development | Nashville, TN | 34d ago | SimplifyJobs | [apply](https://starbucks.eightfold.ai/careers/job/481078166376) |
-| Oracle | Application Software Engineer 2 - CDeX | United States | 34d ago | SimplifyJobs | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340958) |
-| Scale AI | Software Engineer, ARC Team | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4673771005) |
-| Scale AI | Software Engineer, Frontier AI Infrastructure | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4363623005) |
-| Scale AI | Software Engineer, Gen AI | San Francisco, CA; New York, NY | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4591300005) |
-| Scale AI | Software Engineer, Identity | San Francisco, CA; New York, NY; Washington, DC | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4710484005) |
-| Brain Co. | Machine Learning Engineer, Platform | San Francisco Bay Area | 35d ago | ashby | [apply](https://jobs.ashbyhq.com/brainco/936df0bf-e4dc-46bb-bb48-b1efcc3cce80) |
-| Northwood Space | Ground Software Engineer | Torrance, CA | 35d ago | ashby | [apply](https://jobs.ashbyhq.com/northwoodspace/56c839ae-d9c7-4647-a0d9-87e3e18f5d42) |
-| Accenture | Fullstack Developer (Ruby on Rails & React) | Washington, DC | 35d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4696593006?gh_jid=4696593006) |
-| Glean | Machine Learning Engineer, Assistant Quality | San Francisco, CA | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4711484005) |
-| Glean | Machine Learning Engineer, Search Quality | Mountain View, CA | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4006735005) |
-| Zone 5 Technologies | Software Engineer V/VI | United States | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/zone5technologies/jobs/5239389008) |
-| Belvedere Trading | Software Engineer Intern - Summer 2027 | Chicago, Illinois | 35d ago | lever | [apply](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) |
-| SOCOTEC Global | Applied AI Engineer | New York, US | 35d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/socotec/744000141322430) |
-| Repligen | Software Developer 1 | Bridgewater, NJ | 35d ago | SimplifyJobs | [apply](https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Bridgewater-NJ/Software-Developer-I_R-583) |
-| Paradigm | Infrastructure Engineer, Applied AI | San Francisco, CA | 36d ago | ashby | [apply](https://jobs.ashbyhq.com/paradigm/c18c1fb4-9ad7-4657-8366-bc0f5078d3ca) |
-| Paradigm | Product Engineer, Applied AI | San Francisco, CA | 36d ago | ashby | [apply](https://jobs.ashbyhq.com/paradigm/b85b9094-2467-4f49-9a36-ca93da34a3f5) |
-| Retell AI | Software Engineer, Founders Initiatives | San Francisco Bay Area | 36d ago | ashby | [apply](https://jobs.ashbyhq.com/retell-ai/46400d61-feca-45f9-9000-563b8994f60f) |
-| Runpod | Software Engineer (Full-Stack) | Remote - USA | 36d ago | ashby | [apply](https://jobs.ashbyhq.com/runpod/b64a3935-931a-4b7f-9899-7ebe152164c5) |
-| Aquatic Capital Management | Software Engineer, C++ | Chicago; New York; London | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7994855002) |
-| Figure | AI Training Infrastructure Engineer – Humanoid Whole Body Control | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
-| Figure | Helix AI Engineer, Android | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4660876006) |
-| Figure | Helix AI Engineer, Backend | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4685172006) |
-| Figure | Helix AI Engineer, Data Infrastructure | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4345915006) |
-| Figure | Helix AI Engineer, Generative AI | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4671699006) |
-| Figure | Helix AI Engineer, Localization and Mapping | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4696533006) |
-| Figure | Helix AI Engineer, Modeling | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4671712006) |
-| Figure | Helix AI Engineer, Perception | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4007375006) |
-| Figure | Helix AI Engineer, Pretraining | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4671704006) |
-| Figure | Helix AI Engineer, Reinforcement Learning | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4671707006) |
-| Figure | Helix AI Engineer, Robot Learning | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4649851006) |
-| Figure | Helix AI Engineer, Video Pretraining | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4671703006) |
-| Figure | Helix AI Engineer, XR | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4699095006) |
-| Figure | Software Engineer, Manufacturing Systems | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4692559006) |
-| Figure | Software Engineer, Privacy & Data Governance | San Jose, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4690871006) |
-| Freedom Technology Solutions Group | Expert Software Engineer 671 | Herndon, VA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5151427007) |
-| Freedom Technology Solutions Group | Full Stack Developer 729 | St. Louis, MO | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5189784007) |
-| Freedom Technology Solutions Group | Machine Learning Engineer 615 | Chantilly, VA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5081498007) |
-| Freedom Technology Solutions Group | Machine Learning Engineer 727 | St. Louis, MO | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5189747007) |
-| Freedom Technology Solutions Group | Mid Level Software Engineer 568 | St. Louis, MO | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/4939561007) |
-| Freedom Technology Solutions Group | React Software Developer 659 | Laurel, MD | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5142816007) |
-| Freedom Technology Solutions Group | Software Developer 700 | St. Louis, MO | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5178341007) |
-| Freedom Technology Solutions Group | Software Developer 703 | Herndon, VA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5181156007) |
-| Freedom Technology Solutions Group | Software Engineer 740 | Chantilly, VA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5196595007) |
-| Freedom Technology Solutions Group | Systems Software Developer 713 | McLean, VA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5185708007) |
-| Freedom Technology Solutions Group | Web Developer 648 | Chantilly, VA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5133938007) |
-| Stellar Science | Emerging Modern C++ Software Developer | Tysons, VA; Albuquerque, NM | 36d ago | SimplifyJobs | [apply](https://stellarscience.applytojob.com/apply/7gp90TxJAT/Emerging-Modern-C-Software-Developer-ABQ) |
-| METECS | Simulation Software Engineer | Houston, TX | 36d ago | SimplifyJobs | [apply](https://metecs.applytojob.com/apply/WykvenszhG/Junior-Simulation-Software-Engineer) |
-| TikTok | Backend Software Engineer - Machine Moderation Platform | Seattle, WA | 36d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663036950303050037) |
-| JP Morgan Chase | Software Engineer | Palo Alto, CA; Houston, TX; Tampa, FL; Plano, TX; Chicago, IL; Jersey City, NJ; Columbus, OH; NYC; Wilmington, DE | 36d ago | SimplifyJobs | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102) |
-| ByteDance | Software Engineer AI Agent Infrastructure - Security Engineering | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667976924430633269/detail) |
-| ByteDance | Artificial Intelligence Software Engineer - Development Infrastructure | San Jose, CA | 36d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667901772678302005/detail) |
-| Freddie Mac | Software Developer Analyst | McLean, VA | 36d ago | SimplifyJobs | [apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Analyst_JR17441) |
-| Analytical Mechanics Associates | Software Engineer | Mountain View, CA | 36d ago | SimplifyJobs | [apply](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728) |
-| OpenAI | Software Engineer, API Multimodal | San Francisco | 38d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/96de8acb-556e-451b-bc84-7124bb4b0a20) |
-| OpenAI | Software Engineer, API Agents | San Francisco | 38d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda) |
-| Clera | Founding AI Engineer | San Francisco | 38d ago | ashby | [apply](https://jobs.ashbyhq.com/clera/3dc0a0f6-6a53-4a8c-bc70-b007113c348a) |
-| Clera | Founding Full Stack Engineer | San Francisco | 38d ago | ashby | [apply](https://jobs.ashbyhq.com/clera/aa3a1ceb-d5c6-48a8-a025-ed57580c79e8) |
-| Polymarket | Backend Engineer, Markets | New York | 38d ago | ashby | [apply](https://jobs.ashbyhq.com/polymarket/c69d06c3-96df-493a-afdc-80636d494cf2) |
-| Field AI | Software Engineer, Data Engineering | Irvine, CA | 38d ago | lever | [apply](https://jobs.lever.co/field-ai/e3b7bac7-5410-44bb-964c-02815fbd0c97) |
-| Field AI | Software Engineer, DevOps | Irvine, CA | 38d ago | lever | [apply](https://jobs.lever.co/field-ai/b6a02c7e-8726-47b7-b0b0-899644613c47) |
-| Noblis | Software Engineer | Philadelphia, PA | 38d ago | SimplifyJobs | [apply](https://careers.noblis.org/jobs/26643?icims=1) |
-| Woven | Software Engineer, Analysis/Tool | Ann Arbor, MI | 38d ago | vanshb03-2027 | [apply](https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190) |
-| Artera | Software Developer Associate | Seattle, WA | 38d ago | vanshb03-2027 | [apply](https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0) |
-| Reverb | Software Engineer, Shipping | Chicago, IL | 38d ago | vanshb03-2027 | [apply](https://ats.rippling.com/reverb-careers/jobs/25af40a7-e81c-4748-bac2-51e59e78196b) |
-| Pennsylvania State University | DevSecOps Research Computing Software Engineer | State College, PA | 38d ago | vanshb03-2027 | [apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2) |
-| Augmodo | Software Engineer - CV Tooling | United States | 39d ago | ashby | [apply](https://jobs.ashbyhq.com/augmodo/47b48f32-7c36-4963-b7ec-786c920ccba1) |
-| Chamber Cardio | Cloud Security and Infrastructure Engineer | Remote | 39d ago | ashby | [apply](https://jobs.ashbyhq.com/chambercardio/b54f4beb-bc0f-4106-8c01-45bd947cd5dd) |
-| Harvey | Frontend Platform Engineer | San Francisco | 39d ago | ashby | [apply](https://jobs.ashbyhq.com/harvey/19db4c0a-8883-43c3-b667-60463098feb2) |
-| Yes Energy | Fullstack Engineer | Boulder, CO | 39d ago | greenhouse | [apply](https://job-boards.greenhouse.io/yesenergy/jobs/5362627008) |
-| 3PillarGlobal | Mid Full Stack Engineer (Angular, Node, TS) | United States | 39d ago | lever | [apply](https://jobs.lever.co/3pillarglobal/37c48bdd-a18e-4b3f-a521-6b759882804f) |
-| Woven | Software Engineer, Calibration (Analysis/Tool) | Ann Arbor, MI | 39d ago | lever | [apply](https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190) |
-| Pyrovio | Copilot Developer/AI Engineer | Remote in USA | 39d ago | SimplifyJobs | [apply](https://pyrovio.breezy.hr/p/a0653fb2684d/apply) |
-| Apple | Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems | San Diego, CA | 39d ago | SimplifyJobs | [apply](https://jobs.apple.com/en-us/details/200657382) |
-| Motorola | Embedded Software Engineer | Schaumburg, IL | 39d ago | SimplifyJobs | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Embedded-Software-Engineer_R67073) |
-| NCR Voyix | Software Engineer | Atlanta, GA | 39d ago | SimplifyJobs | [apply](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Senior-Principal-IT-Architect_R0158013) |
-| Space Kinetic | Flight Software Engineer Development Program - Path to Hire | El Segundo, CA | 39d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/spacekinetic/jobs/4885803008) |
-| Chime | Software Engineer, Lending | San Francisco, CA, USA | 40d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8657011002?gh_jid=8657011002) |
-| Commure | Software Engineer, AI Billing | Mountain View, CA | 40d ago | ashby | [apply](https://jobs.ashbyhq.com/commure/727c0ce9-7d3b-43fe-8d00-05255f094db5) |
-| Commure | Software Engineer, RCM Core | Mountain View, CA | 40d ago | ashby | [apply](https://jobs.ashbyhq.com/commure/7e0572ec-fe77-4893-bc33-6d007bbcc5ff) |
-| interface.ai | Applied AI Engineer - Hiring Automation (CEO's Office) | Remote | 40d ago | ashby | [apply](https://jobs.ashbyhq.com/interface-ai/c4d8b111-8084-4e02-86d5-c28591439612) |
-| Aquatic Capital Management | Software Engineer, Intern (Summer 2027) | Chicago | 40d ago | greenhouse | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
-| Arize AI | Open Source AI Engineer (Typescript) | Remote (United States) | 40d ago | greenhouse | [apply](https://job-boards.greenhouse.io/arizeai/jobs/6119757004) |
-| Rhombus Power | Software Engineer | Washington, District of Columbia, United States | 40d ago | greenhouse | [apply](https://job-boards.greenhouse.io/rhombuspower/jobs/7819861003) |
-| HRL Laboratories | Machine Learning Engineer - Advanced AI and Cognitive Systems | Calabasas, CA | 40d ago | lever | [apply](https://jobs.lever.co/dodmg/f097cef6-6f81-4134-8e40-cecf740271e9) |
-| OpenAI | Software Engineer, Enterprise Verticals | San Francisco | 41d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8) |
-| Abridge | Software Engineer, Generative AI | SF Office | 41d ago | ashby | [apply](https://jobs.ashbyhq.com/abridge/897709b2-e03d-4574-8611-5cfd669adde9) |
-| Snowflake | Software Engineer - Database Engineering | US-CA-Menlo Park | 41d ago | ashby | [apply](https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995) |
-| Glean | Software Engineer, Storage | Mountain View, CA | 41d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4610281005) |
-| Grafana Labs | Backend Engineer - Platform - Stacks | UK | Remote | United Kingdom (Remote) | 41d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999673004) |
-| mthree | Full Stack Developer | Jersey City, New Jersey, United States | 41d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4662967006) |
-| Penn Interactive | Software Engineer, Sportsbook Platform |  United States, Remote | 41d ago | greenhouse | [apply](https://job-boards.greenhouse.io/penninteractive/jobs/6108026004) |
-| Schonfeld | Full Stack Engineer | New York, New York, United States | 41d ago | greenhouse | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/7843972) |
-| Schonfeld | Software Engineer - Business Analytics | New York, New York, United States | 41d ago | greenhouse | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/7958235) |
-| Schonfeld | Software Engineer - Fundamental Equities | New York, New York, United States | 41d ago | greenhouse | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/7957507) |
-| OpenAI | Software Engineer - Data Aquisition (systems) | San Francisco | 42d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/70aaaafa-fe2f-4409-9a72-c0faf50d7d01) |
-| Alta Ares | Software Engineer — VIE  USA | NYC | 42d ago | ashby | [apply](https://jobs.ashbyhq.com/alta-ares/ad4ace6a-823c-43ea-ae32-3d0711c33096) |
-| Embedding VC | Software Engineer, Applied AI / Product | San Francisco Bay Area | 42d ago | ashby | [apply](https://jobs.ashbyhq.com/embedding-vc/4b7b35d9-6a2c-43a2-8c36-2bf6974e3b0f) |
-| Sauna | Applied AI Engineer | San Francisco | 42d ago | ashby | [apply](https://jobs.ashbyhq.com/sauna.ai/8b929ad7-204f-4584-bfa5-a356d08fab87) |
-| Accenture | DevOps / Platform Engineer | Hill AFB, UT | 42d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4671061006?gh_jid=4671061006) |
-| Glean | Software Engineer, Data Foundations | San Francisco, CA | 42d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4637208005) |
-| Truveta | Software Engineer - Data Processing | Seattle, WA | 42d ago | greenhouse | [apply](https://job-boards.greenhouse.io/truveta/jobs/6128329004) |
-| Coherent  | Embedded Systems Software & FPGA Programmer | Elmira, NY | 42d ago | SimplifyJobs | [apply](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466) |
-| Alta Ares | Software Engineer | NYC | 42d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/alta-ares/ad4ace6a-823c-43ea-ae32-3d0711c33096/application?embed=true) |
-| Virtu Financial | Software Engineer - Client Trading Infrastructure (Java) | New York | 43d ago | greenhouse | [apply](https://job-boards.greenhouse.io/virtu/jobs/6072565002) |
-| OpenAI | Software Engineer, GTM Growth Engineering | San Francisco | 45d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3) |
-| OpenAI | Applied AI Software Engineer, GTM Growth Engineering | San Francisco | 45d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/38e3c4bf-a632-405e-9619-b87382ca2472) |
-| One Brief | Infrastructure Engineer | United States / Remote | 45d ago | ashby | [apply](https://jobs.ashbyhq.com/onebrief/37b29b15-09e4-41fb-90ef-848d00f00f25) |
-| Bot Auto | Software Engineer, VCU (Vehicle Control Unit) | Houston, TX | 45d ago | greenhouse | [apply](https://job-boards.greenhouse.io/botauto/jobs/5370716008) |
-| Defense Unicorns | Platform Engineer - Navy (FedD174/FedD175) | Remote, United States | 45d ago | greenhouse | [apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/5196143007) |
-| Woven | Software Engineer - Data Workflows | Ann Arbor, MI | 45d ago | lever | [apply](https://jobs.lever.co/woven-by-toyota/ba39a024-c4c3-4966-a696-95db0e1dc445) |
-| Zoox | Software Engineer, Fleet Simulation (Core Data Science) | Foster City, CA | 45d ago | lever | [apply](https://jobs.lever.co/zoox/18b6dfa0-d581-4d29-ac79-5d6e666aa9c3) |
+| Nielsen | Software Engineer | Chicago, US | today | smartrecruiters | [apply](https://jobs.smartrecruiters.com/nielseniq/744000148316994) |
+| Syncreon Consulting | Vice President, Full Stack Engineer | Pittsburgh, US | today | smartrecruiters | [apply](https://jobs.smartrecruiters.com/syncreonconsulting/744000148543259) |
+| Talan | C#/.NET Software Developer | New York, US | today | smartrecruiters | [apply](https://jobs.smartrecruiters.com/talan/744000148327329) |
+| TMS | AI Engineer | AWS Bedrock + React/Node.js + Elasticsearch | Remote | Remote, US | today | smartrecruiters | [apply](https://jobs.smartrecruiters.com/tmsllc/744000148530995) |
+| GoDaddy | Software Development Engineer | United States | today | greenhouse | [apply](https://careers.godaddy/jobs?gh_jid=7882421003) |
+| GoDaddy | Software Development Engineer - AI Services | United States | today | greenhouse | [apply](https://careers.godaddy/jobs?gh_jid=7836109003) |
+| Two Sigma | Software Engineer | Houston, TX | today | SimplifyJobs | [apply](https://twosigma.avature.net/careers/JobDetail/14018) |
+| State Farm | Software Engineer - Enterprise Site Reliability Engineering - Availability Analytics and Automation | Tempe, AZ; Dunwoody, GA; Richardson, TX; Bloomington, IL | today | SimplifyJobs | [apply](https://jobs.statefarm.com/jobs/46083?icims=1) |
+| Cintal | Software Engineer - FORTRAN to C++ Migration | Morton, IL | today | SimplifyJobs | [apply](https://ats.rippling.com/cintal/jobs/17acea2c-d8e7-48c0-ab90-c5458fb0c3ef) |
+| Johns Hopkins Applied Physics Laboratory | Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems | Laurel, MD | today | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59994?icims=1) |
+| OpenAI | Applied AI Engineer, Government | Washington, DC | 1d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/485cda77-5d8f-4aaa-bca5-916b011477e6) |
+| Twilio | Machine Learning Engineer | Remote - US | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7702644) |
+| Twilio | Software Engineer | Remote - Estonia | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7647708) |
+| Twilio | Software Engineer, Identity | Remote - US | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7605743) |
+| Twilio | Software Engineer (L2) | Remote - US | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/8100236) |
+| Twilio | Software Engineer L2 - Cloud Infrastructure | Remote - US | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7434770) |
+| Twilio | Software Engineer L3 | Remote - US | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/8009057) |
+| Twilio | Software Engineer (L3) Data Substrate | Remote - US | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7954715) |
+| Twilio | Software Engineer, Platform Engineering (L2) | Remote - US | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/8026207) |
+| Twilio | Software Engineer-Platform Engineering (L3) | Remote - US | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/8026203) |
+| Twilio | Software Engineer - Video | Remote - US | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twilio/jobs/7661919) |
+| Vercel | Software Engineer, Backend | Remote - United States | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5430088004) |
+| Mirage | Software Engineer, Backend | Union Square, New York City | 1d ago | ashby | [apply](https://jobs.ashbyhq.com/mirage/3016d374-987f-4dd2-bcab-c976a59acc0b) |
+| Mirage | Software Engineer, Agents | Union Square, New York City | 1d ago | ashby | [apply](https://jobs.ashbyhq.com/mirage/dc5089f3-c494-47ed-9312-edebd032c218) |
+| Talos | Software Engineer Intern, Dealer | New York | 1d ago | ashby | [apply](https://jobs.ashbyhq.com/talos-trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977) |
+| Talos | Software Engineer Intern, RFQ | New York | 1d ago | ashby | [apply](https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285) |
+| Anduril | Agentic AI Engineer, Automation | Costa Mesa, California, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5219383007?gh_jid=5219383007) |
+| Anduril | Frontend Software Engineer | Costa Mesa, California, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5147775007?gh_jid=5147775007) |
+| Anduril | Robotics Software Engineer | Costa Mesa, California, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5113524007?gh_jid=5113524007) |
+| Anduril | Robotics Software Engineer, Behaviors | Costa Mesa, California, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5121816007?gh_jid=5121816007) |
+| Anduril | Robotics Software Engineer, Maneuver Dominance | Costa Mesa, California, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5113527007?gh_jid=5113527007) |
+| Anduril | Robotics Software Engineer, Omen | Costa Mesa, California, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5183150007?gh_jid=5183150007) |
+| Anduril | Robotics Software Engineer, Sensor Integration | Costa Mesa, California, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5096506007?gh_jid=5096506007) |
+| Anduril | Robotics Software Engineer, Verification & Validation | Costa Mesa, California, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5083521007?gh_jid=5083521007) |
+| Anduril | Software Engineer, Agentic Modeling & Simulation | Costa Mesa, California, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5184726007?gh_jid=5184726007) |
+| Anduril | Software Engineer, Agent Platform | Washington, District of Columbia, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5174717007?gh_jid=5174717007) |
+| Anduril | Software Engineer, AI Platform | Boston, Massachusetts, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5210930007?gh_jid=5210930007) |
+| Anduril | Software Engineer, Cloud OS | Seattle, Washington, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5130646007?gh_jid=5130646007) |
+| Anduril | Software Engineer, Distributed Simulation | Seattle, Washington, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228337007?gh_jid=5228337007) |
+| Anduril | Software Engineer, Front End | Reston, Virginia, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5177896007?gh_jid=5177896007) |
+| Anduril | Software Engineer, Geospatial Platform (Terra) | Seattle, Washington, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5131066007?gh_jid=5131066007) |
+| Anduril | Software Engineer - ML Infrastructure | Costa Mesa, California, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5195642007?gh_jid=5195642007) |
+| Anduril | Software Engineer - Modeling & Simulation | Costa Mesa, California, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5062357007?gh_jid=5062357007) |
+| Anduril | Software Engineer, Robotics Tracking and Fusion | Washington, District of Columbia, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5213219007?gh_jid=5213219007) |
+| Anduril | Software Engineer, Space Special Programs | Chantilly, Virginia, United States; Herndon, Virginia, United States | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5208795007?gh_jid=5208795007) |
+| Gallup | Software Engineer Intern — Summer 2027 | San Francisco | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gallup/jobs/4395897009) |
+| KoBold Metals | Frontend Software Engineer | Remote | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/koboldmetals/jobs/4286209005) |
+| KoBold Metals | Software Engineer (All Levels) | Remote | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/koboldmetals/jobs/4510145005) |
+| KoBold Metals | Software Engineer (All Levels), United Kingdom | Remote, United Kingdom | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/koboldmetals/jobs/4678367005) |
+| LG Electronics | Embodied AI Engineer | Englewood Cliffs, NJ; Santa Clara, CA  | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/lgelectronics/jobs/5369133008) |
+| SpaceX | Application Software Engineer, Internal Systems | Starbase, TX | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8785507002?gh_jid=8785507002) |
+| SpaceX | Full Stack Software Engineer | Bastrop, TX | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8785505002?gh_jid=8785505002) |
+| SpaceX | Full Stack Software Engineer, Internal Systems | Hawthorne, CA | 1d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8785502002?gh_jid=8785502002) |
+| The New York Times | Software Engineer, Growth Conversion | New York, NY | 1d ago | greenhouse | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4730745005) |
+| Johns Hopkins Applied Physics Laboratory | Software Developer / RF Systems Engineer | Laurel, MD | 1d ago | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59975?icims=1) |
+| Catapult | Agentic AI Engineer | New York | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/catapultsports/jobs/8083093) |
+| The Trade Desk | Software Engineer, Commercial Intelligence and Analytics | Bellevue; Chicago; Los Angeles; New York; San Francisco | 2d ago | greenhouse | [apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5165087007) |
+| Field AI | 3D/AR/VR Software Engineer | Boston, MA | 2d ago | lever | [apply](https://jobs.lever.co/field-ai/e22d37a0-6247-4e20-8c63-cb2d84056b85) |
+| Caterpillar | Software Engineer | Peoria, IL; Chicago, IL; Irving, TX | 2d ago | SimplifyJobs | [apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000392873) |
+| OpenAI | Software Engineer, Host Assurance | San Francisco | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/0b9e565a-ae5f-40fc-8350-b59f71f76df1) |
+| OpenAI | Software Engineer, HSM Infrastructure Security, Consumer Devices | San Francisco | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/a14780e7-0316-478c-8e6a-d7629c31c49d) |
+| Block | Software Engineer, Justice Engineering | Bay Area, CA, United States of America | 4d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5406194008?gh_jid=5406194008) |
+| Chime | Full-Stack Engineer, Human Agent Tooling | San Francisco, CA, USA | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002) |
+| Lyft | Machine Learning Engineer | New York, NY | 4d ago | greenhouse | [apply](https://app.careerpuck.com/job-board/lyft/job/8689127002?gh_jid=8689127002) |
+| Lyft | ML Software Engineer, ETA | San Francisco, CA | 4d ago | greenhouse | [apply](https://app.careerpuck.com/job-board/lyft/job/8639200002?gh_jid=8639200002) |
+| Lyft | Software Engineer, Fulfillment Core Services | Seattle, WA | 4d ago | greenhouse | [apply](https://app.careerpuck.com/job-board/lyft/job/8716222002?gh_jid=8716222002) |
+| Pinterest | Machine Learning Engineer, Core Engineering | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US | 4d ago | greenhouse | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=6121450) |
+| Pinterest | Machine Learning Engineer, Monetization Engineering | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | 4d ago | greenhouse | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=6121543) |
+| Stripe | AI Engineer | Chicago | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8044460) |
+| Stripe | Backend Engineer, Core Technology | US-Remote, Chicago, Seattle, San Francisco | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=6042172) |
+| Stripe | Backend Engineer, Privy | NYC-Privy | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7235875) |
+| Stripe | Full Stack Engineer, Bridge | San Francisco, NYC | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8142764) |
+| Stripe | Full Stack Engineer, Link | New York, New York | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8062305) |
+| Stripe | Fullstack Engineer, Privy | NYC-Privy, US-Remote  | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7091959) |
+| Stripe | Infrastructure Engineer, Privy | New York | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7462961) |
+| Stripe | Machine Learning Engineer | South San Francisco, CA | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8137997) |
+| Stripe | Software Engineer | Seattle, WA | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8174105) |
+| Stripe | Software Engineer, Backend Engineer- Credit Coverage | New York, NY | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8130578) |
+| Stripe | Software Engineer, Bridge | San Francisco, NY, Seattle | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7277110) |
+| Stripe | Software Engineer, Intern (Summer or Winter) | San Francisco, Seattle, New York City | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8128745) |
+| Stripe | Software Engineer, Online Database Infrastructure | Seattle, WA | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8177930) |
+| Stripe | Software Engineer, Product Security Data Platforms | Seattle | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7761694) |
+| Stripe | Software Engineer - Smart Contract, Bridge | San Francisco or New York | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=7507904) |
+| Stripe | Software Engineer, Vulnerability Management | US - Remote | 4d ago | greenhouse | [apply](https://stripe.com/jobs/search?gh_jid=8089353) |
+| Allen Control Systems | Software Engineer, Platform | San Francisco, CA | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/allen-control-systems/a9a746a3-556c-4c28-9ee9-707872cacd3c) |
+| Benchling | Software Engineer, Agents | San Francisco, CA | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/benchling/263fd507-eb03-4cfa-8297-ce276b729b52) |
+| Clera | Software Engineer | remote | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/clera/f7f10a5d-b458-48a7-91dd-cc0215b21cd8) |
+| Mercor | Infrastructure Engineer | San Francisco | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/296c4031-5e98-4772-95f5-a9eb5bd7746d) |
+| Mercor | Cloud Platform Engineer (SF) | San Francisco | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/9617d47a-9e6f-404f-b1fe-2fa4b7ff8471) |
+| Mercor | Software Engineer, Platform | New York City | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/8492ebff-ed8e-4472-b729-3a49f4b52fc0) |
+| Mercor | Software Engineer, Applied AI | New York City | 4d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/4bb1232c-3f1e-4fd7-8894-fcd68f96e3db) |
+| DebtBook | Software Engineer | Charlotte, NC | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/debtbook/jobs/4731319005) |
+| Fanatics | Android Software Engineer | New York, NY, United States | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4250817009) |
+| Fanatics | Full Stack Engineer, Growth | Los Angeles, CA, United States; New York, NY, United States | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4260584009) |
+| Lucid Motors | Perception Machine Learning Engineer – ADAS | Southfield, MI | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5199878007) |
+| Lucid Motors | Software Engineer, Data Infrastructure | Southfield, MI | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5199841007) |
+| MrBeast | Full Stack Engineer, Live & Game | Primary: Bay Area (San Francisco/Peninsula) | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6119136004) |
+| Neuralink | Embedded Software Engineer Intern, Implant Embedded Systems | Austin, Texas, United States; South San Francisco, California, United States | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) |
+| Neuralink | Machine Learning Engineer Intern | South San Francisco, California, United States | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) |
+| Neuralink | Software Engineer Intern, BCI Applications | Austin, Texas, United States; South San Francisco, California, United States | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003) |
+| Neuralink | Software Engineer Intern, Implant | Austin, Texas, United States; South San Francisco, California, United States | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003) |
+| Neuralink | Software Engineer Intern, Infrastructure | South San Francisco, California, United States | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) |
+| Neuralink | Software Engineer Intern, Internal Apps | Austin, Texas, United States; South San Francisco, California, United States | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) |
+| Neuralink | Software Engineer Intern, Robotics | Austin, Texas, United States; South San Francisco, California, United States | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) |
+| Relativity Space | AI Software Engineer | Long Beach, California, United States | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/relativity/jobs/8726261002?gh_jid=8726261002) |
+| SpaceX | Full Stack Software Engineer, Flight Software | Cape Canaveral, FL | 4d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8784863002?gh_jid=8784863002) |
+| Yext | Software Engineer | New York, NY | 4d ago | greenhouse | [apply](https://job-boards.greenhouse.io/yext/jobs/8174875) |
+| Filevine | Software Development Engineer in Test (SDET) - Immigration AI | United States | 4d ago | lever | [apply](https://jobs.lever.co/filevine/fadc2d63-2103-4be5-a16f-4400a05b454f) |
+| Intuitive Surgical | Software Engineer - Systems Integration | Sunnyvale, US | 4d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/intuitive/744000147611499) |
+| SBT Global | Java/Python Full Stack Developer | Plano, US | 4d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/sbtglobalinc/3743990015090616) |
+| Aerotech | Software Engineer - Enterprise Development | Pittsburgh, PA | 4d ago | SimplifyJobs | [apply](https://aerotech.applytojob.com/apply/K8ctztnPW6/Software-Engineer-Enterprise-Development) |
+| Aerotech | Software Engineer - Application Development | Pittsburgh, PA | 4d ago | SimplifyJobs | [apply](https://aerotech.applytojob.com/apply/F6xsydip1r/Software-Engineer-Application-Development) |
+| Valmont | IT Associate Programmer Analyst | Carrollton, TX; Omaha, NE | 4d ago | SimplifyJobs | [apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/IT-Associate-Programmer-Analyst_R28670) |
+| OpenAI | Software Engineer, Native Learning Experiences | San Francisco | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3) |
+| OpenAI | Full Stack Software Engineer, Product Explorations | San Francisco | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/4d1ede8c-3d4c-4503-8408-81e4b68c5c91) |
+| Anthropic | Applied AI, Research Engineer | San Francisco, CA / New York City, NY | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5390811008) |
+| Anthropic | Data Infrastructure Engineer, Pre-training | San Francisco, CA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4973067008) |
+| Chime | Software Engineer, Growth | San Francisco, CA, USA | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8782503002?gh_jid=8782503002) |
+| Coinbase | Software Engineer, Blockchain Platform Nodes | Remote - USA | 5d ago | greenhouse | [apply](https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437) |
+| Coinbase | Threat Intelligence Platform Engineer | Remote - USA | 5d ago | greenhouse | [apply](https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619) |
+| Gusto | AI Engineer, Legal & Compliance | San Francisco, CA - Hybrid | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gusto/jobs/8039574) |
+| Gusto | Enterprise Application AI Engineer | San Francisco, CA - Hybrid | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gusto/jobs/7369003) |
+| Gusto | Software Engineer,  AI Developer Tools | San Francisco, CA - Hybrid | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gusto/jobs/7947684) |
+| Gusto | Software Engineer, ML Platform | Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gusto/jobs/8073232) |
+| Gusto | Software Engineer, Payments | New York, New York, United States; San Francisco, CA - Hybrid | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gusto/jobs/8104213) |
+| Scale AI | Infrastructure Software Engineer, Enterprise GenAI | San Francisco, CA; New York, NY | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4665557005) |
+| Scale AI | Software Engineer - AI Enablement | San Francisco, CA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4722512005) |
+| Anyscale | Software Engineer (Ray Core) | San Francisco | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/anyscale/81809616-ef2f-44f8-bcee-d1e17749f45d) |
+| Clera | Full Stack Software Engineer | New York | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/clera/6a17b77a-2581-4bda-a9c4-68392f6e5ed5) |
+| Eventual | Software Engineer, Data Systems | San Francisco | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/eventualcomputing/ff541fc0-b72e-40ad-84dc-6baa22570356) |
+| Eventual | Software Engineer, Multimodal Backend Systems | San Francisco | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/eventualcomputing/2bab624c-4e35-4b31-bd4f-4e68d648b87d) |
+| Iambic Therapeutics | Software Engineer — Agentic data pipelines | Remote - US | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/iambic-therapeutics/ed5c9548-a170-4a73-ade7-2f710d009fac) |
+| Mistral AI | AI Developer Relations Engineer | San Francisco | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/mistral.ai/c1d29d94-c1d5-4168-92fd-a01cc176e471) |
+| Polymarket | Mobile Infrastructure Engineer | New York | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/polymarket/87dd5e61-733c-4d75-8f4c-03503126e7fe) |
+| Valinor | Full-Stack Software Engineer, C2 & Tactical Integration | Cookeville, TN | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/valinor/c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e) |
+| The Voleon Group | Software Engineer, Strategy Research Analytics | Remote, United States | 5d ago | ashby | [apply](https://jobs.ashbyhq.com/voleon/941f1ec0-c9f4-4cea-b629-df12070cf10b) |
+| 9th Way Insignia | AI Engineer | United States - Remote | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5393451008) |
+| Accenture | Platform Engineer | Arlington, VA | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4676708006?gh_jid=4676708006) |
+| Alpaca | Software Engineer - Market Data | Remote - North America | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/alpaca/jobs/6144575004) |
+| Chicago Trading Company | AI Engineer | Chicago, Illinois, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/chicagotrading/jobs/4730408005) |
+| DLH | Programmer Analyst (SAS or R) | United States - Remote | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/dlhcorporation/jobs/5159601007) |
+| Glean | Software Engineer, Developer Productivity | Mountain View, CA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4614706005) |
+| Neros Technologies | Full-Stack Software Engineer | Torrance, California, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5174689007) |
+| Neros Technologies | IT Infrastructure Engineer | Torrance, California, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5143570007) |
+| Point72 | Software Engineer, Back Office Systems | New York, NY | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8773519002?gh_jid=8773519002) |
+| Point72 | Software Engineer, Macro Quant Analytics Technology | New York; London | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8060321002?gh_jid=8060321002) |
+| SpaceX | AI Security Software Engineer (Starshield) | Washington, DC | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8782424002?gh_jid=8782424002) |
+| SpaceX | Application Software Engineer - Memphis | Memphis, TN | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8611191002?gh_jid=8611191002) |
+| SpaceX | Full Stack Software Engineer, Application Software - Memphis | Memphis, TN | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8648213002?gh_jid=8648213002) |
+| SpaceX | Full Stack Software Engineer, Internal Systems - Memphis | Memphis, TN | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8686286002?gh_jid=8686286002) |
+| SpaceX | Software Engineer, Application Software - Memphis | Memphis, TN | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8763491002?gh_jid=8763491002) |
+| SpaceX | Software Engineer (Flight Reliability) | Starbase, TX | 5d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8783284002?gh_jid=8783284002) |
+| Speechify | Software Engineer, Platform | Remote | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5058944004) |
+| Torc Robotics | Software Engineer, I - Data Engineering | Ann Arbor, MI, Blacksburg, VA | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002) |
+| Xaira Therapeutics | Lab Software Engineer | South San Francisco, California, United States | 5d ago | greenhouse | [apply](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5230698007) |
+| Zoox | Software Engineer - Collision Avoidance System Metrics | Foster City, CA | 5d ago | lever | [apply](https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5) |
+| LinkedIn | Software Engineer - Web Infrastructure | Mountain View, US | 5d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/linkedin3/744000147327239) |
+| Skyward | Software Engineer - Intern | Stevens Point, US | 5d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/skyward1/744000147320799) |
+| Smiths Detection Group | CNC Machinist - Programmer / Operator | Baton Rouge, US | 5d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/smithsgroup2/744000147321255) |
+| Oracle | Software Developer 1 | Nashville, TN | 5d ago | SimplifyJobs | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344446) |
+| L3Harris Technologies | Software Engineer - Engineering Leadership Development Program | Melbourne, FL | 5d ago | SimplifyJobs | [apply](https://jobs.l3harris.com/job/Melbourne-Engineering-Leadership-Development-Program-Software-Engineer-(Various-Locations)-FL-32919/1426639800/?ats=successfactors) |
+| L3Harris Technologies | Software Engineer Intern - Engineering Leadership Development Program | Melbourne, FL | 5d ago | SimplifyJobs | [apply](https://jobs.l3harris.com/job/Melbourne-Engineering-Leadership-Development-Program-Software-Engineer-(Various-Locations)-FL-32919/1426639500/?ats=successfactors) |
+| Anthropic | Applied AI Architect, Cyber | San Francisco, CA / New York City, NY | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5387733008) |
+| GitLab | Intermediate Backend Engineer, EMEA | Remote, United Kingdom | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8778279002) |
+| Scale AI | Software Engineer, Public Sector | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4302243005) |
+| Cerebras | Detection and Response Platform Engineer | Sunnyvale, CA | 6d ago | ashby | [apply](https://jobs.ashbyhq.com/cerebras/d114d16b-3c5f-44a1-9a15-26b37fb45369) |
+| ElevenLabs | HPC Infrastructure Engineer - GPU Clusters | United States | 6d ago | ashby | [apply](https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9) |
+| Hadrian | Software Engineer Intern | Los Angeles, CA | 6d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e) |
+| Rain | Software Engineer - Wallets | Remote | 6d ago | ashby | [apply](https://jobs.ashbyhq.com/rain/6393bceb-88cf-4806-a51c-401be580c59e) |
+| Accenture | AI / ML Engineer | Tampa, FL | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4711009006?gh_jid=4711009006) |
+| Accenture | Full Stack Developer (Jasper) | Washington, DC | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4702242006?gh_jid=4702242006) |
+| Accenture | Software Engineer (Java) | Arlington, VA | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4710734006?gh_jid=4710734006) |
+| Addepar | Software Engineer, Client Experience Frameworks | New York, NY | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/addepar1/jobs/8733680002) |
+| Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
+| Anduril | C++ Mission Software Engineer, Mission Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5125189007?gh_jid=5125189007) |
+| Anduril | Embedded Software Engineer, Anti-Tamper | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5206527007?gh_jid=5206527007) |
+| Anduril | Embedded Software Engineer, Manufacturing Test, Intelligence Systems | Santa Ana, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5212828007?gh_jid=5212828007) |
+| Anduril | Embedded Systems Software Engineer | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5129670007?gh_jid=5129670007) |
+| Anduril | Flight Software Engineer | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5102166007?gh_jid=5102166007) |
+| Anduril | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007) |
+| Anduril | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike - Advanced Effects | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5035788007?gh_jid=5035788007) |
+| Anduril | Full Stack Software Engineer | Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5089044007?gh_jid=5089044007) |
+| Anduril | Full-Stack Software Engineer, Mission Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5160360007?gh_jid=5160360007) |
+| Anduril | GNC Software Engineer | Waltham, Massachusetts, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5178086007?gh_jid=5178086007) |
+| Anduril | Ground Software Engineer, Space | Colorado Springs, Colorado, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5143734007?gh_jid=5143734007) |
+| Anduril | Manufacturing Software Engineer, Intelligence Systems | Santa Ana, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007) |
+| Anduril | Metrology Engineer/CMM Programmer, Maritime Division | Santa Ana, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5182778007?gh_jid=5182778007) |
+| Anduril | Metrology Specialist/CMM Programmer, Maritime Division | Santa Ana, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5182773007?gh_jid=5182773007) |
+| Anduril | Mission Software Engineer | Reston, Virginia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5214858007?gh_jid=5214858007) |
+| Anduril | Mission Software Engineer, Air Vehicle Autonomy, Backend | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4672848007?gh_jid=4672848007) |
+| Anduril | Mission Software Engineer, Air Vehicle Autonomy, C++ | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4673932007?gh_jid=4673932007) |
+| Anduril | Mission Software Engineer, Air Vehicle Autonomy, GenSWE | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4800373007?gh_jid=4800373007) |
+| Anduril | Mission Software Engineer, EW | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5161108007?gh_jid=5161108007) |
+| Anduril | Mission Software Engineer - Undersea Reconnaissance & Strike | Quincy, Massachusetts, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5221253007?gh_jid=5221253007) |
+| Anduril | Mission Software Engineer, Vehicle Software, C++ | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4672888007?gh_jid=4672888007) |
+| Anduril | Mission Software Engineer, Vehicle Software, Communications | Boston, Massachusetts, United States; Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5176751007?gh_jid=5176751007) |
+| Anduril | Mission Software Engineer, Vehicle Software, Computer Vision | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4734570007?gh_jid=4734570007) |
+| Anduril | Mission Software Engineer, Vehicle Software, Consensus | Boston, Massachusetts, United States; Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5176752007?gh_jid=5176752007) |
+| Anduril | Mission Software Engineer, Vehicle Software, Frontend | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4672911007?gh_jid=4672911007) |
+| Anduril | Mission Software Engineer, Vehicle Software, GenSWE | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007) |
+| Anduril | Orbital Software Engineer, Space | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4872480007?gh_jid=4872480007) |
+| Anduril | Quantum Software Engineer | Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5089054007?gh_jid=5089054007) |
+| Anduril | Robotic Software Engineer | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5183145007?gh_jid=5183145007) |
+| Anduril | Robotics Software Engineer, Air Vehicle Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) |
+| Anduril | Robotics Software Engineer - Undersea Dominance | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5196757007?gh_jid=5196757007) |
+| Anduril | Robotics Software Engineer, Vehicle Software | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007) |
+| Anduril | Rust Software Engineer, Air Vehicle Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5125172007?gh_jid=5125172007) |
+| Anduril | Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5203050007?gh_jid=5203050007) |
+| Anduril | Software Engineer, Air Defense | Irvine, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5151652007?gh_jid=5151652007) |
+| Anduril | Software Engineer, Air & Missile Defense | Huntsville, Alabama, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5203040007?gh_jid=5203040007) |
+| Anduril | Software Engineer, Anvil | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4932828007?gh_jid=4932828007) |
+| Anduril | Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007) |
+| Anduril | Software Engineer, Command Control Mission Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5161486007?gh_jid=5161486007) |
+| Anduril | Software Engineer, Dev Infra, Air Defense | Irvine, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5150887007?gh_jid=5150887007) |
+| Anduril | Software Engineer, Discovery | Seattle, Washington, United States; Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4980592007?gh_jid=4980592007) |
+| Anduril | Software Engineer, Full Stack | Irvine, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4836302007?gh_jid=4836302007) |
+| Anduril | Software Engineer, Generalist | Irvine, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5009117007?gh_jid=5009117007) |
+| Anduril | Software Engineer, Ghost | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4932891007?gh_jid=4932891007) |
+| Anduril | Software Engineer, Manufacturing Test | Bellevue, Washington, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5161517007?gh_jid=5161517007) |
+| Anduril | Software Engineer - Maritime Integrated Solutions | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5220095007?gh_jid=5220095007) |
+| Anduril | Software Engineer - Maritime Integrated Systems | Boston, Massachusetts, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5185389007?gh_jid=5185389007) |
+| Anduril | Software Engineer - Mobile, Android | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5163532007?gh_jid=5163532007) |
+| Anduril | Software Engineer, Perception | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5165250007?gh_jid=5165250007) |
+| Anduril | Software Engineer, Robotics | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4959625007?gh_jid=4959625007) |
+| Anduril | Software Engineer, Robotics Data Foundation (Cloud) | Seattle, Washington, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5185965007?gh_jid=5185965007) |
+| Anduril | Software Engineer, Rust | Broomfield, Colorado, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5178094007?gh_jid=5178094007) |
+| Anduril | Software Engineer, Satellite Command and Control | Colorado Springs, Colorado, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5225303007?gh_jid=5225303007) |
+| Anduril | Software Engineer, Sensor Fusion | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5194560007?gh_jid=5194560007) |
+| Anduril | Software Engineer, Space Systems Test | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4992181007?gh_jid=4992181007) |
+| Anduril | Software Engineer, Target Tracking | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5226944007?gh_jid=5226944007) |
+| Anduril | Software Engineer, Tracking | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007) |
+| Anduril | Software Engineer - Undersea Dominance | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5171114007?gh_jid=5171114007) |
+| Anduril | Software Engineer, Vehicle Software, V&V | Costa Mesa, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4673813007?gh_jid=4673813007) |
+| Anduril | Tracking Software Engineer, Space | Washington, District of Columbia, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5114861007?gh_jid=5114861007) |
+| Archer | Software Engineer - (SJ2026BS) | San Jose, California, United States | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/archer56/jobs/7977707003) |
+| Archer | VMS Software Engineer | San Jose, California, United States | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/archer56/jobs/7607278003) |
+| Awetomaton | Software Engineer – Python & Kubernetes Integration | Boulder, CO | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/awetomaton/jobs/5385876008) |
+| Axios | Software Engineer | Remote | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/axios/jobs/7818788) |
+| Defense Unicorns | Platform Engineer - FedD180/FedD181 | Remote, United States | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/5203690007) |
+| DRW | Software Engineer - Cumberland/FICCO Front Office Systems | New York City | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7728094) |
+| ENSCO | Embedded Software Engineer | Endicott, New York, United States | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/ensco/jobs/5349198008) |
+| ENSCO | Software Developer | Colorado Springs, Colorado, United States | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/ensco/jobs/5287243008) |
+| General Matter | Software Engineer, Data Platform | Los Angeles, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5412538008) |
+| Glean | Software Engineer, AI/ML Infrastructure | Mountain View, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4501783005) |
+| impact.com | Intermediate Full Stack Software Engineer | Columbus, OH | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/impact/jobs/8557055002) |
+| Natera | Software Engineer, Full Stack | San Carlos, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/natera/jobs/5993307004) |
+| PlayStation | Core Tech Programmer | United States, Santa Monica, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/naughtydog/jobs/5978835004) |
+| PlayStation | SDET Programmer | United States, Santa Monica, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/naughtydog/jobs/5790604004) |
+| PlayStation | Web Tools Programmer | United States, Santa Monica, CA | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/naughtydog/jobs/5822257004) |
+| Neuralink | Software Engineer, BCI Applications | Austin, Texas, United States; South San Francisco, California, United States | 6d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6596365003?gh_jid=6596365003) |
+| Sphinx Defense | Full Stack Engineer | Remote | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/sphinxdefense/jobs/5413848008) |
+| Virtu Financial | Hardware Platform Engineer | Austin, TX | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/virtu/jobs/8469926002) |
+| Zone 5 Technologies | Embedded Software Engineer V/VI | Fort Walton Beach, Florida, United States | 6d ago | greenhouse | [apply](https://job-boards.greenhouse.io/zone5technologies/jobs/5372358008) |
+| Zoox | Software Engineer, Operational Tools | Foster City, CA | 6d ago | lever | [apply](https://jobs.lever.co/zoox/998ca0ca-4e3a-409f-bc84-f364d5451e01) |
+| Keysight Technologies | Software Engineer - Measurement Applications | Colorado Springs, CO | 6d ago | SimplifyJobs | [apply](https://jobs.keysight.com/jobs/54139?icims=1) |
+| PQ | AI-Augmented Software Engineer | Malvern, PA | 6d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/PQ/744000147064769) |
+| Arch | Software Engineer - Early Careers | NYC | 6d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?embed=true) |
+| Hewlett Packard | Embedded Firmware and Software Engineer | Spring, TX | 6d ago | SimplifyJobs | [apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Embedded-Firmware-and-Software-Engineer_3161388-2) |
+| Cadence Design Systems | Software Engineer | San Jose, CA | 6d ago | SimplifyJobs | [apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2) |
+| Baseten | Software Engineer - Identity and Authorization | San Francisco | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/19972142-ec0b-4049-8d8f-6a341f57f938) |
+| OpenAI | Applied AI Engineer, Cyber, Government | Washington, DC | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a) |
+| Block | Software Engineer, Cash App Taxes | New York, NY, United States of America | 7d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5412832008?gh_jid=5412832008) |
+| Databricks | AI Engineer — GTM Analytics | United States | 7d ago | greenhouse | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002) |
+| Databricks | Software Engineer, Web Products | Mountain View, California | 7d ago | greenhouse | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002) |
+| Discord | Software Engineer, Data Platform | San Francisco Bay Area | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/discord/jobs/8396927002) |
+| Discord | Software Engineer, Developer Success | San Francisco Bay Area | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/discord/jobs/8609250002) |
+| Discord | Software Engineer, Distributed Systems | San Francisco Bay Area | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/discord/jobs/8545663002) |
+| Scale AI | AI Infrastructure Engineer, Sandbox Platform | San Francisco, CA; Seattle, WA; New York, NY | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4716453005) |
+| Scale AI | Software Engineer, Data Infrastructure | New York, NY; Washington, DC | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4708221005) |
+| Scale AI | Software Engineer, Platform | San Francisco, CA; New York, NY | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4594879005) |
+| Adaptive Security | Founding Machine Learning Engineer | NYC | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/adaptivesecurity/547fef33-6371-4a49-9085-5810744f95b0) |
+| Gumloop | Software Engineer - Infrastructure | San Francisco Office | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/gumloop/35729200-4460-40a6-8972-508bd1d0f6b5) |
+| Valon | Software Engineer Intern | New York | 7d ago | ashby | [apply](https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64) |
+| Accenture | Software Developer/Engineer | Washington, DC | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4689887006?gh_jid=4689887006) |
+| AppLovin | ML Infrastructure Engineer | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/applovin/jobs/4655740006?gh_jid=4655740006) |
+| Five Rings Capital | Summer Intern 2027 - Software Developer | New York | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
+| General Matter | CNC Programmer (Mill, Lathe & Swiss) | Los Angeles, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5231625008) |
+| General Matter | Network Infrastructure Engineer | Los Angeles, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5015189008) |
+| General Matter | Software Engineer, Controls & Automation | Los Angeles, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5082193008) |
+| General Matter | Software Engineer – C++/Python | Los Angeles, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5026280008) |
+| General Matter | Software Engineer, Data Visualization | Los Angeles, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5407436008) |
+| General Matter | Software Engineer, Enterprise Systems | Los Angeles, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5389914008) |
+| General Matter | Software Engineer, Systems Simulation & Test | Los Angeles, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5135167008) |
+| Instabase | Software Engineer - Agent Harness | San Francisco, CA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/instabase/jobs/8635719002) |
+| Mixpanel | Software Engineer, Data Runtime | San Francisco, US (Hybrid) | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mixpanel/jobs/8162414) |
+| Pure Storage | Fullstack Software Engineer, AI Infra | Santa Clara, California | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/purestorage/jobs/8166226) |
+| Realtor.com | Software Engineer | Austin, Texas, United States | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/rdccareers/jobs/7978615003?gh_jid=7978615003) |
+| Re:Build Manufacturing | CMM Programmer | Rock Hill, SC | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4709483005) |
+| Re:Build Manufacturing | Software Engineer | Framingham, MA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4719210005) |
+| Scout Motors | AI Infrastructure Engineer | Charlotte, North Carolina, United States | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5201286007) |
+| SpaceX | AI Software Engineer (Vehicle Engineering) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8559015002?gh_jid=8559015002) |
+| SpaceX | Application Software Engineer | Cape Canaveral, FL | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8643772002?gh_jid=8643772002) |
+| SpaceX | Application Software Engineer, Applied AI | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002) |
+| SpaceX | Application Software Engineer, Employee Experience | Starbase, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8632106002?gh_jid=8632106002) |
+| SpaceX | Application Software Engineer, Manufacturing Systems | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8600012002?gh_jid=8600012002) |
+| SpaceX | CMM Programmer (Starlink) - 2nd Shift | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8694895002?gh_jid=8694895002) |
+| SpaceX | CNC Programmer, Development (Starlink) | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8697078002?gh_jid=8697078002) |
+| SpaceX | CNC Programmer - Level 4/5 (2nd Shift) | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8487596002?gh_jid=8487596002) |
+| SpaceX | CNC Programmer, NX CAM (IGT Blades & Vanes) - Level 4/5 | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8743358002?gh_jid=8743358002) |
+| SpaceX | CNC Programmer, NX CAM (Starlink) | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8731809002?gh_jid=8731809002) |
+| SpaceX | CNC Programmer (Starship Components) - Level 4/5 | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8509075002?gh_jid=8509075002) |
+| SpaceX | CNC Programmer (Starship Components) - Level 4/5 (2nd Shift) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8581415002?gh_jid=8581415002) |
+| SpaceX | Dimensional Inspector (CMM Programmer) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8741932002?gh_jid=8741932002) |
+| SpaceX | EDM Programmer (Starlink) | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8579766002?gh_jid=8579766002) |
+| SpaceX | Embedded Software Engineer, Laser Mesh Routing (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8578936002?gh_jid=8578936002) |
+| SpaceX | Embedded Software Engineer, OS/Platform  (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8752935002?gh_jid=8752935002) |
+| SpaceX | Embedded Software Engineer, OS/Platform (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8530798002?gh_jid=8530798002) |
+| SpaceX | Embedded Software Engineer, Satellite Antenna (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8603628002?gh_jid=8603628002) |
+| SpaceX | Embedded Software Engineer (Starlink) | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8706480002?gh_jid=8706480002) |
+| SpaceX | Factory Software Engineer (Starlink) | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8574053002?gh_jid=8574053002) |
+| SpaceX | Flight Software Engineer (Starlink Mobile) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8556909002?gh_jid=8556909002) |
+| SpaceX | Flight Software Infrastructure Engineer (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8692260002?gh_jid=8692260002) |
+| SpaceX | Full Stack Engineer (Application Software) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8701392002?gh_jid=8701392002) |
+| SpaceX | Full Stack Engineer, Employee Experience | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8763492002?gh_jid=8763492002) |
+| SpaceX | Full Stack Engineer, Flight Software | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8769729002?gh_jid=8769729002) |
+| SpaceX | Full Stack Software Engineer (Application Software) | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8495180002?gh_jid=8495180002) |
+| SpaceX | Full Stack Software Engineer (Build Reliability) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8555791002?gh_jid=8555791002) |
+| SpaceX | Full Stack Software Engineer, Data Platform (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002) |
+| SpaceX | Full Stack Software Engineer, Data (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8656465002?gh_jid=8656465002) |
+| SpaceX | Full Stack Software Engineer, Developer Systems | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8763489002?gh_jid=8763489002) |
+| SpaceX | Full Stack Software Engineer, Employee Experience | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8726225002?gh_jid=8726225002) |
+| SpaceX | Full Stack Software Engineer, Manufacturing | Starbase, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8650988002?gh_jid=8650988002) |
+| SpaceX | Full Stack Software Engineer, Manufacturing Systems | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8703540002?gh_jid=8703540002) |
+| SpaceX | Full Stack Software Engineer, MES (Manufacturing Execution System) | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8696897002?gh_jid=8696897002) |
+| SpaceX | Full Stack Software Engineer, Observability (Starlink) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8638457002?gh_jid=8638457002) |
+| SpaceX | Full Stack Software Engineer, Operations Software (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8722645002?gh_jid=8722645002) |
+| SpaceX | Full Stack Software Engineer - Simulation & Flight Systems | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8731959002?gh_jid=8731959002) |
+| SpaceX | Full Stack Software Engineer (Starlink) | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8501225002?gh_jid=8501225002) |
+| SpaceX | Full Stack Software Engineer (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8610872002?gh_jid=8610872002) |
+| SpaceX | HVAC Programmer | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8497590002?gh_jid=8497590002) |
+| SpaceX | Infrastructure Engineer | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8604308002?gh_jid=8604308002) |
+| SpaceX | IT Infrastructure Engineer, Virtualization & Storage | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8451903002?gh_jid=8451903002) |
+| SpaceX | IT Network Infrastructure Engineer | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8570046002?gh_jid=8570046002) |
+| SpaceX | IT Network Infrastructure Engineer, Launch | Starbase, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8458745002?gh_jid=8458745002) |
+| SpaceX | Kubernetes Platform Infrastructure Engineer (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8573281002?gh_jid=8573281002) |
+| SpaceX | ML Engineer, Surrogate Modeling (Vehicle Engineering) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8559035002?gh_jid=8559035002) |
+| SpaceX | Operations Engineer, Applied AI (Application Software) | McGregor, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8652296002?gh_jid=8652296002) |
+| SpaceX | OS/Platform Software Engineer (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8752620002?gh_jid=8752620002) |
+| SpaceX | Platform Engineer, Flight Software (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8692268002?gh_jid=8692268002) |
+| SpaceX | RF Software Engineer (Starlink) | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8624761002?gh_jid=8624761002) |
+| SpaceX | RF Software Engineer (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8517637002?gh_jid=8517637002) |
+| SpaceX | Satellite On-Orbit Operations Software Engineer (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8706537002?gh_jid=8706537002) |
+| SpaceX | Satellite Systems Software Engineer (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8751097002?gh_jid=8751097002) |
+| SpaceX | Security Software Engineer (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8719854002?gh_jid=8719854002) |
+| SpaceX | Security Software Engineer (Starshield) | Washington, DC | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8738708002?gh_jid=8738708002) |
+| SpaceX | Simulation Software Engineer (Application Software) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8488034002?gh_jid=8488034002) |
+| SpaceX | Software Engineer | Cape Canaveral, FL | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8763487002?gh_jid=8763487002) |
+| SpaceX | Software Engineer, AI Satellites (Starmind) | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002) |
+| SpaceX | Software Engineer (Application Software) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8731256002?gh_jid=8731256002) |
+| SpaceX | Software Engineer, Applied AI (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637712002?gh_jid=8637712002) |
+| SpaceX | Software Engineer, Backend (C/C++) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8672397002?gh_jid=8672397002) |
+| SpaceX | Software Engineer, Beam Planning (Starlink) | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8578907002?gh_jid=8578907002) |
+| SpaceX | Software Engineer, CDN (Starlink) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8756159002?gh_jid=8756159002) |
+| SpaceX | Software Engineer, C++ (Dragon) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8601802002?gh_jid=8601802002) |
+| SpaceX | Software Engineer, Collision Avoidance (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8749208002?gh_jid=8749208002) |
+| SpaceX | Software Engineer, Components (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8625617002?gh_jid=8625617002) |
+| SpaceX | Software Engineer, Components Test (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8625615002?gh_jid=8625615002) |
+| SpaceX | Software Engineer, Continuous Integration (Starship) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8533853002?gh_jid=8533853002) |
+| SpaceX | Software Engineer, C++ (Raptor) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8598038002?gh_jid=8598038002) |
+| SpaceX | Software Engineer, C++ (Simulations) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8603609002?gh_jid=8603609002) |
+| SpaceX | Software Engineer, C++ Simulations (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8682197002?gh_jid=8682197002) |
+| SpaceX | Software Engineer, C++ (Starlink) | Sunnyvale, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8451960002?gh_jid=8451960002) |
+| SpaceX | Software Engineer, Data (Starlink) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002) |
+| SpaceX | Software Engineer, Design Engineering (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637713002?gh_jid=8637713002) |
+| SpaceX | Software Engineer, Design Software (Starship) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8466905002?gh_jid=8466905002) |
+| SpaceX | Software Engineer, Development Test (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8532395002?gh_jid=8532395002) |
+| SpaceX | Software Engineer, DevOps (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8573204002?gh_jid=8573204002) |
+| SpaceX | Software Engineer, Embedded Software (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8752598002?gh_jid=8752598002) |
+| SpaceX | Software Engineer, Embedded Software (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8436708002?gh_jid=8436708002) |
+| SpaceX | Software Engineer, Engineering Simulation & Automation (Vehicle Engineering) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8559054002?gh_jid=8559054002) |
+| SpaceX | Software Engineer, Flight Software C++ (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8593183002?gh_jid=8593183002) |
+| SpaceX | Software Engineer, Flight Software (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8752581002?gh_jid=8752581002) |
+| SpaceX | Software Engineer, Flight Software (Starship) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8562450002?gh_jid=8562450002) |
+| SpaceX | Software Engineer, Hardware Test & Automation (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8565155002?gh_jid=8565155002) |
+| SpaceX | Software Engineer, Hardware Test & Automation (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8574243002?gh_jid=8574243002) |
+| SpaceX | Software Engineer, High Performance Computing | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8621463002?gh_jid=8621463002) |
+| SpaceX | Software Engineer, High Performance Computing (Starlink) | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8578909002?gh_jid=8578909002) |
+| SpaceX | Software Engineer, Inference (AI Data Engineering) | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002) |
+| SpaceX | Software Engineer, Low Latency Computing (Starlink) | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8578910002?gh_jid=8578910002) |
+| SpaceX | Software Engineer, Mobile Apps (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637756002?gh_jid=8637756002) |
+| SpaceX | Software Engineer, Network Observability (Starlink) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8577262002?gh_jid=8577262002) |
+| SpaceX | Software Engineer, Platform / Infrastructure (Starlink) | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8632322002?gh_jid=8632322002) |
+| SpaceX | Software Engineer (Platform Team) | Bastrop, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8560546002?gh_jid=8560546002) |
+| SpaceX | Software Engineer, Power Optimization (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8647459002?gh_jid=8647459002) |
+| SpaceX | Software Engineer, Product Development (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8436728002?gh_jid=8436728002) |
+| SpaceX | Software Engineer, Propulsion Simulation & Data Analysis | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8581299002?gh_jid=8581299002) |
+| SpaceX | Software Engineer, Satellite Systems (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8621508002?gh_jid=8621508002) |
+| SpaceX | Software Engineer, Simulation | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8695142002?gh_jid=8695142002) |
+| SpaceX | Software Engineer - Simulation & Flight Systems | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8735368002?gh_jid=8735368002) |
+| SpaceX | Software Engineer, Simulations (Application Software) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8487534002?gh_jid=8487534002) |
+| SpaceX | Software Engineer, Site Reliability Engineering (Application Software) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8647095002?gh_jid=8647095002) |
+| SpaceX | Software Engineer (Starfall) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8642274002?gh_jid=8642274002) |
+| SpaceX | Software Engineer (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8525359002?gh_jid=8525359002) |
+| SpaceX | Software Engineer (Starlink/Akoustis) | Canandaigua, NY  | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8696779002?gh_jid=8696779002) |
+| SpaceX | Software Engineer (Starlink Enterprise) | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8586637002?gh_jid=8586637002) |
+| SpaceX | Software Engineer, Starlink Enterprise Products (Space Lasers) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8715839002?gh_jid=8715839002) |
+| SpaceX | Software Engineer (Starlink Mobile) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8568939002?gh_jid=8568939002) |
+| SpaceX | Software Engineer, Starlink Network | Sunnyvale, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8458001002?gh_jid=8458001002) |
+| SpaceX | Software Engineer, Starlink UX (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637755002?gh_jid=8637755002) |
+| SpaceX | Software Engineer (Starshield) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8501199002?gh_jid=8501199002) |
+| SpaceX | Software Engineer (Starship) | Starbase, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8569125002?gh_jid=8569125002) |
+| SpaceX | Software Engineer, Telemetry (Starlink) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8631930002?gh_jid=8631930002) |
+| SpaceX | Software Engineer, Test Infrastructure (Application Software) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8585072002?gh_jid=8585072002) |
+| SpaceX | Software Engineer, Test Infrastructure (C/C++) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637049002?gh_jid=8637049002) |
+| SpaceX | Software Engineer (Thermal & Fluid Analysis) | Starbase, TX | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8562437002?gh_jid=8562437002) |
+| SpaceX | Software Engineer, Tracking (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8749199002?gh_jid=8749199002) |
+| SpaceX | Software Engineer, Vehicle Operations (Starshield) | Hawthorne, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8609228002?gh_jid=8609228002) |
+| SpaceX | Software Infrastructure Engineer, Flight Software (Starlink) | Redmond, WA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8692270002?gh_jid=8692270002) |
+| SpaceX | Software Infrastructure Engineer (Starlink) | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8584920002?gh_jid=8584920002) |
+| SpaceX | Wi-Fi Software Engineer (Starlink) | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8715832002?gh_jid=8715832002) |
+| SpaceX | Wireless Software Engineer (Starlink) | Palo Alto, CA | 7d ago | greenhouse | [apply](https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Atlanta, GA, USA | Atlanta, GA, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976287004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Austin, TX, USA | Austin, TX, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976293004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Bakersfield, CA, USA | Bakersfield, CA, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975280004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Birmingham, AL, USA | Birmingham, AL, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975317004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Boston, MA, USA | Boston, MA, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975128004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Cincinnati, OH, USA | Cincinnati, OH, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975197004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - College Station, TX, USA | College Station, TX, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975310004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Detroit, MI, USA | Detroit, MI, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975191004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Evanston, IL, USA | Evanston, IL, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975209004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Fort Collins, CO, USA | Fort Collins, CO, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975295004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Frisco, TX, USA | Frisco, TX, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975167004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Greensboro, NC, USA | Greensboro, NC, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975359004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Hartford, CT, USA | Hartford, CT, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975347004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Kansas City, MO, USA | Kansas City, MO, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975203004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Knoxville, TN, USA | Knoxville, TN, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975377004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Las Vegas, NV, USA | Las Vegas, NV, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975173004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Minneapolis, MN, USA | Minneapolis, MN, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975179004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - New York, NY, USA | New York, NY, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975122004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Portland, OR, USA | Portland, OR, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975150004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Raleigh, NC, USA | Raleigh, NC, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975185004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Richmond, VA, USA | Richmond, VA, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975252004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - St. Petersburg, FL, USA | St. Petersburg, FL, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975323004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Tallahassee, FL, USA | Tallahassee, FL, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975329004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Tempe, AZ, USA | Tempe, AZ, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975161004) |
+| Speechify | Software Engineer, Platform - Albuquerque, NM, USA | Albuquerque, NM, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974185004) |
+| Speechify | Software Engineer, Platform - Ann Arbor, MI, USA | Ann Arbor, MI, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974189004) |
+| Speechify | Software Engineer, Platform - Burlington, VT, USA | Burlington, VT, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974206004) |
+| Speechify | Software Engineer, Platform - Charlotte, NC, USA | Charlotte, NC, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974233004) |
+| Speechify | Software Engineer, Platform - College Station, TX, USA | College Station, TX, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974163004) |
+| Speechify | Software Engineer, Platform - Culver City, CA, USA | Culver City, CA, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974135004) |
+| Speechify | Software Engineer, Platform - Dallas, TX, USA | Dallas, TX, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976203004) |
+| Speechify | Software Engineer, Platform - Denver, CO, USA | Denver, CO, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974172004) |
+| Speechify | Software Engineer, Platform - Frisco, TX, USA | Frisco, TX, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974155004) |
+| Speechify | Software Engineer, Platform - Greensboro, NC, USA | Greensboro, NC, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974244004) |
+| Speechify | Software Engineer, Platform - Ithaca, NY, USA | Ithaca, NY, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974194004) |
+| Speechify | Software Engineer, Platform - Knoxville, TN, USA | Knoxville, TN, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974255004) |
+| Speechify | Software Engineer, Platform - Las Vegas, NV, USA | Las Vegas, NV, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974180004) |
+| Speechify | Software Engineer, Platform - Los Angeles, CA, USA | Los Angeles, CA, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974133004) |
+| Speechify | Software Engineer, Platform - Naperville, IL, USA | Naperville, IL, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974171004) |
+| Speechify | Software Engineer, Platform - New Haven, CT, USA | New Haven, CT, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974202004) |
+| Speechify | Software Engineer, Platform - New York, NY, USA | New York, NY, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976197004) |
+| Speechify | Software Engineer, Platform - Reston, VA, USA | Reston, VA, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974214004) |
+| Speechify | Software Engineer, Platform - San Jose, CA, USA | San Jose, CA, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974120004) |
+| Speechify | Software Engineer, Platform - Savannah, GA, USA | Savannah, GA, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974230004) |
+| Speechify | Software Engineer, Platform - Scottsdale, AZ, USA | Scottsdale, AZ, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974141004) |
+| Speechify | Software Engineer, Platform - Silver Spring, MD, USA | Silver Spring, MD, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974225004) |
+| Speechify | Software Engineer, Platform - Sunnyvale, CA, USA | Sunnyvale, CA, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974127004) |
+| Speechify | Software Engineer, Platform - Tucson, AZ, USA | Tucson, AZ, USA | 7d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974145004) |
+| Smiths Detection Group | CNC Machinist - Operator/Programmer | Pasadena, US | 7d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/smithsgroup2/744000146811609) |
+| Wellmark | Software Engineer - Digital Workforce | Des Moines, US | 7d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/wellmarkinc/744000146786840) |
+| Winsupply | Software Developer Intern | Moraine, US | 7d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/winsupply1/3743990015014717) |
+| General Dynamics Mission Systems | Software Engineer | Pittsfield, MA | 7d ago | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/74682/job?mobile=true&needsRedirect=false) |
+| Johns Hopkins Applied Physics Laboratory | Software Developer - Modeling, Simulation and Analysis Tool | Laurel, MD | 7d ago | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/59599?icims=1) |
+| American Express | AI Engineer | Phoenix, AZ | 7d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254) |
+| American Express | Software Engineer 2 - Enterprise Technology Services | Phoenix, AZ | 7d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013264) |
+| Apple | Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems | Sunnyvale, CA | 7d ago | SimplifyJobs | [apply](https://jobs.apple.com/en-us/details/200681316) |
+| American Express | Software Engineer Intern - Enterprise Technology Services | Sunrise, FL | 7d ago | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801) |
+| Baker Hughes | Software Engineer | Minden, NV | 7d ago | SimplifyJobs | [apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272) |
+| Onto Innovation | Software Engineer 2 | Wilmington, MA | 7d ago | SimplifyJobs | [apply](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Jonspin/Software-Engineer-2_R-6241) |
+| OpenAI | Applied AI Architect, Government | Washington, DC | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/6882c919-600e-43c8-92f9-803d4eb3bcd2) |
+| OpenAI | Software Engineer, Safety Engineering | San Francisco | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/9371f837-70ef-4387-a4b7-70f252b04aa5) |
+| Asana | Software Engineer | New York City | 8d ago | greenhouse | [apply](https://www.asana.com/jobs/apply/7961475?gh_jid=7961475) |
+| Block | Software Engineer, Finance Applications | Bay Area, CA, United States of America | 8d ago | greenhouse | [apply](http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008) |
+| Block | Software Engineer, Financial Platform - Issuing | Bay Area, CA, United States of America | 8d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5369947008?gh_jid=5369947008) |
+| Block | Software Engineer, Reconciliation & Reporting | Bay Area, CA, United States of America | 8d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008) |
+| GitLab | AI Engineer | Remote, Bangalore | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8556658002) |
+| MongoDB | Software Engineer 3 | New York City | 8d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=8083761) |
+| MongoDB | Software Engineer 3, Atlas Clusters Platform | New York City | 8d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=8089859) |
+| MongoDB | Software Engineer 3, Atlas Identity and Access Management | New York City | 8d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=8069776) |
+| MongoDB | Software Engineer 3, Atlas Search Systems | San Francisco | 8d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=7523920) |
+| MongoDB | Software Engineer 3, Atlas Vector Search | San Francisco | 8d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=7523911) |
+| MongoDB | Software Engineer 3, Networking & Observability | New York City; United States | 8d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=8119841) |
+| MongoDB | Software Engineer 3, Search Systems Replication & Routing | San Francisco | 8d ago | greenhouse | [apply](https://www.mongodb.com/careers/job/?gh_jid=7235322) |
+| Nextdoor | Machine Learning Engineer - Ads | US Remote | 8d ago | greenhouse | [apply](https://about.nextdoor.com/careers-list/?gh_jid=6005888) |
+| AfterQuery | Software Engineer - Growth Infrastructure | San Francisco | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/afterquery/7df65be5-5338-4d54-bc0a-ac550633618b) |
+| Amplify | Full Stack Software Engineer | Remote - United States | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/amplify/52bf5d5b-a1fb-4911-b686-5ebefa9d55dd) |
+| Harvey | Software Engineer, Security | San Francisco | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/harvey/d2624850-8dd4-4eb4-b5dc-f386b715a26f) |
+| Imprint | Data Infrastructure Engineer | New York City | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/imprint/25409da3-c86f-4824-a292-bbd20a0f2f11) |
+| Cybernetic Labs | Software Engineer, Agent Platform | New York City | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/netic/525fcc1f-f64b-4c01-bbe6-51e2bd391f1d) |
+| Plaid | Software Engineer, Backend | Seattle Office | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d) |
+| Plaid | Software Engineer, Full Stack | Seattle Office | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/plaid/8de90516-8070-42c5-8b04-267bf6785bea) |
+| Prelim | Software Engineer, Product | New York | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/prelim/bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409) |
+| Sierra | Software Engineer, Agent (Spanish speaking) | San Francisco, CA | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/1d5cf6f0-feba-46a6-98bc-70a1627a76d0) |
+| Specter | Wireless Software Engineer | San Francisco | 8d ago | ashby | [apply](https://jobs.ashbyhq.com/specter/702586cc-1a00-4fd0-89ed-2207f0d0095b) |
+| Astranis | Embedded Software Engineer - Network Software | San Francisco | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/astranis/jobs/4363202006) |
+| Astranis | Flight Software Engineer | San Francisco | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/astranis/jobs/4015622006) |
+| Astranis | Hardware Test Software Engineer | San Francisco, CA | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/astranis/jobs/4244436006) |
+| Astranis | Machinist/Programmer | San Francisco | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/astranis/jobs/4596812006) |
+| Astranis | Software Engineer - Hardware Test | San Francisco, CA | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/astranis/jobs/4702072006) |
+| Blueprint Technologies | AI/ML Engineer - Automation/Robotics | Redmond, WA | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/bpcs/jobs/8160825) |
+| Clarity Innovations | Full Stack Software Engineer | MacDill AFB, FL  | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5220451007) |
+| Data Systems Analysts | Software Developer | Fort Detrick, MD | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5361811008) |
+| Data Systems Analysts | Software Developer - ACWS | Fort Dix, NJ | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5410601008) |
+| Everlaw | GTM AI Engineer | Oakland, California, United States | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/everlaw/jobs/4709372006) |
+| Gotion | Machine Learning Engineer | Fremont, California | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gotion/jobs/8648163002) |
+| Gotion | Software Development Engineer – Full Stack | Fremont, California | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gotion/jobs/8633831002) |
+| iCapital Network | Full Stack Engineer - Associate | New York, New York, United States | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8549590002) |
+| iCapital Network | Software Developer in Test - Assistant Vice President / Vice President | New York, New York, United States | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8446783002) |
+| iCapital Network | Software Developer in Test - Vice President | Salt Lake City, Utah, United States | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8446777002) |
+| iCapital Network | Software Engineer in Test - Associate / Assistant Vice President | Salt Lake City, Utah, United States | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8631890002) |
+| onXmaps | Full-Stack Engineer | Austin, Texas, United States; Bozeman, Montana, United States; Denver, Colorado, United States; Free Solo; Kalispell, Montana, United States; Minneapolis, Minnesota, United States; Missoula, Montana, United States; Portland, Oregon, United States; Salt Lake City, Utah, United States; Seattle, Washington, United States | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/onxmaps/jobs/4708765006) |
+| Twitch | Software Development Engineer, Security Platform | San Francisco, CA | 8d ago | greenhouse | [apply](https://job-boards.greenhouse.io/twitch/jobs/8739060002) |
+| Zoox | Embedded Software Engineer - Drive Systems | Foster City, CA | 8d ago | lever | [apply](https://jobs.lever.co/zoox/ea3fbfaf-588b-434a-9a5a-c61edc731a40) |
+| Noblis | Software Developer - Full-Stack - Multiple Levels | Washington, DC | 8d ago | SimplifyJobs | [apply](https://careers.noblis.org/jobs/27747?icims=1) |
+| Keysight Technologies | Machine Learning Engineer | Santa Rosa, CA | 8d ago | SimplifyJobs | [apply](https://jobs.keysight.com/jobs/54093?icims=1) |
+| PlanetScale | Software Engineer - Internal Tools | SF | 8d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/planetscale/jobs/4389100009) |
+| DiDi Global | Software Engineer - Planning Selection Autonomy | San Jose, CA | 8d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/didi/jobs/8131851) |
+| Textron | Software Engineer - Sea Systems | Hunt Valley, Cockeysville, MD | 8d ago | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342905) |
+| KLA | Software Engineer | Milpitas, CA | 8d ago | SimplifyJobs | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640196) |
+| Mariana Minerals | Full Stack Software Engineer | San Francisco HQ | 9d ago | ashby | [apply](https://jobs.ashbyhq.com/marianaminerals/eebc7048-02a3-42ba-80b7-04b8a997e50a) |
+| Metron | Mid-Level Software Engineer | Reston, VA | 9d ago | greenhouse | [apply](https://job-boards.greenhouse.io/metron/jobs/5225462007) |
+| RF-SMART | Software Developer | Jacksonville, Florida, United States | 9d ago | greenhouse | [apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409573008) |
+| SpecterOps | Web Developer-Contract | Remote, United States  | 9d ago | greenhouse | [apply](https://job-boards.greenhouse.io/specterops/jobs/8621096002) |
+| The New York Times | Software Engineer, Reﬂections | New York, NY | 9d ago | greenhouse | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4724948005) |
+| OpenAI | Software Engineer, Financial Engineering | San Francisco | 11d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/4ef5bf23-cf0e-4b97-a639-11f963c99b88) |
+| Chime | Software Engineer, AI Enablement | Remote, USA | 11d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8578967002?gh_jid=8578967002) |
+| Chime | Software Engineer, Communication Platform | San Francisco, CA, USA | 11d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8681191002?gh_jid=8681191002) |
+| Chime | Software Engineer, Infrastructure | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | 11d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8573625002?gh_jid=8573625002) |
+| Chime | Software Engineer, Membership | San Francisco, CA, USA | 11d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8614188002?gh_jid=8614188002) |
+| Chime | Software Engineer, Support Foundations | San Francisco, CA, USA | 11d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8607195002?gh_jid=8607195002) |
+| Coinbase | Software Engineer, CDP - Payment Acceptance | Remote - USA | 11d ago | greenhouse | [apply](https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730) |
+| FluidStack | Software Engineer, Applied AI | San Francisco, CA | 11d ago | ashby | [apply](https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07) |
+| FluidStack | Software Engineer, Ontology | San Francisco, CA | 11d ago | ashby | [apply](https://jobs.ashbyhq.com/fluidstack/cd97ec50-81f7-4fdd-a95b-602e6e1303a8) |
+| Snowflake | Software Engineer, Full Stack - Marketplace | US-CA-Menlo Park | 11d ago | ashby | [apply](https://jobs.ashbyhq.com/snowflake/a51a1e30-94ec-4550-b39f-90ef328dfa87) |
+| Specter | Software Engineer - Applied AI | San Francisco | 11d ago | ashby | [apply](https://jobs.ashbyhq.com/specter/4129379f-8d85-4929-affd-1e5fd604b0a9) |
+| 10a Labs | Machine Learning Engineer | Remote | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/10alabs/jobs/4273194009) |
+| 10a Labs | Software Engineer, Infrastructure & Platform | Remote | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/10alabs/jobs/4331389009) |
+| Accenture | PeopleSoft Application Developer | Washington, DC | 11d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4709348006?gh_jid=4709348006) |
+| Freedom Technology Solutions Group | Software Developer 503 | Springfield, VA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/4740049007) |
+| iCapital Network | Backend Engineer, Blockchain - Assistant Vice President | Salt Lake City, Utah, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8534813002) |
+| iCapital Network | Backend Engineer Scala - Assistant Vice President | New York, New York, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8645602002) |
+| iCapital Network | Backend Software Engineer - Assistant Vice President | Greenwich,  Connecticut, United States; New York, New York, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8646019002) |
+| iCapital Network | Backend Software Engineer - Associate / Assistant Vice President | Salt Lake City, Utah, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8534824002) |
+| iCapital Network | Blockchain / Backend Engineer - Vice President | New York, New York, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8645615002) |
+| iCapital Network | Cloud Infrastructure Engineer -  Vice President | Salt Lake City, Utah, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8577716002) |
+| iCapital Network | DevSecOps Platform Engineer - Vice President | Salt Lake City, Utah, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8393357002) |
+| iCapital Network | Full Stack Engineer - Assistant Vice President | Salt Lake City, Utah, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8452446002) |
+| iCapital Network | Full Stack Engineer, Ruby and React - Vice President | Salt Lake City, Utah, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8452434002) |
+| iCapital Network | Python Software Developer in Test - Assistant Vice President | Salt Lake City, Utah, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8451059002) |
+| iCapital Network | Scala Backend Software Engineer - Vice President | Salt Lake City, Utah, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8543881002) |
+| iCapital Network | Software Engineer - Associate / Assistant Vice President | Salt Lake City, Utah, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8662826002) |
+| iCapital Network | Software Engineer -  Vice President | Salt Lake City, Utah, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8662833002) |
+| iCapital Network | UI Frontend Engineer - Associate | New York, New York, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8645574002) |
+| NewsBreak | AI Engineer, Agent Platform | Mountain View, California, United States | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/newsbreak/jobs/4683873006) |
+| Trace3 | Software Engineer BM/SRM (26-216) | Huntsville, AL | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trace3/jobs/8003848) |
+| Virtu Financial | 2027 Internship - Software Engineer | Austin, TX; New York | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
+| Voyager Technologies | Embedded Software Engineer | Pittsburgh, PA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4355447009) |
+| Voyager Technologies | Machine Learning Engineer - Associate | El Segundo, CA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356972009) |
+| Voyager Technologies | Machine Learning Engineer - Mid-Level | El Segundo, CA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356982009) |
+| Voyager Technologies | Software Engineer | San Diego, CA | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4355026009) |
+| Warp | Software Engineer, Enterprise Security | Remote | 11d ago | greenhouse | [apply](https://job-boards.greenhouse.io/warp/jobs/6163780004) |
+| Notability | Backend Engineer | SF | 11d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/gingerlabsinc/jobs/5410136008) |
+| Anthropic | Applied AI Architect, Startups | San Francisco, CA / New York City, NY | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5406982008) |
+| Anthropic | Applied AI Architect, Strategic Enterprise Tech | San Francisco, CA / New York City, NY / Seattle, WA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5409008008) |
+| Nuro | Software Engineer, Sensor Platform | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=8163179) |
+| Nuro | Software Engineer, Video Streaming | Mountain View, California (HQ) | 12d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=8164473) |
+| Anyscale | Software Engineer (Ray Data) | San Francisco | 12d ago | ashby | [apply](https://jobs.ashbyhq.com/anyscale/01aef589-e268-4b22-b513-d1f9f076210f) |
+| Exa | Software Engineer, Intern | San Francisco, California | 12d ago | ashby | [apply](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) |
+| Exa | Software Engineer, Security | San Francisco, California | 12d ago | ashby | [apply](https://jobs.ashbyhq.com/exa/c4081592-fa8c-4fed-9041-70c62feee157) |
+| Mercor | Software Engineer, Agents | New York City | 12d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/f6035e89-f820-482c-9500-efb70226b134) |
+| Retell AI | Applied AI Engineer (Customer Facing) | San Francisco Bay Area | 12d ago | ashby | [apply](https://jobs.ashbyhq.com/retell-ai/1fcd6e82-2a31-4e2f-abcf-be069ebb6e8c) |
+| Accenture | Pega Software Developer | Washington, DC | 12d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4709154006?gh_jid=4709154006) |
+| Eulerity | Associate Backend Engineer | New York, New York | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/eulerity/jobs/4709039006) |
+| Freeform | Factory Infrastructure Engineer | Los Angeles, CA (On-site) | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7979541003) |
+| impact.com | Full Stack Software Engineer | Seattle, Washington | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/impact/jobs/8465838002) |
+| Jane Street | Front End Software Engineer | New York, New York, United States | 12d ago | greenhouse | [apply](https://www.janestreet.com/join-jane-street/apply/6184529002?gh_jid=6184529002) |
+| Jane Street | Machine Learning Engineer | New York, New York, United States | 12d ago | greenhouse | [apply](https://www.janestreet.com/join-jane-street/apply/8611307002?gh_jid=8611307002) |
+| Jane Street | Software Engineer | New York, New York, United States | 12d ago | greenhouse | [apply](https://www.janestreet.com/join-jane-street/apply/4274288002?gh_jid=4274288002) |
+| Jane Street | Software Engineer / Writer | New York, New York, United States | 12d ago | greenhouse | [apply](https://www.janestreet.com/join-jane-street/apply/7604415002?gh_jid=7604415002) |
+| LG Electronics | Backend/ML Engineer | Santa Clara, CA  | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/lgelectronics/jobs/5394128008) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Berkeley, CA, USA | Berkeley, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975174004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Bloomington, IN, USA | Bloomington, IN, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975324004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Buffalo, NY, USA | Buffalo, NY, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975336004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Chicago, IL, USA | Chicago, IL, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975129004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Colorado Springs, CO, USA | Colorado Springs, CO, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975297004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Dallas, TX, USA | Dallas, TX, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976292004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Des Moines, IA, USA | Des Moines, IA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975330004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Fremont, CA, USA | Fremont, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975180004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Honolulu, HI, USA | Honolulu, HI, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975312004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Huntsville, AL, USA | Huntsville, AL, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975198004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Irvine, CA, USA | Irvine, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975192004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Long Beach, CA, USA | Long Beach, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975138004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Louisville, KY, USA | Louisville, KY, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975384004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Milwaukee, WI, USA | Milwaukee, WI, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975318004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Mountain View, CA, USA | Mountain View, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975162004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Newark, NJ, USA | Newark, NJ, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975216004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - New Haven, CT, USA | New Haven, CT, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975235004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Norfolk, VA, USA | Norfolk, VA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975354004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Philadelphia, PA, USA | Philadelphia, PA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975223004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Salt Lake City, UT, USA | Salt Lake City, UT, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975152004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - San Francisco, CA, USA | San Francisco, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976298004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Santa Monica, CA, USA | Santa Monica, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975186004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Seattle, WA, USA | Seattle, WA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975123004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Sunnyvale, CA, USA | Sunnyvale, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975168004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Tacoma, WA, USA | Tacoma, WA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975283004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Tampa, FL, USA | Tampa, FL, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975204004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Washington, DC, USA | Washington, DC, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976286004) |
+| Speechify | Software Engineer, Platform - Atlanta, GA, USA | Atlanta, GA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976196004) |
+| Speechify | Software Engineer, Platform - Austin, TX, USA | Austin, TX, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974147004) |
+| Speechify | Software Engineer, Platform - Bakersfield, CA, USA | Bakersfield, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974146004) |
+| Speechify | Software Engineer, Platform - Bellevue, WA, USA | Bellevue, WA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976202004) |
+| Speechify | Software Engineer, Platform - Bend, OR, USA | Bend, OR, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974164004) |
+| Speechify | Software Engineer, Platform - Chattanooga, TN, USA | Chattanooga, TN, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974257004) |
+| Speechify | Software Engineer, Platform - Columbus, OH, USA | Columbus, OH, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974193004) |
+| Speechify | Software Engineer, Platform - Fort Collins, CO, USA | Fort Collins, CO, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974176004) |
+| Speechify | Software Engineer, Platform - Houston, TX, USA | Houston, TX, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974157004) |
+| Speechify | Software Engineer, Platform - Huntsville, AL, USA | Huntsville, AL, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974265004) |
+| Speechify | Software Engineer, Platform - Long Beach, CA, USA | Long Beach, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974136004) |
+| Speechify | Software Engineer, Platform - Madison, WI, USA | Madison, WI, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974181004) |
+| Speechify | Software Engineer, Platform - Newark, NJ, USA | Newark, NJ, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974226004) |
+| Speechify | Software Engineer, Platform - New Orleans, LA, USA | New Orleans, LA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974267004) |
+| Speechify | Software Engineer, Platform - Oakland, CA, USA | Oakland, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974121004) |
+| Speechify | Software Engineer, Platform - Omaha, NE, USA | Omaha, NE, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974211004) |
+| Speechify | Software Engineer, Platform - Pittsburgh, PA, USA | Pittsburgh, PA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974234004) |
+| Speechify | Software Engineer, Platform - Providence, RI, USA | Providence, RI, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974204004) |
+| Speechify | Software Engineer, Platform - Richmond, VA, USA | Richmond, VA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974216004) |
+| Speechify | Software Engineer, Platform - San Francisco, CA, USA | San Francisco, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976208004) |
+| Speechify | Software Engineer, Platform - Santa Clara, CA, USA | Santa Clara, CA, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974128004) |
+| Speechify | Software Engineer, Platform - Stony Brook, NY, USA | Stony Brook, NY, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974196004) |
+| Speechify | Software Engineer, Platform - St. Petersburg, FL, USA | St. Petersburg, FL, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974235004) |
+| Speechify | Software Engineer, Platform - Tempe, AZ, USA | Tempe, AZ, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974143004) |
+| Speechify | Software Engineer, Platform - Tulsa, OK, USA | Tulsa, OK, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974245004) |
+| Speechify | Software Engineer, Platform - Washington, DC, USA | Washington, DC, USA | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974208004) |
+| Trace3 | Algorithm Software Engineer | Huntsville, AL | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trace3/jobs/8164535) |
+| UJET | Full Stack Engineer, AI Platform | Remote, US | 12d ago | greenhouse | [apply](https://job-boards.greenhouse.io/ujet/jobs/4710463005) |
+| Robert Bosch Venture Capital | Metrologist/CMM Programmer | Albion, US | 12d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/boschgroup/744000146184839) |
+| Harvard University | Research Software Engineer | Boston, US | 12d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/harvarduniversity/3743990014919476) |
+| Southern Company | Application Developer 1 - Asset Technology AMI | Naperville, IL; Atlanta, GA | 12d ago | SimplifyJobs | [apply](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21161) |
+| Vanta | Software Engineer, Integrations Platform, Vanta For Government (V4G) | Remote U.S. | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a) |
+| Anthropic | Strategy & Operations, Applied AI - AMER | San Francisco, CA / New York City, NY | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5284500008) |
+| Nuro | Applied AI Researcher, Agent Systems & Evaluation | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7793005) |
+| Nuro | Full Stack Software Engineer, Fleet Platform and Operations Tooling | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7917839) |
+| Nuro | Software Engineer, AI Platform - Intern | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7351061) |
+| Nuro | Software Engineer, Applied AI Infrastructure | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=8122990) |
+| Nuro | Software Engineer, Autonomy Visualization | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7896063) |
+| Nuro | Software Engineer, Data Platform | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7895644) |
+| Nuro | Software Engineer, ML Data Infrastructure | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7895818) |
+| Nuro | Software Engineer, ML Inference Platform | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=8122537) |
+| Nuro | Software Engineer, ML Infrastructure | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=6909931) |
+| Nuro | Software Engineer, ML Infrastructure, Optimization | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=6916236) |
+| Nuro | Software Engineer, ML Infrastructure Platform | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=8122483) |
+| Nuro | Software Engineer, Offboard Infrastructure | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7638789) |
+| Nuro | Software Engineer, Onboard Platform | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7998328) |
+| Nuro | Software Engineer, Performance Tooling and Infrastructure | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7786521) |
+| Nuro | Software Engineer, Routing | Mountain View, California (HQ) | 13d ago | greenhouse | [apply](https://nuro.ai/careersitem?gh_jid=7482347) |
+| Reddit | Backend Software Engineer, PDP Experience | Remote - United States | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/reddit/jobs/8148431) |
+| Vercel | Security Software Engineer, IAM | Remote - United States | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/6093255004) |
+| Vercel | Software Engineer, Trust & Safety | Hybrid - San Francisco, New York City | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5649459004) |
+| 8VC | Software Engineer - MeritFirst | Austin, TX | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/8vc/1625aeeb-f518-4f16-81cb-a42c25ef1014) |
+| Anyscale | Software Engineer, ML Developer Experience | San Francisco | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/anyscale/81c3c26a-71e3-4c4c-a88e-88c538a169be) |
+| N1 | Software Engineer (Full Stack) | New York City | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/n1/2213cef6-fbcd-42f7-8e0e-c6a23bfc1119) |
+| Perplexity AI | Applied AI Architect, Perplexity Computer | San Francisco | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2) |
+| TRM Labs | Backend Engineer, Agent Tools | United States | 13d ago | ashby | [apply](https://jobs.ashbyhq.com/trm-labs/1eff4d33-7cf1-4682-a548-dcc4abd913f3) |
+| Accenture | AI/ML Full Stack Engineer | Columbia, MD | 13d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4695377006?gh_jid=4695377006) |
+| Accenture | .Net / React Full Stack Developer | Washington, DC | 13d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4708769006?gh_jid=4708769006) |
+| Axle | Full Stack Developer | Remote | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/axle/jobs/5217971007) |
+| Data Systems Analysts | Software Developer - Mid (SMDC) | Huntsville, AL | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5391523008) |
+| Defense Unicorns | Platform Engineer (FedD200/ FedD201/ FedD202) | Remote, United States | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/5223131007) |
+| Dialpad | Software Engineer (Agentic Systems) | Bay Area, US | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/dialpad/jobs/8633544002) |
+| Metron | Rust Software Engineer | Reston, VA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/metron/jobs/5223907007) |
+| Metron | Software Development Engineer in Test (SDET) | Reston, VA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/metron/jobs/5222417007) |
+| Metron | Software Engineer, Infrastructure | Reston, VA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/metron/jobs/5223845007) |
+| Muon Space | Software Engineer, Customer Solutions | San Jose, CA | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5222971007) |
+| Planet | Software Engineer, Missions Software | United States, Remote | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/planetlabs/jobs/8008355) |
+| Planet | Software Engineer - Platform, Mission Systems | United States, Remote | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/planetlabs/jobs/8022265) |
+| Planet | Software Engineer, Platform Operations | United States, Remote | 13d ago | greenhouse | [apply](https://job-boards.greenhouse.io/planetlabs/jobs/7555019) |
+| Arrive Logistics | Software Engineer | Chicago, IL | 13d ago | lever | [apply](https://jobs.lever.co/arrivelogistics/ed5b4a1d-619e-4b35-9c56-ece700a5282d) |
+| Zoox | Embedded Software Engineer, Wireless Technologies | Foster City, CA | 13d ago | lever | [apply](https://jobs.lever.co/zoox/7522162e-a518-444e-8fe7-49b8b45bbdd3) |
+| Talan | C# Software Developer (.NET) - NYC | New York, US | 13d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/talan/744000146028838) |
+| Textron | Software Engineer | Wilmington, MA | 13d ago | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344719) |
+| Global Lending Services | Software Developer | Greenville, SC | 13d ago | SimplifyJobs | [apply](https://jobs.lever.co/glsllc/6fe04362-4ef7-46f2-acc7-4a72355ed90c/apply) |
+| Watershed | Software engineer, full-stack | New York City | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/watershed/2f60ee9b-cb7f-4c05-93d2-bad49243bf31) |
+| Robinhood | Full Stack Software Engineer, Credit Cards & Banking | Bellevue, WA; Menlo Park, CA; New York, NY | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723) |
+| Robinhood | Machine Learning Engineer | Bellevue, WA | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/7960680?t=gh_src=&gh_jid=7960680) |
+| Robinhood | Software Engineer, Backend | Menlo Park, CA; New York, NY | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) |
+| Robinhood | Software Engineer, Cryptography | Bellevue, WA; Menlo Park, CA | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370) |
+| Robinhood | Software Engineer, Wallet | Menlo Park, CA; New York, NY | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/robinhood/jobs/8088444?t=gh_src=&gh_jid=8088444) |
+| Benchling | Software Engineer, Platform (Developer Experience) | San Francisco, CA | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/benchling/63d7d126-efaf-4a48-b328-f8d85b640ebf) |
+| Cerebras | Cloud Infrastructure Engineer | Sunnyvale, CA | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/cerebras/2b22599f-b1ee-46ef-8684-1475bc49bac0) |
+| Mercor | Software Engineer, Marketplace | San Francisco | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/160c8177-765b-4bdc-a5be-5f646dccc98a) |
+| Realm | Software Engineer - Intern | Remote | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
+| Treeswift | Full Stack Software Engineer | New York Office | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/treeswift/7a4f57cf-f80c-481d-a086-84b1328fbbbc) |
+| Zip | Software Engineer Intern (Summer 2027) | San Francisco | 14d ago | ashby | [apply](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf) |
+| Axon | CMM Programmer (Onsite) | Mesa, Arizona, United States | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/axon/jobs/7866206003) |
+| Atoms | Robotics Software Engineer Intern | Pittsburgh, PA | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002) |
+| Katalyst Space Technologies | Software Engineer, Ground Software | Broomfield, Colorado, United States | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/katalyst/jobs/6130553004) |
+| LeoLabs | Radar Software Engineer | Remote | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/leolabsinc/jobs/4205913009) |
+| Neuralink | Software Engineer, Next Gen | Austin, Texas, United States; South San Francisco, California, United States | 14d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6658884003?gh_jid=6658884003) |
+| Oklo | Software Engineer | Santa Clara, CA or Remote | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/oklo/jobs/4018702004) |
+| Oklo | Software Engineer (Applied AI/ML) | Santa Clara, CA or Remote | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/oklo/jobs/6150355004) |
+| QuEra Computing | Scientific Software Engineer - Developer Experience | Boston, MA, USA | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5369462008) |
+| Stratolaunch | Flight Software Engineer | Mojave, California, United States | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/stratolaunch/jobs/4606174008) |
+| Trace3 | Software Engineer | AI & Automation | United States | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/trace3/jobs/8157855) |
+| Truveta | Software Engineer – Cerberus | Seattle, WA | 14d ago | greenhouse | [apply](https://job-boards.greenhouse.io/truveta/jobs/6147526004) |
+| Kitware | Software Engineer | Clifton Park, New York | 14d ago | lever | [apply](https://jobs.lever.co/kitware/2037d8ac-2c76-4b33-a72c-acb0500cf09e) |
+| Veeva Systems | Platform Engineer - Commercial Services Tools | Massachusetts - Boston | 14d ago | lever | [apply](https://jobs.lever.co/veeva/47279623-8cbf-42f9-8f41-461c25af2edf) |
+| Zoox | Software Engineer - C++ Core Data | Foster City, CA | 14d ago | lever | [apply](https://jobs.lever.co/zoox/c2abc555-0105-4eda-b9c9-5c9ee28703e7) |
+| Lawrence Livermore National Laboratory (LLNL) | Software Developer-Mid Career | Livermore, US | 14d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/llnl/3743990014860026) |
+| Wabtec | Embedded Software Engineer | Salem, US | 14d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/wabtec/3743990014870476) |
+| DTCC | Application Developer Analyst - 2027 EDGE Program | Tampa, FL; Dallas, TX; Jersey City, NJ | 14d ago | SimplifyJobs | [apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463) |
+| General Dynamics Mission Systems | Software Engineer - Crypto and Cross Domain Solutions | Scottsdale, AZ | 14d ago | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/74514/job?mobile=true&needsRedirect=false) |
+| NewRocket | AI Engineer - Anthropic | Remote in USA | 14d ago | SimplifyJobs | [apply](https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004) |
+| Torc Robotics | Machine Learning Engineer - MLOps Framework | Remote in USA | 14d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002) |
+| Hewlett Packard Enterprise | Software Engineer | Westford, MA | 14d ago | SimplifyJobs | [apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208691) |
+| OpenAI | Software Engineer, AI accelerator Runtime | San Francisco | 15d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532) |
+| OpenAI | Systems Software Engineer, Silicon Bringup | San Francisco | 15d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143) |
+| Anthropic | Applied AI Engineer, Beneficial Deployments (Life Sciences) | San Francisco, CA / New York City, NY | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5021015008) |
+| Anthropic | IT Systems Engineer, Mobile Client Platform Engineer | Boston, MA; Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY; Washington, DC | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5396384008) |
+| Anthropic | Software Engineer, Business Technology | New York City, NY / Seattle, WA; San Francisco, CA / New York City, NY | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5400153008) |
+| Block | Enterprise People Platform Engineer | Bay Area, CA, United States of America | 15d ago | greenhouse | [apply](http://block.xyz/careers/jobs/5381210008?gh_jid=5381210008) |
+| Figma | Software Engineer Intern (Winter 2027) | San Francisco, CA • New York, NY | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) |
+| Vercel | Software Engineer, Data Platform | Hybrid - San Francisco, New York City | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/6161129004) |
+| Hadrian | Software Engineer, Machine Interfaces | Los Angeles, CA | 15d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/0276373a-fcf7-4a19-bdac-59ac8a0a67d0) |
+| Rivet Industries | Software Engineer Intern, XR Team (Fall 2026) | Bellevue, WA | 15d ago | ashby | [apply](https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc) |
+| Sierra | Software Engineer, Agent - Public Sector | San Francisco, CA | 15d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/c66b30fc-9588-4699-85c1-2166b23b8778) |
+| Snowflake | Software Engineer - Data Clean Room/ AI Data Hub | US-WA-Bellevue | 15d ago | ashby | [apply](https://jobs.ashbyhq.com/snowflake/2b3e7582-84c9-4fd1-969c-16ae1a4f61e6) |
+| Apptronik | Software Engineer - Dexterous Manipulation | Austin, TX | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/apptronik/jobs/6135687004?gh_jid=6135687004) |
+| BrightAI | AI Engineer, Time-Series Signal Processing | Palo Alto, CA | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/brightai/jobs/5616556004) |
+| Freeform | Software Engineer (Embedded) | Los Angeles, CA (On-site) | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7770777003) |
+| Freeform | Software Engineer (Full Stack Enterprise) | Los Angeles, CA (On-site) | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7704562003) |
+| MORSE Corp | Autonomy Software Engineer | Cambridge, MA | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/6510212003?gh_jid=6510212003) |
+| MORSE Corp | Cloud Software Engineer | Cambridge, MA, Arlington, VA  | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/6042651003?gh_jid=6042651003) |
+| MORSE Corp | C++ Software Engineer | Cambridge, MA | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/7834095003?gh_jid=7834095003) |
+| MORSE Corp | Embedded Software Engineer | Cambridge, MA | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/7453242003?gh_jid=7453242003) |
+| MORSE Corp | Front End Software Engineer | Cambridge, MA | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/7619938003?gh_jid=7619938003) |
+| MORSE Corp | Full Stack Software Engineer | Cambridge, MA, Arlington, VA, Seattle, WA  | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/6620672003?gh_jid=6620672003) |
+| MORSE Corp | Python Software Engineer | Cambridge, MA, Arlington, VA | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/6005590003?gh_jid=6005590003) |
+| MORSE Corp | Robotics Software Engineer | Cambridge, MA | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/morsecorp/jobs/7668590003?gh_jid=7668590003) |
+| Neuralink | Embedded Software Engineer, Implant Embedded Systems | Austin, Texas, United States; South San Francisco, California, United States | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6550259003?gh_jid=6550259003) |
+| Neuralink | Software Engineer, CI/CD | Austin, Texas, United States; South San Francisco, California, United States | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/7743089003?gh_jid=7743089003) |
+| Neuralink | Software Engineer, Implant | Austin, Texas, United States; South San Francisco, California, United States | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/6569010003?gh_jid=6569010003) |
+| Neuralink | Software Engineer, Robotics | Austin, Texas, United States; South San Francisco, California, United States | 15d ago | greenhouse | [apply](https://boards.greenhouse.io/neuralink/jobs/4205469003?gh_jid=4205469003) |
+| PatientPoint | Software Engineer in Test | Cincinnati, Ohio, United States | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/patientpoint/jobs/4722426005) |
+| SharkNinja | Applied AI & Analytics Associate Opportunities | Needham, MA, United States | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4680287006) |
+| Smartsheet | Software Engineer - Mobile (Remote Eligible in Bulgaria) |  -REMOTE, BULGARIA- | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/smartsheet/jobs/8141665) |
+| Woolpert | Embedded Systems & LIDAR Software Engineer | Kiln, MS | 15d ago | greenhouse | [apply](https://job-boards.greenhouse.io/woolpert/jobs/4370881009) |
+| Rainmaker | Software Engineer, Infrastructure | El Segundo, CA | 15d ago | lever | [apply](https://jobs.lever.co/make-rain/91bdb036-ae7d-47e4-828b-fb7761665226) |
+| LinkedIn | Software Engineer - Systems and Infrastructure | Mountain View, US | 15d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/linkedin3/744000145375788) |
+| Parallel Systems | Embedded Software Engineer - Vehicle Software | LA | 15d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/parallel/jobs/5220626007) |
+| TikTok | Machine Learning Engineer - E-Commerce Knowledge Graph | San Jose, CA | 15d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7676647728043280645) |
+| Infleqtion | Quantum Software Engineer - Compiler & Control Systems | Chicago, IL | 15d ago | SimplifyJobs | [apply](https://apply.workable.com/coldquanta/j/DA0D4B3975/apply) |
+| Infleqtion | Quantum Software Engineer - Compiler | Chicago, IL | 15d ago | SimplifyJobs | [apply](https://apply.workable.com/coldquanta/j/1B97312CA0/apply) |
+| OceanComm | Embedded Software Engineer - DSP | Chicago, IL | 15d ago | SimplifyJobs | [apply](https://apply.workable.com/oceancomm/j/912979C2F0/apply) |
+| Amazon | Software Development Engineer - Amazon Leo | Redmond, WA; Northridge, LA | 15d ago | SimplifyJobs | [apply](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) |
+| KLA | AI Engineer - Computer Vision/Signal Processing | Milpitas, CA | 15d ago | SimplifyJobs | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582) |
+| Foundation Health | Software Engineer | Orlando, FL; Remote in USA | 15d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application?embed=true) |
+| Notion | Software Engineer, Developer Platform | San Francisco, California | 16d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a) |
+| OpenAI | Software Engineer, Model Runtime | San Francisco | 16d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96) |
+| Anthropic | Security Software Engineer, Detection & Response Platform | New York City, NY / Seattle, WA; San Francisco, CA / New York City, NY / Seattle, WA; Washington, DC | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4595463008) |
+| Specter | Software Engineer — Fleet | San Francisco | 16d ago | ashby | [apply](https://jobs.ashbyhq.com/specter/0c92d7fa-34eb-48a8-92db-8ff213acdd6f) |
+| OpenSesame | Applied AI Engineer, Internal Automation | Remote | 16d ago | greenhouse | [apply](https://boards.greenhouse.io/opensesame/jobs/8152738?gh_jid=8152738) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Anaheim, CA, USA | Anaheim, CA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975141004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Arlington, VA, USA | Arlington, VA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975242004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Bellevue, WA, USA | Bellevue, WA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975124004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Burlington, VT, USA | Burlington, VT, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975349004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Cambridge, MA, USA | Cambridge, MA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975211004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Cary, NC, USA | Cary, NC, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975193004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Charleston, SC, USA | Charleston, SC, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975367004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Cleveland, OH, USA | Cleveland, OH, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975199004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - College Park, MD, USA | College Park, MD, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975175004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Durham, NC, USA | Durham, NC, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975187004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Fort Worth, TX, USA | Fort Worth, TX, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975163004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Houston, TX, USA | Houston, TX, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975169004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Ithaca, NY, USA | Ithaca, NY, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975343004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Memphis, TN, USA | Memphis, TN, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975373004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - New Orleans, LA, USA | New Orleans, LA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975319004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Oklahoma City, OK, USA | Oklahoma City, OK, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975331004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Provo, UT, USA | Provo, UT, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975155004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Reno, NV, USA | Reno, NV, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975299004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Reston, VA, USA | Reston, VA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975248004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Saint Paul, MN, USA | Saint Paul, MN, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975181004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Santa Cruz, CA, USA | Santa Cruz, CA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975313004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - Spokane, WA, USA | Spokane, WA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975286004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - St. Louis, MO, USA | St. Louis, MO, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975205004) |
+| Speechify | Software Engineer, Data Infrastructure & Acquisition - West Palm Beach, FL, USA | West Palm Beach, FL, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5975325004) |
+| Speechify | Software Engineer, Platform - Anaheim, CA, USA | Anaheim, CA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974137004) |
+| Speechify | Software Engineer, Platform - Berkeley, CA, USA | Berkeley, CA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974122004) |
+| Speechify | Software Engineer, Platform - Boston, MA, USA | Boston, MA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974217004) |
+| Speechify | Software Engineer, Platform - Buffalo, NY, USA | Buffalo, NY, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974187004) |
+| Speechify | Software Engineer, Platform - Cambridge, MA, USA | Cambridge, MA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974219004) |
+| Speechify | Software Engineer, Platform - Cincinnati, OH, USA | Cincinnati, OH, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974195004) |
+| Speechify | Software Engineer, Platform - Colorado Springs, CO, USA | Colorado Springs, CO, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974178004) |
+| Speechify | Software Engineer, Platform - Des Moines, IA, USA | Des Moines, IA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974213004) |
+| Speechify | Software Engineer, Platform - Evanston, IL, USA | Evanston, IL, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974173004) |
+| Speechify | Software Engineer, Platform - Fort Worth, TX, USA | Fort Worth, TX, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974151004) |
+| Speechify | Software Engineer, Platform - Hartford, CT, USA | Hartford, CT, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974198004) |
+| Speechify | Software Engineer, Platform - Honolulu, HI, USA | Honolulu, HI, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974165004) |
+| Speechify | Software Engineer, Platform - Kansas City, MO, USA | Kansas City, MO, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974207004) |
+| Speechify | Software Engineer, Platform - Louisville, KY, USA | Louisville, KY, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974259004) |
+| Speechify | Software Engineer, Platform - Nashville, TN, USA | Nashville, TN, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974252004) |
+| Speechify | Software Engineer, Platform - Palo Alto, CA, USA | Palo Alto, CA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5976207004) |
+| Speechify | Software Engineer, Platform - Princeton, NJ, USA | Princeton, NJ, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974228004) |
+| Speechify | Software Engineer, Platform - Raleigh, NC, USA | Raleigh, NC, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974236004) |
+| Speechify | Software Engineer, Platform - San Antonio, TX, USA | San Antonio, TX, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974158004) |
+| Speechify | Software Engineer, Platform - San Mateo, CA, USA | San Mateo, CA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974129004) |
+| Speechify | Software Engineer, Platform - Tacoma, WA, USA | Tacoma, WA, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974156004) |
+| Speechify | Software Engineer, Platform - West Palm Beach, FL, USA | West Palm Beach, FL, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974237004) |
+| Speechify | Software Engineer, Platform - Winston-Salem, NC, USA | Winston-Salem, NC, USA | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/speechify/jobs/5974246004) |
+| Virtu Financial | Software Engineer - Frontend Trading Application (C#/.NET) | New York | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/virtu/jobs/4261145002) |
+| Warp | Software Engineer | New York, New York | 16d ago | greenhouse | [apply](https://job-boards.greenhouse.io/warp/jobs/4324888004) |
+| Crowdstrike | Software Engineer - Sensor - SAO | Redmond, WA; Sunnyvale, CA | 16d ago | SimplifyJobs | [apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874) |
+| Google | Software Engineer - AI/Machine Learning - PhD | Madison, WI; Seattle, WA; Raleigh, NC; San Bruno, CA; Durham, NC; Kirkland, WA; NYC; Sunnyvale, CA; Mountain View, CA; Atlanta, GA | 16d ago | SimplifyJobs | [apply](https://www.google.com/about/careers/applications/jobs/results/123087196289671878) |
+| Northwood Space | Network Software Engineer | Torrance, CA | 17d ago | ashby | [apply](https://jobs.ashbyhq.com/northwoodspace/f19b12b2-1f52-43a6-8e0e-a866c92c4fc1) |
+| OpenAI | Applied AI Architect - EDU | San Francisco | 18d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22) |
+| OpenAI | Software Engineer, API Safety | San Francisco | 18d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/990397de-c00c-4577-b093-d8c82b4e9145) |
+| Mariana Minerals | Machine Learning Engineer (Autonomy) | San Francisco HQ | 18d ago | ashby | [apply](https://jobs.ashbyhq.com/marianaminerals/c9be8e0d-bb09-4792-954e-10451b170108) |
+| Sierra | IT Infrastructure Engineer | San Francisco, CA | 18d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6) |
+| Bandwidth | NetSuite Application Developer | Raleigh, NC | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/bandwidth/jobs/8148069) |
+| National Information Solutions Cooperative (NISC) | Database Conversion (ETL) Programmer | Mandan, ND or Lake St. Louis, MO | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/nisc/jobs/8148217) |
+| Point72 | Machine Learning Engineer | New York | 18d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8170176002?gh_jid=8170176002) |
+| Point72 | Machine Learning Engineer, GenAI Technology | New York, NY | 18d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8651402002?gh_jid=8651402002) |
+| Point72 | Machine Learning Infrastructure Engineer, GenAI Technology | New York, NY | 18d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8472280002?gh_jid=8472280002) |
+| Point72 | NLP / AI Engineer | New York | 18d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/7661997002?gh_jid=7661997002) |
+| Point72 | Quantitative Analyst / Software Developer | New York | 18d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002) |
+| Point72 | Quantitative Software Developer | New York | 18d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002) |
+| Point72 | Quantitative Software Developer Intern | New York, London, or Paris | 18d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| Point72 | Software Engineer - Data | New York, NY | 18d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8544800002?gh_jid=8544800002) |
+| Point72 | Software Engineer, Investor and Fund Administration Technology | United States | 18d ago | greenhouse | [apply](https://boards.greenhouse.io/point72/jobs/8372893002?gh_jid=8372893002) |
+| QuEra Computing | Scientific Software Engineer - Compiler | Boston, MA  USA | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/4584808008) |
+| Vestmark | Software Engineer | Boston, MA (Hybrid) | 18d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vestmark/jobs/8009953) |
+| SBT Global | Java Full-Stack Developer (Korean Bilingual) | Santa Ana, US | 18d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/sbtglobalinc/3743990014778306) |
+| Integration Innovation (i3) | Software Engineer | Huntsville, AL | 18d ago | SimplifyJobs | [apply](https://careers-i3-corps.icims.com/jobs/5218/job?mobile=true&needsRedirect=false) |
+| Avalore | AI/ML Engineer | Arlington County, Arlington, VA | 18d ago | SimplifyJobs | [apply](https://apply.workable.com/avalore/j/236521B2C0/apply) |
+| OpenAI | Software Engineer, Private Computing | San Francisco | 19d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/0f887fe6-39f4-44f6-8ee5-230c3002f0d7) |
+| OpenAI | Machine Learning Engineer, Multimodal Perception and Authentication | San Francisco | 19d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174) |
+| Anthropic | Applied AI Architect, Commercial | San Francisco, CA / New York City, NY | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5192805008) |
+| Anthropic | Applied AI Architect, Enterprise Tech | San Francisco, CA / New York City, NY / Seattle, WA | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5383335008) |
+| Anthropic | Applied AI Architect, Industries | New York City, NY; San Francisco, CA / New York City, NY / Seattle, WA | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4461444008) |
+| Anthropic | Applied AI Architect, Partnerships | San Francisco, CA / New York City, NY | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5300430008) |
+| Anthropic | Applied AI Architect, Public Sector (National Security) | Washington, DC | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5390877008) |
+| Anthropic | Applied AI Engineer, Enterprise Tech | San Francisco, CA / New York City, NY / Seattle, WA | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5057647008) |
+| Anthropic | Applied AI Technical Evangelist, Startup Ecosystem | San Francisco, CA | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5116927008) |
+| Anthropic | Full Stack Engineer, Education Labs | San Francisco, CA / New York City, NY | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5097186008) |
+| Anthropic | Full-Stack Software Engineer, Reinforcement Learning | San Francisco, CA / New York City, NY | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5186067008) |
+| Anthropic | Machine Learning Infrastructure Engineer, Safeguards Research | San Francisco, CA / New York City, NY | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5364804008) |
+| Anthropic | Model Performance Software Engineer, Claude Code | San Francisco, CA / New York City, NY | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5098025008) |
+| Anthropic | Software Engineer, Desktop | San Francisco, CA / New York City, NY | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5367585008) |
+| Anthropic | Software Engineer, ML Networking | San Francisco, CA / New York City, NY / Seattle, WA | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4926242008) |
+| Anthropic | Software Engineer, Research Data Platform | San Francisco, CA / New York City, NY | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5191226008) |
+| Anthropic | Software Engineer, Research Tools | San Francisco, CA / New York City, NY; San Francisco, CA / New York City, NY / Seattle, WA | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/anthropic/jobs/4981828008) |
+| ALTEN Technology | Robotics Software Engineer | North Reading, MA | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5197168007) |
+| Babel Street | Data Warehouse Software Engineer | Somerville, Massachusetts, United States | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/babelstreet/jobs/8120325) |
+| Pure Storage | Software Engineer | Santa Clara, California | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/purestorage/jobs/8102970) |
+| US Conec | Software Developer | Hickory, North Carolina, United States | 19d ago | greenhouse | [apply](https://job-boards.greenhouse.io/usconec/jobs/4374306009) |
+| CapTech Consulting | Full-Stack Developer (.NET based) | Salt Lake City, US | 19d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/captechconsulting/744000144608108) |
+| Smiths Detection Group | CNC Programmer | 51 Growth Road, Laconia, US | 19d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/smithsgroup2/744000144781339) |
+| Qualcomm | Verification Software Engineer - Software Engineering | San Diego, CA | 19d ago | SimplifyJobs | [apply](https://qualcomm.eightfold.ai/careers/job/446720426705) |
+| Nucleus Biologics | Full Stack Engineer | San Diego, CA | 19d ago | SimplifyJobs | [apply](https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3) |
+| PPLSI | Software Engineer | Remote in USA | 19d ago | SimplifyJobs | [apply](https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) |
+| General Motors | Software Engineer - AV Data Collection | Sunnyvale, CA | 19d ago | SimplifyJobs | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529) |
+| Fidelity Investments | Software Engineer - Leap | Westlake, TX; Durham, NC; Merrimack, NH | 19d ago | SimplifyJobs | [apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884) |
+| Baseten | AI Engineer | San Francisco | 20d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/b13ec426-d09d-4122-8112-cf25adbd7d60) |
+| OpenAI | Software Engineer, Trainium | San Francisco | 20d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/2bf44c13-a463-4ec7-b152-b8367075246c) |
+| Commure | Fullstack Engineer, Ambient AI | Mountain View, CA | 20d ago | ashby | [apply](https://jobs.ashbyhq.com/commure/d5f91cfa-48ab-430d-b618-ba77c82c64a2) |
+| N1 | Software Engineer Intern (Backend, Rust) | New York City | 20d ago | ashby | [apply](https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6) |
+| DRW | Platform Engineer Intern | Chicago | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7997729) |
+| DRW | Python Software Engineer, Trading Platform | Chicago, New York | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7545859) |
+| DRW | Software Developer Intern | Chicago | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7992936) |
+| DRW | Software Engineer, Cumberland/FICCO Tools Engineering | New York City | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7392396) |
+| DRW | Software Engineer, Research – Cumberland Systematic | Chicago | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/7283668) |
+| DRW | Systems Software Engineer | Chicago | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/drweng/jobs/8120240) |
+| Proconex | Full Stack Developer & AI/ML Engineer - Vision AI | Royersford, Pennsylvania, United States | 20d ago | greenhouse | [apply](https://job-boards.greenhouse.io/proconex/jobs/5970129004) |
+| Hatch IT | Full Stack Developer | Washington, DC | 20d ago | lever | [apply](https://jobs.lever.co/hatchit/01dc3371-523c-451b-b4e7-14f5b5d7ef9b) |
+| Lawrence Livermore National Laboratory (LLNL) | Python Software Developer | Livermore, US | 20d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/llnl/3743990014681646) |
+| Point72 | Software Developer - Developers | NYC | 20d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/point72/jobs/7598678002) |
+| ViaSat | Embedded Software Engineer | Marlborough, MA; Tampa, FL; Tempe, AZ; Carlsbad, CA; Linthicum Heights, MD | 20d ago | SimplifyJobs | [apply](https://careers.viasat.com/jobs/6723?icims=1) |
+| ViaSat | Embedded Software Engineer - Secure Network Systems | Marlborough, MA; Tampa, FL; Tempe, AZ; Carlsbad, CA; Linthicum Heights, MD | 20d ago | SimplifyJobs | [apply](https://careers.viasat.com/jobs/6722?icims=1) |
+| Boston Engineering | Embedded Software Engineer | Waltham, MA | 20d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/BostonEngineeringCorporation/744000144398844) |
+| Truveta | Software Engineer - Commerce | Seattle, WA | 20d ago | SimplifyJobs | [apply](https://job-boards.greenhouse.io/truveta/jobs/6147526004) |
+| TikTok | Research Scientist/Software Engineer - Neural Graphics and World Models | San Jose, CA | 20d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7668854153882011957) |
+| VivSoft Technologies | Software Engineer | Remote in USA | 20d ago | SimplifyJobs | [apply](https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level) |
+| OpenAI | Software Engineer, Plugin Developer Platform | San Francisco | 21d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/71838fdf-4476-490c-81b6-4bf0746f6774) |
+| Brex | AI Engineer, Ecosystem | San Francisco, California, United States | 21d ago | greenhouse | [apply](https://www.brex.com/careers/8606890002?gh_jid=8606890002) |
+| Brex | AI Engineer, Product | San Francisco, California, United States | 21d ago | greenhouse | [apply](https://www.brex.com/careers/8606845002?gh_jid=8606845002) |
+| Databricks | Systems PhD - Software Engineer | Bellevue, Washington; Seattle, Washington | 21d ago | greenhouse | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002) |
+| Figma | Software Engineer - Application Platform | San Francisco, CA • New York, NY • United States | 21d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/6142506004?gh_jid=6142506004) |
+| Reddit | Software Engineer, Content Platform | Remote - United States | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/reddit/jobs/8139781) |
+| Vercel | Security Software Engineer, Open Source Frameworks | Hybrid - San Francisco, New York City, London, Berlin | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/6117204004) |
+| Vercel | Software Engineer, Agent | Hybrid - New York City | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5704320004) |
+| Vercel | Software Engineer, AI SDK | Hybrid - San Francisco, New York City | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5474915004) |
+| Vercel | Software Engineer, CDN | Hybrid - San Francisco, New York City | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5179639004) |
+| Vercel | Software Engineer, CDN Content | Hybrid - San Francisco | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/6105394004) |
+| Vercel | Software Engineer, Deployment Infrastructure | Hybrid - San Francisco, New York City | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5633880004) |
+| Vercel | Software Engineer, eve | Hybrid - San Francisco, New York City | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/6098390004) |
+| Vercel | Software Engineer, Observability | Hybrid - San Francisco, New York City, London | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5428982004) |
+| Vercel | Software Engineer, Workflows | Hybrid - San Francisco, New York City | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/vercel/jobs/5798416004) |
+| Anyscale | Software Engineer, Infrastructure | San Francisco | 21d ago | ashby | [apply](https://jobs.ashbyhq.com/anyscale/8691daef-bfe5-4d01-871f-cf2226ba0c82) |
+| Dyna Robotics | Exceptional Software Engineer | Redwood City, CA | 21d ago | ashby | [apply](https://jobs.ashbyhq.com/dyna-robotics/9f1fb776-9d59-4725-9749-6a529cbdfada) |
+| Quantcast | Software Engineer (Cloud Infrastructure) | Seattle, WA | 21d ago | ashby | [apply](https://jobs.ashbyhq.com/quantcast/18213524-c947-4be3-b728-497f23dcd5cf) |
+| Rivet Industries | Software Engineer, Linux Kernel / Android | San Jose, CA | 21d ago | ashby | [apply](https://jobs.ashbyhq.com/rivet/001345f4-a044-41dd-bc8c-91d09b4969c5) |
+| Strala Group | Software Engineer | San Francisco | 21d ago | ashby | [apply](https://jobs.ashbyhq.com/strala-ai/4c234cbb-477d-4caf-b35f-6518f5eb244e) |
+| Bandwidth | Software Engineer (Voice) | Raleigh, NC | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/bandwidth/jobs/8108712) |
+| Defense Unicorns | Platform Engineer - Army (FedD151/FedD168) | Remote, United States | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/5156350007) |
+| Gradial | Applied AI Engineer | Seattle, WA | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gradial/jobs/4338065009) |
+| Muon Space | Software Engineer, Frontend | San Jose, CA | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5188072007) |
+| US Conec | CMM Programmer | Hickory, North Carolina, United States | 21d ago | greenhouse | [apply](https://job-boards.greenhouse.io/usconec/jobs/4373550009) |
+| Relativity Space | AI Software Engineer - Terrestrial Software - AI, Data and Platform Engineering | Long Beach, CA | 21d ago | SimplifyJobs | [apply](https://boards.greenhouse.io/relativity/jobs/8726261002) |
+| Deeter Analytics | Machine Learning Engineer | Remote in USA | 21d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true) |
+| Amentum | Software Developer/Database Management Specialist-GIS Analyst | Atlantic City, NJ | 21d ago | SimplifyJobs | [apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-NJ-Atlantic-City/Software-Developer-Database-Management-Specialist-GIS-Analyst_R0168362) |
+| Confido | Applied AI Data Analyst | NYC Office | 22d ago | ashby | [apply](https://jobs.ashbyhq.com/confido/b92ca21b-c771-44d0-991b-e3dae7654dab) |
+| Ekho | Full-stack Engineer | New York City HQ | 22d ago | ashby | [apply](https://jobs.ashbyhq.com/ekho/c8888199-a4aa-4b61-9744-67bd2c92f4d8) |
+| HavocAI | Field Software Engineer | Remote  | 22d ago | ashby | [apply](https://jobs.ashbyhq.com/havocai/f7e2a1b3-8999-40ae-93d7-fc3ed79750f5) |
+| Mintlify | Applied AI Engineer | San Francisco | 22d ago | ashby | [apply](https://jobs.ashbyhq.com/mintlify/ec55d98f-6e94-4ffb-9a55-4adad39297c3) |
+| CLEAR | Software Engineer Backend (Java) | New York, New York, United States | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/clear/jobs/8107053) |
+| CLEAR | Software Engineer (Fullstack and Backend Roles) | New York, New York, United States | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/clear/jobs/8043865) |
+| CLEAR | Software Engineer, Infrastructure | New York, New York, United States | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/clear/jobs/7901600) |
+| Grafana Labs | Software Engineer - Platform Metal | UK | Remote | United Kingdom (Remote) | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6144059004) |
+| Muon Space | ​​Platform Engineer, Onboard Compute | San Jose, CA | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5214205007) |
+| Opto Investments | Software Engineer, Backend | New York, New York, United States; Remote; San Francisco, California, United States | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/optoinvest/jobs/7887376003) |
+| Opto Investments | Software Engineer, Product | New York, New York, United States; Remote; San Francisco, California, United States | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/optoinvest/jobs/7887481003) |
+| Scout AI | AI Engineer | Sunnyvale, CA | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scoutai/jobs/4643324008) |
+| Scout AI | Full Stack Software Engineer | Sunnyvale, CA | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scoutai/jobs/4958043008) |
+| Scout AI | Robotics Software Engineer | Sunnyvale, CA | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scoutai/jobs/5137118008) |
+| Scout AI | Software Engineer, Agent Harnessing | Sunnyvale, California | 22d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scoutai/jobs/5248857008) |
+| Agile Defense | Full Stack Engineer / Software Developer (CBP) | Ashburn, VA | 22d ago | lever | [apply](https://jobs.lever.co/agile-defense/98189ef7-8c90-4ccd-b92e-7052b724a773) |
+| CapTech Consulting | Full-Stack Engineer | Atlanta, US | 22d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/captechconsulting/744000144131119) |
+| Lawrence Livermore National Laboratory (LLNL) | Conflict Simulation Software Engineer and Technical Trainer | Livermore, US | 22d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/llnl/3743990014631026) |
+| Woongjin | Backend Engineer _ AI Gateway- Bilingual (Korean/ English) | Plano, US | 22d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/wjcompany/744000143894039) |
+| X Development | Machine Learning Engineer - Tapestry | Mountain View, CA | 22d ago | SimplifyJobs | [apply](https://x.company/careers/8722582002?gh_jid=8722582002) |
+| Alpha Nexus Group | C++ Software Engineer | Chicago, IL | 22d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/AlphaNexusGroup/90016777) |
+| Diesel Laptops | Software Engineer | Dallas, TX | 22d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/DieselLaptops/743999719953833) |
+| Zoro | Full Stack Software Developer | Chicago, IL; Buffalo Grove, IL | 22d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/Zoro/87619425) |
+| Stryker | Software Development Engineer | Fort Wayne, IN | 22d ago | SimplifyJobs | [apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Software-Development-Engineer_R570340) |
+| Eulerity | Associate Web Development Software Engineer (SDK) | New York, New York | 23d ago | greenhouse | [apply](https://job-boards.greenhouse.io/eulerity/jobs/4705868006) |
+| Boom Supersonic | Software Engineer - Exceptional Talent | Centennial, CO | 23d ago | SimplifyJobs | [apply](https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc) |
+| Notion | Software Engineer Intern (Winter 2027) | San Francisco, California | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) |
+| Notion | Software Engineer Intern (Summer 2027) | San Francisco, California | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) |
+| OpenAI | Software Engineer, Compute Infrastructure | San Francisco | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1) |
+| Clay | Software Engineer, Backend (Product) | New York | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/9aeacdb4-2364-40b8-935e-c561af931b5a) |
+| Clay | Software Engineer, Applied AI | New York | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1) |
+| Clay | Software Engineer, Full Stack (Product) | New York | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/4b20eb92-c27c-46fb-8d5b-ead32765a7d8) |
+| Clay | Machine Learning Engineer | San Francisco | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/d04f47c4-aed6-481d-a093-74c2ae4f3432) |
+| Clay | Software Engineer, Data Products & Platform | New York | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/046cb127-d5fc-444f-a2a9-fb4029d6a503) |
+| Clay | Software Engineer, Backend (Infrastructure & Platform) | New York | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/claylabs/29f84bd5-71d5-411f-a3dc-3592949a5240) |
+| Cogent Security | Software Engineer - Applied AI | San Francisco, CA | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/cogent-security/8762ddb1-fad6-40e0-90a9-c239d1cbdb17) |
+| Cogent Security | Software Engineer - Backend | San Francisco, CA | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/cogent-security/8ed91823-a59b-469a-a6ed-51d33c34ddb9) |
+| Cogent Security | Software Engineer - Fullstack | San Francisco, CA | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/cogent-security/962e2482-e91a-44fd-b327-6598d02fb130) |
+| Cogent Security | Software Engineer - Developer Experience | San Francisco, CA | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/cogent-security/86fbea69-21e9-4115-8674-60c2105079d8) |
+| Confido | Applied AI/ML Engineer | NYC Office | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/confido/3a95d866-2e8f-432a-927d-8679386cefe2) |
+| Snowflake | Software Engineer - AIM Virtualization | US-CA-Menlo Park | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/snowflake/08ba6a41-fb63-4b51-aee7-be5501668909) |
+| The Voleon Group | Software Engineer Intern - (Summer 2027) | Berkeley, CA | 25d ago | ashby | [apply](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6) |
+| Rover | Software Engineer, Price Experience | Seattle | 25d ago | lever | [apply](https://jobs.lever.co/rover/a81ab324-969a-44f1-89b4-e7ff7487a735) |
+| WeRide | Software Engineer Intern - Perception/Computer Vision | San Jose, CA | 25d ago | SimplifyJobs | [apply](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7/apply) |
+| State Farm | Software Engineer - iOS | Tempe, AZ; Dunwoody, GA; Richardson, TX; Bloomington, IL | 25d ago | SimplifyJobs | [apply](https://jobs.statefarm.com/jobs/44950?icims=1) |
+| Scale AI | Software Engineer, Enterprise AI | New York, NY; San Francisco, CA | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4513943005) |
+| Mercor | Software Engineer, Search Systems - Code Data | San Francisco | 26d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/aac13ab1-a746-437a-8c56-daf6e8b6c542) |
+| Mintlify | Backend Engineer | San Francisco | 26d ago | ashby | [apply](https://jobs.ashbyhq.com/mintlify/4da2f7a2-3d5a-4652-bf01-aed59f4cb72b) |
+| Northwood Space | Infrastructure Engineer | Torrance, CA | 26d ago | ashby | [apply](https://jobs.ashbyhq.com/northwoodspace/00955a02-867b-42e2-ba35-3cc41020fc99) |
+| Sierra | Software Engineer, Agent - Tech, Media & Telecom | San Francisco, CA | 26d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/4472e6c2-fe4e-4540-a37c-68b9367fe02a) |
+| Accenture | Cloud Platform Engineer | Chantilly, VA | 26d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4705176006?gh_jid=4705176006) |
+| Accenture | Full Stack Developer | Washington, DC | 26d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4704372006?gh_jid=4704372006) |
+| Airtable | Software Engineer, Infrastructure (4-8 YOE) | San Francisco, CA; New York, NY; Seattle, WA | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/airtable/jobs/8400373002) |
+| Airtable | Software Engineer, Product Backend (4-8 YOE) | San Francisco, CA; New York, NY | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/airtable/jobs/8397515002) |
+| Figure | Helix AI Engineer, Training Performance | San Jose, CA | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4705296006) |
+| Muon Space | Software Engineer, Flight Software | San Jose, CA  | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5023371007) |
+| Muon Space | Software Engineer, IR Data Products | San Jose, CA | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5205516007) |
+| Muon Space | Software Engineer, Simulation Infrastructure | San Jose, CA | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5204530007) |
+| Planet | Software Engineer | San Francisco, CA | 26d ago | greenhouse | [apply](https://job-boards.greenhouse.io/planetlabs/jobs/8096079) |
+| Synergy ECP | Mid-Level Full Stack Developer | Washington, DC | 26d ago | lever | [apply](https://jobs.lever.co/synergyecp/ed5bebd6-0a6f-461f-905c-bf92ca2bcff5) |
+| Arcfield | Software Engineer / Electrical Engineer | Chesterbrook, PA | 26d ago | SimplifyJobs | [apply](https://careers.arcfield.com/jobs/8467?icims=1) |
+| Berkshire Hathaway GUARD Insurance Companies | Full Stack Developer | Alpharetta, GA; Scottsdale, AZ; Parsippany-Troy Hills, NJ; Conshohocken, PA; Wilkes-Barre, PA | 26d ago | SimplifyJobs | [apply](https://careers-guard.icims.com/jobs/5913/job?mobile=true&needsRedirect=false) |
+| Fidelity Investments | Leap Software Engineer | Westlake, TX; Durham, NC; Merrimack, NH | 26d ago | SimplifyJobs | [apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859) |
+| Fidelity Investments | Software Engineer - Leap Program | Westlake, TX; Durham, NC; Merrimack, NH | 26d ago | SimplifyJobs | [apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870) |
+| OpenAI | Machine Learning Engineer, API Multicloud | San Francisco | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/5acf4854-1d42-40ca-bff8-4f6f04cdce68) |
+| OpenAI | Full Stack Software Engineer - Codex for Finance | San Francisco | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/099dd6af-b017-4a60-85d5-4c79da3a9ead) |
+| Cerebras | Cluster Operations Software Engineer | Sunnyvale, CA | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/cerebras/f25b9677-32fa-41ed-84d1-0ed704a98533) |
+| HavocAI | Embedded Software Engineer | North Kingstown, RI | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/havocai/c88453f9-7b27-4fc5-8efe-ea5722df0f05) |
+| TRM Labs | Data Platform Engineer - AI Platform | United States | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/trm-labs/2a784630-702d-4b49-a033-5cbd0d9c8a94) |
+| TRM Labs | Software Engineer, Data Infrastructure - AI Platform | United States | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/trm-labs/85d748d0-5377-486f-9209-c811704dbdaa) |
+| Watney | Software Engineer | San Francisco | 27d ago | ashby | [apply](https://jobs.ashbyhq.com/watney/df868f89-e151-4872-b27c-0ef98e7313ce) |
+| AvidXchange | Software Engineer (Multiple Positions) | Charlotte, North Carolina, United States | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/avidxchangeinc/jobs/5109361007) |
+| CaseGuard | Software Engineer - Backend | Arlington, VA | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/caseguard/jobs/5387488008) |
+| Flow Traders | Software Engineer (Trading Automation) | New York | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/flowtraders/jobs/8120460) |
+| Mixpanel | Software Engineer, AI Platform | San Francisco, US (Hybrid) | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mixpanel/jobs/8064216) |
+| PitchBook | Machine Learning Engineer | Seattle, Washington, United States | 27d ago | greenhouse | [apply](https://job-boards.greenhouse.io/pitchbookdata/jobs/4687505006) |
+| T2 Systems | Full Stack Developer | Indianapolis, IN | 27d ago | SimplifyJobs | [apply](https://www.t2systems.com/jobs?gh_jid=4675527006) |
+| Sigla | Software Engineer | St. Louis, MO | 27d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/SiglaLLC/743999662580203) |
+| Presidency Solutions | Software Developer | Farmington Hills, MI | 27d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/PresidencySolutions1/82551703) |
+| Selector Software | Software Engineer | Santa Clara, CA | 27d ago | SimplifyJobs | [apply](https://selectorsoftware.bamboohr.com/careers/193/) |
+| United Smart Tech | AI Engineer - Agents & Experimentation | Carrollton, TX | 27d ago | SimplifyJobs | [apply](https://unitedsmarttech.bamboohr.com/careers/185/) |
+| Kyndryl | Associate AI Engineer | Dallas, TX | 27d ago | SimplifyJobs | [apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2) |
+| Baseten | Software Engineer - Continuous Delivery | San Francisco | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce) |
+| Baseten | Software Engineer - Testing Frameworks | San Francisco | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d) |
+| Baseten | Software Engineer - AI Developer Productivity | San Francisco | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1) |
+| OpenAI | Backend Software Engineer - Codex for Finance | San Francisco | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/a23bd45a-e192-460d-bd34-a0f6c4bc6865) |
+| Figma | Software Engineer - AI Platforms | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004) |
+| Figma | Software Engineer - AI Product | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004) |
+| Figma | Software Engineer - C++ | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004) |
+| Figma | Software Engineer - Data Infrastructure | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004) |
+| Figma | Software Engineer - Developer Experience | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5790627004?gh_jid=5790627004) |
+| Figma | Software Engineer - Distributed Systems | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004) |
+| Figma | Software Engineer - Full Stack | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004) |
+| Figma | Software Engineer - Graphics & Media | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004) |
+| Figma | Software Engineer - Growth & Monetization | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5552560004?gh_jid=5552560004) |
+| Figma | Software Engineer - Machine Learning | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004) |
+| Figma | Software Engineer - Mobile Web | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/6100023004?gh_jid=6100023004) |
+| Figma | Software Engineer - Traffic | San Francisco, CA • New York, NY • United States | 28d ago | greenhouse | [apply](https://boards.greenhouse.io/figma/jobs/6102379004?gh_jid=6102379004) |
+| Hadrian | CAM Programmer, Execution | Los Angeles, CA | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/ca2ab5f8-6a99-458a-9148-eee69122de14) |
+| Mercor | Fullstack Software Engineer, Agent Platform | San Francisco | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/3750ee8a-64d1-46ac-b4f9-6a823f949034) |
+| Nooks | Platform Engineer, Revenue Operations | San Francisco | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/nooks/3c11271a-488e-4272-a303-f76d630eaac3) |
+| Quantcast | Software Engineer (Full Stack) | San Francisco, CA | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809) |
+| Sierra | Software Engineer, Agent - Retail | San Francisco, CA | 28d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/93fea91f-a8a2-4084-8113-1cde73344e33) |
+| BeyondTrust | Software Development Engineer | Remote United States | 28d ago | greenhouse | [apply](https://job-boards.greenhouse.io/beyondtrust/jobs/8119260) |
+| ExtraHop | Framework Software Engineer | Remote / Seattle, WA | 28d ago | greenhouse | [apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6141938004) |
+| Glean | Software Engineer, AI & Security | Mountain View, CA | 28d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4605446005) |
+| Sigma Computing | Software Engineer - Compiler | New York City, NY | 28d ago | greenhouse | [apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767918003) |
+| Truveta | Software Engineer - Live Link | Seattle, WA | 28d ago | greenhouse | [apply](https://job-boards.greenhouse.io/truveta/jobs/6140479004) |
+| SOSi | PeopleSoft Software Developer | Charleston, SC | 28d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/SOSi1/3743990012453536) |
+| 9to9 Software Solutions | Software Developer | Pittsburgh, PA | 28d ago | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209227) |
+| Baseten | Software Engineer - Observability | San Francisco | 29d ago | ashby | [apply](https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda) |
+| Notion | Software Engineer, Collections Infra | San Francisco, California | 29d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/ca74504a-9b91-4ce3-b0df-97919b46e749) |
+| Hadrian | Robotics Software Engineer, Perception | San Francisco Bay Area, CA | 29d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/81aa9da8-eaff-4644-ae5b-a0d105509a0a) |
+| Nova Talent | Mechanical Vision Corp - Software Engineer | New York | 29d ago | ashby | [apply](https://jobs.ashbyhq.com/nova-talent/14c18114-f371-4ef2-8caa-6c0341777850) |
+| One Brief | Software Development Engineer in Test | United States / Remote | 29d ago | ashby | [apply](https://jobs.ashbyhq.com/onebrief/fbd0fd12-5aed-4428-9373-55ec2c5076f3) |
+| Defense Unicorns | Platform Engineer | United States - Remote | 29d ago | greenhouse | [apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/5208110007) |
+| DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) | New York | 29d ago | greenhouse | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) |
+| Samba TV | Full Stack Engineer | San Francisco, California | 29d ago | lever | [apply](https://jobs.lever.co/sambatv/8607b6ab-5488-41f4-a82b-58636df788f6) |
+| WeRide | New Grads 2027 - Software Engineer - Perception/Computer Vision | San Jose, CA | 29d ago | lever | [apply](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7) |
+| WeRide | New Grads 2027 - Software Engineer, Algorithm | San Jose, CA | 29d ago | lever | [apply](https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b) |
+| Western Digital | Software Engineer (Apps) | San Jose, US | 29d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/westerndigital/744000142878952) |
+| Apple | Frontend Engineer | Austin, TX | 29d ago | SimplifyJobs | [apply](https://jobs.apple.com/en-us/details/200676168) |
+| PAM Health | AI Engineer | Plano, TX | 29d ago | SimplifyJobs | [apply](https://careers-pamhealth.icims.com/jobs/91855/job?mobile=true&needsRedirect=false) |
+| Nova Talent | Software Engineer - Early Stage | SF; LA; NYC | 29d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/nova-talent/14c18114-f371-4ef2-8caa-6c0341777850/application?embed=true) |
+| The Anywhere | Full Stack Developer | Hilton Head Island, SC | 29d ago | SimplifyJobs | [apply](https://apply.workable.com/the-anywhere-company/j/523D858ED1/apply) |
+| CWILL | R&D Trainee - Full-Stack Engineer - Backend | Remote in USA; Cary, NC | 29d ago | SimplifyJobs | [apply](https://apply.workable.com/cwill-us/j/1D51B4DDFC/apply) |
+| Insitu | Software Engineer - Simulation | Bingen, WA | 29d ago | SimplifyJobs | [apply](https://insitu.wd1.myworkdayjobs.com/careers/job/Bingen-WA/Software-Engineer---Simulation---Hybrid---Relocation-Assistance-Available_R0003743-1) |
+| Pickle Robot | Robotics Software Engineer | Charlestown, MA | 30d ago | lever | [apply](https://jobs.lever.co/picklerobot/42939c0b-de3b-47fa-a661-e9492c71de63) |
+| Cummins | Product Software Engineer | Columbus, IN | 30d ago | SimplifyJobs | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434259) |
+| Notion | Software Engineer, Infrastructure Security | San Francisco, California | 32d ago | ashby | [apply](https://jobs.ashbyhq.com/notion/e3d8dc06-da05-4e9d-a143-2e9c51fa3d51) |
+| interface.ai | Software Engineer | San Francisco | 32d ago | ashby | [apply](https://jobs.ashbyhq.com/interface-ai/abbcf39d-cac3-49ee-9279-82a59821c300) |
+| Mercor | Software Engineer, Frontier Data Products | San Francisco | 32d ago | ashby | [apply](https://jobs.ashbyhq.com/mercor/ae344099-3fde-4027-bfde-f953db8b4728) |
+| Zoox | Contract Student Worker - Machine Learning Engineer - Data Mining & VLM (Full-time) | Foster City, CA | 32d ago | lever | [apply](https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e) |
+| Belvedere Trading | Software Engineer | Chicago, IL | 32d ago | SimplifyJobs | [apply](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply) |
+| Barrios | Software Developer | Houston, TX | 32d ago | SimplifyJobs | [apply](https://careers-barrios.icims.com/jobs/2840/job?mobile=true&needsRedirect=false) |
+| OpenAI | Software Engineer, Silicon Design Methodology | San Francisco | 33d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/e961c9df-caa0-4b29-b37c-a3e02c564615) |
+| AfterQuery | SWE (LATAM) | San Francisco (Remote) | 33d ago | ashby | [apply](https://jobs.ashbyhq.com/afterquery/f7fa22af-3a09-4cbe-9b7b-bf8719ff9bae) |
+| Hadrian | ML Platform Engineer | Los Angeles, CA | 33d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/18edaac7-95af-4fb6-b25c-b7000911167d) |
+| Hadrian | Data Platform Engineer | Los Angeles, CA | 33d ago | ashby | [apply](https://jobs.ashbyhq.com/hadrian-automation/298e5846-aea9-47d1-a026-d158a5c0a39c) |
+| Kustomer | Software Engineer, Infrastructure (Optimization) | US - New York, NY | 33d ago | ashby | [apply](https://jobs.ashbyhq.com/kustomer/50bf7508-e199-4136-a11f-705f06b834c4) |
+| Northwood Space | Command & Telemetry Software Engineer | Torrance, CA | 33d ago | ashby | [apply](https://jobs.ashbyhq.com/northwoodspace/2ec65763-31ee-47d5-a14f-e2c2b8802281) |
+| Sciforium | Software Engineer, Fullstack | San Francisco, CA | 33d ago | ashby | [apply](https://jobs.ashbyhq.com/sciforium/b5c36095-9588-437e-ab75-f46925517b0c) |
+| CPI Security | Full Stack Software Engineer | Charlotte, North Carolina, United States | 33d ago | greenhouse | [apply](https://job-boards.greenhouse.io/cpisecurity/jobs/4703156006) |
+| Zoox | Embedded Software Engineer - Battery Management Systems | San Diego, CA | 33d ago | lever | [apply](https://jobs.lever.co/zoox/082ed20c-b8e1-4b1c-9c22-4738ad94055d) |
+| Zoox | Embedded Software Engineer - Body Systems | Foster City, CA | 33d ago | lever | [apply](https://jobs.lever.co/zoox/46c23963-2be1-4037-8f1a-ce87bdccde6d) |
+| InterImage | Software Engineer | Remote in USA; Arlington County, Arlington, VA | 33d ago | SimplifyJobs | [apply](https://apply.workable.com/interimage/j/50AEE969C4/apply) |
+| OpenAI | Software Engineer, Distributed Data Systems - Robotics | San Francisco | 34d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/da07ba71-81fd-47c7-adb1-2b2d1eaed325) |
+| OpenAI | Software Engineer, API Enterprise Controls | San Francisco | 34d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/4c0a6cb6-d365-4e5b-bdff-c093d951026d) |
+| Allen Control Systems | Chief CV/ML Engineer | Austin, TX | 34d ago | ashby | [apply](https://jobs.ashbyhq.com/allen-control-systems/acdae127-9d53-4450-a99e-e8d558dfd7a4) |
+| Blueprint Technologies | Systems Security Software Engineer | Redmond, WA | 34d ago | greenhouse | [apply](https://job-boards.greenhouse.io/bpcs/jobs/8095595) |
+| DV Trading | C++ Software Engineer (DV Commodities - New York) | New York | 34d ago | greenhouse | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4721259005) |
+| impact.com | Software Engineer | Seattle | 34d ago | greenhouse | [apply](https://job-boards.greenhouse.io/impact/jobs/8636977002) |
+| Kodiak Robotics | Software Engineer, Routing | Mountain View, CA | 34d ago | greenhouse | [apply](https://job-boards.greenhouse.io/kodiak/jobs/4243323009) |
+| OpenAI | Full-Stack Engineer, ChatGPT Education  & Learning | San Francisco | 35d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c) |
+| Scale AI | Frontier Agents Engineer (Applied AI) | San Francisco, CA; New York, NY | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4720573005) |
+| Palantir | Platform Engineer - Identity Infrastructure | Palo Alto, CA | 35d ago | lever | [apply](https://jobs.lever.co/palantir/721fe5ca-73b8-4223-826e-93a528194821) |
+| Gumloop | Full Stack Software Engineer | San Francisco Office | 35d ago | ashby | [apply](https://jobs.ashbyhq.com/gumloop/a7b6de54-8e37-4d69-ac03-f9c1d4075205) |
+| HavocAI | AI Infrastructure Engineer – Agents & ML Systems | Remote  | 35d ago | ashby | [apply](https://jobs.ashbyhq.com/havocai/69843537-34f3-41e3-a69b-0ce11259d121) |
+| Sierra | Software Engineer - Healthcare Integrations | San Francisco, CA | 35d ago | ashby | [apply](https://jobs.ashbyhq.com/sierra/97ca0c70-f371-4167-9908-2adca3464b8d) |
+| Ginkgo Bioworks | Software Engineer 2, Autonomous Lab | Boston, Massachusetts | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5166911007) |
+| Glean | Software Engineer, Cloud Deployment Infrastructure | San Francisco, CA | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4711861005) |
+| Glean | Software Engineer, Cloud Infrastructure | San Francisco, CA | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4709327005) |
+| Headlands Tech Holdings | C++ Software Developer | Amsterdam; Chicago; London; New York | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227758009) |
+| Headlands Tech Holdings | Java Software Developer | Amsterdam; Chicago; London; New York | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227795009) |
+| Sphinx Defense | Backend Engineer | Colorado Springs, CO | 35d ago | greenhouse | [apply](https://job-boards.greenhouse.io/sphinxdefense/jobs/5294849008) |
+| Field AI | Robotics AI Engineer, Sensor Calibration | Irvine, CA | 35d ago | lever | [apply](https://jobs.lever.co/field-ai/1ff2ae13-b4a7-4800-a52e-d1c858924861) |
+| Layup Parts | Machine Learning Engineer | Huntington Beach, CA | 35d ago | lever | [apply](https://jobs.lever.co/layup/024d2772-e251-4cdf-9b12-0cd919390b8e) |
+| Layup Parts | Software Engineer, Controls & Automation | Huntington Beach, CA | 35d ago | lever | [apply](https://jobs.lever.co/layup/4a97feec-c1af-4f81-8148-d7ad27a88e1e) |
+| Zoox | Embedded Software Engineer - MCU Platforms | Foster City, CA | 35d ago | lever | [apply](https://jobs.lever.co/zoox/4c16c18c-18c0-433c-bc21-8bd72824a1d9) |
+| Asure | Associate AI Software Engineer | Addison, TX | 35d ago | SimplifyJobs | [apply](https://asuresoftware.bamboohr.com/careers/1058/) |
+| Qualcomm | Machine Learning Engineer - Machine Learning Engineering | San Diego, CA | 35d ago | SimplifyJobs | [apply](https://qualcomm.eightfold.ai/careers/job/446717859953) |
+| Starbucks | Application Developer - Application Development | Nashville, TN | 35d ago | SimplifyJobs | [apply](https://starbucks.eightfold.ai/careers/job/481078166376) |
+| Oracle | Application Software Engineer 2 - CDeX | United States | 35d ago | SimplifyJobs | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340958) |
+| Scale AI | Software Engineer, ARC Team | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4673771005) |
+| Scale AI | Software Engineer, Frontier AI Infrastructure | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4363623005) |
+| Scale AI | Software Engineer, Gen AI | San Francisco, CA; New York, NY | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4591300005) |
+| Scale AI | Software Engineer, Identity | San Francisco, CA; New York, NY; Washington, DC | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4710484005) |
+| Brain Co. | Machine Learning Engineer, Platform | San Francisco Bay Area | 36d ago | ashby | [apply](https://jobs.ashbyhq.com/brainco/936df0bf-e4dc-46bb-bb48-b1efcc3cce80) |
+| Northwood Space | Ground Software Engineer | Torrance, CA | 36d ago | ashby | [apply](https://jobs.ashbyhq.com/northwoodspace/56c839ae-d9c7-4647-a0d9-87e3e18f5d42) |
+| Accenture | Fullstack Developer (Ruby on Rails & React) | Washington, DC | 36d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4696593006?gh_jid=4696593006) |
+| Glean | Machine Learning Engineer, Assistant Quality | San Francisco, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4711484005) |
+| Glean | Machine Learning Engineer, Search Quality | Mountain View, CA | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4006735005) |
+| Zone 5 Technologies | Software Engineer V/VI | United States | 36d ago | greenhouse | [apply](https://job-boards.greenhouse.io/zone5technologies/jobs/5239389008) |
+| Belvedere Trading | Software Engineer Intern - Summer 2027 | Chicago, Illinois | 36d ago | lever | [apply](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) |
+| SOCOTEC Global | Applied AI Engineer | New York, US | 36d ago | smartrecruiters | [apply](https://jobs.smartrecruiters.com/socotec/744000141322430) |
+| Repligen | Software Developer 1 | Bridgewater, NJ | 36d ago | SimplifyJobs | [apply](https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Bridgewater-NJ/Software-Developer-I_R-583) |
+| Paradigm | Infrastructure Engineer, Applied AI | San Francisco, CA | 37d ago | ashby | [apply](https://jobs.ashbyhq.com/paradigm/c18c1fb4-9ad7-4657-8366-bc0f5078d3ca) |
+| Paradigm | Product Engineer, Applied AI | San Francisco, CA | 37d ago | ashby | [apply](https://jobs.ashbyhq.com/paradigm/b85b9094-2467-4f49-9a36-ca93da34a3f5) |
+| Retell AI | Software Engineer, Founders Initiatives | San Francisco Bay Area | 37d ago | ashby | [apply](https://jobs.ashbyhq.com/retell-ai/46400d61-feca-45f9-9000-563b8994f60f) |
+| Runpod | Software Engineer (Full-Stack) | Remote - USA | 37d ago | ashby | [apply](https://jobs.ashbyhq.com/runpod/b64a3935-931a-4b7f-9899-7ebe152164c5) |
+| Aquatic Capital Management | Software Engineer, C++ | Chicago; New York; London | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7994855002) |
+| Figure | AI Training Infrastructure Engineer – Humanoid Whole Body Control | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4674754006) |
+| Figure | Helix AI Engineer, Android | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4660876006) |
+| Figure | Helix AI Engineer, Backend | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4685172006) |
+| Figure | Helix AI Engineer, Data Infrastructure | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4345915006) |
+| Figure | Helix AI Engineer, Generative AI | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4671699006) |
+| Figure | Helix AI Engineer, Localization and Mapping | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4696533006) |
+| Figure | Helix AI Engineer, Modeling | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4671712006) |
+| Figure | Helix AI Engineer, Perception | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4007375006) |
+| Figure | Helix AI Engineer, Pretraining | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4671704006) |
+| Figure | Helix AI Engineer, Reinforcement Learning | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4671707006) |
+| Figure | Helix AI Engineer, Robot Learning | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4649851006) |
+| Figure | Helix AI Engineer, Video Pretraining | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4671703006) |
+| Figure | Helix AI Engineer, XR | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4699095006) |
+| Figure | Software Engineer, Manufacturing Systems | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4692559006) |
+| Figure | Software Engineer, Privacy & Data Governance | San Jose, CA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/figureai/jobs/4690871006) |
+| Freedom Technology Solutions Group | Expert Software Engineer 671 | Herndon, VA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5151427007) |
+| Freedom Technology Solutions Group | Full Stack Developer 729 | St. Louis, MO | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5189784007) |
+| Freedom Technology Solutions Group | Machine Learning Engineer 615 | Chantilly, VA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5081498007) |
+| Freedom Technology Solutions Group | Machine Learning Engineer 727 | St. Louis, MO | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5189747007) |
+| Freedom Technology Solutions Group | Mid Level Software Engineer 568 | St. Louis, MO | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/4939561007) |
+| Freedom Technology Solutions Group | React Software Developer 659 | Laurel, MD | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5142816007) |
+| Freedom Technology Solutions Group | Software Developer 700 | St. Louis, MO | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5178341007) |
+| Freedom Technology Solutions Group | Software Developer 703 | Herndon, VA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5181156007) |
+| Freedom Technology Solutions Group | Software Engineer 740 | Chantilly, VA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5196595007) |
+| Freedom Technology Solutions Group | Systems Software Developer 713 | McLean, VA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5185708007) |
+| Freedom Technology Solutions Group | Web Developer 648 | Chantilly, VA | 37d ago | greenhouse | [apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5133938007) |
+| Stellar Science | Emerging Modern C++ Software Developer | Tysons, VA; Albuquerque, NM | 37d ago | SimplifyJobs | [apply](https://stellarscience.applytojob.com/apply/7gp90TxJAT/Emerging-Modern-C-Software-Developer-ABQ) |
+| METECS | Simulation Software Engineer | Houston, TX | 37d ago | SimplifyJobs | [apply](https://metecs.applytojob.com/apply/WykvenszhG/Junior-Simulation-Software-Engineer) |
+| TikTok | Backend Software Engineer - Machine Moderation Platform | Seattle, WA | 37d ago | SimplifyJobs | [apply](https://lifeattiktok.com/search/7663036950303050037) |
+| JP Morgan Chase | Software Engineer | Palo Alto, CA; Houston, TX; Tampa, FL; Plano, TX; Chicago, IL; Jersey City, NJ; Columbus, OH; NYC; Wilmington, DE | 37d ago | SimplifyJobs | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102) |
+| ByteDance | Software Engineer AI Agent Infrastructure - Security Engineering | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667976924430633269/detail) |
+| ByteDance | Artificial Intelligence Software Engineer - Development Infrastructure | San Jose, CA | 37d ago | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7667901772678302005/detail) |
+| Freddie Mac | Software Developer Analyst | McLean, VA | 37d ago | SimplifyJobs | [apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Analyst_JR17441) |
+| Analytical Mechanics Associates | Software Engineer | Mountain View, CA | 37d ago | SimplifyJobs | [apply](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728) |
+| OpenAI | Software Engineer, API Multimodal | San Francisco | 39d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/96de8acb-556e-451b-bc84-7124bb4b0a20) |
+| OpenAI | Software Engineer, API Agents | San Francisco | 39d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda) |
+| Clera | Founding AI Engineer | San Francisco | 39d ago | ashby | [apply](https://jobs.ashbyhq.com/clera/3dc0a0f6-6a53-4a8c-bc70-b007113c348a) |
+| Clera | Founding Full Stack Engineer | San Francisco | 39d ago | ashby | [apply](https://jobs.ashbyhq.com/clera/aa3a1ceb-d5c6-48a8-a025-ed57580c79e8) |
+| Polymarket | Backend Engineer, Markets | New York | 39d ago | ashby | [apply](https://jobs.ashbyhq.com/polymarket/c69d06c3-96df-493a-afdc-80636d494cf2) |
+| Field AI | Software Engineer, Data Engineering | Irvine, CA | 39d ago | lever | [apply](https://jobs.lever.co/field-ai/e3b7bac7-5410-44bb-964c-02815fbd0c97) |
+| Field AI | Software Engineer, DevOps | Irvine, CA | 39d ago | lever | [apply](https://jobs.lever.co/field-ai/b6a02c7e-8726-47b7-b0b0-899644613c47) |
+| Noblis | Software Engineer | Philadelphia, PA | 39d ago | SimplifyJobs | [apply](https://careers.noblis.org/jobs/26643?icims=1) |
+| Woven | Software Engineer, Analysis/Tool | Ann Arbor, MI | 39d ago | vanshb03-2027 | [apply](https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190) |
+| Artera | Software Developer Associate | Seattle, WA | 39d ago | vanshb03-2027 | [apply](https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0) |
+| Reverb | Software Engineer, Shipping | Chicago, IL | 39d ago | vanshb03-2027 | [apply](https://ats.rippling.com/reverb-careers/jobs/25af40a7-e81c-4748-bac2-51e59e78196b) |
+| Pennsylvania State University | DevSecOps Research Computing Software Engineer | State College, PA | 39d ago | vanshb03-2027 | [apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2) |
+| Augmodo | Software Engineer - CV Tooling | United States | 40d ago | ashby | [apply](https://jobs.ashbyhq.com/augmodo/47b48f32-7c36-4963-b7ec-786c920ccba1) |
+| Chamber Cardio | Cloud Security and Infrastructure Engineer | Remote | 40d ago | ashby | [apply](https://jobs.ashbyhq.com/chambercardio/b54f4beb-bc0f-4106-8c01-45bd947cd5dd) |
+| Harvey | Frontend Platform Engineer | San Francisco | 40d ago | ashby | [apply](https://jobs.ashbyhq.com/harvey/19db4c0a-8883-43c3-b667-60463098feb2) |
+| Yes Energy | Fullstack Engineer | Boulder, CO | 40d ago | greenhouse | [apply](https://job-boards.greenhouse.io/yesenergy/jobs/5362627008) |
+| 3PillarGlobal | Mid Full Stack Engineer (Angular, Node, TS) | United States | 40d ago | lever | [apply](https://jobs.lever.co/3pillarglobal/37c48bdd-a18e-4b3f-a521-6b759882804f) |
+| Woven | Software Engineer, Calibration (Analysis/Tool) | Ann Arbor, MI | 40d ago | lever | [apply](https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190) |
+| Apple | Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems | San Diego, CA | 40d ago | SimplifyJobs | [apply](https://jobs.apple.com/en-us/details/200657382) |
+| Motorola | Embedded Software Engineer | Schaumburg, IL | 40d ago | SimplifyJobs | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Embedded-Software-Engineer_R67073) |
+| NCR Voyix | Software Engineer | Atlanta, GA | 40d ago | SimplifyJobs | [apply](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Senior-Principal-IT-Architect_R0158013) |
+| Chime | Software Engineer, Lending | San Francisco, CA, USA | 41d ago | greenhouse | [apply](https://boards.greenhouse.io/chime/jobs/8657011002?gh_jid=8657011002) |
+| Commure | Software Engineer, AI Billing | Mountain View, CA | 41d ago | ashby | [apply](https://jobs.ashbyhq.com/commure/727c0ce9-7d3b-43fe-8d00-05255f094db5) |
+| Commure | Software Engineer, Applied AI (RCM) | Mountain View, CA | 41d ago | ashby | [apply](https://jobs.ashbyhq.com/commure/7e0572ec-fe77-4893-bc33-6d007bbcc5ff) |
+| interface.ai | Applied AI Engineer - Hiring Automation (CEO's Office) | Remote | 41d ago | ashby | [apply](https://jobs.ashbyhq.com/interface-ai/c4d8b111-8084-4e02-86d5-c28591439612) |
+| Accenture | Cloud Infrastructure Engineer | Charlottesville, VA | 41d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4701019006?gh_jid=4701019006) |
+| Aquatic Capital Management | Software Engineer, Intern (Summer 2027) | Chicago | 41d ago | greenhouse | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
+| Rhombus Power | Software Engineer | Washington, District of Columbia, United States | 41d ago | greenhouse | [apply](https://job-boards.greenhouse.io/rhombuspower/jobs/7819861003) |
+| HRL Laboratories | Machine Learning Engineer - Advanced AI and Cognitive Systems | Calabasas, CA | 41d ago | lever | [apply](https://jobs.lever.co/dodmg/f097cef6-6f81-4134-8e40-cecf740271e9) |
+| OpenAI | Software Engineer, Enterprise Verticals | San Francisco | 42d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8) |
+| Abridge | Software Engineer, Generative AI | SF Office | 42d ago | ashby | [apply](https://jobs.ashbyhq.com/abridge/897709b2-e03d-4574-8611-5cfd669adde9) |
+| Snowflake | Software Engineer - Database Engineering | US-CA-Menlo Park | 42d ago | ashby | [apply](https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995) |
+| Glean | Software Engineer, Storage | Mountain View, CA | 42d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4610281005) |
+| Grafana Labs | Backend Engineer - Platform - Stacks | UK | Remote | United Kingdom (Remote) | 42d ago | greenhouse | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999673004) |
+| mthree | Full Stack Developer | Jersey City, New Jersey, United States | 42d ago | greenhouse | [apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4662967006) |
+| Penn Interactive | Software Engineer, Sportsbook Platform |  United States, Remote | 42d ago | greenhouse | [apply](https://job-boards.greenhouse.io/penninteractive/jobs/6108026004) |
+| Schonfeld | Full Stack Engineer | New York, New York, United States | 42d ago | greenhouse | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/7843972) |
+| Schonfeld | Software Engineer - Business Analytics | New York, New York, United States | 42d ago | greenhouse | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/7958235) |
+| Schonfeld | Software Engineer - Fundamental Equities | New York, New York, United States | 42d ago | greenhouse | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/7957507) |
+| OpenAI | Software Engineer - Data Aquisition (systems) | San Francisco | 43d ago | ashby | [apply](https://jobs.ashbyhq.com/openai/70aaaafa-fe2f-4409-9a72-c0faf50d7d01) |
+| Alta Ares | Software Engineer — VIE  USA | NYC | 43d ago | ashby | [apply](https://jobs.ashbyhq.com/alta-ares/ad4ace6a-823c-43ea-ae32-3d0711c33096) |
+| Embedding VC | Software Engineer, Applied AI / Product | San Francisco Bay Area | 43d ago | ashby | [apply](https://jobs.ashbyhq.com/embedding-vc/4b7b35d9-6a2c-43a2-8c36-2bf6974e3b0f) |
+| Sauna | Applied AI Engineer | San Francisco | 43d ago | ashby | [apply](https://jobs.ashbyhq.com/sauna.ai/8b929ad7-204f-4584-bfa5-a356d08fab87) |
+| Accenture | DevOps / Platform Engineer | Hill AFB, UT | 43d ago | greenhouse | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4671061006?gh_jid=4671061006) |
+| Glean | Software Engineer, Data Foundations | San Francisco, CA | 43d ago | greenhouse | [apply](https://job-boards.greenhouse.io/gleanwork/jobs/4637208005) |
+| Truveta | Software Engineer - Data Processing | Seattle, WA | 43d ago | greenhouse | [apply](https://job-boards.greenhouse.io/truveta/jobs/6128329004) |
+| Coherent  | Embedded Systems Software & FPGA Programmer | Elmira, NY | 43d ago | SimplifyJobs | [apply](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466) |
+| Alta Ares | Software Engineer | NYC | 43d ago | SimplifyJobs | [apply](https://jobs.ashbyhq.com/alta-ares/ad4ace6a-823c-43ea-ae32-3d0711c33096/application?embed=true) |
+| Virtu Financial | Software Engineer - Client Trading Infrastructure (Java) | New York | 44d ago | greenhouse | [apply](https://job-boards.greenhouse.io/virtu/jobs/6072565002) |
 
 <details><summary>Sources that failed</summary>
 
@@ -1851,7 +1857,6 @@ _Fresh LinkedIn postings (entry-level + full-time facets, posted in the last 24 
 - & Butler (HTTP 404 — check slug 'cottinghambutlerinsuranceservicesincCottingham')
 - DeepMind (HTTP 404 — check slug 'deepmind')
 - Insurance Brokers & Consultants (HTTP 404 — check slug 'edgewoodpartnersinsurancecenterEPIC')
-- Evolver (HTTP 404 — check slug 'evolver')
 - Mann (HTTP 404 — check slug 'horacemannservicecorporationHorace')
 - industrialelectricmanufacturingIEM (HTTP 404 — check slug 'industrialelectricmanufacturingIEM')
 - Marqeta (HTTP 404 — check slug 'marqeta')
