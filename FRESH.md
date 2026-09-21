@@ -1,298 +1,218 @@
 # Fresh roles — first published in the last 3 days
 
-_Generated 2026-09-18 17:13 UTC. Every row is live on the employer's own ATS board right now, was FIRST published (not merely updated or reposted) within 3 days, and has no application confirmation in your Gmail from the last 15 days._
+_Generated 2026-09-21 18:47 UTC. Every row is live on the employer's own ATS board right now, was FIRST published (not merely updated or reposted) within 3 days, and has no application confirmation in your Gmail from the last 15 days._
 
 | Tier | Company | Role | Location | First posted | Apply |
 |---|---|---|---|---|---|
-| **B** | Stripe (applied here before) | Software Engineer, Early Career — Immediate Start | San Francisco, Seattle, New York | today | [apply](https://stripe.com/jobs/search?gh_jid=8212508) |
-| **B** | Alpaca | Software Engineer - Core Trading | Remote - Americas or EU | 1d ago | [apply](https://job-boards.greenhouse.io/alpaca/jobs/6194973004) |
-| **B** | Roblox | Software Engineer, Discovery UX | San Mateo, CA, United States | 2d ago | [apply](https://careers.roblox.com/jobs/8168383?gh_jid=8168383) |
-| **B** | Twilio | Machine Learning Engineer L2 | Remote - US | 2d ago | [apply](https://job-boards.greenhouse.io/twilio/jobs/8178588) |
-| **B** | mthree | Junior Software Engineer | USA | 3d ago | [apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713126006) |
-| **B** | Twitch (applied here before) | Software Engineer, Data Platform | Seattle, WA | today | [apply](https://job-boards.greenhouse.io/twitch/jobs/8821382002) |
-| **B** | Harvard University | Enterprise Systems Infrastructure Engineer | Boston | today | [apply](https://jobs.smartrecruiters.com/harvarduniversity/3743990015348776) |
-| **B** | AbbVie | Device Software Engineer | North Chicago | 1d ago | [apply](https://jobs.smartrecruiters.com/abbvie/3743990015323316) |
-| **B** | Realtor.com | Full Stack Software Engineer | Austin, Texas, United States | 1d ago | [apply](https://boards.greenhouse.io/rdccareers/jobs/7997475003?gh_jid=7997475003) |
-| **B** | Vercel | Software Engineer, Platform | Hybrid - San Francisco, New York City | 1d ago | [apply](https://job-boards.greenhouse.io/vercel/jobs/6195280004) |
-| **B** | Discord | Software Engineer, Distributed Systems | San Francisco Bay Area | 2d ago | [apply](https://job-boards.greenhouse.io/discord/jobs/8806163002) |
-| **B** | Tastylive | Software Engineer - Ruby | Chicago, Illinois | 2d ago | [apply](https://job-boards.greenhouse.io/tastylive/jobs/6193487004) |
-| **B** | tastytrade | Software Engineer - Ruby | Chicago, Illinois | 2d ago | [apply](https://job-boards.greenhouse.io/tastytrade/jobs/6193485004) |
-| **B** | Allstate | Software Engineer - Product Security | US - Remote | 3d ago | [apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Software-Engineer---Product-Security_R29717) |
-| **B** | Nextdoor | Software Engineer - Fullstack | Dallas, TX | 3d ago | [apply](https://about.nextdoor.com/careers-list/?gh_jid=8198185) |
-| **C** | OpenAI (applied here before) | Software Engineer, Applied Emerging Talent (2027) | San Francisco | 3d ago | [apply](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) |
-| **C** | OpenAI (applied here before) | Applied AI Architect, Retail | San Francisco | 1d ago | [apply](https://jobs.ashbyhq.com/openai/4167047e-33c2-4be4-b693-71c6c039bc56) |
-| **C** | OpenAI (applied here before) | Applied AI Architect, Healthcare & Life Sciences | San Francisco | 1d ago | [apply](https://jobs.ashbyhq.com/openai/1baad891-43b8-4e2a-9e6c-f68741e718a4) |
-| **C** | DoorDash (applied here before) | Software Engineer, Full Stack - Developer Insights | San Francisco, CA; New York, NY; Los Angeles, CA; Seattle, WA | 1d ago | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8207877) |
-| **C** | Stripe (applied here before) | Backend Engineer, Intelligent Commerce | Seattle, San Francisco, New York | 2d ago | [apply](https://stripe.com/jobs/search?gh_jid=7988264) |
-| **C** | Crusoe (applied here before) | Software Engineer I, Network | San Francisco, CA - US | 1d ago | [apply](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) |
-| **C** | DoorDash (applied here before) | Software Engineer, Code Quality | San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA | 3d ago | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8202736) |
-| **C** | Stripe (applied here before) | Software Engineer, Backend | Seattle, WA | 3d ago | [apply](https://stripe.com/jobs/search?gh_jid=8198280) |
-| **C** | Stripe (applied here before) | Software Engineer, Payins Card Networks | Seattle, WA | 3d ago | [apply](https://stripe.com/jobs/search?gh_jid=8198207) |
-| **C** | Stripe (applied here before) | Software Engineer, High Availability and Disaster Recovery | Seattle, WA | 3d ago | [apply](https://stripe.com/jobs/search?gh_jid=8197135) |
-| **C** | OpenAI (applied here before) | AI Infrastructure Engineer, pAGI | San Francisco | 3d ago | [apply](https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba) |
-| **C** | OpenAI (applied here before) | Software Engineer, Ads Integrity | San Francisco | 3d ago | [apply](https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce) |
-| **D** | FluidStack | Software Engineer, Applied AI | San Francisco, CA | today | [apply](https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07) |
-| **D** | Watney | Machine Learning Engineer | San Francisco | 1d ago | [apply](https://jobs.ashbyhq.com/watney/cef13944-13da-402b-b999-cab5b13e9381) |
-| **D** | Meds | Fullstack Software Engineer | Austin, TX | 2d ago | [apply](https://jobs.lever.co/meds/d5ec1d14-0472-4742-a45d-6a2795f8675d) |
-| **D** | Clera (applied here before) | AI Engineer | San Francisco | 2d ago | [apply](https://jobs.ashbyhq.com/clera/d301746a-815a-45c5-b051-4394d1dcf0e7) |
-| **D** | Clera (applied here before) | Software Engineer | San Francisco | 1d ago | [apply](https://jobs.ashbyhq.com/clera/9df5a3f5-edd7-4e1c-8b68-f5c40ae4befb) |
-| **D** | Spotify | Backend Engineer, Personalization | New York, NY | 3d ago | [apply](https://jobs.lever.co/spotify/318f73b5-6a78-49c7-b625-ecb1481042b9) |
-| **D** | Clera (applied here before) | Software Engineer, AI & Data Systems | San Francisco | 3d ago | [apply](https://jobs.ashbyhq.com/clera/356df263-10a2-4d81-8891-afb6a08f7707) |
+| **B** | SingleStore | MIT-Software Engineer-New Grad /Helios/ | United States | today | [apply](https://job-boards.greenhouse.io/singlestore/jobs/8220882) |
+| **B** | SingleStore | MIT-Software Engineer-New Grad /Engine/ | United States | today | [apply](https://job-boards.greenhouse.io/singlestore/jobs/8220863) |
+| **B** | Relativity Space | Software Engineer I | Long Beach, California, United States | 1d ago | [apply](https://boards.greenhouse.io/relativity/jobs/8747134002?gh_jid=8747134002) |
+| **B** | Stripe (applied here before) | Software Engineer, Early Career — Immediate Start | San Francisco, Seattle, New York | 3d ago | [apply](https://stripe.com/jobs/search?gh_jid=8212508) |
+| **B** | Wells Fargo | Software Engineer | CHARLOTTE, NC | today | [apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Software-Engineer_R-576173) |
+| **B** | Capital One | Full-Stack Engineer 2 | Plano, TX | today | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Full-Stack-Engineer-2_R1001374-2) |
+| **B** | Capital One | Full-Stack Engineer 4 (Python, Java, AWS) | McLean, VA | today | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Python--Java--AWS-_R1001286) |
+| **B** | Capital One | Full-stack Engineer 4 | Plano, TX | today | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001304-2) |
+| **B** | Capital One | Machine Learning Engineer 4 | Chicago, IL | today | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Machine-Learning-Engineer-4_R1001327-2) |
+| **B** | Capital One | Full-stack Engineer 4 (Python, Typescript) | New York, NY | today | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Python--Typescript-_R1001274-2) |
+| **B** | Capital One | Full Stack Engineer 5 | Chicago, IL | today | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Full-Stack-Engineer-5_R1001167-1) |
+| **B** | Fanatics | Software Engineer, Android | Los Angeles, CA, United States | 2d ago | [apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4408295009) |
+| **B** | Pallet | Software Engineer, Agent Delivery | San Francisco | 2d ago | [apply](https://job-boards.greenhouse.io/pallet/jobs/5242991007) |
+| **B** | Reddit | Software Engineer, Ingestion Platform | Remote - United States | 2d ago | [apply](https://job-boards.greenhouse.io/reddit/jobs/8214910) |
+| **B** | Axle | Computer Programmer | Rockville, MD | 2d ago | [apply](https://job-boards.greenhouse.io/axle/jobs/5242518007) |
+| **B** | iCapital Network | Full Stack Engineer, Ruby on Rails - Assistant Vice President | New York, New York, United States | 2d ago | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8814900002) |
+| **B** | Impiricus | Software Engineer (DevOps) | Atlanta, GA, New York, NY, or Remote, USA | 3d ago | [apply](https://job-boards.greenhouse.io/impiricus/jobs/5428945008) |
+| **B** | Twitch (applied here before) | Software Engineer, Data Platform | Seattle, WA | 3d ago | [apply](https://job-boards.greenhouse.io/twitch/jobs/8821382002) |
+| **C** | OpenAI (applied here before) | Software Engineer, Plugin Ecosystem | San Francisco | today | [apply](https://jobs.ashbyhq.com/openai/e42305bf-2266-4dff-82ad-42be7ddac495) |
+| **C** | Lyft (applied here before) | Backend Software Engineer, Airports | San Francisco, CA | 2d ago | [apply](https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002) |
+| **D** | Mirage | Software Engineer, iOS | Union Square, New York City | today | [apply](https://jobs.ashbyhq.com/mirage/2c6f553e-0fe9-4e30-83da-de3dcbec36ea) |
+| **D** | Clera (applied here before) | Software Engineer, AI & Data Systems | San Francisco | today | [apply](https://jobs.ashbyhq.com/clera/f2ba0a79-f1ec-4cb7-b641-8fb077519477) |
+| **D** | Clera (applied here before) | AI Engineer (Mid-Level) | San Francisco | 2d ago | [apply](https://jobs.ashbyhq.com/clera/b89608f3-9b42-4ab2-8274-a054d3c0569d) |
+| **D** | FluidStack | Software Engineer, Applied AI | San Francisco, CA | 3d ago | [apply](https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07) |
 
 ## Read these two sentences before applying
 
-**Stripe — Software Engineer, Early Career — Immediate Start** [tier B: enterprise-nontech]
+**SingleStore — MIT-Software Engineer-New Grad /Helios/** [tier B: enterprise-nontech]
 - work authorisation: not stated
 - graduation window: not stated
 - years floor: None | verdict: eligible
 - why this tier: non-tech enterprise hiring an explicitly early-career req off fiscal backfills rather than a cohort; title is explicitly early-career-levelled; posted 0d ago, inside the first-48-hours window
 - prior: WEAK EVIDENCE, n=2. State Farm and IBM both advanced him, and both hire off fiscal backfills rather than cohorts, which means a Dec-2025 graduation is a fact rather than a knockout. IBM then rejected him, so this is not a strong prior.
 
-**Alpaca — Software Engineer - Core Trading** [tier B: remote-global-written]
+**SingleStore — MIT-Software Engineer-New Grad /Engine/** [tier B: enterprise-nontech]
 - work authorisation: not stated
 - graduation window: not stated
 - years floor: None | verdict: eligible
-- why this tier: remote-global, so no US work-auth knockout, but no written-first stage advertised; title carries no level word, so the body decides the real level; posted 1d ago, inside the first-48-hours window
-- prior: BET, n=1 employer. Canonical is the only employer in 23 months where two different hiring leads on two different requisitions wrote to say they read his application. Remote-global reqs also never apply a US work-auth knockout. One employer is not a law.
+- why this tier: non-tech enterprise hiring an explicitly early-career req off fiscal backfills rather than a cohort; title is explicitly early-career-levelled; posted 0d ago, inside the first-48-hours window
+- prior: WEAK EVIDENCE, n=2. State Farm and IBM both advanced him, and both hire off fiscal backfills rather than cohorts, which means a Dec-2025 graduation is a fact rather than a knockout. IBM then rejected him, so this is not a strong prior.
 
-**Roblox — Software Engineer, Discovery UX** [tier B: remote-global-written]
+**Relativity Space — Software Engineer I** [tier B: enterprise-nontech]
 - work authorisation: not stated
 - graduation window: not stated
 - years floor: 1 | verdict: eligible
-- why this tier: remote-global, so no US work-auth knockout, but no written-first stage advertised; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
-- prior: BET, n=1 employer. Canonical is the only employer in 23 months where two different hiring leads on two different requisitions wrote to say they read his application. Remote-global reqs also never apply a US work-auth knockout. One employer is not a law.
+- why this tier: non-tech enterprise hiring an explicitly early-career req off fiscal backfills rather than a cohort; title is explicitly early-career-levelled; posted 1d ago, inside the first-48-hours window
+- prior: WEAK EVIDENCE, n=2. State Farm and IBM both advanced him, and both hire off fiscal backfills rather than cohorts, which means a Dec-2025 graduation is a fact rather than a knockout. IBM then rejected him, so this is not a strong prior.
 
-**Twilio — Machine Learning Engineer L2** [tier B: remote-global-written]
+**Stripe — Software Engineer, Early Career — Immediate Start** [tier B: enterprise-nontech]
 - work authorisation: not stated
 - graduation window: not stated
 - years floor: None | verdict: eligible
-- why this tier: remote-global, so no US work-auth knockout, but no written-first stage advertised; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
-- prior: BET, n=1 employer. Canonical is the only employer in 23 months where two different hiring leads on two different requisitions wrote to say they read his application. Remote-global reqs also never apply a US work-auth knockout. One employer is not a law.
-
-**mthree — Junior Software Engineer** [tier B: enterprise-nontech]
-- work authorisation: The Company will not sponsor applicants for work visas.
-- graduation window: not stated
-- years floor: None | verdict: runway
 - why this tier: non-tech enterprise hiring an explicitly early-career req off fiscal backfills rather than a cohort; title is explicitly early-career-levelled
 - prior: WEAK EVIDENCE, n=2. State Farm and IBM both advanced him, and both hire off fiscal backfills rather than cohorts, which means a Dec-2025 graduation is a fact rather than a knockout. IBM then rejected him, so this is not a strong prior.
+
+**Wells Fargo — Software Engineer** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: 2 | verdict: reach
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**Capital One — Full-Stack Engineer 2** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: 1 | verdict: eligible
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**Capital One — Full-Stack Engineer 4 (Python, Java, AWS)** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: 1 | verdict: eligible
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**Capital One — Full-stack Engineer 4** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: 1 | verdict: eligible
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**Capital One — Machine Learning Engineer 4** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: 1 | verdict: eligible
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**Capital One — Full-stack Engineer 4 (Python, Typescript)** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: 1 | verdict: eligible
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**Capital One — Full Stack Engineer 5** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: 1 | verdict: eligible
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**Fanatics — Software Engineer, Android** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: None | verdict: eligible
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**Pallet — Software Engineer, Agent Delivery** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: 1 | verdict: eligible
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**Reddit — Software Engineer, Ingestion Platform** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: 2 | verdict: reach
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**Axle — Computer Programmer** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: None | verdict: eligible
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**iCapital Network — Full Stack Engineer, Ruby on Rails - Assistant Vice President** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: 2 | verdict: reach
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
+
+**Impiricus — Software Engineer (DevOps)** [tier B: midsize-product]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: 2 | verdict: reach
+- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level
+- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
 
 **Twitch — Software Engineer, Data Platform** [tier B: midsize-product]
 - work authorisation: not stated
 - graduation window: not stated
 - years floor: None | verdict: eligible
-- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
-- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
-
-**Harvard University — Enterprise Systems Infrastructure Engineer** [tier B: midsize-product]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
-- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
-
-**AbbVie — Device Software Engineer** [tier B: midsize-product]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 1d ago, inside the first-48-hours window
-- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
-
-**Realtor.com — Full Stack Software Engineer** [tier B: midsize-product]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 2 | verdict: reach
-- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 1d ago, inside the first-48-hours window
-- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
-
-**Vercel — Software Engineer, Platform** [tier B: midsize-product]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 1d ago, inside the first-48-hours window
-- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
-
-**Discord — Software Engineer, Distributed Systems** [tier B: midsize-product]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 2 | verdict: reach
-- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
-- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
-
-**Tastylive — Software Engineer - Ruby** [tier B: midsize-product]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 1 | verdict: eligible
-- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
-- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
-
-**tastytrade — Software Engineer - Ruby** [tier B: midsize-product]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 1 | verdict: eligible
-- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
-- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
-
-**Allstate — Software Engineer - Product Security** [tier B: midsize-product]
-- work authorisation: Allstate generally does not sponsor individuals for employment-based visas for this position.
-- graduation window: not stated
-- years floor: 1 | verdict: runway
 - why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level
 - prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
 
-**Nextdoor — Software Engineer - Fullstack** [tier B: midsize-product]
+**OpenAI — Software Engineer, Plugin Ecosystem** [tier C: big-tech-early-career]
+- work authorisation: not stated
+- graduation window: not stated
+- years floor: None | verdict: eligible
+- why this tier: large tech with a real early-career track and an enormous pool; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
+- prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
+
+**Lyft — Backend Software Engineer, Airports** [tier C: big-tech-early-career]
 - work authorisation: not stated
 - graduation window: not stated
 - years floor: 2 | verdict: reach
-- why this tier: mid-size product company, untested archetype; title carries no level word, so the body decides the real level
-- prior: UNTESTED. No measured outcome either way. Included because it sits between the flooded big-tech funnels and the startup pool that has produced nothing.
-
-**OpenAI — Software Engineer, Applied Emerging Talent (2027)** [tier C: big-tech-early-career]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 0 | verdict: eligible
-- why this tier: large tech with a real early-career track and an enormous pool; body states the level explicitly even though the title does not
-- prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
-
-**OpenAI — Applied AI Architect, Retail** [tier C: big-tech-early-career]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: large tech with a real early-career track and an enormous pool; title carries no level word, so the body decides the real level; posted 1d ago, inside the first-48-hours window
-- prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
-
-**OpenAI — Applied AI Architect, Healthcare & Life Sciences** [tier C: big-tech-early-career]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: large tech with a real early-career track and an enormous pool; title carries no level word, so the body decides the real level; posted 1d ago, inside the first-48-hours window
-- prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
-
-**DoorDash — Software Engineer, Full Stack - Developer Insights** [tier C: big-tech-early-career]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: 2 | verdict: reach
-- why this tier: large tech with a real early-career track and an enormous pool; title carries no level word, so the body decides the real level; posted 1d ago, inside the first-48-hours window
-- prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
-
-**Stripe — Backend Engineer, Intelligent Commerce** [tier C: big-tech-early-career]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
 - why this tier: large tech with a real early-career track and an enormous pool; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
 - prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
 
-**Crusoe — Software Engineer I, Network** [tier C: startup-under-500]
+**Mirage — Software Engineer, iOS** [tier D: startup-under-500]
 - work authorisation: not stated
 - graduation window: not stated
-- years floor: 1 | verdict: eligible
-- why this tier: Ashby or Lever startup pool; no explicit startup markers, so confirm the size before spending an application; title is explicitly early-career-levelled; posted 1d ago, inside the first-48-hours window; promoted out of the deprioritised pool: the req is explicitly entry-level and fresh, which outweighs the pool-level prior
-- prior: STRONGEST EVIDENCE IN THE SET, and it is negative. About 60 distinct employers and 102 messages since 2026-06-01 produced ONE automated assessment and ZERO instances of a human saying they read his file, while absorbing roughly half his recent volume. Caveat: part of that volume is only days old, so censoring explains some of the silence. Cap at 3 to 5 per week.
-
-**DoorDash — Software Engineer, Code Quality** [tier C: big-tech-early-career]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: large tech with a real early-career track and an enormous pool; title carries no level word, so the body decides the real level
-- prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
-
-**Stripe — Software Engineer, Backend** [tier C: big-tech-early-career]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: large tech with a real early-career track and an enormous pool; title carries no level word, so the body decides the real level
-- prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
-
-**Stripe — Software Engineer, Payins Card Networks** [tier C: big-tech-early-career]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: large tech with a real early-career track and an enormous pool; title carries no level word, so the body decides the real level
-- prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
-
-**Stripe — Software Engineer, High Availability and Disaster Recovery** [tier C: big-tech-early-career]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: large tech with a real early-career track and an enormous pool; title carries no level word, so the body decides the real level
-- prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
-
-**OpenAI — AI Infrastructure Engineer, pAGI** [tier C: big-tech-early-career]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: large tech with a real early-career track and an enormous pool; title carries no level word, so the body decides the real level
-- prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
-
-**OpenAI — Software Engineer, Ads Integrity** [tier C: big-tech-early-career]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: large tech with a real early-career track and an enormous pool; title carries no level word, so the body decides the real level
-- prior: MIXED, n=3. Real early-career tracks exist, and Roblox and IBM both issued assessments, but both were automated gates that fired within 20 minutes and IBM's resolved as a rejection. Enormous applicant pools.
-
-**FluidStack — Software Engineer, Applied AI** [tier D: startup-under-500]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
+- years floor: 2 | verdict: reach
 - why this tier: Ashby or Lever startup pool; no explicit startup markers, so confirm the size before spending an application; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
 - prior: STRONGEST EVIDENCE IN THE SET, and it is negative. About 60 distinct employers and 102 messages since 2026-06-01 produced ONE automated assessment and ZERO instances of a human saying they read his file, while absorbing roughly half his recent volume. Caveat: part of that volume is only days old, so censoring explains some of the silence. Cap at 3 to 5 per week.
 
-**Watney — Machine Learning Engineer** [tier D: startup-under-500]
+**Clera — Software Engineer, AI & Data Systems** [tier D: startup-under-500]
 - work authorisation: not stated
 - graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: Ashby or Lever startup pool; no explicit startup markers, so confirm the size before spending an application; title carries no level word, so the body decides the real level; posted 1d ago, inside the first-48-hours window
+- years floor: 1 | verdict: eligible
+- why this tier: sub-500 venture-backed startup on Ashby or Lever, the pool with zero human reads across about 60 employers; title carries no level word, so the body decides the real level; posted 0d ago, inside the first-48-hours window
 - prior: STRONGEST EVIDENCE IN THE SET, and it is negative. About 60 distinct employers and 102 messages since 2026-06-01 produced ONE automated assessment and ZERO instances of a human saying they read his file, while absorbing roughly half his recent volume. Caveat: part of that volume is only days old, so censoring explains some of the silence. Cap at 3 to 5 per week.
 
-**Meds — Fullstack Software Engineer** [tier D: startup-under-500]
-- work authorisation: not stated
-- graduation window: not stated
-- years floor: None | verdict: eligible
-- why this tier: Ashby or Lever startup pool; no explicit startup markers, so confirm the size before spending an application; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
-- prior: STRONGEST EVIDENCE IN THE SET, and it is negative. About 60 distinct employers and 102 messages since 2026-06-01 produced ONE automated assessment and ZERO instances of a human saying they read his file, while absorbing roughly half his recent volume. Caveat: part of that volume is only days old, so censoring explains some of the silence. Cap at 3 to 5 per week.
-
-**Clera — AI Engineer** [tier D: startup-under-500]
-- work authorisation: - Existing US work authorization required; no visa sponsorship available.
-- graduation window: not stated
-- years floor: 2 | verdict: reach
-- why this tier: Ashby or Lever startup pool; no explicit startup markers, so confirm the size before spending an application; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
-- prior: STRONGEST EVIDENCE IN THE SET, and it is negative. About 60 distinct employers and 102 messages since 2026-06-01 produced ONE automated assessment and ZERO instances of a human saying they read his file, while absorbing roughly half his recent volume. Caveat: part of that volume is only days old, so censoring explains some of the silence. Cap at 3 to 5 per week.
-
-**Clera — Software Engineer** [tier D: startup-under-500]
+**Clera — AI Engineer (Mid-Level)** [tier D: startup-under-500]
 - work authorisation: Visa sponsorship is not available for this role.
 - graduation window: not stated
 - years floor: 2 | verdict: reach
-- why this tier: sub-500 venture-backed startup on Ashby or Lever, the pool with zero human reads across about 60 employers; title carries no level word, so the body decides the real level; posted 1d ago, inside the first-48-hours window
+- why this tier: sub-500 venture-backed startup on Ashby or Lever, the pool with zero human reads across about 60 employers; title carries no level word, so the body decides the real level; posted 2d ago, inside the first-48-hours window
 - prior: STRONGEST EVIDENCE IN THE SET, and it is negative. About 60 distinct employers and 102 messages since 2026-06-01 produced ONE automated assessment and ZERO instances of a human saying they read his file, while absorbing roughly half his recent volume. Caveat: part of that volume is only days old, so censoring explains some of the silence. Cap at 3 to 5 per week.
 
-**Spotify — Backend Engineer, Personalization** [tier D: startup-under-500]
+**FluidStack — Software Engineer, Applied AI** [tier D: startup-under-500]
 - work authorisation: not stated
 - graduation window: not stated
 - years floor: None | verdict: eligible
 - why this tier: Ashby or Lever startup pool; no explicit startup markers, so confirm the size before spending an application; title carries no level word, so the body decides the real level
 - prior: STRONGEST EVIDENCE IN THE SET, and it is negative. About 60 distinct employers and 102 messages since 2026-06-01 produced ONE automated assessment and ZERO instances of a human saying they read his file, while absorbing roughly half his recent volume. Caveat: part of that volume is only days old, so censoring explains some of the silence. Cap at 3 to 5 per week.
 
-**Clera — Software Engineer, AI & Data Systems** [tier D: startup-under-500]
-- work authorisation: Visa sponsorship is not available for this role.
-- graduation window: not stated
-- years floor: 1 | verdict: runway
-- why this tier: sub-500 venture-backed startup on Ashby or Lever, the pool with zero human reads across about 60 employers; title carries no level word, so the body decides the real level
-- prior: STRONGEST EVIDENCE IN THE SET, and it is negative. About 60 distinct employers and 102 messages since 2026-06-01 produced ONE automated assessment and ZERO instances of a human saying they read his file, while absorbing roughly half his recent volume. Caveat: part of that volume is only days old, so censoring explains some of the silence. Cap at 3 to 5 per week.
-
 
 ## What was dropped
 
-- not swe or senior: 78543
-- defense or cleared site: 534
-- internship: 148
-- not us: 1475
+- not swe or senior: 78611
+- defense or cleared site: 533
+- internship: 154
+- not us: 1483
 - clearance: 7
-- stale: 1745
-- clearance or ITAR in body: 13
-- excludes OPT explicitly: 1
-- 3+ years required: 26
-- off-lane (body): 16
-- cohort mismatch: 3
-- duplicate row: 3
+- no publish date: 2
+- stale: 1802
+- clearance or ITAR in body: 4
+- 3+ years required: 14
+- off-lane (body): 2
+- cohort mismatch: 1
+- duplicate row: 13
 
 _Aggregator feeds (community listing repos, The Muse) are excluded here on purpose: their dates are crawl dates and closed reqs linger in them. Use `radar.py` for the wide net._
